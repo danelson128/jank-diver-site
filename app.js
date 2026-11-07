@@ -15,8 +15,10 @@
   const slugOf = (file) => file.replace(/\.json$/i, "");
   const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 
-  // Only +, plain and − count. The ★ (2) and ⊘ (−2) jokes show as a plain grade.
-  const modOf = (c) => { const m = Number(c.mod) || 0; return Math.abs(m) === 1 ? m : 0; };
+  // Shown grades are +, plain or −. A ★ (2) shows as + and a ⊘ (−2) shows as −;
+  // they still sort first or last inside their grade (see rawMod in bestFirst).
+  const rawMod = (c) => Number(c.mod) || 0;
+  const modOf = (c) => Math.max(-1, Math.min(1, rawMod(c)));
   const gradeLabel = (c) => c.tier + MOD_SIGN[modOf(c)];
   // Position on the full grade scale, S+ = 0 ... D− = 14. Lower is better.
   const gradeIndex = (c) => Math.max(0, TIERS.indexOf(c.tier)) * MODS.length + MODS.indexOf(modOf(c));
@@ -164,7 +166,7 @@
       .map(([k, url]) => `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener">${esc(k)}</a>`).join("");
   }
 
-  const bestFirst = (cards) => [...cards].sort((a, b) => gradeIndex(a) - gradeIndex(b) || a.order - b.order);
+  const bestFirst = (cards) => [...cards].sort((a, b) => gradeIndex(a) - gradeIndex(b) || rawMod(b) - rawMod(a) || a.order - b.order);
 
   /* ---------- Home ---------- */
 
