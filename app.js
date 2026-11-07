@@ -32,7 +32,19 @@
     const m = String(v).match(/(?:youtu\.be\/|v=|embed\/|shorts\/|live\/)([\w-]{11})/);
     return m ? m[1] : /^[\w-]{11}$/.test(v) ? v : "";
   }
-  const ytWatch = (id) => `https://www.youtube.com/watch?v=${id}`;
+  const ytWatch = (id, t) => `https://www.youtube.com/watch?v=${id}${t != null ? `&t=${t}s` : ""}`;
+  const fmtTime = (t) => {
+    const h = Math.floor(t / 3600), m = Math.floor((t % 3600) / 60), sec = String(t % 60).padStart(2, "0");
+    return h ? `${h}:${String(m).padStart(2, "0")}:${sec}` : `${m}:${sec}`;
+  };
+  // Seconds into the review video where a card is discussed, or null.
+  const cardTime = (list, card) => list.times?.[norm(card.name)] ?? null;
+  // "▶ 12:34" link to that moment in the video. Empty if there is no time or no video.
+  const tsLink = (list, card, label = "") => {
+    const t = cardTime(list, card);
+    return t == null || !list.youtube ? "" :
+      `<a class="ts" href="${ytWatch(list.youtube, t)}" target="_blank" rel="noopener" title="Watch ${esc(card.name)} in the review">▶ ${label}${fmtTime(t)}</a>`;
+  };
   const ytThumb = (id) => `https://i.ytimg.com/vi/${id}/mqdefault.jpg`;
 
   // Dates are "YYYY-MM-DD" or ISO strings. An approximate date shows only the month.
@@ -91,12 +103,16 @@
       });
       const yt = youtubeId(m.youtube);
       const video = videoById.get(yt);
+      // Optional data/timestamps/<slug>.json: { "Card Name": seconds }.
+      const rawTimes = m.timestamps ? await getJSON(`data/timestamps/${slugOf(m.file)}.json`).catch(() => ({})) : {};
+      const times = Object.fromEntries(Object.entries(rawTimes).map(([k, v]) => [norm(k), Math.max(0, Math.round(Number(v)))]));
       return {
         slug: slugOf(m.file),
         title: data.title,
         date: m.date || video?.date || data.exported,
         dateApprox: !m.date && !!video?.date_approx,
         youtube: yt,
+        times,
         videoTitle: video?.title || "",
         description: m.description || "",
         cards: cardsIn,
@@ -326,20 +342,23 @@
         <div class="grade-label" style="border-color:${tierColor(t)}">${t}</div>
         ${!cs.length ? `<div class="chips"><span class="empty" style="padding:8px 4px">No cards</span></div>`
           : mode === "cards"
-          ? `<div class="art-chips">${cs.map((c) => `<button class="art-card${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" title="${esc(c.name)} — ${esc(gradeLabel(c))}">
-              <span class="img">${imgHTML(c.name)}</span><span class="g" style="background:${cardGradeColor(c)}">${esc(gradeLabel(c))}</span></button>`).join("")}</div>`
+          ? `<div class="art-chips">${cs.map((c) => `<div class="art-card${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}">
+              <button class="img" title="${esc(c.name)} — ${esc(gradeLabel(c))}" aria-label="${esc(c.name)}, ${esc(gradeLabel(c))}">${imgHTML(c.name)}</button>
+              <span class="g" style="background:${cardGradeColor(c)}">${esc(gradeLabel(c))}</span>${tsLink(list, c)}</div>`).join("")}</div>`
           : `<div class="chips">${cs.map((c) => `<button class="chip${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" data-preview><span class="chip-name">${esc(c.name)}</span><span class="chip-g">${esc(MOD_SIGN[modOf(c)])}</span></button>`).join("")}</div>`}
       </div>`;
     }).join("");
 
+    const anyTimes = list.cards.some((c) => cardTime(list, c) != null);
     const orderHTML = `<div class="table-wrap"><table class="table">
-      <thead><tr><th>#</th><th></th><th>Card</th><th>Grade</th><th class="hide-sm">Rarity</th></tr></thead>
+      <thead><tr><th>#</th><th></th><th>Card</th><th>Grade</th>${anyTimes ? "<th>Video</th>" : ""}<th class="hide-sm">Rarity</th></tr></thead>
       <tbody>${[...list.cards].sort((a, b) => a.order - b.order).map((c, i) => `
         <tr class="${norm(c.name) === focus ? "highlight" : ""}" data-row="${esc(norm(c.name))}" data-rarity="${esc(c.rarity)}">
           <td class="num">${i + 1}</td>
           <td class="thumbcell"><button class="thumbbtn" data-card="${esc(c.name)}" aria-label="Show ${esc(c.name)}">${imgHTML(c.name, "small")}</button></td>
           <td><button class="link" data-card="${esc(c.name)}">${esc(c.name)}</button></td>
           <td>${gpill(c)}</td>
+          ${anyTimes ? `<td>${tsLink(list, c)}</td>` : ""}
           <td class="hide-sm rarity">${esc(c.rarity || "")}</td>
         </tr>`).join("")}</tbody></table></div>`;
 
@@ -426,7 +445,9 @@
         ${gpill(card)}
         <a href="#/tierlist/${list.slug}?card=${encodeURIComponent(card.name)}">${esc(list.title)}</a>
         <span class="date">${fmtDate(list.date, list.dateApprox)}</span>
-        ${list.youtube ? `<a class="watch" href="${ytWatch(list.youtube)}" target="_blank" rel="noopener">▶ Watch review</a>` : `<span class="date">video coming soon</span>`}
+        ${!list.youtube ? `<span class="date">video coming soon</span>`
+          : cardTime(list, card) != null ? `<a class="watch" href="${ytWatch(list.youtube, cardTime(list, card))}" target="_blank" rel="noopener">▶ Watch review at ${fmtTime(cardTime(list, card))}</a>`
+          : `<a class="watch" href="${ytWatch(list.youtube)}" target="_blank" rel="noopener">▶ Watch review</a>`}
       </div>`).join("");
   }
 
@@ -502,6 +523,7 @@
   modal.addEventListener("click", (e) => { if (e.target.closest("[data-close]")) closeCard(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !modal.hidden) closeCard(); });
   app.addEventListener("click", (e) => {
+    if (e.target.closest("a")) return;
     const c = e.target.closest("[data-card]");
     if (c) openCard(c.dataset.card);
   });

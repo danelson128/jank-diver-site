@@ -61,6 +61,24 @@ The RSS feed has only the newest 15 videos. To add an older video, add it to `da
 
 Channel links are in `links` in `data/site.json`. The site shows a button for each link.
 
+## Card timestamps
+
+Each card can link to the moment in the video where you talk about it. Times are in `data/timestamps/<slug>.json`, in seconds:
+
+```json
+{ "Command Subadjunct": 95, "The Duras Sisters": 3725 }
+```
+
+The list's entry in `data/tierlists.json` also needs `"timestamps": true`.
+
+To make the file from a transcript (an .srt from YouTube Studio, or text copied from "Show transcript"):
+
+```bash
+python3 tools/timestamps_from_transcript.py star-trek-set-review transcript.srt
+```
+
+Automatic captions often spell card names wrong, so check the result and add the cards it lists as "not found" by hand.
+
 ## Card images
 
 `tools/fetch_cards.py` looks up each card on Scryfall one time. It picks the **first paper printing** of each card. It skips digital-only, promo and oversized printings when it can. Visitors' browsers load the images from Scryfall's image CDN and make no API calls.
