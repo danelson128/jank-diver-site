@@ -311,32 +311,30 @@
     const list = state.lists.find((l) => l.slug === slug);
     if (!list) return viewNotFound();
     const focus = norm(params.get("card") || "");
-    const mode = ["names", "art", "order"].includes(params.get("view")) ? params.get("view") : "names";
+    const mode = ["cards", "names", "order"].includes(params.get("view")) ? params.get("view") : "cards";
     const base = `#/tierlist/${slug}`;
     const rarities = ["common", "uncommon", "rare", "mythic"].filter((r) => list.cards.some((c) => c.rarity === r));
 
-    // One row per grade that has cards (S+, S, S−, A+ …).
-    const groups = new Map();
-    for (const c of bestFirst(list.cards)) {
-      const gi = gradeIndex(c);
-      if (!groups.has(gi)) groups.set(gi, []);
-      groups.get(gi).push(c);
-    }
-    const rowsHTML = [...groups.entries()].sort((a, b) => a[0] - b[0]).map(([gi, cs]) => `
-      <div class="grade-row">
-        <div class="grade-label" style="border-color:${gradeColor(gi)}">${esc(gradeLabel(cs[0]))}</div>
-        ${mode === "art"
-          ? `<div class="art-chips">${cs.map((c) => `<button class="art-card${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" title="${esc(c.name)}">
-              <span class="img">${imgHTML(c.name)}</span><span class="g" style="background:${gradeColor(gi)}">${esc(gradeLabel(c))}</span></button>`).join("")}</div>`
-          : `<div class="chips">${cs.map((c) => `<button class="chip${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" data-preview>${esc(c.name)}</button>`).join("")}</div>`}
-      </div>`).join("");
+    // One row per tier (S, A, B …). Inside a tier, + cards come first, then plain, then −.
+    const rowsHTML = TIERS.filter((t) => t !== "F" || list.cards.some((c) => c.tier === "F")).map((t) => {
+      const cs = bestFirst(list.cards.filter((c) => c.tier === t));
+      return `<div class="grade-row">
+        <div class="grade-label" style="border-color:${tierColor(t)}">${t}</div>
+        ${!cs.length ? `<div class="chips"><span class="empty" style="padding:8px 4px">No cards</span></div>`
+          : mode === "cards"
+          ? `<div class="art-chips">${cs.map((c) => `<button class="art-card${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" title="${esc(c.name)} — ${esc(gradeLabel(c))}">
+              <span class="img">${imgHTML(c.name)}</span><span class="g" style="background:${cardGradeColor(c)}">${esc(gradeLabel(c))}</span></button>`).join("")}</div>`
+          : `<div class="chips">${cs.map((c) => `<button class="chip${norm(c.name) === focus ? " highlight" : ""}" data-card="${esc(c.name)}" data-rarity="${esc(c.rarity)}" data-preview><span class="chip-name">${esc(c.name)}</span><span class="chip-g">${esc(MOD_SIGN[modOf(c)])}</span></button>`).join("")}</div>`}
+      </div>`;
+    }).join("");
 
     const orderHTML = `<div class="table-wrap"><table class="table">
-      <thead><tr><th>#</th><th>Card</th><th>Grade</th><th class="hide-sm">Rarity</th></tr></thead>
+      <thead><tr><th>#</th><th></th><th>Card</th><th>Grade</th><th class="hide-sm">Rarity</th></tr></thead>
       <tbody>${[...list.cards].sort((a, b) => a.order - b.order).map((c, i) => `
         <tr class="${norm(c.name) === focus ? "highlight" : ""}" data-row="${esc(norm(c.name))}" data-rarity="${esc(c.rarity)}">
           <td class="num">${i + 1}</td>
-          <td><button class="link" data-card="${esc(c.name)}" data-preview>${esc(c.name)}</button></td>
+          <td class="thumbcell"><button class="thumbbtn" data-card="${esc(c.name)}" aria-label="Show ${esc(c.name)}">${imgHTML(c.name, "small")}</button></td>
+          <td><button class="link" data-card="${esc(c.name)}">${esc(c.name)}</button></td>
           <td>${gpill(c)}</td>
           <td class="hide-sm rarity">${esc(c.rarity || "")}</td>
         </tr>`).join("")}</tbody></table></div>`;
@@ -350,8 +348,8 @@
         <div>
           <span class="label">View</span>
           <div class="seg">
-            <a href="${base}" aria-pressed="${mode === "names"}">Names</a>
-            <a href="${base}?view=art" aria-pressed="${mode === "art"}">Art</a>
+            <a href="${base}" aria-pressed="${mode === "cards"}">Cards</a>
+            <a href="${base}?view=names" aria-pressed="${mode === "names"}">Names</a>
             <a href="${base}?view=order" aria-pressed="${mode === "order"}">Episode order</a>
           </div>
         </div>
@@ -381,7 +379,7 @@
       <div class="legend" style="margin-top:10px">${rarities.map((r) => `<span style="--c:var(--r-${r})">${r}</span>`).join("")}</div>`;
 
     document.getElementById("list-picker").addEventListener("change", (e) => {
-      location.hash = `#/tierlist/${e.target.value}${mode === "names" ? "" : `?view=${mode}`}`;
+      location.hash = `#/tierlist/${e.target.value}${mode === "cards" ? "" : `?view=${mode}`}`;
     });
     const toggle = document.getElementById("embed-toggle");
     if (toggle) toggle.addEventListener("click", () => {

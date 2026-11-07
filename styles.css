@@ -188,11 +188,11 @@ input:focus, select:focus { outline: 1px solid var(--accent); outline-offset: 0;
 
 /* ---------- Tier board ---------- */
 .board { border: 1px solid var(--line); background: var(--bg); }
-.grade-row { display: grid; grid-template-columns: 52px 1fr; border-bottom: 1px solid var(--line); min-height: 52px; }
+.grade-row { display: grid; grid-template-columns: 56px 1fr; border-bottom: 1px solid var(--line); min-height: 52px; }
 .grade-row:last-child { border-bottom: 0; }
 .grade-label {
-  display: grid; place-items: center; font-family: var(--font-display); font-size: 1.5rem; letter-spacing: .04em;
-  border-left: 4px solid; background: var(--panel);
+  display: grid; place-items: center; font-family: var(--font-display); font-size: 2.2rem; letter-spacing: .04em;
+  border-left: 5px solid; background: var(--panel);
 }
 .chips { display: flex; flex-wrap: wrap; align-content: flex-start; gap: 6px; padding: 8px; }
 .chip {
@@ -203,13 +203,15 @@ input:focus, select:focus { outline: 1px solid var(--accent); outline-offset: 0;
 .chip[data-rarity="uncommon"] { border-left-color: var(--r-uncommon); }
 .chip[data-rarity="rare"] { border-left-color: var(--r-rare); }
 .chip[data-rarity="mythic"] { border-left-color: var(--r-mythic); }
+.chip .chip-name { flex: 1; }
+.chip .chip-g { font-family: var(--font-display); font-size: 1.1rem; color: var(--muted); padding-left: 6px; }
 .chip:hover { background: linear-gradient(90deg, #2c3546, #161b24 85%); }
 .chip.dim { opacity: .2; }
 .chip.highlight { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-.art-chips { display: flex; flex-wrap: wrap; gap: 8px; padding: 8px; }
-.art-card { position: relative; width: 126px; padding: 0; border: 0; background: none; cursor: pointer; }
-.art-card .img { width: 126px; aspect-ratio: 488 / 680; border-radius: 6px; overflow: hidden; background: var(--panel-2); display: grid; place-items: center; text-align: center; font-size: .75rem; color: var(--muted); padding: 0; }
+.art-chips { display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; }
+.art-card { position: relative; width: 146px; padding: 0; border: 0; background: none; cursor: pointer; }
+.art-card .img { width: 146px; aspect-ratio: 488 / 680; border-radius: 6px; overflow: hidden; background: var(--panel-2); display: grid; place-items: center; text-align: center; font-size: .75rem; color: var(--muted); padding: 0; }
 .art-card .img img { width: 100%; height: 100%; object-fit: cover; }
 .art-card:hover .img { outline: 2px solid var(--accent); }
 .art-card.dim { opacity: .2; }
@@ -230,6 +232,9 @@ input:focus, select:focus { outline: 1px solid var(--accent); outline-offset: 0;
 .table tr.highlight td { background: var(--accent-soft); }
 .table tr.dim { opacity: .25; }
 .table .num { font-family: var(--font-mono); color: var(--muted); width: 48px; }
+.table .thumbcell { width: 58px; padding: 6px 4px; }
+.table .thumbbtn { display: block; width: 46px; aspect-ratio: 488 / 680; padding: 0; border: 0; border-radius: 3px; overflow: hidden; background: var(--panel-2); cursor: pointer; }
+.table .thumbbtn img { width: 100%; height: 100%; object-fit: cover; }
 .table button.link { background: none; border: 0; color: var(--text); font: inherit; cursor: pointer; padding: 0; text-align: left; }
 .table button.link:hover { color: var(--accent); }
 .table .rarity { font-family: var(--font-mono); font-size: .75rem; color: var(--muted); text-transform: capitalize; }
