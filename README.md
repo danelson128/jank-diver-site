@@ -1,6 +1,6 @@
 # Jank Diver Gaming website
 
-A static website for Jank Diver Gaming: videos, Peasant Cube tier lists, card search and a "This or That" ranking game.
+A static website for Jank Diver Gaming: videos, Peasant Cube tier lists and card search.
 It has no build step and no server code. Any static host can serve it (GitHub Pages, Netlify, Cloudflare Pages).
 
 ## Run it on your computer
@@ -16,12 +16,14 @@ Then open http://localhost:8000. You must use a web server. If you open `index.h
 | Path | What it is |
 | --- | --- |
 | `index.html`, `styles.css`, `app.js` | The site. |
-| `data/site.json` | Channel name, tagline, social links and extra videos (videos that are not tier lists). |
+| `data/site.json` | Channel name, tagline and social links. |
+| `data/videos.json` | All channel videos. `tools/fetch_videos.py` adds new ones from the RSS feed. |
 | `data/tierlists.json` | The list of tier lists, each with an optional YouTube link. |
 | `data/tierlists/*.json` | Tier list exports from the tier list tool, unchanged. |
 | `data/cards.json` | Card images and details from Scryfall. The lookup script makes this file. Do not edit it by hand. |
 | `data/card-overrides.json` | Printings you choose yourself, if the script picks the wrong one. |
 | `tools/fetch_cards.py` | The Scryfall lookup script. |
+| `tools/fetch_videos.py` | The YouTube RSS script. |
 
 ## Add a new tier list
 
@@ -39,17 +41,25 @@ Then open http://localhost:8000. You must use a web server. If you open `index.h
 
 The site uses the export's `exported` date as the episode date. To use a different date, add `"date": "2026-11-09"` to the entry in `data/tierlists.json`. You can also add `"description": "..."`.
 
-## Add a video link
+## Add a video
 
-Put the YouTube link in the `youtube` field of the tier list in `data/tierlists.json`. The tier list page then shows the video, and card search shows a "Watch review" link.
+After you upload, run:
 
-For a video that is not a tier list (a podcast episode, for example), add it to `videos` in `data/site.json`:
-
-```json
-{ "title": "Episode 12: Cube design", "date": "2026-11-10", "youtube": "https://youtu.be/XXXXXXXXXXX", "kind": "Podcast" }
+```bash
+python3 tools/fetch_videos.py
 ```
 
-Put your channel links in `links` in `data/site.json`. The home page shows a button for each link that is not empty.
+This adds the new video to `data/videos.json` from the channel RSS feed. If the video is a tier list, also put its link in the `youtube` field of that tier list in `data/tierlists.json`. The tier list page then links to the video, and card search shows a "Watch review" link.
+
+The RSS feed has only the newest 15 videos. To add an older video, add it to `data/videos.json` by hand:
+
+```json
+{ "id": "XXXXXXXXXXX", "title": "Video title", "date": "2026-06-01", "kind": "Tier List" }
+```
+
+`kind` is one of `Tier List`, `The Jank Tank`, `Cube Draft`, `Cube Update` or any new name you want as a filter. Add `"date_approx": true` if you do not know the exact date; the site then shows only the month.
+
+Channel links are in `links` in `data/site.json`. The site shows a button for each link.
 
 ## Card images
 
@@ -61,9 +71,13 @@ If the script picks the wrong printing, add the card to `data/card-overrides.jso
 { "Mother of Runes": { "set": "ulg", "collector_number": "14" } }
 ```
 
-## The "This or That" game
+## Look and feel
 
-The game is a beta. Votes use an Elo rating and stay in each visitor's browser (`localStorage`). For community tiers from all players, the site needs a small backend to store votes, for example Supabase, Firebase or a Cloudflare Worker.
+All colors and fonts are CSS variables at the top of `styles.css`. To change the accent color, edit `--accent` (and `--accent-soft`, the same color at low opacity).
+
+## The "This or That" game (not on the site)
+
+The first version of the ranking game is saved on the `archive/this-or-that` branch, with notes in `docs/this-or-that.md`. It needs a backend to store votes before it can come back.
 
 ## Put the site online (GitHub Pages)
 

@@ -4,42 +4,46 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Jank Diver Gaming</title>
-  <meta name="description" content="Peasant Cube tier lists and videos from Jank Diver Gaming.">
+  <meta name="description" content="Peasant Cube tier lists, card search and videos from Jank Diver Gaming.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header">
-    <div class="wrap header-inner">
+    <div class="header-inner">
       <a class="brand" href="#/">
-        <span class="brand-mark" aria-hidden="true">JD</span>
-        <span class="brand-text">Jank Diver <span>Gaming</span></span>
+        <span class="brand-mark" aria-hidden="true">JDG</span>
+        <span class="brand-text">
+          <span class="brand-name">Jank Diver Gaming</span>
+          <span class="brand-sub" id="brand-sub">Home</span>
+        </span>
       </a>
       <nav class="nav" aria-label="Main">
         <a href="#/videos" data-nav="videos">Videos</a>
         <a href="#/tierlists" data-nav="tierlists">Tier Lists</a>
-        <a href="#/rank" data-nav="rank">Rank <small>beta</small></a>
+        <a href="#/search" data-nav="search">Card Search</a>
       </nav>
-      <form class="header-search" role="search" id="header-search">
-        <input type="search" id="header-search-input" placeholder="Search cards…" aria-label="Search cards" autocomplete="off">
-      </form>
+      <a class="btn-outline discord-btn" href="https://discord.gg/zrHucCzpn" target="_blank" rel="noopener">Discord</a>
     </div>
   </header>
 
-  <main id="app" class="wrap" tabindex="-1">
+  <main id="app" tabindex="-1">
     <p class="loading">Loading…</p>
   </main>
 
   <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <p>Jank Diver Gaming · Peasant Cube tier lists every Monday ·
-        <a href="https://www.youtube.com/@JankDiverGaming" target="_blank" rel="noopener">YouTube</a> ·
-        <a href="https://discord.gg/zrHucCzpn" target="_blank" rel="noopener">Discord</a></p>
-      <p class="muted">Card images and data from <a href="https://scryfall.com" target="_blank" rel="noopener">Scryfall</a>. Magic: The Gathering is © Wizards of the Coast. This site is not affiliated with Wizards of the Coast.</p>
+    <div class="footer-inner">
+      <p class="mono">Jank Diver Gaming is unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC. Card images from <a href="https://scryfall.com" target="_blank" rel="noopener">Scryfall</a>.</p>
+      <nav class="footer-links" aria-label="Social">
+        <a href="https://www.youtube.com/@JankDiverGaming" target="_blank" rel="noopener">YouTube</a>
+        <a href="https://discord.gg/zrHucCzpn" target="_blank" rel="noopener">Discord</a>
+      </nav>
     </div>
   </footer>
+
+  <img id="hover-preview" alt="" hidden>
 
   <div class="modal" id="card-modal" hidden>
     <div class="modal-backdrop" data-close></div>
