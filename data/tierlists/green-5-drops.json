@@ -1,0 +1,618 @@
+{
+  "title": "Green 5+ Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-10-21T00:20:00.827Z",
+  "count": 61,
+  "cards": [
+    {
+      "name": "Great Oak Guardian",
+      "cubes": 16,
+      "collector_number": "37",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Grizzly Fate",
+      "cubes": 12,
+      "collector_number": "119",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Avenging Hunter",
+      "cubes": 4,
+      "collector_number": "215",
+      "rarity": "common",
+      "order": 2,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Beast Attack",
+      "cubes": 4,
+      "collector_number": "230",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Glacier Godmaw",
+      "cubes": 43,
+      "collector_number": "188",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+"
+    },
+    {
+      "name": "Territory Culler",
+      "cubes": 4,
+      "collector_number": "173",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Generous Ent",
+      "cubes": 38,
+      "collector_number": "169",
+      "rarity": "common",
+      "order": 6,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Spinewoods Armadillo",
+      "cubes": 39,
+      "collector_number": "182",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Nurturing Bristleback",
+      "cubes": 5,
+      "collector_number": "203",
+      "rarity": "common",
+      "order": 8,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Altanak, the Thrice-Called",
+      "cubes": 11,
+      "collector_number": "166",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Titanoth Rex",
+      "cubes": 10,
+      "collector_number": "174",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Migrating Ketradon",
+      "cubes": 0,
+      "collector_number": "170",
+      "rarity": "common",
+      "order": 11,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Blossom Prancer",
+      "cubes": 29,
+      "collector_number": "175",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Owlbear",
+      "cubes": 2,
+      "collector_number": "198",
+      "rarity": "common",
+      "order": 13,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Sagu Wildling // Roost Seek",
+      "cubes": 4,
+      "collector_number": "157",
+      "rarity": "common",
+      "order": 14,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Pelakka Wurm",
+      "cubes": 42,
+      "collector_number": "204",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Arborback Stomper",
+      "cubes": 9,
+      "collector_number": "142",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Bookwurm",
+      "cubes": 5,
+      "collector_number": "123",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Annoyed Altisaur",
+      "cubes": 5,
+      "collector_number": "216",
+      "rarity": "common",
+      "order": 18,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Bramble Wurm",
+      "cubes": 5,
+      "collector_number": "189",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Sifter Wurm",
+      "cubes": 1,
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Ruric Thar, Magecrusher",
+      "cubes": 4,
+      "collector_number": "265",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Hamlet Glutton",
+      "cubes": 1,
+      "collector_number": "173",
+      "rarity": "common",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Eusocial Engineering",
+      "cubes": 39,
+      "collector_number": "181",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Ka-Zar of the Savage Land",
+      "cubes": 35,
+      "collector_number": "174",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Rise of the Ants",
+      "cubes": 3,
+      "collector_number": "196",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Cracked Earth Technique",
+      "cubes": "",
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Roar of the Wurm",
+      "cubes": 9,
+      "collector_number": "266",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Honored Hydra",
+      "cubes": 5,
+      "collector_number": "172",
+      "rarity": "rare",
+      "order": 28,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Galewind Moose",
+      "cubes": 22,
+      "collector_number": "173",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Stormkeld Vanguard // Bear Down",
+      "cubes": 40,
+      "collector_number": "187",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−"
+    },
+    {
+      "name": "Hivespine Wolverine",
+      "cubes": 18,
+      "collector_number": "177",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Acidic Slime",
+      "cubes": 15,
+      "collector_number": "165",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cleanup Crew",
+      "cubes": 4,
+      "collector_number": "141",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Autarch Mammoth",
+      "cubes": 5,
+      "collector_number": "153",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Prismabasher",
+      "cubes": 1,
+      "collector_number": "188",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Agatha's Champion",
+      "cubes": 15,
+      "collector_number": "160",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Affectionate Indrik",
+      "cubes": 4,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Disciple of Freyalise // Garden of Freyalise",
+      "cubes": 8,
+      "collector_number": "250",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Beanstalk Giant // Fertile Footsteps",
+      "cubes": 15,
+      "collector_number": "149",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Braulios of Pheres Band",
+      "cubes": 5,
+      "collector_number": "51",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Pummeler for Hire",
+      "cubes": 14,
+      "collector_number": "190",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Hooting Mandrills",
+      "cubes": 11,
+      "collector_number": "137",
+      "rarity": "common",
+      "order": 42,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Ridgescale Tusker",
+      "cubes": 38,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Herd Baloth",
+      "cubes": 9,
+      "collector_number": "165",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Keeper of Fables",
+      "cubes": 1,
+      "collector_number": "163",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "West Wind Avatar",
+      "cubes": 6,
+      "collector_number": "137",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Additive Evolution",
+      "cubes": 5,
+      "collector_number": "139",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Inspirited Vanguard",
+      "cubes": 4,
+      "collector_number": "146",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Rootwise Survivor",
+      "cubes": 1,
+      "collector_number": "196",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Colossal Dreadmask",
+      "cubes": 5,
+      "collector_number": "148",
+      "rarity": "common",
+      "order": 50,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Howling Giant",
+      "cubes": 5,
+      "collector_number": "177",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Snarl Song",
+      "cubes": 20,
+      "collector_number": "161",
+      "rarity": "uncommon",
+      "order": 52,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "A Killer Among Us",
+      "cubes": 2,
+      "collector_number": "167",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Bestial Menace",
+      "cubes": 2,
+      "collector_number": "97",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Crested Herdcaller",
+      "cubes": 2,
+      "collector_number": "126",
+      "rarity": "uncommon",
+      "order": 55,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Summon: Fat Chocobo",
+      "cubes": 3,
+      "collector_number": "202",
+      "rarity": "common",
+      "order": 56,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Diamond Weapon",
+      "cubes": 4,
+      "collector_number": "183",
+      "rarity": "uncommon",
+      "order": 57,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ghalta the Unstoppable",
+      "cubes": 4,
+      "collector_number": "260",
+      "rarity": "uncommon",
+      "order": 58,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Way of the Wildspeaker",
+      "cubes": 3,
+      "collector_number": "268",
+      "rarity": "uncommon",
+      "order": 59,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Hunting Pack",
+      "cubes": 2,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 60,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    }
+  ]
+}

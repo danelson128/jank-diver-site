@@ -1,0 +1,528 @@
+{
+  "title": "Red 5+ Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-10-14T23:54:10.206Z",
+  "count": 52,
+  "cards": [
+    {
+      "name": "Amethyst Dragon // Explosive Crystal",
+      "cubes": 38,
+      "collector_number": "160",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+"
+    },
+    {
+      "name": "Noise Marine",
+      "cubes": 20,
+      "collector_number": "82",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−"
+    },
+    {
+      "name": "Sontaran General",
+      "cubes": 10,
+      "collector_number": "96",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Oliphaunt",
+      "cubes": 35,
+      "collector_number": "139",
+      "rarity": "common",
+      "order": 3,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Pinnacle Monk // Mystic Peak",
+      "cubes": 26,
+      "collector_number": "246",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Kulrath Zealot",
+      "cubes": 1,
+      "collector_number": "148",
+      "rarity": "common",
+      "order": 5,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Charging Monstrosaur",
+      "cubes": 37,
+      "collector_number": "138",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Quaketusk Boar",
+      "cubes": 7,
+      "collector_number": "146",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Éomer of the Riddermark",
+      "cubes": 16,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Razorkin Hordecaller",
+      "cubes": 9,
+      "collector_number": "152",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Misty Mountains Raider",
+      "cubes": 4,
+      "collector_number": "105",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Hearth Elemental // Stoke Genius",
+      "cubes": 17,
+      "collector_number": "136",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Stormshriek Feral // Flush Out",
+      "cubes": 5,
+      "collector_number": "124",
+      "rarity": "common",
+      "order": 12,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Pigment Wrangler // Striking Palette",
+      "cubes": 4,
+      "collector_number": "126",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Seize the Storm",
+      "cubes": 3,
+      "collector_number": "158",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Spawn-Gang Commander",
+      "cubes": 10,
+      "collector_number": "140",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−"
+    },
+    {
+      "name": "Kiora of Fire and Ashes",
+      "cubes": 17,
+      "collector_number": "247",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Dragon Trainer",
+      "cubes": 8,
+      "collector_number": "84",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Rapacious Dragon",
+      "cubes": 2,
+      "collector_number": "153",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Falkenrath Celebrants",
+      "cubes": 2,
+      "collector_number": "156",
+      "rarity": "common",
+      "order": 19,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Frogmyr Enforcer",
+      "cubes": 4,
+      "collector_number": "120",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Furnace Hellkite",
+      "cubes": 5,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Ironhoof Boar",
+      "cubes": 3,
+      "collector_number": "148",
+      "rarity": "common",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Slag Strider",
+      "cubes": 1,
+      "collector_number": "141",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Hoarding Dragon",
+      "cubes": 1,
+      "collector_number": "144",
+      "rarity": "rare",
+      "order": 24,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Enraged Giant",
+      "cubes": 1,
+      "collector_number": "80",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "General Traag, Heart of Stone",
+      "cubes": 1,
+      "collector_number": "90",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Goldfury Strider",
+      "cubes": 1,
+      "collector_number": "152",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Molten Monstrosity",
+      "cubes": 2,
+      "collector_number": "139",
+      "rarity": "common",
+      "order": 28,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Shivan Dragon",
+      "cubes": 6,
+      "collector_number": "174",
+      "rarity": "rare",
+      "order": 29,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Havoc Jester",
+      "cubes": 3,
+      "collector_number": "149",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Fear of Burning Alive",
+      "cubes": 2,
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gandalf, Spark Starter",
+      "cubes": 1,
+      "collector_number": "97",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gorehorn Raider",
+      "cubes": 1,
+      "collector_number": "89",
+      "rarity": "common",
+      "order": 33,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Skoa, Embermage",
+      "cubes": 1,
+      "collector_number": "138",
+      "rarity": "common",
+      "order": 34,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dracosaur Auxiliary",
+      "cubes": 0,
+      "collector_number": "122",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Fearless Skald",
+      "cubes": 3,
+      "collector_number": "138",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Two-Headed Hunter // Twice the Rage",
+      "cubes": 4,
+      "collector_number": "155",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Living Lightning, Charged Up",
+      "cubes": 1,
+      "collector_number": "764",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Furnace Strider",
+      "cubes": 0,
+      "collector_number": "133",
+      "rarity": "common",
+      "order": 39,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Territorial Bruntar",
+      "cubes": 4,
+      "collector_number": "165",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Igneous Elemental",
+      "cubes": 1,
+      "collector_number": "133",
+      "rarity": "common",
+      "order": 41,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Meria's Outrider",
+      "cubes": 1,
+      "collector_number": "138",
+      "rarity": "common",
+      "order": 42,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Sandworm",
+      "cubes": 1,
+      "collector_number": "155",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Thunderhead Gunner",
+      "cubes": 4,
+      "collector_number": "148",
+      "rarity": "common",
+      "order": 44,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Jiang Yanggu, Alone",
+      "cubes": 2,
+      "collector_number": "246",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Reckless Wurm",
+      "cubes": 3,
+      "collector_number": "120",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Raging Goblinoids",
+      "cubes": 2,
+      "collector_number": "85",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Incorrigible Youths",
+      "cubes": 1,
+      "collector_number": "166",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Pugnacious Pugilist",
+      "cubes": 2,
+      "collector_number": "117",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Red Hulk",
+      "cubes": 1,
+      "collector_number": "149",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Red Dragon",
+      "cubes": 1,
+      "collector_number": "160",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    }
+  ]
+}

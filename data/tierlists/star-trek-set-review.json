@@ -1,0 +1,568 @@
+{
+  "title": "Star Trek Set Review",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-10-31T17:38:06.096Z",
+  "count": 56,
+  "cards": [
+    {
+      "name": "Command Subadjunct",
+      "cubes": "",
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Brad Boimler, Eager Ensign",
+      "cubes": "",
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Dr. McCoy, Surly Surgeon",
+      "cubes": "",
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "There's Coffee in that Nebula",
+      "cubes": "",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Malfunctioning Holodeck",
+      "cubes": "",
+      "collector_number": "22",
+      "rarity": "common",
+      "order": 4,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "The Measure of a Man",
+      "cubes": "",
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Federation Probe",
+      "cubes": "",
+      "collector_number": "59",
+      "rarity": "common",
+      "order": 6,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Data, New Life",
+      "cubes": "",
+      "collector_number": "52",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Hoshi Sato, Exolinguist",
+      "cubes": "",
+      "collector_number": "64",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Highly Illogical",
+      "cubes": "",
+      "collector_number": "62",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Storied Veteran",
+      "cubes": "",
+      "collector_number": "129",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "D'Ghor Bloodletter",
+      "cubes": "",
+      "collector_number": "101",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Commander Raffi Musiker",
+      "cubes": "",
+      "collector_number": "100",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Blastoneuron",
+      "cubes": "",
+      "collector_number": "96",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gabriel Lorca, Mirror Menace",
+      "cubes": "",
+      "collector_number": "108",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Test of Loyalty",
+      "cubes": "",
+      "collector_number": "134",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Resistance Is Futile",
+      "cubes": "",
+      "collector_number": "125",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Pattern Buffer Preservation",
+      "cubes": "",
+      "collector_number": "123",
+      "rarity": "common",
+      "order": 17,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Tell Me What You See",
+      "cubes": "",
+      "collector_number": "132",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": -2,
+      "grade": "D⊘"
+    },
+    {
+      "name": "Bat'leth",
+      "cubes": "",
+      "collector_number": "94",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "In the Pale Moonlight",
+      "cubes": "",
+      "collector_number": "117",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Munitions Enthusiast",
+      "cubes": "",
+      "collector_number": "158",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Targ Wrangler",
+      "cubes": "",
+      "collector_number": "175",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Khan, Despot by Design",
+      "cubes": "",
+      "collector_number": "155",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Academy Instructor",
+      "cubes": "",
+      "collector_number": "137",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Khaaaaaaaaaaaannn!",
+      "cubes": "",
+      "collector_number": "154",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Transporter Malfunction",
+      "cubes": "",
+      "collector_number": "178",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Sarcophagus, Ship of the Dead",
+      "cubes": "",
+      "collector_number": "170",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Jake Sisko, War Correspondent",
+      "cubes": "",
+      "collector_number": "205",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "David and Carol Marcus, Creators",
+      "cubes": "",
+      "collector_number": "193",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Mugato",
+      "cubes": "",
+      "collector_number": "208",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Syndicate Liquidators",
+      "cubes": "",
+      "collector_number": "218",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Hologram Stalker",
+      "cubes": "",
+      "collector_number": "202",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Common Goal",
+      "cubes": "",
+      "collector_number": "190",
+      "rarity": "common",
+      "order": 33,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Adversary by Algorithm",
+      "cubes": "",
+      "collector_number": "182",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Amok Time",
+      "cubes": "",
+      "collector_number": "183",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Hemmer, Fixing What Is Broken",
+      "cubes": "",
+      "collector_number": "239",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Constable Odo",
+      "cubes": "",
+      "collector_number": "230",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "L'Rell, Fierce Visionary",
+      "cubes": "",
+      "collector_number": "247",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "The Duras Sisters",
+      "cubes": "",
+      "collector_number": "235",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Dal R'El, Augment Orphan",
+      "cubes": "",
+      "collector_number": "231",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Cleveland Booker, Empath",
+      "cubes": "",
+      "collector_number": "229",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Locutus, the One Who Speaks",
+      "cubes": "",
+      "collector_number": "245",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Zero, Incorporeal Sensate",
+      "cubes": "",
+      "collector_number": "258",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Spock, Always Your Friend",
+      "cubes": "",
+      "collector_number": "253",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Gray and Adira, Forever Joined",
+      "cubes": "",
+      "collector_number": "238",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Vash, Freelance Archaeologist",
+      "cubes": "",
+      "collector_number": "255",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Kirk, Commanding Officer",
+      "cubes": "",
+      "collector_number": "243",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "The Traveler",
+      "cubes": "",
+      "collector_number": "254",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Spatial Anomaly",
+      "cubes": "",
+      "collector_number": "296",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ghost of Illyria",
+      "cubes": "",
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Vulcan Mind-Meld",
+      "cubes": "",
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Starfleet Security",
+      "cubes": "",
+      "collector_number": "173",
+      "rarity": "common",
+      "order": 52,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "The Naked Time",
+      "cubes": "",
+      "collector_number": "159",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Transporter Malfunction",
+      "cubes": "",
+      "collector_number": "178",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Neelix, Moral Support",
+      "cubes": "",
+      "collector_number": "209",
+      "rarity": "uncommon",
+      "order": 55,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    }
+  ]
+}

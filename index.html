@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jank Diver Gaming</title>
+  <meta name="description" content="Peasant Cube tier lists and videos from Jank Diver Gaming.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#/">
+        <span class="brand-mark" aria-hidden="true">JD</span>
+        <span class="brand-text">Jank Diver <span>Gaming</span></span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        <a href="#/videos" data-nav="videos">Videos</a>
+        <a href="#/tierlists" data-nav="tierlists">Tier Lists</a>
+        <a href="#/rank" data-nav="rank">Rank <small>beta</small></a>
+      </nav>
+      <form class="header-search" role="search" id="header-search">
+        <input type="search" id="header-search-input" placeholder="Search cards…" aria-label="Search cards" autocomplete="off">
+      </form>
+    </div>
+  </header>
+
+  <main id="app" class="wrap" tabindex="-1">
+    <p class="loading">Loading…</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p>Jank Diver Gaming · Peasant Cube tier lists every Monday ·
+        <a href="https://www.youtube.com/@JankDiverGaming" target="_blank" rel="noopener">YouTube</a> ·
+        <a href="https://discord.gg/zrHucCzpn" target="_blank" rel="noopener">Discord</a></p>
+      <p class="muted">Card images and data from <a href="https://scryfall.com" target="_blank" rel="noopener">Scryfall</a>. Magic: The Gathering is © Wizards of the Coast. This site is not affiliated with Wizards of the Coast.</p>
+    </div>
+  </footer>
+
+  <div class="modal" id="card-modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

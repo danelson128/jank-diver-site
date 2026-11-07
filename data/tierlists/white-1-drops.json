@@ -1,0 +1,476 @@
+{
+  "title": "White 1-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-06-30T22:31:10.988Z",
+  "count": 52,
+  "cards": [
+    {
+      "name": "Gideon's Lawkeeper",
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 0,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mardu Woe-Reaper",
+      "collector_number": "18",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D-"
+    },
+    {
+      "name": "Benevolent Bodyguard",
+      "collector_number": "4",
+      "rarity": "common",
+      "order": 2,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Thraben Inspector",
+      "collector_number": "45",
+      "rarity": "common",
+      "order": 3,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S-"
+    },
+    {
+      "name": "Novice Inspector",
+      "collector_number": "29",
+      "rarity": "common",
+      "order": 4,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S-"
+    },
+    {
+      "name": "Elite Interceptor // Rejoinder",
+      "collector_number": "12",
+      "rarity": "common",
+      "order": 5,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Descendant of Storms",
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Recruitment Officer",
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Usher of the Fallen",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Dauntless Bodyguard",
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cheeky House-Mouse // Squeak By",
+      "collector_number": "7",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Leonardo, Leader in Blue",
+      "collector_number": "16",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B-"
+    },
+    {
+      "name": "Wanderbrine Trapper",
+      "collector_number": "42",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Skymarcher Aspirant",
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B-"
+    },
+    {
+      "name": "Veteran Survivor",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Hotshot Mechanic",
+      "collector_number": "16",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D-"
+    },
+    {
+      "name": "Nurturing Pixie",
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Momo, Playful Pet",
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Mandibular Kite",
+      "collector_number": "34",
+      "rarity": "common",
+      "order": 18,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A-"
+    },
+    {
+      "name": "Ruin-Lurker Bat",
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Faerie Guidemother // Gift of the Fae",
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 20,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Battlefield Raptor",
+      "collector_number": "3",
+      "rarity": "common",
+      "order": 21,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Topplegeist",
+      "collector_number": "45",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Swooping Lookout",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Miner's Guidewing",
+      "collector_number": "24",
+      "rarity": "common",
+      "order": 24,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mother of Runes",
+      "collector_number": "702",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+"
+    },
+    {
+      "name": "Zack Fair",
+      "collector_number": "45",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "The Duke, Rebel Sentry",
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A-"
+    },
+    {
+      "name": "Alseid of Life's Bounty",
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Selfless Savior",
+      "collector_number": "36",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Steadfast Unicorn",
+      "collector_number": "44",
+      "rarity": "common",
+      "order": 30,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "General Thunderbolt Ross",
+      "collector_number": "595",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Yotian Frontliner",
+      "collector_number": "42",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Law-Rune Enforcer",
+      "collector_number": "64",
+      "rarity": "common",
+      "order": 33,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Monk of the Open Hand",
+      "collector_number": "25",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Seasoned Warrenguard",
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Favored Hoplite",
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Boros Elite",
+      "collector_number": "10",
+      "rarity": "common",
+      "order": 37,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D-"
+    },
+    {
+      "name": "Leonin Vanguard",
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Clever Lumimancer",
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Stonebinder's Familiar",
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Optimistic Scavenger",
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Nesting Bot",
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Arcbound Mouser",
+      "collector_number": "3",
+      "rarity": "common",
+      "order": 43,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Enduring Bondwarden",
+      "collector_number": "14",
+      "rarity": "common",
+      "order": 44,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Traveling Minister",
+      "collector_number": "39",
+      "rarity": "common",
+      "order": 45,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Indebted Spirit",
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Soul Warden",
+      "collector_number": "24",
+      "rarity": "common",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C-"
+    },
+    {
+      "name": "Lunarch Veteran // Luminous Phantom",
+      "collector_number": "32",
+      "rarity": "common",
+      "order": 48,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Chaplain of Alms // Chapel Shieldgeist",
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wolf Cove Villager",
+      "collector_number": "221",
+      "rarity": "common",
+      "order": 50,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D-"
+    },
+    {
+      "name": "Curious Farm Animals",
+      "collector_number": "14",
+      "rarity": "common",
+      "order": 51,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "title": "White Noncreature Permanents",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-11-05T01:40:46.297Z",
+  "count": 58,
+  "cards": [
+    {
+      "name": "Greatsword of Tyr",
+      "cubes": 26,
+      "collector_number": "22",
+      "rarity": "common",
+      "order": 0,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Oblivion Ring",
+      "cubes": 13,
+      "collector_number": "34",
+      "rarity": "common",
+      "order": 1,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Ghostly Prison",
+      "cubes": 4,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Land Tax",
+      "cubes": 4,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Touch the Spirit Realm",
+      "cubes": 54,
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Sheltered by Ghosts",
+      "cubes": 41,
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Journey to Nowhere",
+      "cubes": 39,
+      "collector_number": "14",
+      "rarity": "common",
+      "order": 6,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Portable Hole",
+      "cubes": 35,
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Ossification",
+      "cubes": 21,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Cast Out",
+      "cubes": 13,
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Conclave Tribunal",
+      "cubes": 13,
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Dusk Rose Reliquary",
+      "cubes": 10,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Glass Casket",
+      "cubes": 10,
+      "collector_number": "15",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Trapped in the Screen",
+      "cubes": 5,
+      "collector_number": "36",
+      "rarity": "common",
+      "order": 13,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "White Auracite",
+      "cubes": 5,
+      "collector_number": "41",
+      "rarity": "common",
+      "order": 14,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Static Net",
+      "cubes": 3,
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Static Prison",
+      "cubes": 2,
+      "collector_number": "44",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Celebrate the Mountain-king",
+      "cubes": 2,
+      "collector_number": "7",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Prayer of Binding",
+      "cubes": 2,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Static Snare",
+      "cubes": 2,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Detention Chariot",
+      "cubes": 1,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Faith's Fetters",
+      "cubes": 9,
+      "collector_number": "16",
+      "rarity": "common",
+      "order": 21,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Planar Disruption",
+      "cubes": 6,
+      "collector_number": "28",
+      "rarity": "common",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dog Umbra",
+      "cubes": 2,
+      "collector_number": "22",
+      "rarity": "common",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Case of the Gateway Express",
+      "cubes": 31,
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Spring-Loaded Sawblades // Bladewheel Chariot",
+      "cubes": 13,
+      "collector_number": "36",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "The Wanderer",
+      "cubes": 5,
+      "collector_number": "37",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ajani Fells the Godsire",
+      "cubes": 1,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Essence Reliquary",
+      "cubes": 23,
+      "collector_number": "24",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Surgical Suite // Hospital Room",
+      "cubes": 25,
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+"
+    },
+    {
+      "name": "The Mountain-king's Return",
+      "cubes": 20,
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "The Princess Takes Flight",
+      "cubes": 1,
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Political Triumph",
+      "cubes": 13,
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Intangible Virtue",
+      "cubes": 11,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Costume Closet",
+      "cubes": 5,
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Shardmage's Rescue",
+      "cubes": 9,
+      "collector_number": "29",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Plate Armor",
+      "cubes": 6,
+      "collector_number": "32",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Glider Staff",
+      "cubes": 4,
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Deconstruction Hammer",
+      "cubes": 3,
+      "collector_number": "9",
+      "rarity": "common",
+      "order": 38,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "The Birth of Meletis",
+      "cubes": 5,
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Clay-Fired Bricks // Cosmium Kiln",
+      "cubes": 3,
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Primary Research",
+      "cubes": 2,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Abiding Grace",
+      "cubes": 1,
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Solitary Sanctuary",
+      "cubes": 2,
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Griffin Aerie",
+      "cubes": 1,
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Muster the Departed",
+      "cubes": 1,
+      "collector_number": "36",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Michiko's Reign of Truth // Portrait of Michiko",
+      "cubes": 21,
+      "collector_number": "29",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Gryff's Boon",
+      "cubes": 5,
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Skyblade's Boon",
+      "cubes": 2,
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "All That Glitters",
+      "cubes": 2,
+      "collector_number": "2",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Feather of Flight",
+      "cubes": 1,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "On Serra's Wings",
+      "cubes": 1,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Cartouche of Solidarity",
+      "cubes": 1,
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 52,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Rune of Sustenance",
+      "cubes": 0,
+      "collector_number": "25",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Team Avatar",
+      "cubes": 0,
+      "collector_number": "38",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ethereal Armor",
+      "cubes": 0,
+      "collector_number": "9",
+      "rarity": "common",
+      "order": 55,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Sentinel's Eyes",
+      "cubes": 0,
+      "collector_number": "36",
+      "rarity": "common",
+      "order": 56,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Cleric Class",
+      "cubes": 0,
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 57,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    }
+  ]
+}
