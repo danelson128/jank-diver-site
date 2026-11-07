@@ -1,0 +1,578 @@
+{
+  "title": "Reality Fracture Set Review",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-09-30T21:32:32.562Z",
+  "count": 57,
+  "cards": [
+    {
+      "name": "Teyo, Lightshield Expert",
+      "cubes": "",
+      "collector_number": "204",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Danitha, Sword of Hope",
+      "cubes": "",
+      "collector_number": "196",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Rescue Girl, First Responder",
+      "cubes": "",
+      "collector_number": "202",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Prophesied End",
+      "cubes": "",
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Generous Revival",
+      "cubes": "",
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Way of the Healer",
+      "cubes": "",
+      "collector_number": "207",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Yuriko, Hope from the Shadows",
+      "cubes": "",
+      "collector_number": "226",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Geist of Saint Thalia",
+      "cubes": "",
+      "collector_number": "214",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Proft, Consulting Detective",
+      "cubes": "",
+      "collector_number": "218",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Surveillance Phantasm",
+      "cubes": "",
+      "collector_number": "42",
+      "rarity": "common",
+      "order": 9,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Mindseeker Oculus",
+      "cubes": "",
+      "collector_number": "33",
+      "rarity": "common",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Traxos, Academy Guardian",
+      "cubes": "",
+      "collector_number": "222",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Hapatra, the Desert Frost",
+      "cubes": "",
+      "collector_number": "215",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Icy Reception",
+      "cubes": "",
+      "collector_number": "30",
+      "rarity": "common",
+      "order": 13,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Way of the Cryomancer",
+      "cubes": "",
+      "collector_number": "223",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Plan for All Outcomes",
+      "cubes": "",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Proft, Sinister Mastermind",
+      "cubes": "",
+      "collector_number": "235",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Tinybones, Pocket Nuisance",
+      "cubes": "",
+      "collector_number": "237",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Winter, Tormented Loner",
+      "cubes": "",
+      "collector_number": "240",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Multiply by Zero",
+      "cubes": "",
+      "collector_number": "58",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Break Under Pressure",
+      "cubes": "",
+      "collector_number": "50",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Way of the Deathbringer",
+      "cubes": "",
+      "collector_number": "238",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Marwyn, the Clearcutter",
+      "cubes": "",
+      "collector_number": "249",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Tomik, Izzet Sparkmage",
+      "cubes": "",
+      "collector_number": "253",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gallia, the Merrymaker",
+      "cubes": "",
+      "collector_number": "245",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Jiang Yanggu, Alone",
+      "cubes": "",
+      "collector_number": "246",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Kiora of Fire and Ashes",
+      "cubes": "",
+      "collector_number": "247",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "No Admittance",
+      "cubes": "",
+      "collector_number": "89",
+      "rarity": "common",
+      "order": 27,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Fulminous Forte",
+      "cubes": "",
+      "collector_number": "84",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Command the Stage",
+      "cubes": "",
+      "collector_number": "77",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Violent Echoes",
+      "cubes": "",
+      "collector_number": "95",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Way of the Pyromancer",
+      "cubes": "",
+      "collector_number": "254",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Heartwood Crafter // Soul Tether",
+      "cubes": "",
+      "collector_number": "105",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Fblthp, Knows the Way",
+      "cubes": "",
+      "collector_number": "258",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Yoshimaru, Scrappy Stray",
+      "cubes": "",
+      "collector_number": "269",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Marwyn, the Preserver",
+      "cubes": "",
+      "collector_number": "263",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Pia, Aether Ascetic",
+      "cubes": "",
+      "collector_number": "264",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Jiang Yanggu, Never Alone",
+      "cubes": "",
+      "collector_number": "261",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Bestial Incursion",
+      "cubes": "",
+      "collector_number": "98",
+      "rarity": "common",
+      "order": 38,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Hunter's Axe",
+      "cubes": "",
+      "collector_number": "108",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Traxos, Scourge Eternal",
+      "cubes": "",
+      "collector_number": "280",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Stingerquill Voxmancer // Vicious Verse",
+      "cubes": "",
+      "collector_number": "151",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Fatehold Chronologist // Peer Review",
+      "cubes": "",
+      "collector_number": "133",
+      "rarity": "common",
+      "order": 42,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Mabel, Valley Hero",
+      "cubes": "",
+      "collector_number": "274",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Primal Witchstalker",
+      "cubes": "",
+      "collector_number": "144",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Bloombrute",
+      "cubes": "",
+      "collector_number": "124",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Mind Meanderer",
+      "cubes": "",
+      "collector_number": "141",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Craftwork Crusher",
+      "cubes": "",
+      "collector_number": "127",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Fatehold Charm",
+      "cubes": "",
+      "collector_number": "132",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Vigorbloom Charm",
+      "cubes": "",
+      "collector_number": "160",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Twinned Vision",
+      "cubes": "",
+      "collector_number": "157",
+      "rarity": "common",
+      "order": 50,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Recursive Recruitment",
+      "cubes": "",
+      "collector_number": "147",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Twisted Fates",
+      "cubes": "",
+      "collector_number": "158",
+      "rarity": "uncommon",
+      "order": 52,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Clash of Elements",
+      "cubes": "",
+      "collector_number": "126",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Stingerquill Charm",
+      "cubes": "",
+      "collector_number": "150",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Warrior's Blades",
+      "cubes": "",
+      "collector_number": "163",
+      "rarity": "uncommon",
+      "order": 55,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Room of Refuge",
+      "cubes": "",
+      "collector_number": "188",
+      "rarity": "common",
+      "order": 56,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    }
+  ]
+}

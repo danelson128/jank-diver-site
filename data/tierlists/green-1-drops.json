@@ -1,0 +1,458 @@
+{
+  "title": "Green 1-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-08-23T19:16:06.280Z",
+  "count": 45,
+  "cards": [
+    {
+      "name": "Joraga Treespeaker",
+      "cubes": 44,
+      "collector_number": "190",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Arbor Elf",
+      "cubes": 27,
+      "collector_number": "95",
+      "rarity": "common",
+      "order": 1,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Cloakwood Swarmkeeper",
+      "cubes": 12,
+      "collector_number": "222",
+      "rarity": "common",
+      "order": 2,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Llanowar Elves",
+      "cubes": 54,
+      "collector_number": "210",
+      "rarity": "common",
+      "order": 3,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Gene Pollinator",
+      "cubes": 12,
+      "collector_number": "186",
+      "rarity": "common",
+      "order": 4,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Jaspera Sentinel",
+      "cubes": 3,
+      "collector_number": "178",
+      "rarity": "common",
+      "order": 5,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Studious First-Year // Rampant Growth",
+      "cubes": 9,
+      "collector_number": "162",
+      "rarity": "common",
+      "order": 6,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Molt Tender",
+      "cubes": 8,
+      "collector_number": "171",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Arboreal Grazer",
+      "cubes": 6,
+      "collector_number": "149",
+      "rarity": "common",
+      "order": 8,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wirewood Symbiote",
+      "cubes": 1,
+      "collector_number": "133",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Experiment One",
+      "cubes": 38,
+      "collector_number": "119",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Sazh's Chocobo",
+      "cubes": 32,
+      "collector_number": "200",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "A",
+      "mod": 2,
+      "grade": "A★"
+    },
+    {
+      "name": "Nasty Little Rabbit",
+      "cubes": 2,
+      "collector_number": "130",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Edge Rover",
+      "cubes": 31,
+      "collector_number": "179",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Alloy Animist",
+      "cubes": 1,
+      "collector_number": "166",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Nyxborn Hydra",
+      "cubes": 28,
+      "collector_number": "164",
+      "rarity": "common",
+      "order": 15,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Wildwood Scourge",
+      "cubes": 6,
+      "collector_number": "214",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Contortionist Troupe",
+      "cubes": 1,
+      "collector_number": "178",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wild Hypothesis",
+      "cubes": 1,
+      "collector_number": "167",
+      "rarity": "common",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wren's Run Hydra",
+      "cubes": 1,
+      "collector_number": "183",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mild-Mannered Librarian",
+      "cubes": 1,
+      "collector_number": "41",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Sunshower Druid",
+      "cubes": 0,
+      "collector_number": "195",
+      "rarity": "common",
+      "order": 21,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Chainweb Aracnir",
+      "cubes": 17,
+      "collector_number": "167",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Patchwork Beastie",
+      "cubes": 16,
+      "collector_number": "195",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Cenote Scout",
+      "cubes": 8,
+      "collector_number": "178",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": -2,
+      "grade": "D⊘"
+    },
+    {
+      "name": "Rubblebelt Maverick",
+      "cubes": 8,
+      "collector_number": "174",
+      "rarity": "common",
+      "order": 25,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Deathbonnet Sprout // Deathbonnet Hulk",
+      "cubes": 4,
+      "collector_number": "181",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gnarlwood Dryad",
+      "cubes": 2,
+      "collector_number": "159",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Tenacious Pup",
+      "cubes": 9,
+      "collector_number": "262",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Wild Nacatl",
+      "cubes": 5,
+      "collector_number": "152",
+      "rarity": "common",
+      "order": 29,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Narnam Renegade",
+      "cubes": 4,
+      "collector_number": "117",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Hemosymbic Mite",
+      "cubes": 1,
+      "collector_number": "190",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Insidious Fungus",
+      "cubes": 8,
+      "collector_number": "186",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Haywire Mite",
+      "cubes": 4,
+      "collector_number": "199",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Flaxen Intruder // Welcome Home",
+      "cubes": 2,
+      "collector_number": "155",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Defend the Rider",
+      "cubes": 1,
+      "collector_number": "157",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Stampeding Scurryfoot",
+      "cubes": 6,
+      "collector_number": "181",
+      "rarity": "common",
+      "order": 36,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Squirrel Sanctuary",
+      "cubes": 2,
+      "collector_number": "174",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Glimmer Bairn",
+      "cubes": 1,
+      "collector_number": "163",
+      "rarity": "common",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Virulent Emissary",
+      "cubes": 16,
+      "collector_number": "202",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Dragon Sniper",
+      "cubes": 5,
+      "collector_number": "139",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Fang of Shigeki",
+      "cubes": 1,
+      "collector_number": "183",
+      "rarity": "common",
+      "order": 41,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Generous Visitor",
+      "cubes": 1,
+      "collector_number": "185",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Young Wolf",
+      "cubes": 2,
+      "collector_number": "134",
+      "rarity": "common",
+      "order": 43,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Cactuar",
+      "cubes": 1,
+      "collector_number": "177",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    }
+  ]
+}

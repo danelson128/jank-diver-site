@@ -1,0 +1,498 @@
+{
+  "title": "Black 5+ Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-10-14T20:07:18.904Z",
+  "count": 49,
+  "cards": [
+    {
+      "name": "Shriekmaw",
+      "cubes": 33,
+      "collector_number": "139",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Gorex, the Tombshell",
+      "cubes": 7,
+      "collector_number": "20",
+      "rarity": "rare",
+      "order": 1,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Indulgent Tormentor",
+      "cubes": 4,
+      "collector_number": "101",
+      "rarity": "rare",
+      "order": 2,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Throat Slitter",
+      "cubes": 4,
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Troll of Khazad-dûm",
+      "cubes": 46,
+      "collector_number": "111",
+      "rarity": "common",
+      "order": 4,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Shefet Archfiend",
+      "cubes": 28,
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Ultimo, Civilization's End",
+      "cubes": 6,
+      "collector_number": "540",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Chitin Gravestalker",
+      "cubes": 5,
+      "collector_number": "79",
+      "rarity": "common",
+      "order": 7,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Void Beckoner",
+      "cubes": 5,
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Scion of Darkness",
+      "cubes": 3,
+      "collector_number": "79",
+      "rarity": "rare",
+      "order": 9,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Roxxon Brutes",
+      "cubes": 2,
+      "collector_number": "113",
+      "rarity": "common",
+      "order": 10,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Perforator Crocodile",
+      "cubes": 2,
+      "collector_number": "66",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "D",
+      "mod": -2,
+      "grade": "D⊘"
+    },
+    {
+      "name": "Syr Konrad, the Grim",
+      "cubes": 35,
+      "collector_number": "107",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Dreadhound",
+      "cubes": 2,
+      "collector_number": "97",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Madame Masque",
+      "cubes": 5,
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Hollow Marauder",
+      "cubes": 30,
+      "collector_number": "90",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Huskburster Swarm",
+      "cubes": 8,
+      "collector_number": "98",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Death-Rattle Oni",
+      "cubes": 1,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Dreaded Bat-Cloud",
+      "cubes": 1,
+      "collector_number": "66",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Sly Requisitioner",
+      "cubes": 1,
+      "collector_number": "72",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Wurmcoil Larva",
+      "cubes": 26,
+      "collector_number": "112",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Lotleth Giant",
+      "cubes": 1,
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Archfiend of Sorrows",
+      "cubes": 23,
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Gray Merchant of Asphodel",
+      "cubes": 14,
+      "collector_number": "89",
+      "rarity": "common",
+      "order": 23,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Phyrexian Gargantua",
+      "cubes": 4,
+      "collector_number": "48",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Priest of the Blood Rite",
+      "cubes": 4,
+      "collector_number": "112",
+      "rarity": "rare",
+      "order": 25,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Abhorrent Overlord",
+      "cubes": 1,
+      "collector_number": "75",
+      "rarity": "rare",
+      "order": 26,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Diregraf Horde",
+      "cubes": 1,
+      "collector_number": "96",
+      "rarity": "common",
+      "order": 27,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Twisted Sewer-Witch",
+      "cubes": 0,
+      "collector_number": "114",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "First-Sphere Gargantua",
+      "cubes": 3,
+      "collector_number": "91",
+      "rarity": "common",
+      "order": 29,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Perigee Beckoner",
+      "cubes": 2,
+      "collector_number": "112",
+      "rarity": "common",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Girder Goons",
+      "cubes": 1,
+      "collector_number": "80",
+      "rarity": "common",
+      "order": 31,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Voidforged Titan",
+      "cubes": 1,
+      "collector_number": "125",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Risen Necroregent",
+      "cubes": 0,
+      "collector_number": "102",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Vampire Sovereign",
+      "cubes": 22,
+      "collector_number": "125",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "High Fae Negotiator",
+      "cubes": 2,
+      "collector_number": "94",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Gurmag Angler",
+      "cubes": 12,
+      "collector_number": "72",
+      "rarity": "common",
+      "order": 36,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Sultai Scavenger",
+      "cubes": 1,
+      "collector_number": "91",
+      "rarity": "common",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Young Necromancer",
+      "cubes": 10,
+      "collector_number": "110",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Forum Necroscribe",
+      "cubes": 4,
+      "collector_number": "84",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Back on Track",
+      "cubes": 0,
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Voracious Fell Beast",
+      "cubes": 5,
+      "collector_number": "113",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Arbiter of Woe",
+      "cubes": 3,
+      "collector_number": "55",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dusk Mangler",
+      "cubes": 2,
+      "collector_number": "77",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Goremand",
+      "cubes": 2,
+      "collector_number": "101",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Vile Mutilator",
+      "cubes": 0,
+      "collector_number": "122",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Wick's Patrol",
+      "cubes": 3,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Monoist Circuit-Feeder",
+      "cubes": 2,
+      "collector_number": "110",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Tragic Banshee",
+      "cubes": 2,
+      "collector_number": "73",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    }
+  ]
+}

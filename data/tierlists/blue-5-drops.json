@@ -1,0 +1,458 @@
+{
+  "title": "Blue 5+ Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-10-07T20:07:33.413Z",
+  "count": 45,
+  "cards": [
+    {
+      "name": "Thryx, the Sudden Storm",
+      "cubes": 18,
+      "collector_number": "76",
+      "rarity": "rare",
+      "order": 0,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Riftwing Cloudskate",
+      "cubes": 16,
+      "collector_number": "73",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Peregrine Drake",
+      "cubes": 5,
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Feywild Caretaker",
+      "cubes": 4,
+      "collector_number": "69",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Mulldrifter",
+      "cubes": 45,
+      "collector_number": "76",
+      "rarity": "common",
+      "order": 4,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Pondering Mage",
+      "cubes": 1,
+      "collector_number": "63",
+      "rarity": "common",
+      "order": 5,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Shinestriker",
+      "cubes": 1,
+      "collector_number": "68",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Eddymurk Crab",
+      "cubes": 32,
+      "collector_number": "48",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Tolarian Terror",
+      "cubes": 19,
+      "collector_number": "72",
+      "rarity": "common",
+      "order": 8,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Junk Winder",
+      "cubes": 14,
+      "collector_number": "48",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Memory Guardian",
+      "cubes": 6,
+      "collector_number": "49",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Valkyrie Aerial Unit",
+      "cubes": 5,
+      "collector_number": "84",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Waker of Waves",
+      "cubes": 29,
+      "collector_number": "84",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Mirrorshell Crab",
+      "cubes": 24,
+      "collector_number": "63",
+      "rarity": "common",
+      "order": 13,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Striped Riverwinder",
+      "cubes": 13,
+      "collector_number": "48",
+      "rarity": "common",
+      "order": 14,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Stockman, Mad Fly-entist",
+      "cubes": 1,
+      "collector_number": "54",
+      "rarity": "common",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Marauding Sphinx",
+      "cubes": 24,
+      "collector_number": "56",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Wiccan, Rising Magician",
+      "cubes": 5,
+      "collector_number": "83",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Archive Dragon",
+      "cubes": 3,
+      "collector_number": "41",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Murder of Crows",
+      "cubes": 2,
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Saruman the White",
+      "cubes": 1,
+      "collector_number": "67",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Rise from the Tides",
+      "cubes": 23,
+      "collector_number": "83",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Victor Timely, Wily Tycoon",
+      "cubes": 20,
+      "collector_number": "642",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Shipwreck Dowser",
+      "cubes": 12,
+      "collector_number": "71",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Scholar of the Ages",
+      "cubes": 1,
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dirgur Island Dragon // Skimming Strike",
+      "cubes": 4,
+      "collector_number": "40",
+      "rarity": "common",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Young Blue Dragon // Sand Augury",
+      "cubes": 1,
+      "collector_number": "106",
+      "rarity": "common",
+      "order": 26,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Sword Coast Serpent // Capsizing Wave",
+      "cubes": 3,
+      "collector_number": "99",
+      "rarity": "common",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mechanozoa",
+      "cubes": 1,
+      "collector_number": "66",
+      "rarity": "common",
+      "order": 28,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Starbreach Whale",
+      "cubes": 1,
+      "collector_number": "77",
+      "rarity": "common",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Omni-Changeling",
+      "cubes": 3,
+      "collector_number": "62",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Hulking Metamorph",
+      "cubes": 2,
+      "collector_number": "79",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Constrictor Sage",
+      "cubes": 2,
+      "collector_number": "39",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Mechan Assembler",
+      "cubes": 2,
+      "collector_number": "63",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Mouth of the Storm",
+      "cubes": 2,
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Depth Defiler",
+      "cubes": 1,
+      "collector_number": "58",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Eternal Skylord",
+      "cubes": 1,
+      "collector_number": "49",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Falcon, Winged Wonder",
+      "cubes": 1,
+      "collector_number": "52",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Specimen Collector",
+      "cubes": 0,
+      "collector_number": "64",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Living Conundrum",
+      "cubes": 1,
+      "collector_number": "63",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 2,
+      "grade": "D★"
+    },
+    {
+      "name": "Madame Web, Clairvoyant",
+      "cubes": 1,
+      "collector_number": "36",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Summon: Shiva",
+      "cubes": 1,
+      "collector_number": "78",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wretched Gryff",
+      "cubes": 1,
+      "collector_number": "12",
+      "rarity": "common",
+      "order": 42,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Pouncing Shoreshark",
+      "cubes": 0,
+      "collector_number": "64",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Archipelagore",
+      "cubes": 0,
+      "collector_number": "41",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    }
+  ]
+}

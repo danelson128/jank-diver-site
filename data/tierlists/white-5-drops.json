@@ -1,0 +1,438 @@
+{
+  "title": "White 5+ Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-08-23T20:40:34.167Z",
+  "count": 43,
+  "cards": [
+    {
+      "name": "Cloudgoat Ranger",
+      "cubes": 59,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Elite Scaleguard",
+      "cubes": 24,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Spectral Procession",
+      "cubes": 23,
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Grey Knight Paragon",
+      "cubes": 16,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Githzerai Monk",
+      "cubes": 11,
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Abdel Adrian, Gorion's Ward",
+      "cubes": 5,
+      "collector_number": "2",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Starfield Shepherd",
+      "cubes": 41,
+      "collector_number": "37",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+"
+    },
+    {
+      "name": "Eagles of the North",
+      "cubes": 24,
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 7,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Angel of the Ruins",
+      "cubes": 20,
+      "collector_number": "11",
+      "rarity": "rare",
+      "order": 8,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Cloudbound Moogle",
+      "cubes": 3,
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 9,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Oketra's Attendant",
+      "cubes": 3,
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Alabaster Host Intercessor",
+      "cubes": 2,
+      "collector_number": "3",
+      "rarity": "common",
+      "order": 11,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Borough Backup",
+      "cubes": 1,
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 12,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Salt Road Packbeast",
+      "cubes": 10,
+      "collector_number": "23",
+      "rarity": "common",
+      "order": 13,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Shepherd of the Clouds",
+      "cubes": 10,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Disciple of the Sun",
+      "cubes": 1,
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Shepherd of the Cosmos",
+      "cubes": 1,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Pegasus Guardian // Rescue the Foal",
+      "cubes": 8,
+      "collector_number": "36",
+      "rarity": "common",
+      "order": 17,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Appa, Loyal Sky Bison",
+      "cubes": 2,
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Wispweaver Angel",
+      "cubes": 1,
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Triplicate Spirits",
+      "cubes": 8,
+      "collector_number": "40",
+      "rarity": "common",
+      "order": 20,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Guarded Heir",
+      "cubes": 5,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Imperial Oath",
+      "cubes": 4,
+      "collector_number": "17",
+      "rarity": "common",
+      "order": 22,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Soul of Migration",
+      "cubes": 2,
+      "collector_number": "33",
+      "rarity": "common",
+      "order": 23,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Scour the Desert",
+      "cubes": 1,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Basilica Shepherd",
+      "cubes": 0,
+      "collector_number": "4",
+      "rarity": "common",
+      "order": 25,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Captain Mar-Vell, Space-Born",
+      "cubes": 3,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Glorious Enforcer",
+      "cubes": 3,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "G'raha Tia",
+      "cubes": 2,
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Guardian Naga // Banishing Coils",
+      "cubes": 2,
+      "collector_number": "23",
+      "rarity": "common",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Angel of the Dawn",
+      "cubes": 1,
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Malamet War Scribe",
+      "cubes": 1,
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "The Falcon, Sam Wilson",
+      "cubes": 1,
+      "collector_number": "837",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dawnstrike Vanguard",
+      "cubes": 1,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Lionheart Glimmer",
+      "cubes": 1,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Voltstorm Angel",
+      "cubes": 1,
+      "collector_number": "46",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Weftblade Enhancer",
+      "cubes": 1,
+      "collector_number": "44",
+      "rarity": "common",
+      "order": 36,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Driftgloom Coyote",
+      "cubes": 1,
+      "collector_number": "11",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Vault Guardsman",
+      "cubes": 1,
+      "collector_number": "612",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Fear of Abduction",
+      "cubes": 0,
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "White Dragon",
+      "cubes": 0,
+      "collector_number": "41",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mirran Bardiche",
+      "cubes": 1,
+      "collector_number": "22",
+      "rarity": "common",
+      "order": 41,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Aven Gagglemaster",
+      "cubes": 0,
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    }
+  ]
+}

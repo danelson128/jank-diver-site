@@ -3,8 +3,8 @@
   "use strict";
 
   const TIERS = ["S", "A", "B", "C", "D", "F"];
-  const MODS = [1, 0, -1, -2];
-  const MOD_SIGN = { 1: "+", 0: "", "-1": "−", "-2": "⊘" };
+  const MODS = [1, 0, -1];
+  const MOD_SIGN = { 1: "+", 0: "", "-1": "−" };
   const app = document.getElementById("app");
   const state = { site: {}, lists: [], cards: {}, videos: [], index: new Map() };
 
@@ -15,12 +15,13 @@
   const slugOf = (file) => file.replace(/\.json$/i, "");
   const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 
-  const modOf = (c) => Math.max(-2, Math.min(1, Number(c.mod) || 0));
+  // Only +, plain and − count. The ★ (2) and ⊘ (−2) jokes show as a plain grade.
+  const modOf = (c) => { const m = Number(c.mod) || 0; return Math.abs(m) === 1 ? m : 0; };
   const gradeLabel = (c) => c.tier + MOD_SIGN[modOf(c)];
-  // Position on the full grade scale, S+ = 0 ... D⊘ = 19. Lower is better.
+  // Position on the full grade scale, S+ = 0 ... D− = 14. Lower is better.
   const gradeIndex = (c) => Math.max(0, TIERS.indexOf(c.tier)) * MODS.length + MODS.indexOf(modOf(c));
   // Green for the best grades, red for the worst.
-  const gradeColor = (i) => `hsl(${Math.round(140 * (1 - Math.min(i, 19) / 19))} 72% 50%)`;
+  const gradeColor = (i) => `hsl(${Math.round(140 * (1 - Math.min(i, 14) / 14))} 72% 50%)`;
   const tierColor = (t) => gradeColor(TIERS.indexOf(t) * MODS.length + 1);
   const cardGradeColor = (c) => gradeColor(gradeIndex(c));
 
