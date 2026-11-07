@@ -83,6 +83,7 @@
       const data = await getJSON(`data/tierlists/${m.file}`);
       const seen = new Set();
       const cardsIn = data.cards.filter((c) => {
+        if (!TIERS.includes(c.tier)) return false; // Skip cards with no grade.
         const k = norm(c.name);
         if (seen.has(k)) return false; // Remove repeat entries.
         seen.add(k);

@@ -1,0 +1,538 @@
+{
+  "title": "Boros Guild Cards",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-07-23T14:29:00.238Z",
+  "count": 53,
+  "cards": [
+    {
+      "name": "Akiri, Fearless Voyager",
+      "cubes": 8,
+      "collector_number": "220",
+      "rarity": "rare",
+      "order": 0,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Craig Boone, Novac Guard",
+      "cubes": 7,
+      "collector_number": "100",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Goblin Trenches",
+      "cubes": 6,
+      "collector_number": "104",
+      "rarity": "rare",
+      "order": 2,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Heroic Reinforcements",
+      "cubes": 59,
+      "collector_number": "217",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+"
+    },
+    {
+      "name": "Midnight Mayhem",
+      "cubes": 2,
+      "collector_number": "222",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Scurry of Gremlins",
+      "cubes": 2,
+      "collector_number": "203",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Arabella, Abandoned Doll",
+      "cubes": 51,
+      "collector_number": "208",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Lightning Helix",
+      "cubes": 36,
+      "collector_number": "213",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Rip Apart",
+      "cubes": 10,
+      "collector_number": "225",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Sacred Fire",
+      "cubes": 4,
+      "collector_number": "239",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Go Ninja Go",
+      "cubes": 1,
+      "collector_number": "149",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Justice Strike",
+      "cubes": 1,
+      "collector_number": "182",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ride Down",
+      "cubes": 1,
+      "collector_number": "194",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Bladehold War-Whip",
+      "cubes": 24,
+      "collector_number": "197",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Bruenor Battlehammer",
+      "cubes": 12,
+      "collector_number": "219",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Koll, the Forgemaster",
+      "cubes": 5,
+      "collector_number": "220",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Reyav, Master Smith",
+      "cubes": 5,
+      "collector_number": "290",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Giott, King of the Dwarves",
+      "cubes": 4,
+      "collector_number": "223",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Practiced Scrollsmith",
+      "cubes": 18,
+      "collector_number": "210",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Boros Charm",
+      "cubes": 17,
+      "collector_number": "148",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Frontline Rush",
+      "cubes": 10,
+      "collector_number": "186",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Lorehold Charm",
+      "cubes": 8,
+      "collector_number": "200",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Skyknight Vanguard",
+      "cubes": 14,
+      "collector_number": "218",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Baird, Argivian Recruiter",
+      "cubes": 11,
+      "collector_number": "195",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Form a Posse",
+      "cubes": 2,
+      "collector_number": "204",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Honored Crop-Captain",
+      "cubes": 13,
+      "collector_number": "200",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Fallaji Vanguard",
+      "cubes": 5,
+      "collector_number": "210",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Arcbound Shikari",
+      "cubes": 4,
+      "collector_number": "184",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Hero of the Nyxborn",
+      "cubes": 2,
+      "collector_number": "219",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Conduit Goblin",
+      "cubes": 1,
+      "collector_number": "179",
+      "rarity": "common",
+      "order": 29,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Shadowfax, Lord of Horses",
+      "cubes": 7,
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "The Neutrinos",
+      "cubes": 6,
+      "collector_number": "160",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Zidane, Tantalus Thief",
+      "cubes": 2,
+      "collector_number": "251",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ash, Party Crasher",
+      "cubes": 4,
+      "collector_number": "201",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Pursue the Past",
+      "cubes": 4,
+      "collector_number": "216",
+      "rarity": "common",
+      "order": 34,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Caparocti Sunborn",
+      "cubes": 3,
+      "collector_number": "226",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Colossus of the Blood Age",
+      "cubes": 1,
+      "collector_number": "181",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Startled Relic Sloth",
+      "cubes": 1,
+      "collector_number": "233",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Reconstruct History",
+      "cubes": 0,
+      "collector_number": "222",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Meddling Youths",
+      "cubes": 0,
+      "collector_number": "219",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Imodane's Recruiter // Train Troops",
+      "cubes": 50,
+      "collector_number": "229",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "S",
+      "mod": 2,
+      "grade": "S★"
+    },
+    {
+      "name": "Twinmaw Stormbrood // Charring Bite",
+      "cubes": 28,
+      "collector_number": "232",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Legion Leadership // Legion Stronghold",
+      "cubes": 27,
+      "collector_number": "255",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Mechanized Ninja Cavalry",
+      "cubes": 12,
+      "collector_number": "156",
+      "rarity": "common",
+      "order": 43,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Rally the Peasants",
+      "cubes": 12,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Integrity // Intervention",
+      "cubes": 5,
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Nahiri, Storm of Stone",
+      "cubes": 5,
+      "collector_number": "233",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Jet, Freedom Fighter",
+      "cubes": 3,
+      "collector_number": "229",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Marvel Boy, Noh-Varr",
+      "cubes": 3,
+      "collector_number": "743",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Wear // Tear",
+      "cubes": 2,
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Old Hob, Alleycat Blues",
+      "cubes": 1,
+      "collector_number": "99",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "War Machine, Legacy of Iron",
+      "cubes": 1,
+      "collector_number": "238",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Keldon Strike Team",
+      "cubes": 0,
+      "collector_number": "136",
+      "rarity": "common",
+      "order": 52,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    }
+  ]
+}

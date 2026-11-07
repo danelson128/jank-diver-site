@@ -1,0 +1,438 @@
+{
+  "title": "Black One-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-07-26T22:38:15.173Z",
+  "count": 43,
+  "cards": [
+    {
+      "name": "Carrion Feeder",
+      "cubes": 64,
+      "collector_number": "59",
+      "rarity": "common",
+      "order": 0,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Viscera Seer",
+      "cubes": 18,
+      "collector_number": "120",
+      "rarity": "common",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Putrid Imp",
+      "cubes": 7,
+      "collector_number": "77",
+      "rarity": "common",
+      "order": 2,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cult Conscript",
+      "cubes": 59,
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Forsaken Miner",
+      "cubes": 48,
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Retrofitted Transmogrant",
+      "cubes": 14,
+      "collector_number": "106",
+      "rarity": "common",
+      "order": 5,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Persistent Specimen",
+      "cubes": 3,
+      "collector_number": "125",
+      "rarity": "common",
+      "order": 6,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Purple Pentapus",
+      "cubes": 1,
+      "collector_number": "233",
+      "rarity": "common",
+      "order": 7,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Sanitarium Skeleton",
+      "cubes": 4,
+      "collector_number": "133",
+      "rarity": "common",
+      "order": 8,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cauldron Familiar",
+      "cubes": 3,
+      "collector_number": "81",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Faerie Dreamthief",
+      "cubes": 44,
+      "collector_number": "89",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Ichor Drinker",
+      "cubes": 4,
+      "collector_number": "111",
+      "rarity": "common",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Archfiend's Vessel",
+      "cubes": 3,
+      "collector_number": "88",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Stitcher's Supplier",
+      "cubes": 40,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Snarling Gorehound",
+      "cubes": 25,
+      "collector_number": "105",
+      "rarity": "common",
+      "order": 14,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Eye Collector",
+      "cubes": 1,
+      "collector_number": "86",
+      "rarity": "common",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Shambling Ghast",
+      "cubes": 23,
+      "collector_number": "119",
+      "rarity": "common",
+      "order": 16,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Gnawing Vermin",
+      "cubes": 5,
+      "collector_number": "101",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Bile-Vial Boggart",
+      "cubes": 3,
+      "collector_number": "87",
+      "rarity": "common",
+      "order": 18,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Fear of Lost Teeth",
+      "cubes": 1,
+      "collector_number": "97",
+      "rarity": "common",
+      "order": 19,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Greedy Freebooter",
+      "cubes": 2,
+      "collector_number": "109",
+      "rarity": "common",
+      "order": 20,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Nested Shambler",
+      "cubes": 20,
+      "collector_number": "95",
+      "rarity": "common",
+      "order": 21,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Infestation Sage",
+      "cubes": 12,
+      "collector_number": "64",
+      "rarity": "common",
+      "order": 22,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Callous Inspector",
+      "cubes": 6,
+      "collector_number": "89",
+      "rarity": "common",
+      "order": 23,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Eyetwitch",
+      "cubes": 3,
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Serrated Scorpion",
+      "cubes": 3,
+      "collector_number": "99",
+      "rarity": "common",
+      "order": 25,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Dockside Chef",
+      "cubes": 22,
+      "collector_number": "93",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Scorn-Blade Berserker",
+      "cubes": 17,
+      "collector_number": "124",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Ecstatic Awakener // Awoken Demon",
+      "cubes": 6,
+      "collector_number": "100",
+      "rarity": "common",
+      "order": 28,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Dreadmalkin",
+      "cubes": 2,
+      "collector_number": "87",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Plagued Rusalka",
+      "cubes": 2,
+      "collector_number": "56",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Foulmire Knight // Profane Insight",
+      "cubes": 15,
+      "collector_number": "90",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Diregraf Ghoul",
+      "cubes": 8,
+      "collector_number": "97",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dream Beavers",
+      "cubes": 6,
+      "collector_number": "62",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Valgavoth's Faithful",
+      "cubes": 6,
+      "collector_number": "121",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Vampire of the Dire Moon",
+      "cubes": 6,
+      "collector_number": "120",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ruthless Sniper",
+      "cubes": 4,
+      "collector_number": "105",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Lecturing Scornmage",
+      "cubes": 2,
+      "collector_number": "87",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Changeling Outcast",
+      "cubes": 1,
+      "collector_number": "82",
+      "rarity": "common",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Etherium Pteramander",
+      "cubes": 1,
+      "collector_number": "92",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Fungal Infection",
+      "cubes": 1,
+      "collector_number": "94",
+      "rarity": "common",
+      "order": 40,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Fourth Bridge Prowler",
+      "cubes": 0,
+      "collector_number": "60",
+      "rarity": "common",
+      "order": 41,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Rotten Reunion",
+      "cubes": 1,
+      "collector_number": "119",
+      "rarity": "common",
+      "order": 42,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    }
+  ]
+}
