@@ -1,0 +1,398 @@
+{
+  "title": "Blue 1-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-07-20T17:14:37.969Z",
+  "count": 39,
+  "cards": [
+    {
+      "name": "Enclave Cryptologist",
+      "cubes": 8,
+      "collector_number": "66",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "D",
+      "mod": -2,
+      "grade": "D⊘"
+    },
+    {
+      "name": "Hedron Crab",
+      "cubes": 5,
+      "collector_number": "47",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "D",
+      "mod": 2,
+      "grade": "D★"
+    },
+    {
+      "name": "Ruin Crab",
+      "cubes": 0,
+      "collector_number": "75",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Spyglass Siren",
+      "cubes": 65,
+      "collector_number": "78",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "S",
+      "mod": 2,
+      "grade": "S★"
+    },
+    {
+      "name": "Hard Evidence",
+      "cubes": 57,
+      "collector_number": "46",
+      "rarity": "common",
+      "order": 4,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Pteramander",
+      "cubes": 36,
+      "collector_number": "47",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Stature, Size Shifter",
+      "cubes": 2,
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Spectral Sailor",
+      "cubes": 34,
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cloudfin Raptor",
+      "cubes": 23,
+      "collector_number": "32",
+      "rarity": "common",
+      "order": 8,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Cogwork Wrestler",
+      "cubes": 16,
+      "collector_number": "49",
+      "rarity": "common",
+      "order": 9,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Deceive the Messenger",
+      "cubes": 3,
+      "collector_number": "47",
+      "rarity": "common",
+      "order": 10,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Faerie Seer",
+      "cubes": 16,
+      "collector_number": "51",
+      "rarity": "common",
+      "order": 11,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Phantasmal Shieldback",
+      "cubes": 14,
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Siren Stormtamer",
+      "cubes": 14,
+      "collector_number": "79",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Fugitive Droid",
+      "cubes": 0,
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Harrier Strix",
+      "cubes": 11,
+      "collector_number": "52",
+      "rarity": "common",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Network Disruptor",
+      "cubes": 3,
+      "collector_number": "71",
+      "rarity": "common",
+      "order": 16,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Snaremaster Sprite",
+      "cubes": 2,
+      "collector_number": "68",
+      "rarity": "common",
+      "order": 17,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Combat Courier",
+      "cubes": 10,
+      "collector_number": "77",
+      "rarity": "common",
+      "order": 18,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Illvoi Galeblade",
+      "cubes": 2,
+      "collector_number": "58",
+      "rarity": "common",
+      "order": 19,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Captive Weird // Compleated Conjurer",
+      "cubes": 10,
+      "collector_number": "49",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Delver of Secrets // Insectile Aberration",
+      "cubes": 9,
+      "collector_number": "51",
+      "rarity": "common",
+      "order": 21,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Kid Loki",
+      "cubes": 8,
+      "collector_number": "63",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Triton Wavebreaker",
+      "cubes": 5,
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Omen Hawker",
+      "cubes": 4,
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Silver Raven",
+      "cubes": 4,
+      "collector_number": "74",
+      "rarity": "common",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Overwhelmed Apprentice",
+      "cubes": 0,
+      "collector_number": "60",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Merfolk Windrobber",
+      "cubes": 1,
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Merfolk Secretkeeper // Venture Deeper",
+      "cubes": 3,
+      "collector_number": "53",
+      "rarity": "common",
+      "order": 28,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Gran-Gran",
+      "cubes": 3,
+      "collector_number": "54",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Floodhound",
+      "cubes": 2,
+      "collector_number": "42",
+      "rarity": "common",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Larder Zombie",
+      "cubes": 0,
+      "collector_number": "58",
+      "rarity": "common",
+      "order": 31,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Hypnotic Grifter",
+      "cubes": 1,
+      "collector_number": "45",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Artificer's Assistant",
+      "cubes": 1,
+      "collector_number": "44",
+      "rarity": "common",
+      "order": 33,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Lantern Bearer // Lanterns' Lift",
+      "cubes": 1,
+      "collector_number": "66",
+      "rarity": "common",
+      "order": 34,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Expendable Lackey",
+      "cubes": 0,
+      "collector_number": "43",
+      "rarity": "common",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Shrieking Drake",
+      "cubes": 1,
+      "collector_number": "43",
+      "rarity": "common",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Slither Blade",
+      "cubes": 2,
+      "collector_number": "71",
+      "rarity": "common",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Fractal Anomaly",
+      "cubes": 3,
+      "collector_number": "50",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    }
+  ]
+}

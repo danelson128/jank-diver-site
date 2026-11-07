@@ -54,5 +54,17 @@
   {
     "file": "boros-guild-cards.json",
     "youtube": "https://www.youtube.com/watch?v=17cpXLwPexw"
+  },
+  {
+    "file": "orzhov-guild-cards.json",
+    "youtube": "https://www.youtube.com/watch?v=RZ-vRLa6Pwc"
+  },
+  {
+    "file": "blue-1-drops.json",
+    "youtube": "https://www.youtube.com/watch?v=Tgix8E4bQP8"
+  },
+  {
+    "file": "izzet-guild-cards.json",
+    "youtube": "https://www.youtube.com/watch?v=VFr1DmGyugE"
   }
 ]

@@ -1,0 +1,558 @@
+{
+  "title": "Orzhov Guild Cards",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-08-16T19:37:50.665Z",
+  "count": 55,
+  "cards": [
+    {
+      "name": "Tidehollow Sculler",
+      "cubes": 15,
+      "collector_number": "202",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Angel of Despair",
+      "cubes": 10,
+      "collector_number": "101",
+      "rarity": "rare",
+      "order": 1,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Afterlife Insurance",
+      "cubes": 7,
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Zealous Persecution",
+      "cubes": 7,
+      "collector_number": "85",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Knights of the Black Rose",
+      "cubes": 4,
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Elas il-Kor, Sadistic Pilgrim",
+      "cubes": 33,
+      "collector_number": "198",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Ruthless Lawbringer",
+      "cubes": 20,
+      "collector_number": "229",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Denethor, Ruling Steward",
+      "cubes": 16,
+      "collector_number": "198",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Hidden Stockpile",
+      "cubes": 14,
+      "collector_number": "129",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Bartolomé del Presidio",
+      "cubes": 12,
+      "collector_number": "224",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cruel Celebrant",
+      "cubes": 6,
+      "collector_number": "188",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Hardened Tactician",
+      "cubes": 6,
+      "collector_number": "191",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Baron Bertram Graywater",
+      "cubes": 5,
+      "collector_number": "195",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Fiendish Panda",
+      "cubes": 5,
+      "collector_number": "120",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Syr Vondam, the Lucent",
+      "cubes": 5,
+      "collector_number": "232",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Tolls of War",
+      "cubes": 5,
+      "collector_number": "245",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Corpse Knight",
+      "cubes": 4,
+      "collector_number": "206",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Shadow Summoning",
+      "cubes": 4,
+      "collector_number": "226",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Judge Magister Gabranth",
+      "cubes": 3,
+      "collector_number": "230",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Rufus Shinra",
+      "cubes": 3,
+      "collector_number": "238",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Aron, Benalia's Ruin",
+      "cubes": 2,
+      "collector_number": "193",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Cartel Aristocrat",
+      "cubes": 2,
+      "collector_number": "150",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Fleshtaker",
+      "cubes": 2,
+      "collector_number": "222",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Wispdrinker Vampire",
+      "cubes": 2,
+      "collector_number": "243",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Embalmed Ascendant",
+      "cubes": 0,
+      "collector_number": "201",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "General's Enforcer",
+      "cubes": 0,
+      "collector_number": "188",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Glasswing Grace // Age-Graced Chapel",
+      "cubes": 25,
+      "collector_number": "254",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Hero of the Dunes",
+      "cubes": 21,
+      "collector_number": "213",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Dune Drifter",
+      "cubes": 14,
+      "collector_number": "200",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Graceful Restoration",
+      "cubes": 8,
+      "collector_number": "201",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Shroudstomper",
+      "cubes": 6,
+      "collector_number": "233",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Karai, Future of the Foot",
+      "cubes": 5,
+      "collector_number": "151",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Breathless Knight",
+      "cubes": 3,
+      "collector_number": "187",
+      "rarity": "common",
+      "order": 32,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Rite of the Moth",
+      "cubes": 2,
+      "collector_number": "229",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mortify",
+      "cubes": 6,
+      "collector_number": "122",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Rite of Oblivion",
+      "cubes": 5,
+      "collector_number": "237",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Silverquill Charm",
+      "cubes": 5,
+      "collector_number": "225",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Sin Collector",
+      "cubes": 2,
+      "collector_number": "103",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Killian, Ink Duelist",
+      "cubes": 3,
+      "collector_number": "197",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Snooping Page",
+      "cubes": 2,
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Killian's Confidence",
+      "cubes": 1,
+      "collector_number": "197",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Scolding Administrator",
+      "cubes": 1,
+      "collector_number": "224",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Humiliate",
+      "cubes": 0,
+      "collector_number": "193",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Lingering Souls",
+      "cubes": 56,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "S",
+      "mod": 2,
+      "grade": "S★"
+    },
+    {
+      "name": "Unburial Rites",
+      "cubes": 16,
+      "collector_number": "122",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Shrouded Shepherd // Cleave Shadows",
+      "cubes": 10,
+      "collector_number": "236",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Phyrexian Missionary",
+      "cubes": 5,
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Reaping Willow",
+      "cubes": 5,
+      "collector_number": "240",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Hei Bai, Spirit of Balance",
+      "cubes": 4,
+      "collector_number": "225",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Purging Stormbrood // Absorb Essence",
+      "cubes": 3,
+      "collector_number": "213",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gift of Orzhova",
+      "cubes": 2,
+      "collector_number": "219",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Consecrate // Consume",
+      "cubes": 1,
+      "collector_number": "224",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Kaya, Bane of the Dead",
+      "cubes": 1,
+      "collector_number": "231",
+      "rarity": "uncommon",
+      "order": 52,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "U.S.Agent, John Walker",
+      "cubes": 0,
+      "collector_number": "236",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Purging Stormbrood // Absorb Essence",
+      "cubes": 0,
+      "collector_number": "213",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    }
+  ]
+}
