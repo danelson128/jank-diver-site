@@ -5,7 +5,8 @@
   },
   {
     "file": "star-trek-set-review.json",
-    "youtube": "https://www.youtube.com/watch?v=AaD1K6_QWJg"
+    "youtube": "https://www.youtube.com/watch?v=AaD1K6_QWJg",
+    "timestamps": true
   },
   {
     "file": "green-5-drops.json",

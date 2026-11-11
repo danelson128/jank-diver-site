@@ -55,7 +55,7 @@ def parse(path):
             if body:
                 lines.append((to_seconds(m.group(1)), body))
     else:  # "Show transcript" copy: a time line, then text lines
-        t = None
+        t = 0  # Text before the first time mark starts at 0:00.
         for raw in text.splitlines():
             raw = raw.strip()
             if re.fullmatch(r"\d{1,2}(:\d{2}){1,2}", raw):
