@@ -555,7 +555,7 @@
       </div>
       <div>
         <h2 id="modal-title">${esc(entry.name)}</h2>
-        ${info ? `<div class="type">${esc(info.type_line)}<br>Shown: ${esc(info.set_name)} (${esc(info.set.toUpperCase())}) #${esc(info.collector_number)}</div>` : ""}
+        ${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}
         <span class="label">Our grades</span>
         <div class="apps">${appearancesHTML(entry.entries)}</div>
         <div class="buy">
@@ -563,7 +563,7 @@
           <select id="printing" disabled><option>${info ? `${esc(info.set_name)} (${esc(info.set.toUpperCase())}) #${esc(info.collector_number)}` : "Loading printings…"}</option></select>
           <div class="price mono" id="price">Loading prices…</div>
           <div class="shop-row" id="shops">${shopLinks(entry.name, null)}</div>
-          <p class="fine mono">Prices from <a id="sf-link" href="${esc(info?.scryfall_uri || "https://scryfall.com")}" target="_blank" rel="noopener">Scryfall</a>, updated daily. Shop links may earn us a commission.</p>
+          <p class="fine mono">Prices from <a id="sf-link" href="${esc(info?.scryfall_uri || "https://scryfall.com")}" target="_blank" rel="noopener">Scryfall</a>, updated daily.</p>
         </div>
       </div>`;
     // The printing on screen. Starts as the site's printing (the first paper printing).
