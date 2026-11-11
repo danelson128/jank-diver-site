@@ -15,6 +15,7 @@ place. Fix or add times by hand in data/timestamps/<slug>.json (values are secon
 It writes data/timestamps/<slug>.json and sets "timestamps": true for the list in
 data/tierlists.json.
 """
+import bisect
 import json
 import re
 import sys
@@ -30,6 +31,26 @@ def norm(s):
     s = unicodedata.normalize("NFD", s)
     s = "".join(c for c in s if unicodedata.category(c) != "Mn").lower().replace("’", "'")
     return re.sub(r"[^a-z0-9' ]+", " ", s).strip()
+
+
+INLINE = re.compile(
+    r"(?P<time>\d{1,2}:\d{2}(?::\d{2})?)"
+    r"(?:\d+ hours?,? ?)?(?:\d+ minutes?,? ?)?(?:\d+ seconds?)?"
+    r"(?P<text>.*)$"
+)
+# Only treat a file as this format if the label is really there.
+INLINE_CHECK = re.compile(r"^\d{1,2}:\d{2}(?::\d{2})?\d+ (?:hours?|minutes?|seconds?)", re.M)
+
+
+COLD_OPEN = 45  # Seconds. The cold open often mentions cards before the review starts.
+# How the host introduces a card, in compact text: "fiveinablackfora", "twoandaredfor", "bluefora".
+INTRO = re.compile(r"(?:one|two|three|four|five|six|seven|eight|nine|ten|\d)(?:in|and)an?"
+                   r"(?:white|blue|black|red|green|colorless|generic)"
+                   r"|(?:white|blue|black|red|green)fora")
+
+
+def compact(s):
+    return re.sub(r"[^a-z0-9]", "", norm(s))
 
 
 def to_seconds(stamp):
@@ -54,6 +75,13 @@ def parse(path):
             body = re.sub(r"<[^>]+>", "", body).replace("\n", " ").strip()
             if body:
                 lines.append((to_seconds(m.group(1)), body))
+    elif INLINE_CHECK.search(text):
+        # "Show transcript" copy with screen-reader labels, one line per caption:
+        # "1:31:511 hour, 31 minutes, 51 secondsText..."
+        for raw in text.splitlines():
+            m = INLINE.match(raw.strip())
+            if m and m.group("text").strip():
+                lines.append((to_seconds(m.group("time")), m.group("text").strip()))
     else:  # "Show transcript" copy: a time line, then text lines
         t = 0  # Text before the first time mark starts at 0:00.
         for raw in text.splitlines():
@@ -91,36 +119,44 @@ def main():
     lines = parse(transcript)
     if not lines:
         sys.exit("No timed lines found in the transcript.")
-    own = [(t, norm(txt)) for t, txt in lines]
+    # Search a "compact" copy of the transcript with no spaces or punctuation, so that
+    # captions like "shriek maw" or "Blasto Neuron" still match the card name.
+    starts, parts, pos = [], [], 0
+    for t, txt in lines:
+        c = compact(txt)
+        starts.append((pos, t))
+        parts.append(c)
+        pos += len(c)
+    stream = "".join(parts)
+    offsets = [p for p, _ in starts]
 
-    def find(pat, start):
-        """Time of the first line at or after start that says pat. A name can break
-        across two caption lines, so also try each line joined with the next one,
-        but only when the name is in neither line alone."""
-        for i, (t, txt) in enumerate(own):
-            if t < start:
-                continue
-            if pat.search(txt):
-                return t
-            nxt = own[i + 1][1] if i + 1 < len(own) else ""
-            if nxt and not pat.search(nxt) and pat.search(txt + " " + nxt):
-                return t
-        return None
+    def time_at(p):
+        return starts[bisect.bisect_right(offsets, p) - 1][1]
 
-    cards = sorted({c["name"]: c for c in lst["cards"]}.values(), key=lambda c: c["order"])
-    times, missing, start = {}, [], 0
+    cards = sorted({c["name"]: c for c in reversed(lst["cards"])}.values(), key=lambda c: c["order"])
+    first_words = [compact(norm(c["name"].split(" // ")[0]).split()[0]) for c in cards]
+    times, how, missing = {}, {}, []
     for c in cards:
-        hit = None
+        hits = []
         for v in variants(c["name"]):
-            pat = re.compile(r"\b" + re.escape(v) + r"\b")
-            hit = find(pat, start)
-            if hit is not None:
+            v = compact(v)
+            # A single word is only safe when no other card in the list starts with it.
+            if v == compact(norm(c["name"].split(" // ")[0]).split()[0]) and first_words.count(v) > 1:
+                continue
+            hits = [m.start() for m in re.finditer(re.escape(v), stream)]
+            if hits:
                 break
-        if hit is None:
+        if not hits:
             missing.append(c["name"])
             continue
-        times[c["name"]] = max(0, hit - 3)  # Start a few seconds early.
-        start = hit
+        # Prefer the mention where the host introduces the card ("…is five in a black
+        # for a…"), and skip the cold open at the start of the video.
+        intro = [p for p in hits if time_at(p) >= COLD_OPEN and INTRO.search(stream, p, p + 220)]
+        later = [p for p in hits if time_at(p) >= COLD_OPEN]
+        best, kind = (intro[0], "intro") if intro else (later[0], "mention") if later else (hits[0], "cold open")
+        times[c["name"]] = max(0, time_at(best) - 3)  # Start a few seconds early.
+        how[c["name"]] = kind
+    times = dict(sorted(times.items(), key=lambda kv: kv[1]))
 
     out = DATA / "timestamps" / f"{slug}.json"
     out.parent.mkdir(exist_ok=True)
@@ -132,8 +168,10 @@ def main():
     (DATA / "tierlists.json").write_text(json.dumps(manifest, indent=2) + "\n")
 
     print(f"Placed {len(times)} of {len(cards)} cards. Wrote {out.relative_to(ROOT)}.")
+    print("Check the ones marked 'mention': the script found the name, but not the usual introduction.")
+    order = {c["name"]: c["order"] for c in cards}
     for name, t in times.items():
-        print(f"  {t // 60:>3}:{t % 60:02d}  {name}")
+        print(f"  {t // 60:>3}:{t % 60:02d}  {how[name]:<9} #{order[name]:<3} {name}")
     if missing:
         print("Not found (add by hand):")
         for n in missing:

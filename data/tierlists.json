@@ -10,11 +10,13 @@
   },
   {
     "file": "green-5-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=QZau4pdFJcE"
+    "youtube": "https://www.youtube.com/watch?v=QZau4pdFJcE",
+    "timestamps": true
   },
   {
     "file": "red-5-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=XUCjwyhTINg"
+    "youtube": "https://www.youtube.com/watch?v=XUCjwyhTINg",
+    "timestamps": true
   },
   {
     "file": "white-1-drops.json",
@@ -22,7 +24,8 @@
   },
   {
     "file": "black-5-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=noRm5lM7FCs"
+    "youtube": "https://www.youtube.com/watch?v=noRm5lM7FCs",
+    "timestamps": true
   },
   {
     "file": "blue-5-drops.json",
