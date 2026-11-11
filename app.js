@@ -254,7 +254,7 @@
       quick.innerHTML = !q.value.trim() ? "" : !r.length ? `<p>Not tier listed yet.</p>`
         : r.slice(0, 8).map((x) => {
           const e = x.entries[0];
-          return `<a href="#/tierlist/${e.list.slug}?card=${encodeURIComponent(x.name)}"><span>${esc(x.name)}</span>${gpill(e.card)}</a>`;
+          return `<button type="button" data-card="${esc(x.name)}" data-preview><span>${esc(x.name)}</span>${gpill(e.card)}</button>`;
         }).join("") + (r.length > 8 ? `<a href="#/search?q=${encodeURIComponent(q.value)}"><span class="more">All ${r.length} results</span></a>` : "");
     }, 120));
     document.getElementById("home-search").addEventListener("submit", (e) => {
@@ -460,7 +460,7 @@
         const info = cardInfo(r.name);
         return `<article class="result">
           <button class="thumbbtn" data-card="${esc(r.name)}" aria-label="Show ${esc(r.name)}">${imgHTML(r.name, "small")}</button>
-          <div><h3>${esc(r.name)}</h3>${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}<div class="apps">${appearancesHTML(r.entries)}</div></div>
+          <div><h3><button type="button" class="name-btn" data-card="${esc(r.name)}" data-preview>${esc(r.name)}</button></h3>${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}<div class="apps">${appearancesHTML(r.entries)}</div></div>
         </article>`;
       }).join("")}</div>`;
   }
@@ -491,6 +491,58 @@
   const preview = document.getElementById("hover-preview");
   const hidePreview = () => { preview.hidden = true; };
 
+  /* ---------- Printings and shop links ---------- */
+
+  // All paper printings of a card, oldest first, from Scryfall. Fetched only when a
+  // visitor opens a card, and kept in memory for the visit.
+  const printsCache = new Map();
+  function loadPrintings(name) {
+    const front = name.split(" // ")[0];
+    if (!printsCache.has(front)) {
+      const q = new URLSearchParams({ q: `!"${front}" game:paper`, unique: "prints", order: "released", dir: "asc" });
+      printsCache.set(front, fetch(`https://api.scryfall.com/cards/search?${q}`)
+        .then((r) => (r.ok ? r.json() : Promise.reject(new Error(r.status))))
+        .then((d) => d.data.map((c) => {
+          const face = c.image_uris || c.card_faces?.[0]?.image_uris || {};
+          const back = c.card_faces?.[1]?.image_uris || null;
+          return {
+            set: c.set, setName: c.set_name, num: c.collector_number, date: c.released_at,
+            image: face.large || face.normal || "", back: back?.large || back?.normal || "",
+            usd: c.prices?.usd, usdFoil: c.prices?.usd_foil, eur: c.prices?.eur,
+            tcgplayerId: c.tcgplayer_id, cardmarketId: c.cardmarket_id, scryfall: c.scryfall_uri,
+          };
+        }))
+        .catch((err) => { printsCache.delete(front); throw err; }));
+    }
+    return printsCache.get(front);
+  }
+
+  // Wrap a shop URL with the affiliate link from data/site.json, if one is set.
+  // The template uses {url} for the encoded product URL.
+  function shopUrl(shop, url) {
+    const tpl = state.site.shops?.[shop]?.affiliate;
+    return tpl ? tpl.replace("{url}", encodeURIComponent(url)) : url;
+  }
+
+  function shopLinks(name, p) {
+    const out = [];
+    const tcg = p?.tcgplayerId
+      ? `https://www.tcgplayer.com/product/${p.tcgplayerId}`
+      : `https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=${encodeURIComponent(name.split(" // ")[0])}`;
+    out.push(`<a class="btn-cta" href="${esc(shopUrl("tcgplayer", tcg))}" target="_blank" rel="noopener sponsored">Buy on TCGplayer</a>`);
+    if (p?.cardmarketId) {
+      const cm = `https://www.cardmarket.com/en/Magic/Products?idProduct=${p.cardmarketId}`;
+      out.push(`<a class="btn-tile" href="${esc(shopUrl("cardmarket", cm))}" target="_blank" rel="noopener sponsored">Cardmarket</a>`);
+    }
+    return out.join("");
+  }
+
+  const money = (v, sign) => (v ? `${sign}${Number(v).toFixed(2)}` : "");
+  function priceLine(p) {
+    const parts = [money(p.usd, "$"), money(p.usdFoil, "$") && `foil ${money(p.usdFoil, "$")}`, money(p.eur, "€")].filter(Boolean);
+    return parts.length ? parts.join(" · ") : "No price data";
+  }
+
   function openCard(name) {
     const entry = state.index.get(norm(name));
     if (!entry) return;
@@ -506,16 +558,48 @@
         ${info ? `<div class="type">${esc(info.type_line)}<br>Shown: ${esc(info.set_name)} (${esc(info.set.toUpperCase())}) #${esc(info.collector_number)}</div>` : ""}
         <span class="label">Our grades</span>
         <div class="apps">${appearancesHTML(entry.entries)}</div>
-        ${info?.scryfall_uri ? `<p style="margin-top:18px"><a href="${esc(info.scryfall_uri)}" target="_blank" rel="noopener">View on Scryfall ↗</a></p>` : ""}
+        <div class="buy">
+          <label class="label" for="printing">Printing</label>
+          <select id="printing" disabled><option>${info ? `${esc(info.set_name)} (${esc(info.set.toUpperCase())}) #${esc(info.collector_number)}` : "Loading printings…"}</option></select>
+          <div class="price mono" id="price">Loading prices…</div>
+          <div class="shop-row" id="shops">${shopLinks(entry.name, null)}</div>
+          <p class="fine mono">Prices from <a id="sf-link" href="${esc(info?.scryfall_uri || "https://scryfall.com")}" target="_blank" rel="noopener">Scryfall</a>, updated daily. Shop links may earn us a commission.</p>
+        </div>
       </div>`;
+    // The printing on screen. Starts as the site's printing (the first paper printing).
+    let cur = { image: info?.image?.large || "", back: info?.back_image?.large || "" };
+    let back = false;
+    const bigImg = () => modalBody.querySelector(".big img");
     const flip = document.getElementById("flip");
-    if (flip) {
-      let back = false;
-      flip.addEventListener("click", () => {
-        back = !back;
-        modalBody.querySelector(".big img").src = back ? info.back_image.large : info.image.large;
-      });
-    }
+    if (flip) flip.addEventListener("click", () => {
+      back = !back;
+      if (bigImg()) bigImg().src = back && cur.back ? cur.back : cur.image;
+    });
+
+    const sel = document.getElementById("printing");
+    const show = (p) => {
+      cur = p;
+      back = false;
+      if (bigImg() && p.image) bigImg().src = p.image;
+      document.getElementById("price").textContent = priceLine(p);
+      document.getElementById("shops").innerHTML = shopLinks(entry.name, p);
+      if (p.scryfall) document.getElementById("sf-link").href = p.scryfall;
+    };
+    loadPrintings(entry.name).then((prints) => {
+      // Stop if the visitor closed this popup or opened another card meanwhile.
+      if (modal.hidden || document.getElementById("printing") !== sel || !prints.length) return;
+      const start = Math.max(0, prints.findIndex((p) => info && p.set === info.set && p.num === info.collector_number));
+      sel.innerHTML = prints.map((p, i) =>
+        `<option value="${i}"${i === start ? " selected" : ""}>${esc(p.setName)} (${esc(p.set.toUpperCase())}) #${esc(p.num)} · ${esc((p.date || "").slice(0, 4))}${p.usd ? ` · $${Number(p.usd).toFixed(2)}` : ""}</option>`).join("");
+      sel.disabled = prints.length < 2;
+      sel.previousElementSibling.textContent = `Printing (${prints.length})`;
+      sel.addEventListener("change", () => show(prints[Number(sel.value)]));
+      show(prints[start]);
+    }).catch(() => {
+      if (document.getElementById("printing") !== sel) return;
+      document.getElementById("price").textContent = "Could not load printings right now.";
+    });
+
     modal.hidden = false;
     modal.querySelector(".modal-close").focus();
   }

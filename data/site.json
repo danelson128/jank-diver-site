@@ -4,5 +4,13 @@
   "links": {
     "YouTube": "https://www.youtube.com/@JankDiverGaming",
     "Discord": "https://discord.gg/zrHucCzpn"
+  },
+  "shops": {
+    "tcgplayer": {
+      "affiliate": ""
+    },
+    "cardmarket": {
+      "affiliate": ""
+    }
   }
 }

@@ -89,6 +89,23 @@ If the script picks the wrong printing, add the card to `data/card-overrides.jso
 { "Mother of Runes": { "set": "ulg", "collector_number": "14" } }
 ```
 
+## Printings and shop links
+
+The card popup lists every paper printing of the card, with Scryfall prices. The visitor's browser gets this list from Scryfall when they open a card. Each printing links to its TCGplayer and Cardmarket product page.
+
+To earn affiliate commission, put your affiliate link template in `shops` in `data/site.json`. Use `{url}` where the product URL goes. The site fills it in, URL-encoded:
+
+```json
+"shops": {
+  "tcgplayer": { "affiliate": "https://partner.tcgplayer.com/c/YOUR_ID/YOUR_AD_ID/21018?u={url}" },
+  "cardmarket": { "affiliate": "" }
+}
+```
+
+Use the exact link format your affiliate program gives you. With an empty `affiliate`, the links go straight to the shop with no affiliate code.
+
+Do not use the "purchase" links from the Scryfall API: they contain Scryfall's own affiliate code.
+
 ## Look and feel
 
 All colors and fonts are CSS variables at the top of `styles.css`. To change the accent color, edit `--accent` (and `--accent-soft`, the same color at low opacity).
