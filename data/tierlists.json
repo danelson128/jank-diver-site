@@ -30,7 +30,8 @@
   },
   {
     "file": "blue-5-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=2Ooo8g14u_A"
+    "youtube": "https://www.youtube.com/watch?v=2Ooo8g14u_A",
+    "timestamps": true
   },
   {
     "file": "reality-fracture-set-review.json",
@@ -44,15 +45,18 @@
   },
   {
     "file": "green-1-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=B8Az6PzDg9I"
+    "youtube": "https://www.youtube.com/watch?v=B8Az6PzDg9I",
+    "timestamps": true
   },
   {
     "file": "red-1-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=yMQnSn4wtyI"
+    "youtube": "https://www.youtube.com/watch?v=yMQnSn4wtyI",
+    "timestamps": true
   },
   {
     "file": "the-hobbit-set-review.json",
-    "youtube": "https://www.youtube.com/watch?v=YDKc9o2VjNQ"
+    "youtube": "https://www.youtube.com/watch?v=YDKc9o2VjNQ",
+    "timestamps": true
   },
   {
     "file": "black-1-drops.json",
@@ -64,7 +68,8 @@
   },
   {
     "file": "orzhov-guild-cards.json",
-    "youtube": "https://www.youtube.com/watch?v=RZ-vRLa6Pwc"
+    "youtube": "https://www.youtube.com/watch?v=RZ-vRLa6Pwc",
+    "timestamps": true
   },
   {
     "file": "blue-1-drops.json",

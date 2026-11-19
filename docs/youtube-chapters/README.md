@@ -12,8 +12,13 @@ Each `.txt` file in this folder is a list of chapters for one video: one line pe
 | [O-Rings & Aura-Farming (White Artifacts/Enchantments)](https://youtu.be/AujFwgO0oRw) | `white-noncreature-permanents.txt` |
 | [Reality Fracture Review (Jank Tank Ep. 72)](https://youtu.be/DwuLZHtjvYQ) | `reality-fracture-set-review.txt` |
 | [White's Best Curve-Toppers (White Top-End)](https://youtu.be/05gsm7N5V4c) | `white-5-drops.txt` |
+| [Big Blue Bangers (Blue Top-End)](https://youtu.be/2Ooo8g14u_A) | `blue-5-drops.txt` |
+| [Mox Emerald Wannabes (Green 1-Drops)](https://youtu.be/B8Az6PzDg9I) | `green-1-drops.txt` |
+| [It's Not All Black & White With Orzhov](https://youtu.be/RZ-vRLa6Pwc) | `orzhov-guild-cards.txt` |
+| [Red Hot Ones (Red 1-Drops)](https://youtu.be/yMQnSn4wtyI) | `red-1-drops.txt` |
+| [An Unexpected Journey with The Hobbit (Jank Tank Ep. 70)](https://youtu.be/YDKc9o2VjNQ) | `the-hobbit-set-review.txt` |
 
-**Reality Fracture already has chapters on YouTube.** They seem to be YouTube's automatic chapters: the card names are spelled loosely, and after about 1:45 the times drift up to 10 minutes from where each card is actually introduced. The file here replaces them with exact times.
+**Some videos already have chapters on YouTube** (for example Reality Fracture, The Hobbit and Orzhov). They seem to be YouTube's automatic chapters: the card names are spelled loosely, and in long videos the times drift several minutes away from where each card is actually introduced. The files here replace them with exact times.
 
 ## How to add the chapters (about 1 minute per video)
 
