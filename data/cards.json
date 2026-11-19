@@ -265,6 +265,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/woe/160/agathas-champion?utm_source=api"
  },
+ "agent 13, sharon carter": {
+  "name": "Agent 13, Sharon Carter",
+  "wanted": "Agent 13, Sharon Carter",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "1",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Spy Hero",
+  "color_identity": [
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1783902979",
+   "large": "https://cards.scryfall.io/large/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1783902979",
+   "small": "https://cards.scryfall.io/small/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1783902979"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/1/agent-13-sharon-carter?utm_source=api"
+ },
  "ajani fells the godsire": {
   "name": "Ajani Fells the Godsire",
   "wanted": "Ajani Fells the Godsire",
@@ -574,6 +596,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/cmr/216/annoyed-altisaur?utm_source=api"
+ },
+ "ant-man, reformed rogue": {
+  "name": "Ant-Man, Reformed Rogue",
+  "wanted": "Ant-Man, Reformed Rogue",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "739",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G/U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Rogue Hero",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/7/777bc602-3c8d-43a1-812f-2103dc26b635.jpg?1783903034",
+   "large": "https://cards.scryfall.io/large/front/7/7/777bc602-3c8d-43a1-812f-2103dc26b635.jpg?1783903034",
+   "small": "https://cards.scryfall.io/small/front/7/7/777bc602-3c8d-43a1-812f-2103dc26b635.jpg?1783903034"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/739/ant-man-reformed-rogue?utm_source=api"
  },
  "appa, loyal sky bison": {
   "name": "Appa, Loyal Sky Bison",
@@ -885,6 +930,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dom/44/artificers-assistant?utm_source=api"
+ },
+ "asgardian inspiration": {
+  "name": "Asgardian Inspiration",
+  "wanted": "Asgardian Inspiration",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "678",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{R}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/d/1/d1fe7eef-2636-484f-b476-4dc9c9dbfddd.jpg?1783903053",
+   "large": "https://cards.scryfall.io/large/front/d/1/d1fe7eef-2636-484f-b476-4dc9c9dbfddd.jpg?1783903053",
+   "small": "https://cards.scryfall.io/small/front/d/1/d1fe7eef-2636-484f-b476-4dc9c9dbfddd.jpg?1783903053"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/678/asgardian-inspiration?utm_source=api"
  },
  "ash, party crasher": {
   "name": "Ash, Party Crasher",
@@ -1733,6 +1800,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/j25/51/braulios-of-pheres-band?utm_source=api"
  },
+ "brawn, amadeus cho": {
+  "name": "Brawn, Amadeus Cho",
+  "wanted": "Brawn, Amadeus Cho",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "567",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G/U}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Gamma Scientist Hero",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/1/813ef553-28f2-46d5-b14b-76ebcbe061d4.jpg?1783903093",
+   "large": "https://cards.scryfall.io/large/front/8/1/813ef553-28f2-46d5-b14b-76ebcbe061d4.jpg?1783903093",
+   "small": "https://cards.scryfall.io/small/front/8/1/813ef553-28f2-46d5-b14b-76ebcbe061d4.jpg?1783903093"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/567/brawn-amadeus-cho?utm_source=api"
+ },
  "break under pressure": {
   "name": "Break Under Pressure",
   "wanted": "Break Under Pressure",
@@ -1823,6 +1913,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api"
+ },
+ "bullseye, death dealer": {
+  "name": "Bullseye, Death Dealer",
+  "wanted": "Bullseye, Death Dealer",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "209",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B/R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Assassin Villain",
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/d/fd1f0b5f-5e0e-4da1-ab54-a62db5af3591.jpg?1783902903",
+   "large": "https://cards.scryfall.io/large/front/f/d/fd1f0b5f-5e0e-4da1-ab54-a62db5af3591.jpg?1783902903",
+   "small": "https://cards.scryfall.io/small/front/f/d/fd1f0b5f-5e0e-4da1-ab54-a62db5af3591.jpg?1783902903"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/209/bullseye-death-dealer?utm_source=api"
  },
  "burn, burn, tree and fern": {
   "name": "Burn, Burn, Tree and Fern",
@@ -1934,6 +2047,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/lci/226/caparocti-sunborn?utm_source=api"
+ },
+ "captain america, living legend": {
+  "name": "Captain America, Living Legend",
+  "wanted": "Captain America, Living Legend",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "210",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}{U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Soldier Hero",
+  "color_identity": [
+   "U",
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/5/6516f292-469d-4092-b099-97c698f373cd.jpg?1783902903",
+   "large": "https://cards.scryfall.io/large/front/6/5/6516f292-469d-4092-b099-97c698f373cd.jpg?1783902903",
+   "small": "https://cards.scryfall.io/small/front/6/5/6516f292-469d-4092-b099-97c698f373cd.jpg?1783902903"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/210/captain-america-living-legend?utm_source=api"
  },
  "captain mar-vell, space-born": {
   "name": "Captain Mar-Vell, Space-Born",
@@ -2567,6 +2703,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/lci/49/cogwork-wrestler?utm_source=api"
  },
+ "colleen wing, street samurai": {
+  "name": "Colleen Wing, Street Samurai",
+  "wanted": "Colleen Wing, Street Samurai",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "13",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Samurai Hero",
+  "color_identity": [
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/b/8bffc505-608e-4a5b-9ed9-2321e4cab484.jpg?1783902974",
+   "large": "https://cards.scryfall.io/large/front/8/b/8bffc505-608e-4a5b-9ed9-2321e4cab484.jpg?1783902974",
+   "small": "https://cards.scryfall.io/small/front/8/b/8bffc505-608e-4a5b-9ed9-2321e4cab484.jpg?1783902974"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/13/colleen-wing-street-samurai?utm_source=api"
+ },
  "colossal dreadmask": {
   "name": "Colossal Dreadmask",
   "wanted": "Colossal Dreadmask",
@@ -3192,6 +3350,50 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fra/196/danitha-sword-of-hope?utm_source=api"
+ },
+ "daredevil's billy club": {
+  "name": "Daredevil's Billy Club",
+  "wanted": "Daredevil's Billy Club",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "686",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Artifact — Equipment",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/7/7742bad6-cfba-4c06-b0a6-8c2a91a4ceb8.jpg?1783903052",
+   "large": "https://cards.scryfall.io/large/front/7/7/7742bad6-cfba-4c06-b0a6-8c2a91a4ceb8.jpg?1783903052",
+   "small": "https://cards.scryfall.io/small/front/7/7/7742bad6-cfba-4c06-b0a6-8c2a91a4ceb8.jpg?1783903052"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/686/daredevils-billy-club?utm_source=api"
+ },
+ "dark deed": {
+  "name": "Dark Deed",
+  "wanted": "Dark Deed",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "93",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/4/9/49e36cac-3999-40b3-91b3-85af4fded679.jpg?1783902948",
+   "large": "https://cards.scryfall.io/large/front/4/9/49e36cac-3999-40b3-91b3-85af4fded679.jpg?1783902948",
+   "small": "https://cards.scryfall.io/small/front/4/9/49e36cac-3999-40b3-91b3-85af4fded679.jpg?1783902948"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/93/dark-deed?utm_source=api"
  },
  "data, new life": {
   "name": "Data, New Life",
@@ -4204,6 +4406,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/gpt/111/electrolyze?utm_source=api"
  },
+ "elektra, femme fatale": {
+  "name": "Elektra, Femme Fatale",
+  "wanted": "Elektra, Femme Fatale",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "687",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Assassin Hero",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/a/8/a89e2707-33eb-40b1-a883-bab02995da21.jpg?1783903051",
+   "large": "https://cards.scryfall.io/large/front/a/8/a89e2707-33eb-40b1-a883-bab02995da21.jpg?1783903051",
+   "small": "https://cards.scryfall.io/small/front/a/8/a89e2707-33eb-40b1-a883-bab02995da21.jpg?1783903051"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/687/elektra-femme-fatale?utm_source=api"
+ },
  "elite interceptor // rejoinder": {
   "name": "Elite Interceptor // Rejoinder",
   "wanted": "Elite Interceptor // Rejoinder",
@@ -4802,6 +5026,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/rav/16/faiths-fetters?utm_source=api"
+ },
+ "falcon's wing harness": {
+  "name": "Falcon's Wing Harness",
+  "wanted": "Falcon's Wing Harness",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "53",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Artifact — Equipment",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/2/0/20e93f86-9e20-4e08-9bf7-ae6ebebf6876.jpg?1783902960",
+   "large": "https://cards.scryfall.io/large/front/2/0/20e93f86-9e20-4e08-9bf7-ae6ebebf6876.jpg?1783902960",
+   "small": "https://cards.scryfall.io/small/front/2/0/20e93f86-9e20-4e08-9bf7-ae6ebebf6876.jpg?1783902960"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/53/falcons-wing-harness?utm_source=api"
  },
  "falcon, winged wonder": {
   "name": "Falcon, Winged Wonder",
@@ -6046,6 +6292,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/neo/185/generous-visitor?utm_source=api"
  },
+ "gert and old lace, runaways": {
+  "name": "Gert and Old Lace, Runaways",
+  "wanted": "Gert and Old Lace, Runaways",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "568",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R/G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Dinosaur Hero",
+  "color_identity": [
+   "G",
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/e/7e4030ce-1574-4d1d-969a-6aa8ce6b89c3.jpg?1783903094",
+   "large": "https://cards.scryfall.io/large/front/7/e/7e4030ce-1574-4d1d-969a-6aa8ce6b89c3.jpg?1783903094",
+   "small": "https://cards.scryfall.io/small/front/7/e/7e4030ce-1574-4d1d-969a-6aa8ce6b89c3.jpg?1783903094"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/568/gert-and-old-lace-runaways?utm_source=api"
+ },
  "ghalta the unstoppable": {
   "name": "Ghalta the Unstoppable",
   "wanted": "Ghalta the Unstoppable",
@@ -6805,6 +7074,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/snc/108/goldhound?utm_source=api"
  },
+ "goliath, mass manipulator": {
+  "name": "Goliath, Mass Manipulator",
+  "wanted": "Goliath, Mass Manipulator",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "766",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Scientist Hero",
+  "color_identity": [
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/8/78216454-a0d5-4b4d-bd72-b96c742202b4.jpg?1783903023",
+   "large": "https://cards.scryfall.io/large/front/7/8/78216454-a0d5-4b4d-bd72-b96c742202b4.jpg?1783903023",
+   "small": "https://cards.scryfall.io/small/front/7/8/78216454-a0d5-4b4d-bd72-b96c742202b4.jpg?1783903023"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/766/goliath-mass-manipulator?utm_source=api"
+ },
  "gollum the abandoned": {
   "name": "Gollum the Abandoned",
   "wanted": "Gollum the Abandoned",
@@ -7291,6 +7582,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/woe/173/hamlet-glutton?utm_source=api"
  },
+ "hammerhead, maggia boss": {
+  "name": "Hammerhead, Maggia Boss",
+  "wanted": "Hammerhead, Maggia Boss",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "659",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Rogue Villain",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/d/6db3ce7b-2d31-4cee-bc4a-966b12643759.jpg?1783903063",
+   "large": "https://cards.scryfall.io/large/front/6/d/6db3ce7b-2d31-4cee-bc4a-966b12643759.jpg?1783903063",
+   "small": "https://cards.scryfall.io/small/front/6/d/6db3ce7b-2d31-4cee-bc4a-966b12643759.jpg?1783903063"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/659/hammerhead-maggia-boss?utm_source=api"
+ },
  "hapatra, the desert frost": {
   "name": "Hapatra, the Desert Frost",
   "wanted": "Hapatra, the Desert Frost",
@@ -7694,6 +8007,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/m19/217/heroic-reinforcements?utm_source=api"
  },
+ "hex magic": {
+  "name": "Hex Magic",
+  "wanted": "Hex Magic",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "133",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Sorcery — Arcane",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/2/5/259bed47-1950-43ae-8efd-3009537529a8.jpg?1783902932",
+   "large": "https://cards.scryfall.io/large/front/2/5/259bed47-1950-43ae-8efd-3009537529a8.jpg?1783902932",
+   "small": "https://cards.scryfall.io/small/front/2/5/259bed47-1950-43ae-8efd-3009537529a8.jpg?1783902932"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/133/hex-magic?utm_source=api"
+ },
  "hidden stockpile": {
   "name": "Hidden Stockpile",
   "wanted": "Hidden Stockpile",
@@ -8092,6 +8427,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/blb/98/huskburster-swarm?utm_source=api"
+ },
+ "hydra troopers": {
+  "name": "HYDRA Troopers",
+  "wanted": "HYDRA Troopers",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "101",
+  "released": "2026-06-26",
+  "rarity": "common",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Human Soldier Villain",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/4/0/40c202f1-6e0d-42f4-a41e-e0be3362d585.jpg?1783902942",
+   "large": "https://cards.scryfall.io/large/front/4/0/40c202f1-6e0d-42f4-a41e-e0be3362d585.jpg?1783902942",
+   "small": "https://cards.scryfall.io/small/front/4/0/40c202f1-6e0d-42f4-a41e-e0be3362d585.jpg?1783902942"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/101/hydra-troopers?utm_source=api"
  },
  "hypnotic grifter": {
   "name": "Hypnotic Grifter",
@@ -8536,6 +8893,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/kld/120/inventors-apprentice?utm_source=api"
  },
+ "iron fist, living weapon": {
+  "name": "Iron Fist, Living Weapon",
+  "wanted": "Iron Fist, Living Weapon",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "138",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Warrior Hero",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/c/5cc2d948-ac8b-4466-b604-3fabc0ab6bb9.jpg?1783902929",
+   "large": "https://cards.scryfall.io/large/front/5/c/5cc2d948-ac8b-4466-b604-3fabc0ab6bb9.jpg?1783902929",
+   "small": "https://cards.scryfall.io/small/front/5/c/5cc2d948-ac8b-4466-b604-3fabc0ab6bb9.jpg?1783902929"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/138/iron-fist-living-weapon?utm_source=api"
+ },
  "iron hills blacksmith": {
   "name": "Iron Hills Blacksmith",
   "wanted": "Iron Hills Blacksmith",
@@ -8669,6 +9048,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/khm/178/jaspera-sentinel?utm_source=api"
+ },
+ "jessica jones, private eye": {
+  "name": "Jessica Jones, Private Eye",
+  "wanted": "Jessica Jones, Private Eye",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "139",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Detective Hero",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/b/4/b48278fd-1d95-4ad6-9a51-f1c5a2ab9f4b.jpg?1783902929",
+   "large": "https://cards.scryfall.io/large/front/b/4/b48278fd-1d95-4ad6-9a51-f1c5a2ab9f4b.jpg?1783902929",
+   "small": "https://cards.scryfall.io/small/front/b/4/b48278fd-1d95-4ad6-9a51-f1c5a2ab9f4b.jpg?1783902929"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/139/jessica-jones-private-eye?utm_source=api"
  },
  "jet, freedom fighter": {
   "name": "Jet, Freedom Fighter",
@@ -8894,6 +9295,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/grn/182/justice-strike?utm_source=api"
+ },
+ "justice, vance astrovik": {
+  "name": "Justice, Vance Astrovik",
+  "wanted": "Justice, Vance Astrovik",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "61",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Mutant Hero",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/1/f1448731-d50e-4b9c-8eb2-3d85c21516c6.jpg?1783902956",
+   "large": "https://cards.scryfall.io/large/front/f/1/f1448731-d50e-4b9c-8eb2-3d85c21516c6.jpg?1783902956",
+   "small": "https://cards.scryfall.io/small/front/f/1/f1448731-d50e-4b9c-8eb2-3d85c21516c6.jpg?1783902956"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/61/justice-vance-astrovik?utm_source=api"
  },
  "ka-zar of the savage land": {
   "name": "Ka-Zar of the Savage Land",
@@ -9142,6 +9565,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/stx/197/killian-ink-duelist?utm_source=api"
  },
+ "killmonger, scourge of wakanda": {
+  "name": "Killmonger, Scourge of Wakanda",
+  "wanted": "Killmonger, Scourge of Wakanda",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "218",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Mercenary Villain",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/0/5060aa13-4b33-4b3a-8bdb-dd81308fa3e3.jpg?1783902900",
+   "large": "https://cards.scryfall.io/large/front/5/0/5060aa13-4b33-4b3a-8bdb-dd81308fa3e3.jpg?1783902900",
+   "small": "https://cards.scryfall.io/small/front/5/0/5060aa13-4b33-4b3a-8bdb-dd81308fa3e3.jpg?1783902900"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/218/killmonger-scourge-of-wakanda?utm_source=api"
+ },
  "kiora of fire and ashes": {
   "name": "Kiora of Fire and Ashes",
   "wanted": "Kiora of Fire and Ashes",
@@ -9208,6 +9654,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/trk/243/kirk-commanding-officer?utm_source=api"
+ },
+ "klaw, sonic subjugator": {
+  "name": "Klaw, Sonic Subjugator",
+  "wanted": "Klaw, Sonic Subjugator",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "103",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Rogue Villain",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/7/c79a86f8-24e9-49a2-8b1c-72a72fed1985.jpg?1783902943",
+   "large": "https://cards.scryfall.io/large/front/c/7/c79a86f8-24e9-49a2-8b1c-72a72fed1985.jpg?1783902943",
+   "small": "https://cards.scryfall.io/small/front/c/7/c79a86f8-24e9-49a2-8b1c-72a72fed1985.jpg?1783902943"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/103/klaw-sonic-subjugator?utm_source=api"
  },
  "knights of the black rose": {
   "name": "Knights of the Black Rose",
@@ -9801,6 +10269,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fra/274/mabel-valley-hero?utm_source=api"
+ },
+ "mach-1, swooping scoundrel": {
+  "name": "MACH-1, Swooping Scoundrel",
+  "wanted": "MACH-1, Swooping Scoundrel",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "662",
+  "released": "2026-06-26",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Artifact Creature — Human Villain",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/3/f3933900-a6f7-411c-be2a-96fe7c28f972.jpg?1783903060",
+   "large": "https://cards.scryfall.io/large/front/f/3/f3933900-a6f7-411c-be2a-96fe7c28f972.jpg?1783903060",
+   "small": "https://cards.scryfall.io/small/front/f/3/f3933900-a6f7-411c-be2a-96fe7c28f972.jpg?1783903060"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/662/mach-1-swooping-scoundrel?utm_source=api"
  },
  "madame masque": {
   "name": "Madame Masque",
@@ -10540,6 +11030,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api"
  },
+ "mister fantastic, reed richards": {
+  "name": "Mister Fantastic, Reed Richards",
+  "wanted": "Mister Fantastic, Reed Richards",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "66",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Scientist Hero",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/1/7/17ef068b-61fc-443d-97b0-1e41f2622425.jpg?1783902954",
+   "large": "https://cards.scryfall.io/large/front/1/7/17ef068b-61fc-443d-97b0-1e41f2622425.jpg?1783902954",
+   "small": "https://cards.scryfall.io/small/front/1/7/17ef068b-61fc-443d-97b0-1e41f2622425.jpg?1783902954"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/66/mister-fantastic-reed-richards?utm_source=api"
+ },
  "misty mountains raider": {
   "name": "Misty Mountains Raider",
   "wanted": "Misty Mountains Raider",
@@ -10628,6 +11140,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dft/171/molt-tender?utm_source=api"
+ },
+ "molten lavamancer": {
+  "name": "Molten Lavamancer",
+  "wanted": "Molten Lavamancer",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "699",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Creature — Elemental Warlock Villain",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/b/6b036661-a94c-46b6-aa8f-adff2ccc5b92.jpg?1783903047",
+   "large": "https://cards.scryfall.io/large/front/6/b/6b036661-a94c-46b6-aa8f-adff2ccc5b92.jpg?1783903047",
+   "small": "https://cards.scryfall.io/small/front/6/b/6b036661-a94c-46b6-aa8f-adff2ccc5b92.jpg?1783903047"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/699/molten-lavamancer?utm_source=api"
  },
  "molten monstrosity": {
   "name": "Molten Monstrosity",
@@ -10805,6 +11339,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/eoe/70/mouth-of-the-storm?utm_source=api"
+ },
+ "ms. marvel, elastic ally": {
+  "name": "Ms. Marvel, Elastic Ally",
+  "wanted": "Ms. Marvel, Elastic Ally",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "744",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G/W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Mutant Inhuman Hero",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/b/f/bf9ce355-f472-4f0f-8d8e-96df363e1b02.jpg?1783903031",
+   "large": "https://cards.scryfall.io/large/front/b/f/bf9ce355-f472-4f0f-8d8e-96df363e1b02.jpg?1783903031",
+   "small": "https://cards.scryfall.io/small/front/b/f/bf9ce355-f472-4f0f-8d8e-96df363e1b02.jpg?1783903031"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/744/ms-marvel-elastic-ally?utm_source=api"
  },
  "mugato": {
   "name": "Mugato",
@@ -11093,6 +11650,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/neo/71/network-disruptor?utm_source=api"
  },
+ "night nurse, healer of heroes": {
+  "name": "Night Nurse, Healer of Heroes",
+  "wanted": "Night Nurse, Healer of Heroes",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "26",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Doctor Hero",
+  "color_identity": [
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/1/3199907b-9f24-4554-942a-8ab5a7701717.jpg?1783902972",
+   "large": "https://cards.scryfall.io/large/front/3/1/3199907b-9f24-4554-942a-8ab5a7701717.jpg?1783902972",
+   "small": "https://cards.scryfall.io/small/front/3/1/3199907b-9f24-4554-942a-8ab5a7701717.jpg?1783902972"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/26/night-nurse-healer-of-heroes?utm_source=api"
+ },
  "no admittance": {
   "name": "No Admittance",
   "wanted": "No Admittance",
@@ -11312,6 +11891,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/akh/22/oketras-attendant?utm_source=api"
+ },
+ "okoye, dora milaje leader": {
+  "name": "Okoye, Dora Milaje Leader",
+  "wanted": "Okoye, Dora Milaje Leader",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "27",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{W}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Warrior Hero",
+  "color_identity": [
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/2/c/2c89acf5-20f0-4441-b96f-2c5cacd685fb.jpg?1783902970",
+   "large": "https://cards.scryfall.io/large/front/2/c/2c89acf5-20f0-4441-b96f-2c5cacd685fb.jpg?1783902970",
+   "small": "https://cards.scryfall.io/small/front/2/c/2c89acf5-20f0-4441-b96f-2c5cacd685fb.jpg?1783902970"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/27/okoye-dora-milaje-leader?utm_source=api"
  },
  "old hob, alleycat blues": {
   "name": "Old Hob, Alleycat Blues",
@@ -11754,6 +12355,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dmu/140/phoenix-chick?utm_source=api"
+ },
+ "photon blast barrage": {
+  "name": "Photon Blast Barrage",
+  "wanted": "Photon Blast Barrage",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "147",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{X}{R}{R}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "color_identity": [
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/8/f85a77d2-e11e-44bc-a1e7-d783cd49d714.jpg?1783902926",
+   "large": "https://cards.scryfall.io/large/front/f/8/f85a77d2-e11e-44bc-a1e7-d783cd49d714.jpg?1783902926",
+   "small": "https://cards.scryfall.io/small/front/f/8/f85a77d2-e11e-44bc-a1e7-d783cd49d714.jpg?1783902926"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/147/photon-blast-barrage?utm_source=api"
  },
  "phyrexian gargantua": {
   "name": "Phyrexian Gargantua",
@@ -12872,6 +13495,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/afr/160/red-dragon?utm_source=api"
  },
+ "red guardian, super-soldier": {
+  "name": "Red Guardian, Super-Soldier",
+  "wanted": "Red Guardian, Super-Soldier",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "34",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Soldier Villain",
+  "color_identity": [
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/0/c08f8163-319a-4a31-b15a-93974cacd5b7.jpg?1783902967",
+   "large": "https://cards.scryfall.io/large/front/c/0/c08f8163-319a-4a31-b15a-93974cacd5b7.jpg?1783902967",
+   "small": "https://cards.scryfall.io/small/front/c/0/c08f8163-319a-4a31-b15a-93974cacd5b7.jpg?1783902967"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/34/red-guardian-super-soldier?utm_source=api"
+ },
  "red hulk": {
   "name": "Red Hulk",
   "wanted": "Red Hulk",
@@ -12937,6 +13582,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fra/202/rescue-girl-first-responder?utm_source=api"
+ },
+ "rescue, pepper potts": {
+  "name": "Rescue, Pepper Potts",
+  "wanted": "Rescue, Pepper Potts",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "755",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Legendary Artifact Creature — Human Hero",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/4/7/476f75a4-a4e0-4d09-9756-f1001ebabc84.jpg?1783903026",
+   "large": "https://cards.scryfall.io/large/front/4/7/476f75a4-a4e0-4d09-9756-f1001ebabc84.jpg?1783903026",
+   "small": "https://cards.scryfall.io/small/front/4/7/476f75a4-a4e0-4d09-9756-f1001ebabc84.jpg?1783903026"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/755/rescue-pepper-potts?utm_source=api"
  },
  "resistance is futile": {
   "name": "Resistance Is Futile",
@@ -13250,6 +13917,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/ody/266/roar-of-the-wurm?utm_source=api"
+ },
+ "ronin, shadow stalker": {
+  "name": "Ronin, Shadow Stalker",
+  "wanted": "Ronin, Shadow Stalker",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "112",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Rogue Hero",
+  "color_identity": [
+   "B"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/7/f74b9794-946e-4ddc-93b2-5a321fc51fd0.jpg?1783902939",
+   "large": "https://cards.scryfall.io/large/front/f/7/f74b9794-946e-4ddc-93b2-5a321fc51fd0.jpg?1783902939",
+   "small": "https://cards.scryfall.io/small/front/f/7/f74b9794-946e-4ddc-93b2-5a321fc51fd0.jpg?1783902939"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/112/ronin-shadow-stalker?utm_source=api"
  },
  "room of refuge": {
   "name": "Room of Refuge",
@@ -13587,6 +14276,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/akh/105/ruthless-sniper?utm_source=api"
+ },
+ "s.h.i.e.l.d. deployment drone": {
+  "name": "S.H.I.E.L.D. Deployment Drone",
+  "wanted": "S.H.I.E.L.D. Deployment Drone",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "73",
+  "released": "2026-06-26",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Artifact Creature — Robot",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/3/c3d0f02f-dfaf-47b6-8053-514417f4dfe2.jpg?1783902953",
+   "large": "https://cards.scryfall.io/large/front/c/3/c3d0f02f-dfaf-47b6-8053-514417f4dfe2.jpg?1783902953",
+   "small": "https://cards.scryfall.io/small/front/c/3/c3d0f02f-dfaf-47b6-8053-514417f4dfe2.jpg?1783902953"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/73/shield-deployment-drone?utm_source=api"
  },
  "sacred fire": {
   "name": "Sacred Fire",
@@ -14255,6 +14966,28 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/khm/28/shepherd-of-the-cosmos?utm_source=api"
  },
+ "shi'ar soldier": {
+  "name": "Shi'ar Soldier",
+  "wanted": "Shi'ar Soldier",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "637",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Creature — Shi'ar Soldier",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1783903069",
+   "large": "https://cards.scryfall.io/large/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1783903069",
+   "small": "https://cards.scryfall.io/small/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1783903069"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/637/shiar-soldier?utm_source=api"
+ },
  "shinestriker": {
   "name": "Shinestriker",
   "wanted": "Shinestriker",
@@ -14410,6 +15143,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dsk/233/shroudstomper?utm_source=api"
+ },
+ "shuri, vibranium technologist": {
+  "name": "Shuri, Vibranium Technologist",
+  "wanted": "Shuri, Vibranium Technologist",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "746",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W/U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Artificer Hero",
+  "color_identity": [
+   "U",
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/3/33795ef2-2215-4a69-9127-25ef252db684.jpg?1783903030",
+   "large": "https://cards.scryfall.io/large/front/3/3/33795ef2-2215-4a69-9127-25ef252db684.jpg?1783903030",
+   "small": "https://cards.scryfall.io/small/front/3/3/33795ef2-2215-4a69-9127-25ef252db684.jpg?1783903030"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/746/shuri-vibranium-technologist?utm_source=api"
  },
  "sifter wurm": {
   "name": "Sifter Wurm",
@@ -15099,6 +15855,52 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/m20/76/spectral-sailor?utm_source=api"
  },
+ "speedball, new warrior": {
+  "name": "Speedball, New Warrior",
+  "wanted": "Speedball, New Warrior",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "227",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U/R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Hero",
+  "color_identity": [
+   "R",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/0/e040b456-9853-4e94-9bf8-9374888168bb.jpg?1783902897",
+   "large": "https://cards.scryfall.io/large/front/e/0/e040b456-9853-4e94-9bf8-9374888168bb.jpg?1783902897",
+   "small": "https://cards.scryfall.io/small/front/e/0/e040b456-9853-4e94-9bf8-9374888168bb.jpg?1783902897"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/227/speedball-new-warrior?utm_source=api"
+ },
+ "spider-man, to the rescue": {
+  "name": "Spider-Man, To the Rescue",
+  "wanted": "Spider-Man, To the Rescue",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "228",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G/W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Spider Human Hero",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/5/e5db6968-1ca3-46bd-8cf9-e2c411ab29c1.jpg?1783902898",
+   "large": "https://cards.scryfall.io/large/front/e/5/e5db6968-1ca3-46bd-8cf9-e2c411ab29c1.jpg?1783902898",
+   "small": "https://cards.scryfall.io/small/front/e/5/e5db6968-1ca3-46bd-8cf9-e2c411ab29c1.jpg?1783902898"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/228/spider-man-to-the-rescue?utm_source=api"
+ },
  "spinewoods armadillo": {
   "name": "Spinewoods Armadillo",
   "wanted": "Spinewoods Armadillo",
@@ -15457,6 +16259,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/msh/76/stature-size-shifter?utm_source=api"
+ },
+ "stature, young avenger": {
+  "name": "Stature, Young Avenger",
+  "wanted": "Stature, Young Avenger",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "571",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R/G}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Hero",
+  "color_identity": [
+   "G",
+   "R"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/2/624fe61d-d16f-40c3-a056-a42f7b06bb38.jpg?1783903092",
+   "large": "https://cards.scryfall.io/large/front/6/2/624fe61d-d16f-40c3-a056-a42f7b06bb38.jpg?1783903092",
+   "small": "https://cards.scryfall.io/small/front/6/2/624fe61d-d16f-40c3-a056-a42f7b06bb38.jpg?1783903092"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/571/stature-young-avenger?utm_source=api"
  },
  "steadfast unicorn": {
   "name": "Steadfast Unicorn",
@@ -16683,6 +17508,50 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/hob/115/tidings-of-war?utm_source=api"
  },
+ "tigra, feline fury": {
+  "name": "Tigra, Feline Fury",
+  "wanted": "Tigra, Feline Fury",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "191",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Cat Human Hero",
+  "color_identity": [
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/3/73c11aea-4fa4-438d-b886-2fafa60c82f9.jpg?1783902911",
+   "large": "https://cards.scryfall.io/large/front/7/3/73c11aea-4fa4-438d-b886-2fafa60c82f9.jpg?1783902911",
+   "small": "https://cards.scryfall.io/small/front/7/3/73c11aea-4fa4-438d-b886-2fafa60c82f9.jpg?1783902911"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/191/tigra-feline-fury?utm_source=api"
+ },
+ "timeline inquiry": {
+  "name": "Timeline Inquiry",
+  "wanted": "Timeline Inquiry",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "641",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/0/30a0db77-4427-42e5-b009-a1564cbe64c0.jpg?1783903067",
+   "large": "https://cards.scryfall.io/large/front/3/0/30a0db77-4427-42e5-b009-a1564cbe64c0.jpg?1783903067",
+   "small": "https://cards.scryfall.io/small/front/3/0/30a0db77-4427-42e5-b009-a1564cbe64c0.jpg?1783903067"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/641/timeline-inquiry?utm_source=api"
+ },
  "tinybones, pocket nuisance": {
   "name": "Tinybones, Pocket Nuisance",
   "wanted": "Tinybones, Pocket Nuisance",
@@ -16704,6 +17573,51 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fra/237/tinybones-pocket-nuisance?utm_source=api"
+ },
+ "tippy-toe, terrific partner": {
+  "name": "Tippy-Toe, Terrific Partner",
+  "wanted": "Tippy-Toe, Terrific Partner",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "734",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Squirrel Hero",
+  "color_identity": [
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/0/6082ab9f-290e-4230-84a0-46c7f8ed712d.jpg?1783903035",
+   "large": "https://cards.scryfall.io/large/front/6/0/6082ab9f-290e-4230-84a0-46c7f8ed712d.jpg?1783903035",
+   "small": "https://cards.scryfall.io/small/front/6/0/6082ab9f-290e-4230-84a0-46c7f8ed712d.jpg?1783903035"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/734/tippy-toe-terrific-partner?utm_source=api"
+ },
+ "titania, rugged rumbler": {
+  "name": "Titania, Rugged Rumbler",
+  "wanted": "Titania, Rugged Rumbler",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "235",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B/G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Villain",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/2/c281e0ee-155b-4022-b921-ebc391535aad.jpg?1783902896",
+   "large": "https://cards.scryfall.io/large/front/c/2/c281e0ee-155b-4022-b921-ebc391535aad.jpg?1783902896",
+   "small": "https://cards.scryfall.io/small/front/c/2/c281e0ee-155b-4022-b921-ebc391535aad.jpg?1783902896"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/235/titania-rugged-rumbler?utm_source=api"
  },
  "titanoth rex": {
   "name": "Titanoth Rex",
@@ -17773,6 +18687,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/trk/88/vulcan-mind-meld?utm_source=api"
  },
+ "wakandan tusker": {
+  "name": "Wakandan Tusker",
+  "wanted": "Wakandan Tusker",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "748",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G/W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Elephant",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/c/5c390e05-2f69-45af-9646-eded19d45dd8.jpg?1783903030",
+   "large": "https://cards.scryfall.io/large/front/5/c/5c390e05-2f69-45af-9646-eded19d45dd8.jpg?1783903030",
+   "small": "https://cards.scryfall.io/small/front/5/c/5c390e05-2f69-45af-9646-eded19d45dd8.jpg?1783903030"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/748/wakandan-tusker?utm_source=api"
+ },
  "waker of waves": {
   "name": "Waker of Waves",
   "wanted": "Waker of Waves",
@@ -18106,6 +19043,28 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/afr/41/white-dragon?utm_source=api"
+ },
+ "white tiger, ava ayala": {
+  "name": "White Tiger, Ava Ayala",
+  "wanted": "White Tiger, Ava Ayala",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "196",
+  "released": "2026-06-26",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Hero",
+  "color_identity": [
+   "G"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/1/c1589e2e-32a8-48b8-93eb-a9af344e7084.jpg?1783902908",
+   "large": "https://cards.scryfall.io/large/front/c/1/c1589e2e-32a8-48b8-93eb-a9af344e7084.jpg?1783902908",
+   "small": "https://cards.scryfall.io/small/front/c/1/c1589e2e-32a8-48b8-93eb-a9af344e7084.jpg?1783902908"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/196/white-tiger-ava-ayala?utm_source=api"
  },
  "wiccan, rising magician": {
   "name": "Wiccan, Rising Magician",

@@ -183,7 +183,10 @@
       .map(([k, url]) => `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener">${esc(k)}</a>`).join("");
   }
 
-  const bestFirst = (cards) => [...cards].sort((a, b) => gradeIndex(a) - gradeIndex(b) || rawMod(b) - rawMod(a) || a.order - b.order);
+  // Best grade first. Inside a grade: an optional "rank" (position on a hand-made tier
+  // image, lower is better), then the order the cards were reviewed in.
+  const bestFirst = (cards) => [...cards].sort((a, b) =>
+    gradeIndex(a) - gradeIndex(b) || rawMod(b) - rawMod(a) || (a.rank ?? 0) - (b.rank ?? 0) || a.order - b.order);
 
   /* ---------- Home ---------- */
 

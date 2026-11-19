@@ -1,0 +1,508 @@
+{
+  "title": "Marvel Super Heroes Set Review",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-06-10T00:00:00.000Z",
+  "count": 50,
+  "cards": [
+    {
+      "name": "Colleen Wing, Street Samurai",
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 25
+    },
+    {
+      "name": "Night Nurse, Healer of Heroes",
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 13
+    },
+    {
+      "name": "Agent 13, Sharon Carter",
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 28
+    },
+    {
+      "name": "Red Guardian, Super-Soldier",
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 8
+    },
+    {
+      "name": "Okoye, Dora Milaje Leader",
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 4
+    },
+    {
+      "name": "Kid Loki",
+      "collector_number": "63",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 18
+    },
+    {
+      "name": "Shi'ar Soldier",
+      "collector_number": "637",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 14
+    },
+    {
+      "name": "Rescue, Pepper Potts",
+      "collector_number": "755",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+",
+      "rank": 3
+    },
+    {
+      "name": "Justice, Vance Astrovik",
+      "collector_number": "61",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 6
+    },
+    {
+      "name": "S.H.I.E.L.D. Deployment Drone",
+      "collector_number": "73",
+      "rarity": "common",
+      "order": 9,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 39
+    },
+    {
+      "name": "Mister Fantastic, Reed Richards",
+      "collector_number": "66",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 26
+    },
+    {
+      "name": "Victor Timely, Wily Tycoon",
+      "collector_number": "642",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 11
+    },
+    {
+      "name": "Timeline Inquiry",
+      "collector_number": "641",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 34
+    },
+    {
+      "name": "Falcon's Wing Harness",
+      "collector_number": "53",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 48
+    },
+    {
+      "name": "Hammerhead, Maggia Boss",
+      "collector_number": "659",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 49
+    },
+    {
+      "name": "MACH-1, Swooping Scoundrel",
+      "collector_number": "662",
+      "rarity": "common",
+      "order": 15,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 24
+    },
+    {
+      "name": "Ronin, Shadow Stalker",
+      "collector_number": "112",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 37
+    },
+    {
+      "name": "HYDRA Troopers",
+      "collector_number": "101",
+      "rarity": "common",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 47
+    },
+    {
+      "name": "Klaw, Sonic Subjugator",
+      "collector_number": "103",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 30
+    },
+    {
+      "name": "Madame Masque",
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 33
+    },
+    {
+      "name": "Dark Deed",
+      "collector_number": "93",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 16
+    },
+    {
+      "name": "Intrepid Ace",
+      "collector_number": "691",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 27
+    },
+    {
+      "name": "Iron Fist, Living Weapon",
+      "collector_number": "138",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 45
+    },
+    {
+      "name": "Molten Lavamancer",
+      "collector_number": "699",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 46
+    },
+    {
+      "name": "Jessica Jones, Private Eye",
+      "collector_number": "139",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 44
+    },
+    {
+      "name": "Elektra, Femme Fatale",
+      "collector_number": "687",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 7
+    },
+    {
+      "name": "Asgardian Inspiration",
+      "collector_number": "678",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 36
+    },
+    {
+      "name": "Photon Blast Barrage",
+      "collector_number": "147",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 21
+    },
+    {
+      "name": "Hex Magic",
+      "collector_number": "133",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 43
+    },
+    {
+      "name": "Daredevil's Billy Club",
+      "collector_number": "686",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 15
+    },
+    {
+      "name": "Tigra, Feline Fury",
+      "collector_number": "191",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 32
+    },
+    {
+      "name": "White Tiger, Ava Ayala",
+      "collector_number": "196",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 31
+    },
+    {
+      "name": "Goliath, Mass Manipulator",
+      "collector_number": "766",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 12
+    },
+    {
+      "name": "Tippy-Toe, Terrific Partner",
+      "collector_number": "734",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 38
+    },
+    {
+      "name": "Ka-Zar of the Savage Land",
+      "collector_number": "174",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 17
+    },
+    {
+      "name": "Captain America, Living Legend",
+      "collector_number": "210",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 9
+    },
+    {
+      "name": "Shuri, Vibranium Technologist",
+      "collector_number": "746",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+",
+      "rank": 0
+    },
+    {
+      "name": "Killmonger, Scourge of Wakanda",
+      "collector_number": "218",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−",
+      "rank": 5
+    },
+    {
+      "name": "Titania, Rugged Rumbler",
+      "collector_number": "235",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 23
+    },
+    {
+      "name": "U.S.Agent, John Walker",
+      "collector_number": "236",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 41
+    },
+    {
+      "name": "Speedball, New Warrior",
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 35
+    },
+    {
+      "name": "Wakandan Tusker",
+      "collector_number": "748",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 10
+    },
+    {
+      "name": "Ms. Marvel, Elastic Ally",
+      "collector_number": "744",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 42
+    },
+    {
+      "name": "Spider-Man, To the Rescue",
+      "collector_number": "228",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 40
+    },
+    {
+      "name": "Brawn, Amadeus Cho",
+      "collector_number": "567",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S",
+      "rank": 1
+    },
+    {
+      "name": "Ant-Man, Reformed Rogue",
+      "collector_number": "739",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 20
+    },
+    {
+      "name": "Marvel Boy, Noh-Varr",
+      "collector_number": "743",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 29
+    },
+    {
+      "name": "Stature, Young Avenger",
+      "collector_number": "571",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 22
+    },
+    {
+      "name": "Gert and Old Lace, Runaways",
+      "collector_number": "568",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−",
+      "rank": 2
+    },
+    {
+      "name": "Bullseye, Death Dealer",
+      "collector_number": "209",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 19
+    }
+  ]
+}

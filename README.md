@@ -39,6 +39,8 @@ Then open http://localhost:8000. You must use a web server. If you open `index.h
    ```
    The script looks up only the cards it does not have yet. Use `--refresh` to look up all of them again.
 
+Cards with the same grade are shown in episode order (`order`). A card can also have an optional `"rank"` (lower is better) to set its position inside its grade. The Marvel Super Heroes list uses it to keep the left-to-right order of the original tier list image.
+
 The site uses the export's `exported` date as the episode date. To use a different date, add `"date": "2026-11-09"` to the entry in `data/tierlists.json`. You can also add `"description": "..."`.
 
 ## Add a video

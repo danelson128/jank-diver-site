@@ -70,5 +70,10 @@
   {
     "file": "izzet-guild-cards.json",
     "youtube": "https://www.youtube.com/watch?v=VFr1DmGyugE"
+  },
+  {
+    "file": "marvel-super-heroes-set-review.json",
+    "youtube": "https://www.youtube.com/watch?v=nniACJvJSs0",
+    "timestamps": true
   }
 ]
