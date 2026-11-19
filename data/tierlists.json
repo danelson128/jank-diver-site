@@ -1,7 +1,8 @@
 [
   {
     "file": "white-noncreature-permanents.json",
-    "youtube": "https://www.youtube.com/watch?v=AujFwgO0oRw"
+    "youtube": "https://www.youtube.com/watch?v=AujFwgO0oRw",
+    "timestamps": true
   },
   {
     "file": "star-trek-set-review.json",
@@ -33,11 +34,13 @@
   },
   {
     "file": "reality-fracture-set-review.json",
-    "youtube": "https://www.youtube.com/watch?v=DwuLZHtjvYQ"
+    "youtube": "https://www.youtube.com/watch?v=DwuLZHtjvYQ",
+    "timestamps": true
   },
   {
     "file": "white-5-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=05gsm7N5V4c"
+    "youtube": "https://www.youtube.com/watch?v=05gsm7N5V4c",
+    "timestamps": true
   },
   {
     "file": "green-1-drops.json",

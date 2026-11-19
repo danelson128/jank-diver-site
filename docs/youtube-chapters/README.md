@@ -9,6 +9,11 @@ Each `.txt` file in this folder is a list of chapters for one video: one line pe
 | [Fantastic Red Finishers (Red Top-End)](https://youtu.be/XUCjwyhTINg) | `red-5-drops.txt` |
 | [Big Black Battlecruisers (Black Top-End)](https://youtu.be/noRm5lM7FCs) | `black-5-drops.txt` |
 | [The Endgame of Marvel Super Heroes Reviews (Jank Tank Ep. 68)](https://youtu.be/nniACJvJSs0) | `marvel-super-heroes-set-review.txt` |
+| [O-Rings & Aura-Farming (White Artifacts/Enchantments)](https://youtu.be/AujFwgO0oRw) | `white-noncreature-permanents.txt` |
+| [Reality Fracture Review (Jank Tank Ep. 72)](https://youtu.be/DwuLZHtjvYQ) | `reality-fracture-set-review.txt` |
+| [White's Best Curve-Toppers (White Top-End)](https://youtu.be/05gsm7N5V4c) | `white-5-drops.txt` |
+
+**Reality Fracture already has chapters on YouTube.** They seem to be YouTube's automatic chapters: the card names are spelled loosely, and after about 1:45 the times drift up to 10 minutes from where each card is actually introduced. The file here replaces them with exact times.
 
 ## How to add the chapters (about 1 minute per video)
 
