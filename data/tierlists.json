@@ -21,7 +21,8 @@
   },
   {
     "file": "white-1-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=doHYjdl64RY"
+    "youtube": "https://www.youtube.com/watch?v=doHYjdl64RY",
+    "timestamps": true
   },
   {
     "file": "black-5-drops.json",
@@ -60,11 +61,13 @@
   },
   {
     "file": "black-1-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=jtuIA7t7hi8"
+    "youtube": "https://www.youtube.com/watch?v=jtuIA7t7hi8",
+    "timestamps": true
   },
   {
     "file": "boros-guild-cards.json",
-    "youtube": "https://www.youtube.com/watch?v=17cpXLwPexw"
+    "youtube": "https://www.youtube.com/watch?v=17cpXLwPexw",
+    "timestamps": true
   },
   {
     "file": "orzhov-guild-cards.json",
@@ -73,11 +76,13 @@
   },
   {
     "file": "blue-1-drops.json",
-    "youtube": "https://www.youtube.com/watch?v=Tgix8E4bQP8"
+    "youtube": "https://www.youtube.com/watch?v=Tgix8E4bQP8",
+    "timestamps": true
   },
   {
     "file": "izzet-guild-cards.json",
-    "youtube": "https://www.youtube.com/watch?v=VFr1DmGyugE"
+    "youtube": "https://www.youtube.com/watch?v=VFr1DmGyugE",
+    "timestamps": true
   },
   {
     "file": "marvel-super-heroes-set-review.json",

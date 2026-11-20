@@ -17,6 +17,11 @@ Each `.txt` file in this folder is a list of chapters for one video: one line pe
 | [It's Not All Black & White With Orzhov](https://youtu.be/RZ-vRLa6Pwc) | `orzhov-guild-cards.txt` |
 | [Red Hot Ones (Red 1-Drops)](https://youtu.be/yMQnSn4wtyI) | `red-1-drops.txt` |
 | [An Unexpected Journey with The Hobbit (Jank Tank Ep. 70)](https://youtu.be/YDKc9o2VjNQ) | `the-hobbit-set-review.txt` |
+| [White Creatures Don't Look At Explosions (White 1-Drops)](https://youtu.be/doHYjdl64RY) | `white-1-drops.txt` |
+| [A New S-Tier 1-Drop Has Appeared! (Black 1-Drops)](https://youtu.be/jtuIA7t7hi8) | `black-1-drops.txt` |
+| [No Thinking, Just Attacking (Boros)](https://youtu.be/17cpXLwPexw) | `boros-guild-cards.txt` |
+| [The One With All The Flying Men (Blue 1-Drops)](https://youtu.be/Tgix8E4bQP8) | `blue-1-drops.txt` |
+| [Spellslinger's Best Friends (Izzet)](https://youtu.be/VFr1DmGyugE) | `izzet-guild-cards.txt` |
 
 **Some videos already have chapters on YouTube** (for example Reality Fracture, The Hobbit and Orzhov). They seem to be YouTube's automatic chapters: the card names are spelled loosely, and in long videos the times drift several minutes away from where each card is actually introduced. The files here replace them with exact times.
 
