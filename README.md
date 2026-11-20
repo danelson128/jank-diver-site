@@ -118,8 +118,10 @@ All colors and fonts are CSS variables at the top of `styles.css`. To change the
 
 The first version of the ranking game is saved on the `archive/this-or-that` branch, with notes in `docs/this-or-that.md`. It needs a backend to store votes before it can come back.
 
-## Put the site online (GitHub Pages)
+## Where the site is hosted
 
-1. Push this folder to a GitHub repository.
-2. In the repository, open **Settings → Pages**. Set the source to the `main` branch, root folder.
-3. The site is live at `https://<your-account>.github.io/<repo>/` in a few minutes.
+The site is live at **https://jankdivergaming.com**, served by GitHub Pages from the `main` branch (root folder) of this repository. Every push to `main` updates the site in about a minute.
+
+- The `CNAME` file in the repository root tells GitHub Pages the domain. Do not delete it, or the site goes back to `https://danelson128.github.io/jank-diver-site/`.
+- The domain's DNS records are at Porkbun. The setup is in `docs/domain-dns-setup.txt`.
+- HTTPS settings are in the repository under **Settings → Pages** (keep **Enforce HTTPS** ticked).
