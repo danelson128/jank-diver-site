@@ -52,14 +52,33 @@ if (!requireNamespace("reticulate", quietly = TRUE)) {
 }
 library(reticulate)
 
-env <- "jdg-transcripts"
-if (!virtualenv_exists(env)) {
-  message("First run: setting up Python for the download library (a few minutes)...")
+if (exists("py_require", where = asNamespace("reticulate"), inherits = FALSE)) {
+  # reticulate 1.41 or newer: it downloads a private Python and the library by
+  # itself the first time. No Python, git or other installs needed.
+  message("Setting up Python for the download library (the first run takes a few minutes)...")
+  py_require("youtube-transcript-api")
+} else {
+  # Older reticulate: use an existing Python if there is one, otherwise Miniconda.
+  env <- "jdg-transcripts"
   starter <- tryCatch(virtualenv_starter(), error = function(e) NULL)
-  if (is.null(starter)) starter <- install_python()
-  virtualenv_create(env, python = starter, packages = "youtube-transcript-api")
+  if (!is.null(starter)) {
+    if (!virtualenv_exists(env)) {
+      message("First run: setting up Python for the download library (a few minutes)...")
+      virtualenv_create(env, python = starter, packages = "youtube-transcript-api")
+    }
+    use_virtualenv(env, required = TRUE)
+  } else {
+    if (!dir.exists(miniconda_path())) {
+      message("First run: installing Miniconda (a private Python, a few minutes)...")
+      install_miniconda()
+    }
+    if (!env %in% conda_list()$name) {
+      conda_create(env, packages = "python=3.12")
+      conda_install(env, "youtube-transcript-api", pip = TRUE)
+    }
+    use_condaenv(env, required = TRUE)
+  }
 }
-use_virtualenv(env, required = TRUE)
 
 # The download and the file writing run in Python, which always writes UTF-8
 # (R's own file writing can garble characters like "é" on some Windows setups).
