@@ -1,0 +1,7157 @@
+https://youtu.be/f44qbGNo9wM
+0:00
+All right, hello friends and welcome
+0:01
+back to the Jank Diver Gaming YouTube
+0:03
+channel. My name is Timothy Zachanino.
+0:05
+I'm joined here with Denelius and Tell
+0:07
+to talk black two drops. By the time you
+0:11
+are watching this, uh we'll have already
+0:13
+posted the blue two drops that Teld and
+0:16
+Denilius did with just the two of them.
+0:18
+I haven't watched that yet. So, I'm
+0:20
+excited to see uh what kind of arguments
+0:22
+happened over fear of isolation. Uh I'm
+0:25
+I'm sure that's a S. It's got to be S
+0:27
+tier, right? [laughter] Please tell me
+0:28
+y'all put that in. easily. Yeah. Uh
+0:30
+you're going to also get to see me have
+0:31
+an absolute crash out.
+0:34
+>> Oh. Oh. Do you want to spoil what card
+0:37
+or should we just tell people to go
+0:38
+watch that?
+0:38
+>> Uh well, you know, for those in the
+0:40
+know, there's a certain uh one- one
+0:42
+hexroof unblockable creature that just,
+0:44
+you know, gets my blood boiling.
+0:46
+>> Uh okay. Yeah. You played Commander
+0:48
+against a card recently in Lost.
+0:50
+>> Uh no, no, no. This is this is a this is
+0:52
+a hardwired like early 20s memory of of
+0:55
+a certain draft format with a certain uh
+0:58
+meat chopping device. The they gave that
+1:00
+certain creature lifelink.
+1:02
+>> I missed uh I missed that set, but I am
+1:05
+well aware of the stories. Um so we're
+1:08
+doing black here. Uh Denelius and I did
+1:10
+white. Uh Ta and Denilius did blue. And
+1:13
+now you get the three of us to talk
+1:14
+about black. and we had to chop this
+1:16
+list down from like 60ish cards to a
+1:19
+more reasonable 40 to 45. There were
+1:22
+other options we could have talked about
+1:23
+here, but anyways, I don't know if you
+1:25
+explained in previous videos or if you
+1:27
+wanted to explain or tell if you wanted
+1:28
+to explain like the the kind of process
+1:31
+for choosing the cards that actually end
+1:33
+up on here and which ones got cut off uh
+1:35
+when you play the point. This one felt
+1:37
+like I
+1:37
+>> might be wondering like
+1:39
+>> Yeah. People might be wondering why like
+1:42
+beamsaw Prospector isn't on here, but
+1:44
+Mrosty is, you know.
+1:45
+>> Yeah. Yeah. So, basically this is uh
+1:47
+arena only. First of all, that's a big
+1:48
+deal. Now, there there's not again
+1:50
+similar to the other list. I don't think
+1:51
+there's much that we're missing by being
+1:53
+arena only here. There's a couple of
+1:54
+cards that maybe we could added to talk
+1:56
+about like uh Tri Triarch Prior to or
+1:59
+something like that which is a a
+2:00
+Warhammer 40k card that a lot of people
+2:02
+play, but um this is most of I think
+2:03
+what's generally relevant is the the
+2:05
+arena card pool. Uh and then yeah,
+2:07
+there's I think as much as as many as 70
+2:09
+cards that I think we could maybe have
+2:11
+talked about that are just slight
+2:12
+variations on a general template.
+2:14
+Monstrosity is a good example of like a
+2:16
+creature that dies into some value.
+2:18
+There's cards that uh end the
+2:19
+battlefield and make your opponent
+2:20
+discard. We had to I still selected a
+2:22
+few of those because I think they're
+2:23
+worth talking about. Um but yeah, we in
+2:25
+general tried to select the the best
+2:27
+version of a template when there was a
+2:28
+lot of cards of a particular tempo that
+2:30
+people play um just to get it down to a
+2:32
+manageable manageable number.
+2:34
+>> Okay. And we uh we asked the alchemy
+2:36
+stuff too, which there there are
+2:39
+multiple S tier alchemy black two drops
+2:41
+that we could have talked about, but um
+2:43
+probably stuff that people aren't as
+2:44
+familiar with and you know a lot of
+2:46
+people are anti-alchemy. So, we decided
+2:48
+to axe those even though they are some
+2:50
+of the better cards we could have talked
+2:51
+about. So, that's how we narrowed it
+2:52
+down just so that we weren't spending
+2:54
+three and a half hours on, you know,
+2:55
+black two drops. If you want to see
+2:57
+three and a half hour long tier lists on
+2:59
+a specific subcategory of a specific
+3:02
+color in a specific rarity restricted
+3:04
+cube, then let us know and maybe we we
+3:06
+could spend 30 uh or three and a half
+3:09
+hours talking about cards. But, uh we do
+3:11
+have lives to live presumably as well.
+3:13
+So, um that's the process. Denelius is
+3:16
+typing out the um you know the the kind
+3:19
+of restrictions for each of the tiers
+3:21
+here. Not going to be or shouldn't be a
+3:23
+lot of D's and we really shouldn't even
+3:26
+have an F category because if a card is
+3:28
+really an F, it shouldn't be on this
+3:29
+list in the first place. But uh
+3:31
+basically exactly what you would expect
+3:33
+expect. S is like if I'm going into your
+3:35
+peasant cube and you're not doing
+3:37
+something gimmicky then I expect this
+3:39
+card to be in your peasant cube. Um, we
+3:42
+are arena restricted here, so there are
+3:45
+some exceptions and some things we won't
+3:47
+talk about, but for the most part, uh, S
+3:49
+tier should be a smaller category of
+3:51
+cards that if you're not playing it, I'm
+3:53
+going to ask why you're not playing it.
+3:54
+And then it goes all the way down to D,
+3:55
+which are, you know, the poo poo cards
+3:57
+that do slip into some people's cubes or
+4:00
+people have a reason to play them or
+4:01
+people are just nostalgic for an old
+4:03
+card that's really not that good. But
+4:05
+this is the first tier list with three
+4:06
+of us, so we're going to try to keep our
+4:08
+opinions succinct. And when I say we're
+4:11
+going to try to, I have no promises, but
+4:13
+we we're going to try to keep this
+4:15
+moving along. And I think uh that's
+4:17
+probably enough intro. We could probably
+4:18
+just jump into this. I've got Teld as
+4:20
+kind of the
+4:21
+>> the screen mister who's going to be
+4:24
+handling where the stuff on the screen
+4:26
+goes. And Denelius is the uh
+4:28
+>> I guess we'll call you the taskmaster
+4:30
+here who's going to be actually
+4:31
+operating the T.
+4:32
+>> Our eternal task master's here for the
+4:34
+ride.
+4:35
+>> Yeah, the eternal taskmaster. That's a
+4:36
+good one. There we
+4:37
+>> All right. So, we're going to start with
+4:39
+Marionette's Apprentice. This is a two
+4:42
+mana one two creature. It has fabricate
+4:44
+one um which says that it either enters
+4:47
+with a plus one plus one counter or a
+4:49
+one-1 servo depending on which you
+4:50
+prefer. And then it says whenever
+4:52
+another non-token or artifact, sorry,
+4:54
+whenever another creature or artifact
+4:56
+you control is put into your graveyard
+4:57
+from the battlefield, each opponent
+4:59
+loses one life.
+5:01
+>> Are we just starting every single video
+5:02
+with like the most obvious Esther card?
+5:06
+>> I would go further. I would say that
+5:07
+this is uh the best card period by a
+5:10
+huge amount. I think it's black's best
+5:12
+card in peasant unless you're playing
+5:13
+with like
+5:14
+>> demonic tutor or whatever it is.
+5:16
+>> This is the first card I think that I
+5:19
+would be willing to make like an
+5:20
+imaginary S+ tier um for like this. Uh
+5:24
+there might have been a white card that
+5:26
+you could have taught me on, but
+5:27
+probably not. I think they're all like
+5:28
+pretty noticeably on, you know, great
+5:30
+but on the same power level. But there's
+5:32
+really there's two two black cards that
+5:34
+stick out to me as cards that are just
+5:36
+way above the power level and kind of
+5:38
+just unreasonable.
+5:39
+>> I know what the other one is.
+5:40
+>> Yeah, I know what the other one's going
+5:41
+to be.
+5:42
+>> Yeah. Um this one's a flap.
+5:44
+>> He's he's on me about the black mage
+5:45
+rod, guys. He knows what I'm about to
+5:47
+say. [laughter]
+5:49
+>> Black mage rod.
+5:50
+>> Uh yeah, this card's incredible there.
+5:51
+>> Yeah, it easy S. This is This would be
+5:54
+Is this S tier if we did this for the
+5:55
+main one? This is probably S tier and
+5:57
+mainline Q. Like illusion of choice. I
+6:00
+know you read fabricate. It doesn't have
+6:02
+a you just click the servo every single
+6:04
+time.
+6:04
+>> Yeah. And there's a there's a card Lite
+6:06
+Reaver that was this is like a huge
+6:08
+upgrade from that was basically the same
+6:09
+card, but it could amass instead of
+6:11
+making a a servo and and I still see
+6:13
+that card in list. I don't know if
+6:15
+that's because they think this card is
+6:16
+too powerful. I guess that would be
+6:17
+reasonable if so, but yeah, this card is
+6:18
+completely unreasonable and insane.
+6:20
+>> Yeah, if it's not in your cube, it's
+6:21
+because it's too strong.
+6:23
+>> Yep. All right. Next, we have Zulport
+6:26
+Cutthroat. It is a 1-1. I'm not going to
+6:28
+say the mana cost because these are all
+6:29
+two mana. Uh it's a one- one and
+6:31
+whenever it or another creature you
+6:32
+control dies, each opponent loses one
+6:34
+life and you gain one life, it is a
+6:35
+human rogue ally.
+6:37
+>> Um so this is a pretty big uh let down
+6:39
+from what we were just talking about. I
+6:41
+think this is a dtier card. I see it in
+6:43
+lists a lot, but I I think if you're
+6:44
+going to put this effect in your cube,
+6:46
+we're going to talk here in probably the
+6:47
+next card actually. Um a card that is
+6:49
+just better for this kind of effect, a
+6:51
+one-1 and an 01 are not meaningfully
+6:53
+different. They they are different, but
+6:54
+like you're not attacking with your
+6:55
+one-1 either. And then um once you move
+6:58
+up out of the two mana, I mean when you
+7:00
+start looking at other options for this
+7:02
+effect, you've got things like the three
+7:04
+mana ones. Um Albed savager, bastion of
+7:07
+remembrance is like washed, but there's
+7:08
+also the uh what's the one with warp? Um
+7:12
+>> ceurian void.
+7:13
+>> Yeah, there's that. There's warlock
+7:15
+class. I mean, there's so many versions
+7:16
+of this effect and there comes a point
+7:18
+where there's only so much room for
+7:20
+these effects and this is the worst one.
+7:24
+>> I agree. Um, Zulport should really only
+7:26
+be making your list if you you're so
+7:28
+hard on density that you want like the
+7:30
+fifth version of this at two. Um, or if
+7:33
+I could see in a 540 cube or something
+7:35
+like you just for every 90 cards you go
+7:37
+up in your cube from 360, you just want
+7:39
+another one of these to make sure they
+7:41
+show up in the drafts. But cutthroat
+7:43
+cutthroat is not it. And maybe this will
+7:45
+come up for other creatures on this
+7:47
+list, but one ones for two are just
+7:49
+they're just really bad these days. the
+7:51
+effects has to be really really good or
+7:53
+have to like give you a card's worth of
+7:55
+advantage probably to justify one ones
+7:56
+for two mana at this point.
+7:58
+>> Well, so let's let's talk about the next
+7:59
+card because they're very similar. So,
+8:01
+Blood Artist uh is next on the list and
+8:02
+this is a zero one instead of a one-1.
+8:04
+It's a vampire and it says whenever this
+8:05
+creature or another creature dies, so
+8:07
+any creature including your opponents,
+8:09
+then target player loses one life and
+8:10
+you gain gain one life. So, I I
+8:14
+personally I think these basically both
+8:16
+deserve Dtier. I don't really think that
+8:17
+there's a meaningful difference between
+8:18
+the two. I think that unfortunately for
+8:20
+both of these, you kind of have to
+8:21
+consider them as not creatures. You
+8:23
+don't really want to play them ever on
+8:24
+turn two. You're hoping to build out
+8:26
+your board and then play them and it's
+8:27
+like, "Oh, I now I get all the benefit."
+8:29
+But the fact that they are these
+8:30
+essentially enchantments that are just
+8:32
+way way easier to deal with than
+8:34
+creatures and they don't give you
+8:35
+multiple objects, they don't um draw you
+8:38
+cards, they don't do anything, they just
+8:39
+didn't play. I just I think both of
+8:40
+these, you know, Marinette apprentice
+8:42
+dunks on these so hard it's not even
+8:44
+funny. And um personally, I would just I
+8:46
+would recommend to not play without of
+8:48
+these anymore. I think they've they've
+8:49
+both been power crypted out pretty
+8:51
+significantly these days.
+8:52
+>> Um
+8:52
+>> that's my opinion.
+8:53
+>> So my my dislike of Blood Artist has
+8:55
+been pretty well known. Um I've
+8:58
+commented I think for the last two years
+9:00
+um in our endear review episode that I
+9:03
+think it's a card that's on its way out,
+9:04
+but it keeps hanging on by a thread. And
+9:06
+that's because the amount of pressure
+9:08
+that sometimes this card creates uh
+9:11
+being able, you know, with combat and
+9:12
+things like that is it's immense. It is
+9:14
+a card that can single-handedly steal
+9:16
+games and win games you have no business
+9:17
+being in. I don't think it's a good card
+9:20
+because, you know, it is an enchantment
+9:21
+that you can kill mid combat and get
+9:23
+nothing out of. But I think it's at
+9:25
+least Ctier. And I could see an argument
+9:27
+for Btier only because this card has,
+9:29
+first of all, I mean, I I know the uh
+9:31
+the iconic and like the nostalgia thing
+9:34
+comes up a lot, but this card does show
+9:35
+up with toning cubes and it still is a
+9:37
+powerful card. It doesn't play as well
+9:39
+with what Magic is moving towards, which
+9:41
+is why I think it's going to fall off
+9:43
+pretty hard. And I think it already has
+9:44
+in a lot of ways, but this card can
+9:46
+steal games that you have no business of
+9:48
+being with. Now, sometimes also, you
+9:50
+play this on, you know, early into the
+9:51
+game or you don't have a big board and
+9:53
+you do just lose cuz it was basically a
+9:54
+mulligan. But I think it's at least a
+9:56
+tier than Zulip Cutthroat. Like I I
+9:58
+think Ctier makes a lot of sense for
+10:00
+this card. It It's very very warping in
+10:03
+certain situations in a way that Zulip
+10:04
+cutthroat never is.
+10:07
+>> I I would go low C myself and I'm in
+10:10
+much the same boat. I I don't think it's
+10:11
+unplayable. I do think, you know, it is
+10:14
+a card like the ceiling of the card is
+10:16
+something that can come down and, you
+10:18
+know, if your opponent's in a position
+10:19
+where they're forced to block, this
+10:20
+could represent somewhere like five to
+10:21
+10 damage and close out the game, which
+10:23
+Zul Zulport can do sometimes, too. But I
+10:26
+do think it matters that it triggers off
+10:28
+your opponent's creatures. I will say
+10:29
+the the original art is probably like a
+10:31
+C+ and this art that's represented here
+10:33
+is like a C minus. Um, but I I can't go
+10:36
+higher than C on Blood Artist. I I
+10:38
+definitely wouldn't go B. Um though I do
+10:40
+think there are matches where it plays
+10:42
+like a bee and you can definitely sculpt
+10:44
+a cube where black is all about
+10:47
+aristocrats and you just want a bunch of
+10:49
+these. This is I think meaningfully
+10:51
+better than Zulora. So I would keep
+10:53
+Zulport a notch below and I think low
+10:55
+low C is where I'm at with bloods these
+10:57
+days though. Not just like tell not
+10:59
+expecting it to make it through the year
+11:00
+but I don't think there's a besides
+11:02
+apprentice I don't think there's a next
+11:04
+better two drop version of this. I think
+11:07
+if you're going for like x number of
+11:09
+blood artist type effects in your cube,
+11:11
+then blood artist I still think is the
+11:13
+second best two drop version of this. So
+11:15
+I I would I would kind of land in low C
+11:18
+here personally.
+11:19
+>> So my last just comment on this is that
+11:21
+you know what I feel is that the
+11:22
+situations where this card is good.
+11:24
+There's a lot of cards that would be
+11:25
+very good. Uh and I don't think this is
+11:27
+particularly better than those on
+11:28
+average. Yes, you can like you can
+11:30
+construct scenarios where this is a
+11:31
+game-winning card, but you can do that
+11:32
+for a lot of cards. And I I just think
+11:34
+that the average output for this in the
+11:36
+average situation isn't isn't nearly
+11:37
+good enough. Uh if your cube is designed
+11:40
+so that aristocrats is like the thing
+11:42
+that black is doing, then sure, I think
+11:44
+it's fine to play multiple aristocrat
+11:45
+draining effects. But um I I I think
+11:48
+that people get too stuck on the
+11:50
+situations where this where this is good
+11:51
+and they both don't think about
+11:52
+situations where where it's bad and they
+11:54
+don't think about how other cards would
+11:56
+have performed in those same situations
+11:57
+where your board is really full and you
+11:59
+know trades can happen whatever. I just
+12:01
+I I think there's a lot a lot of cards
+12:02
+in those situations that will win the
+12:03
+game, not just Splitterist. So, but I'm
+12:05
+I'm okay moving to see if y'all want to.
+12:07
+I I can't just I cannot allow it to get
+12:09
+to me personally. I just think that
+12:10
+that's like not acceptable to me. But
+12:12
+yeah,
+12:12
+>> I I don't person I know there are people
+12:14
+who definitely would rank this as a as a
+12:16
+B. Um yeah, I just want there to be at
+12:18
+least a tier of distinction between it
+12:19
+and Zelport Cutthroat because I do think
+12:20
+Zulport cutthroat is like actually
+12:22
+unplayable and Blood Artist is like
+12:24
+hanging on by a thread.
+12:25
+>> Bone collar cleric.
+12:27
+>> Yeah, bone collaller cleric. This is
+12:29
+>> Hey, got it. Nice. A 2-1. Actually, it's
+12:32
+very simple. It's just a two-1 and it's
+12:34
+three in a black. Sacrifice this as a
+12:36
+sorcery to return a creature card from
+12:38
+your graveyard to the battlefield.
+12:39
+>> I think I played with this very briefly.
+12:41
+This is from um AFR or Balders's Gate or
+12:43
+something like that. I think um this is
+12:45
+fine if you're pushing Reanimator
+12:47
+specifically and doing a lot of cycling
+12:49
+big creatures into the graveyard and
+12:50
+that's the only world where you would
+12:52
+want it. And the reason I would probably
+12:53
+put this in D tier is I think we got a
+12:55
+one mana version of this in um uh
+12:58
+Duskorn like Valavoth's whatever that
+13:00
+does I think the same thing. It might be
+13:02
+five mana to doesn't that one have to
+13:04
+tap though.
+13:06
+>> It it does.
+13:07
+>> I don't think so. I don't think so.
+13:08
+>> It doesn't then we'll uh then we can
+13:10
+just say that you know you shouldn't
+13:11
+play it because that card exists. Um I I
+13:13
+want to note that this like cheap and
+13:15
+this would apply to both of these cards.
+13:16
+The sort of cheap reanimator creature
+13:19
+that you sacrifice to bring back
+13:21
+something big. This sort of template is
+13:23
+kind of nice in that it lets you
+13:25
+reanimate big things while also playing
+13:27
+nicely with the actual good reanimation
+13:29
+spells like uh back for seconds and
+13:32
+lively durge.
+13:32
+>> The one minute version is the exact same
+13:34
+card as this except for it's a one and
+13:36
+one instead of a one minute two one. So
+13:37
+that for that reason I'm gonna I'm going
+13:38
+to have this as a D. I I
+13:40
+>> you just never played this over.
+13:41
+>> And by the way, I don't really think you
+13:43
+should play the one mana version either.
+13:45
+I I think we we saw in Dusk Morn that
+13:47
+card was very very bad even though there
+13:49
+was like some really good um non- rare
+13:52
+targets for the effect. I think that
+13:53
+generally speaking reanimator is not a
+13:55
+thing that makes a lot of sense in
+13:57
+peasant unless you're playing with
+13:59
+animate dead and you know the very most
+14:01
+powerful peasant options in paper
+14:03
+possible to do reanimation then sure go
+14:05
+go for it but don't play these cards
+14:06
+just play those cards you said and leave
+14:08
+these cards on the sidelines. That being
+14:09
+said, it's it while we wouldn't play
+14:11
+with those kind of cards, there are a
+14:13
+lot of people for whom that sparks joy.
+14:14
+And I So, I think those are the that's
+14:16
+that's the epitome of like C, right?
+14:17
+It's like it's a niche that we probably
+14:19
+don't have, but we you know,
+14:21
+>> sure,
+14:21
+>> you could run it.
+14:22
+>> All right, you guys ready to upset the
+14:23
+boomers? [laughter]
+14:25
+>> So, this is uh this is Order of
+14:28
+Midnight. It is a two-1. It has flying
+14:30
+and it cannot block. It's a human knight
+14:32
+and it has an adventure. For one and a
+14:34
+black, you can alter fate and return
+14:36
+target creature card from your graveyard
+14:37
+to your hand. Um, straight D. So, but
+14:40
+you can tell me why.
+14:41
+>> Similarly to how vigilance is one of the
+14:43
+most powerful limited mechanics. On the
+14:46
+flip side, unable to block is a really
+14:48
+really bad limited mechanic. It's one of
+14:50
+the worst things. It's one of the
+14:52
+biggest downsides you can put ON A
+14:53
+CREATURE. IT might be the biggest
+14:54
+downsides you can put on a creature.
+14:55
+>> Yeah, this this card was good 5 years
+14:57
+ago. Um, there's so much recursion. So
+15:00
+many recursion creatures that you don't
+15:01
+have to play this unless you just really
+15:02
+like looking at adventures. I do think
+15:04
+if they ever push um the cast from exile
+15:06
+theme in like Ratosse at a lower than
+15:09
+rare, which they just won't do for some
+15:11
+reason, then you might look at
+15:12
+adventures again. But this this card has
+15:14
+not been good for a couple years.
+15:15
+>> Yeah. And to compare this to say like
+15:17
+gravedigger, which is not a good card
+15:18
+in, you know, modern magic and hasn't
+15:20
+been for a while. You're it's four mana
+15:22
+for a two- one flyer that can't block,
+15:23
+but you kind of get a creature back
+15:24
+except like similar problem to the other
+15:26
+cards like this. You can't, you know,
+15:28
+recur this with your reanimation effect
+15:30
+to get it. it doesn't have an ETB and so
+15:31
+you can't use all the um the ETB
+15:33
+manipulation cards that we have these
+15:35
+days to try to to recur this effect in
+15:37
+that way. Also, part of the advantage
+15:39
+theoretically to this card is that it's
+15:41
+a good opening hand card and a good late
+15:42
+game card because oh, in the opening
+15:43
+hand it's just a two-inut two flyier and
+15:45
+in the late game it's whatever. But a
+15:46
+two-minute two flyer that can't block is
+15:48
+not a good early game card. It's very
+15:49
+very bad early game card these days. So,
+15:51
+so yeah, personally I would have this as
+15:52
+a D. Maybe you could argue for low C. Um
+15:54
+but yeah, would not play this card. All
+15:56
+right. Eternal master eternal taskmaster
+15:59
+is a two three. It enters the
+16:00
+battlefield tapped and it says whenever
+16:02
+it attacks, you may pay two in a black.
+16:03
+If you do, return target creature card
+16:05
+from your graveyard to your hand.
+16:07
+>> Um, so a two three used to be a pretty
+16:09
+good stat line.
+16:12
+>> Tap though. Tap's always been I think
+16:14
+this card has capped out at a C and like
+16:17
+if you both told me you wanted it in D,
+16:19
+like I wouldn't fight you on it. I would
+16:21
+put like C minus cuz you can see a world
+16:23
+where
+16:23
+>> this pushes through other bears. It's so
+16:26
+expensive to use. It's so hard to get a
+16:28
+creature back. And you know, the
+16:30
+scenario of getting to attack with this
+16:32
+multiple times, let alone once, is so
+16:35
+unrealistic because you have to dump so
+16:37
+much mana into this and then presumably
+16:39
+have some other way to protect this from
+16:41
+dying. It just it doesn't add up that
+16:43
+often. And coming in tap means you get
+16:44
+run over sometimes for just casting the
+16:46
+card.
+16:46
+>> Yeah, I uh I really don't think adding
+16:49
+an extra mana for one point of toughness
+16:51
+on Diagraph Ghoul really gets there. Um,
+16:55
+so you know, three mana is a lot of
+16:57
+mana. You can do so much. This doesn't
+16:58
+make game objects. I mean, it does
+17:00
+generate card advantage, which is cool.
+17:02
+Um, but it doesn't actually generate
+17:05
+card advantage because you just spend
+17:06
+your mana doing other things, and by the
+17:07
+time this is able to do that, it's died
+17:09
+incidentally. Um, this this card's like
+17:12
+not great. It's really cool. I like the
+17:13
+design of it. When it came out, I
+17:14
+thought it was super nifty. But just the
+17:16
+more I think one of the things and maybe
+17:18
+this is um I maybe we talk more about
+17:20
+this later, but I think one of the
+17:21
+things of playing a lot of cube teaches
+17:23
+you is that like cards that require you
+17:26
+to spend a million mana to get anything
+17:28
+and they offer this like repeatable
+17:30
+engine value. A lot of times they're
+17:31
+kind of worse than they read. Um just
+17:33
+because you'd rather spend your cards
+17:35
+doing good things and then have the the
+17:38
+mana sync be a rider on the card later.
+17:41
+Something like Draon's Lance is a good
+17:42
+example of this where we get almost all
+17:44
+the value of the card up front, but then
+17:45
+once we've got a bunch of mana laying
+17:47
+around, we can kind of proactively just
+17:49
+use it and not have to just line up any
+17:51
+sort of timings.
+17:53
+>> Yeah, there's there's three reasons why
+17:54
+this card is bad to me. ETB tapped,
+17:56
+which we talked about before. I think
+17:57
+the body size is not as impressive as it
+17:59
+seems. Again, two men for two three is
+18:01
+no longer an impressive stat line in
+18:02
+peasant overall. It's it's like a decent
+18:04
+stat line in black kind of, but a lot of
+18:06
+black creatures that are are two twos
+18:08
+have lifelink or they have death hutch
+18:09
+or they have whatever else. I I don't
+18:10
+think a 2 minute 23 is a particularly
+18:12
+impressive stat line. Coming into into
+18:14
+play tapped is a huge huge nerf. And
+18:16
+like I was talking about in the last few
+18:18
+episodes, we get engines now for free.
+18:20
+You don't have to spend three mana and
+18:22
+have a thing in your graveyard and have
+18:23
+this be able to attack. You don't have
+18:24
+to like accumulate all those ifs in
+18:26
+order to get value these days. We just
+18:27
+get it, you know, much much more easily
+18:29
+than this. So to me, this is I have zero
+18:31
+interest in this card. But
+18:32
+>> one thing to note, again, a lot of the
+18:34
+cards we've talked about so far are
+18:35
+played in a lot of peasant cubes. So,
+18:36
+you know, again, if this sparks joy for
+18:37
+you, go for it. But I don't think this
+18:39
+is a very pleasant peasant playable card
+18:40
+these days.
+18:41
+>> All right, speaking of a highly peasant
+18:43
+playable card, though, uh, curs marauder
+18:45
+is is dope.
+18:47
+>> Curs marauder is a two-1. It says, "When
+18:48
+it enters the battlefield, each player
+18:50
+sacrifices a non-token creature."
+18:52
+>> Yeah, this card's really
+18:53
+>> sure where you guys would put this.
+18:55
+>> I think I would put it in a tier, and I
+18:57
+would hear an argument for S tier, but I
+18:59
+think this effect is the sort of effect
+19:02
+that doesn't need to be played. It
+19:03
+doesn't demand to be played. Non-token
+19:05
+is so good. It is so much better than
+19:07
+having to sacrifice a creature token.
+19:09
+You can It's really useful with
+19:11
+recursion and reanimation effects and
+19:13
+stuff. Um, that being said, there's a
+19:15
+ceiling to it. It is like two mana
+19:16
+removal spell. It's essentially just an
+19:17
+edict. Anywhere in the S to B range, I
+19:20
+would I would be acceptable. I I think I
+19:22
+would put this at A, though. I think you
+19:23
+probably should play this card.
+19:26
+>> Yeah, I I feel pretty similarly. I've
+19:30
+actually never run this card in my cube
+19:31
+and that was be that's because I was
+19:34
+very worried about the play patterns
+19:36
+with this card. It doesn't feel like a
+19:37
+card I really need to add. Like on power
+19:38
+level alone, I don't necessarily think
+19:40
+it's like a card that must be played and
+19:41
+I think the play patterns might be kind
+19:42
+of rancid in the same style of decks
+19:44
+that we've talked about the like
+19:45
+recurring a game object over and over
+19:47
+and over again sort of thing. I don't
+19:49
+think we need I think momentum breaker
+19:50
+is a much more reasonable I guess
+19:52
+version of that effect than this can be.
+19:54
+And there's also some situations where
+19:56
+this will be quite bad. And so it's
+19:57
+like, all right, those two factors
+19:59
+combined make me think that I don't need
+20:00
+to run it. So I I generally agree with
+20:02
+what you're saying. I think in some
+20:03
+situations it'll play like an S for sure
+20:05
+if you're in like a Skyfisher recursion
+20:07
+type space. I think this card is
+20:08
+completely outrageous sometimes and
+20:11
+other times it'll be very bad and maybe
+20:12
+won't even do anything at all. Like
+20:14
+sometimes your opponent just has, you
+20:15
+know, tokens in play that they made off
+20:16
+of their, you know, make a bunch of
+20:18
+one-1 flying tokens card and this
+20:19
+literally does nothing at all. So A is
+20:20
+fine. I could see maybe going down to
+20:23
+top of B, but the power level potential
+20:24
+here is really high. So I think A makes
+20:26
+sense to me. It's funny cuz I actually
+20:27
+think this card plays worse in the
+20:28
+Skyfisher spaces because you can't
+20:30
+really get anywhere with it, right? You
+20:32
+pick it up, you still have to sack your
+20:33
+Skyfisher and yeah, you can like use it
+20:35
+again and that's fine, but Momento
+20:36
+Breaker is a much more advantageous card
+20:38
+for those style of decks to take
+20:40
+advantage of. In in any case though,
+20:42
+this is a really solid kind of controly
+20:43
+tool for uh for decks. I mean, I think
+20:46
+this is more of a blue black control
+20:47
+card that is sorcery speed. It's just
+20:49
+like whatever whatever two-minute edict
+20:51
+you were going to run, this is the best
+20:52
+version of it. And there's more things
+20:54
+that take advantage of like, you know,
+20:55
+you can pick it up with Rutstein is a
+20:57
+much more powerful card to utilize with
+20:59
+this since it synergizes a little
+21:00
+better. This card also plays well with
+21:02
+some of the other black cards we're
+21:04
+going to talk about like the black sacki
+21:05
+stuff. So yeah, I mean I'd be interested
+21:07
+to hear Tim's opinion, but I really like
+21:09
+this card. Big fan. [snorts]
+21:10
+>> I think easy A for me. S doesn't make
+21:13
+sense for a card that has like multiple
+21:16
+scenarios where it can't do anything.
+21:18
+Um, you know, whereas Marion and
+21:20
+Apprentice is basically never a bad
+21:21
+card. And the other immediate S tier
+21:24
+card from this list is basically never a
+21:26
+bad card. This sometimes is a bad card,
+21:28
+but I think it's a good card often
+21:29
+enough. And uh best in class as far as
+21:31
+like edict attached to creature goes,
+21:33
+especially at this cost, you know,
+21:34
+compared to Flushbag Marauder, Merciless
+21:36
+Executioner, blah blah blah.
+21:37
+>> Um A seems right to me. Um next card,
+21:40
+Grim Wanderer is an interesting one.
+21:41
+It's a 53 with flash, but you can only
+21:44
+cast it if a creature has died this
+21:46
+turn.
+21:47
+>> That's ter two mana five. Um, this man,
+21:50
+this reminds me of one of those times I
+21:51
+got was Rictus Robber. And man,
+21:53
+sometimes you don't appreciate just how
+21:55
+hard it is to turn on manually a
+21:57
+creature has died this turn. Yeah, the
+21:59
+Mor the Morbid thing. This card's nifty.
+22:01
+I'm going to say I would probably say
+22:02
+Ctier. I think the stat line is high
+22:04
+enough that I would probably be be like,
+22:05
+"All right, you know, this card's like
+22:06
+does some things."
+22:07
+>> C tier. I would create an F tier for
+22:10
+this card.
+22:11
+>> I think there's I think there's a niche
+22:12
+for this style of effect. Um, that being
+22:15
+said, this is kind of like uh the two
+22:17
+drop the water spirit thing we talked
+22:19
+about that it's like this is not
+22:20
+actually a two drop, right? Because you
+22:21
+can't cast it on TURN TWO. I AGREE WITH
+22:23
+YOU, TIM, THOUGH. My personal rating for
+22:24
+this card being F. I was just saying C
+22:26
+for cube design just because I think
+22:28
+there's a space for like overstated
+22:30
+thing that promotes a synergy.
+22:32
+>> Yeah, the card that this reminded me of
+22:34
+was the one that Tim you made us talk
+22:36
+about in uh the air bender set, the one
+22:38
+in a black card that earth bends for
+22:41
+dies. Well, it's like this is like a
+22:42
+very it's a very very similar card. It's
+22:43
+honestly better than that card. Um, and
+22:45
+you know, this performed reasonably well
+22:47
+in AFR, the set that it came from, but
+22:49
+AFR was a set that was dominated by like
+22:51
+black and red and sacrifice and
+22:52
+whatever. But that does tell me that
+22:54
+there might be a cue for this if like,
+22:56
+you know, the black section is all about
+22:58
+doing that thing, then yeah, I think
+22:59
+that this is a reasonable payoff for
+23:00
+doing that thing. 53 is a very large
+23:02
+creature. But, um, I don't think it's
+23:03
+like a high tier payoff for doing the
+23:04
+thing either. It's like, so I think high
+23:06
+D, low C is fine. I think I would want
+23:07
+to put this in C just cuz I think the
+23:09
+stat line is high enough that the if you
+23:11
+can get the niche if you can get there
+23:13
+do it. I'm not doing it. Don't ask me to
+23:14
+do that thing. But like [laughter]
+23:16
+>> Yeah, man. I I don't know. I I mean I
+23:18
+would argue D on this cuz like I I can't
+23:21
+give any points to a card that you
+23:23
+literally can't cast on like you know
+23:25
+you you have the play pattern in your
+23:27
+mind where it's like okay I'm going to
+23:28
+like bone shards my opponent's creature
+23:30
+and then cast this thing and they just
+23:32
+pass with like essence scatter up on
+23:33
+turn two and it's like okay well
+23:35
+>> I can't even cast my dude.
+23:37
+>> Tim, what this is teaching me is that
+23:38
+I'm not jaded enough yet after Rous
+23:40
+Robber hurt me. I just need to be more
+23:42
+jaded about things.
+23:43
+I guess the the only argument to me is
+23:45
+that we do have a lot of cards that
+23:46
+we're going to get to in a bit that I
+23:48
+think are very, you know, some of
+23:49
+black's stronger cards in peasant that
+23:50
+all sacrifice creatures. And so it's
+23:52
+like maybe maybe again if your if your
+23:54
+black section is just all about doing
+23:55
+that, but I'm fine leaving it as top, I
+23:57
+don't think it really matters that much.
+23:58
+>> Just place like an aura at that point,
+24:00
+right? Like you lost some power on board
+24:01
+to put like a probably bigger amount of
+24:04
+power on board. Like there was a Stricks
+24:06
+Haven Grath or whatever that was like if
+24:08
+you sacked a thing, you get a 5-3. I you
+24:10
+could just print two mana 53 with no
+24:12
+abilities on it and I still wouldn't be
+24:14
+impressed [laughter]
+24:14
+but uh
+24:16
+>> with flash with flash I would
+24:17
+>> be pretty I'd be pretty impressed but
+24:19
+yeah. All right.
+24:20
+>> Okay. Anyway, moving on.
+24:21
+>> Anyways, moving on. We got servant of
+24:22
+the stinger. This is a one three with
+24:24
+death touch. It's a human warlock and it
+24:26
+says whenever it deals combat damage to
+24:28
+a player if you've committed a crime
+24:30
+this turn, which means you've targeted
+24:32
+something of your opponent basically, um
+24:35
+you may sacrifice this. And if you do,
+24:37
+you demonic tutor. Search your deck for
+24:38
+a card. it in your hand.
+24:39
+>> What a sick card.
+24:40
+>> This card's really cool and unique. Um I
+24:43
+I don't think anything else is really
+24:44
+comparable to this here, especially at
+24:46
+two. So at 13, Death Touch is not bad at
+24:50
+all. Demonic Tutoring can be pretty
+24:53
+good. Uh again, if you're at playing
+24:55
+actual demonic tutor, I don't know why
+24:57
+you're jumping through hoops for
+24:58
+something like this, but I don't know.
+24:59
+This strikes me as BC tier r uh yeah, B
+25:02
+or C range somewhere. Like
+25:06
+>> I don't know. It's a type of card I
+25:07
+would revisit at some point, you know,
+25:09
+for the a shakeup reasons. I don't know
+25:11
+if it's better than the eight or nine
+25:13
+black two drops we could slash should be
+25:15
+playing, but I don't I I see merit to
+25:17
+this card. I I think we played it when
+25:19
+it first came out and it was decent. I
+25:20
+think it was good in OTJ. So, I'm not
+25:22
+sure. Uh this this one I'm a little
+25:24
+skeptical about. Like I'm not sure
+25:26
+exactly where it should land.
+25:27
+>> Yeah, my my head says C, my heart says
+25:29
+B. Um like I think this is a really cool
+25:31
+design. It's it's really unique, nifty.
+25:33
+um does remain to be seen like what what
+25:35
+you're tutoring exactly in peasant. Um
+25:38
+that's you know a huge power outlier for
+25:40
+your deck, but you know I'm sure there's
+25:42
+there's cards that aren't coming to
+25:43
+mind, especially if you're you be on
+25:44
+like animate dead or something like
+25:45
+that.
+25:45
+>> Sure. Why lively was it uh the the spree
+25:48
+spell was always a good combo with this
+25:49
+cuz you got this back plus like two.
+25:52
+Yeah. Um
+25:53
+>> which is like that being said, even if
+25:55
+this card like if we ignore all the
+25:56
+other stuff on this card, like I mean
+25:57
+one three death touch does block
+25:59
+reasonably well for slower more
+26:01
+defensive decks. Um, so I I think this
+26:04
+card's somewhere either high C or low B
+26:07
+would be would be my my thoughts.
+26:09
+>> Totally agreed. I'll leave it in bottom
+26:11
+of B now for now, but we can move it
+26:12
+down. There's not really to me a lot of
+26:13
+the only like uh cube considerations
+26:15
+that matter for this is in my mind uh
+26:18
+you know, are you avoiding objects?
+26:20
+Again, the more you're avoiding objects,
+26:21
+the better this gets because, you know,
+26:22
+this is a very clean card. Doesn't make
+26:24
+anything extra. Just you, it does the
+26:26
+thing. But it does have a lot of words
+26:27
+on it and a lot of people who are
+26:28
+avoiding objects like to avoid that,
+26:29
+too. I think leaving it in low B for now
+26:31
+is fine. All right,
+26:33
+>> Meer Triton. Another death toucher.
+26:35
+>> Oh boy.
+26:35
+>> This is a 2-1. It has It's a a zombie
+26:38
+muroke. It has death touch and whenever
+26:40
+it enters the battlefield, mill two and
+26:42
+[snorts] gain two.
+26:43
+>> Man, time has not been kind to our girl.
+26:45
+I love this card.
+26:46
+>> Well, oh man, we just cut this I think
+26:49
+for the first time in five years. I
+26:51
+honestly like not joking think this is a
+26:53
+like low A tier card in terms of
+26:57
+slotting into any deck and pulling. so
+26:59
+many different micro synergies together.
+27:01
+Like if you're playing graveyard stuff,
+27:03
+it does that. If you are one of those
+27:04
+sickos playing wife gain and blacklight,
+27:06
+it does that. It trades for a card at
+27:09
+some point. You know, unfortunately, it
+27:11
+is one toughness. Um I
+27:13
+>> it trades for two mana.
+27:16
+>> Uh sure.
+27:19
+You you playful shove this, you rodeo
+27:21
+this
+27:21
+>> explosive prodigy, whatever. Yeah. Uh
+27:23
+so, okay. A is aggressive. I I do think
+27:26
+it plays like a bee in terms of cube
+27:29
+equity, if that makes sense. Like a slot
+27:32
+in your cube, but it's also imminently
+27:35
+cutable for like a lot of other
+27:37
+obviously powerful twos. I think this
+27:39
+card plays well and still plays well and
+27:41
+pulls a lot of different strategies
+27:42
+together. So I I would fight for like
+27:44
+low B, but I I can imagine most people
+27:46
+aren't as high on it. I think low B is
+27:49
+what I would also land on and that is
+27:52
+for exactly what you mentioned in that
+27:54
+it's it's decentish support for a whole
+27:57
+bunch of different decks. We put some
+27:58
+cards that have one toughness in S tier
+28:01
+um on our blue tier list but like having
+28:02
+one toughness and no ETB is so rough. I
+28:05
+mean this has an ETB technically, but
+28:07
+like it doesn't actually generate any
+28:08
+advantage or value. Um
+28:11
+but I mean this does a lot of things. So
+28:14
+>> yeah, I think the card that that makes
+28:16
+this one tougher to run these days is is
+28:18
+uh Wreckage Wickerfolk, which we'll get
+28:19
+to in a bit. Uh that's the card I um
+28:22
+ended up cutting this for. So I would
+28:24
+similar to this. Honestly, I would say
+28:26
+like Loi High. I don't I think the
+28:28
+argument has gotten less strong over
+28:30
+over the years for this card, but I
+28:31
+agree totally with Tim. It's a nice blue
+28:33
+card. It's just it's tough to run a
+28:34
+two-minute two-1 glue card. Um that's
+28:36
+that's the that's the tough thing, but I
+28:37
+don't think it's bad. We can leave.
+28:38
+>> I do think when this card came out, it
+28:39
+was an A tier.
+28:40
+>> Yep. All right. Next, we have Gifted
+28:42
+Aetherborn. This is a black black. This
+28:45
+is one of the only black black cards on
+28:46
+the list. It's a two- three aetherborn
+28:49
+vampire with death touch and lifelink
+28:50
+and other text.
+28:52
+>> Um, man, I see this card in cubes a lot.
+28:54
+I I get it in terms of I this card sees
+28:56
+constructive play too or saw
+28:57
+constructive play. It is a wall against
+29:00
+certain decks. Like if you're playing an
+29:01
+aggressively slanted deck that's like
+29:03
+curving out, you're trying to play
+29:04
+Savannah Alliance for some godforsaken
+29:06
+reason and um you know your opponent
+29:09
+just plays this. You don't have an
+29:10
+immediate removal spell, it's going to
+29:11
+body you. That that being said, like
+29:14
+also no ETB, no game objects, like
+29:17
+really hard to cast. I don't I think
+29:19
+this card's probably good enough to stay
+29:21
+at a Dtier because there's some real
+29:22
+stinkers down there, but I I think this
+29:24
+card probably shouldn't be in nearly as
+29:26
+many cubes as it's in.
+29:28
+Yeah, I think it's a card people just
+29:30
+like more than how it actually plays.
+29:32
+And I think that's how it was back in
+29:34
+Ether Revolt or whatever, too. Like it
+29:36
+was ne This has never been an
+29:38
+exceptional card, but just reads like
+29:39
+it. And black black really does hurt it.
+29:41
+If you printed the same card at one in a
+29:43
+black,
+29:43
+>> then I would totally get it. But at
+29:45
+black black, it's always been a tier
+29:47
+lower than where I think other people
+29:48
+have it. I think C is appropriate for
+29:50
+this. I just think you get so much more
+29:52
+value off of looking for two for ones
+29:54
+and stuff like that than efficient
+29:55
+bodies. So,
+29:56
+>> it really helps to think of this card as
+29:57
+a three mana card. And like if you think
+29:59
+of it as a three mana card, it's pretty
+30:00
+weak.
+30:01
+>> It's vampire nighthawk then.
+30:03
+>> I think well except for that fine. But
+30:04
+yeah, I think I think C is the
+30:05
+appropriate grade specifically because I
+30:08
+would never consider this card unless I
+30:09
+was running rare lands. With rare lands,
+30:11
+I think it becomes consider like
+30:12
+basically any black uh to drop I think
+30:14
+is not not acceptable if you're unless
+30:16
+you're running um fetches and shocks. If
+30:19
+you're running fetches and shocks and I
+30:20
+think it gets more reason night of dusks
+30:23
+something I'll get that in a second.
+30:25
+Hold on. Uh, this is a human knight.
+30:27
+It's a two two menace. It says your
+30:28
+opponents can't gain life and knight of
+30:30
+dusk shadow. There we go. Gains plus one
+30:32
+plus one until end of turn for one at a
+30:34
+black. You can activate that as many
+30:36
+times as you like.
+30:37
+>> I really like this card's design on
+30:39
+>> this one. Personally, I
+30:41
+>> I really like the card's design. I don't
+30:43
+think it's good, but um it's it's it's
+30:45
+pretty
+30:45
+>> shutting off life gain is is good
+30:47
+trinket text. It's not trinket text I
+30:49
+necessarily want in droves, but it is
+30:51
+good trinket text to throw on a card. I
+30:53
+just I have no interest in this card
+30:55
+whatsoever.
+30:55
+>> It's a it's a modestly sized menace
+30:57
+creature. Can be, you know, kind of
+30:58
+disruptive in combat. Like I I think
+31:01
+this card, if you're interested in clean
+31:03
+text boxes that are just not overly
+31:05
+don't create overly complex board
+31:07
+states, I think this is a this is a
+31:09
+really good card. Um I obviously in our
+31:13
+spaces it's not as good, but I think
+31:15
+that the more you're trying to limit
+31:17
+mechanical complexity, the better this
+31:18
+card gets. Um, so that that's kind of a
+31:21
+I I think this is again another like
+31:23
+high C low B card.
+31:26
+>> Yeah, I think one of the best arguments
+31:27
+for this card is that black just does
+31:28
+not get a lot of cards at two mana that
+31:31
+are attack minded. So if you are
+31:33
+specifically looking to say like I want
+31:35
+to boost black aggro specifically.
+31:37
+There's not a lot of great options that
+31:38
+you have and I think this is one of the
+31:40
+better ones. Um, other than that I I
+31:42
+agree with everything else. It doesn't
+31:43
+make doesn't make things doesn't draw
+31:45
+cards. There's just, you know, ETB value
+31:47
+creatures that are generally speaking
+31:49
+gonna be better to play. But, uh, it's
+31:50
+pretty clean. I think C makes some
+31:51
+sense, though, because, yeah, if you, as
+31:53
+an aggro creature, there's not many
+31:54
+better in black.
+31:55
+>> Yeah.
+31:56
+>> Um, all right. Iron sh Iron Shield Elf
+31:58
+is a recent one. This is an elf warrior.
+32:00
+It's a 3-1. It says, "Discard a card.
+32:02
+This creature gains indestructible until
+32:03
+end of turn. Tap it."
+32:05
+>> Yeah, this card's really cool. Did you
+32:06
+know this card allows you to trade two
+32:08
+cards from your hand for one explosive
+32:10
+prodigy?
+32:12
+>> [laughter]
+32:14
+[snorts]
+32:14
+>> Um, I think this is D in a generic cube
+32:17
+and you could talk me up to like B or C
+32:19
+if you're actively doing some madness
+32:21
+mayhem nonsense, but if you're not doing
+32:23
+something thematic or care about elves
+32:26
+or discards or whatever, like just as a
+32:28
+generic attacker, I think it's it's
+32:31
+actually a pretty bad card. Like I think
+32:32
+season how blites time in the sun is is
+32:35
+>> this feels like the exact Denelius C um
+32:37
+of it's a niche card. Like if you're
+32:39
+trying to do like you said reanimator
+32:40
+madness type stuff like you can run it
+32:42
+as an enabler but this card is really
+32:44
+really bad if you're just playing the
+32:45
+generic good stuff peasant decks.
+32:48
+>> Yeah. The way I see C's is basically
+32:50
+like uh cards that if you're doing the
+32:53
+thing oh actually they make quite a lot
+32:54
+of sense whereas like D's are like if
+32:56
+you're doing the thing they still still
+32:58
+don't make excite me very much. If
+32:59
+you're doing the madness stuff,
+33:00
+specifically madness, um, and maybe with
+33:02
+some reanimator built in, then actually
+33:04
+this is, I think, quite probably an
+33:05
+exciting card, even though it still can
+33:07
+be dealt with quite easily with a lot of
+33:08
+different effects and peasants. So, I
+33:09
+think C makes sense, but it's not it's
+33:11
+not a high tier card these days. But,
+33:13
+uh, if it if it springs for you, then
+33:14
+or, you know, go for it.
+33:16
+>> All right.
+33:17
+>> Folk, which I believe in Ether Drift or
+33:19
+Etherdrift review, you said might be the
+33:21
+best peasant card from the set. I I
+33:23
+don't remember, but I believe you said
+33:25
+that.
+33:25
+>> I did, and I I stand by it. Not
+33:26
+necessarily. Again, I the argument I was
+33:28
+making at the time was not on power
+33:29
+level. It's a gloomy glue card. But
+33:31
+let's read the card. It is wreckage
+33:33
+wickerfolk. It is a one three artifact
+33:36
+creature scarecrow. It has flying and
+33:38
+when it enters surveile too. I'll go
+33:40
+first on this because I I'm guessing I'm
+33:41
+going to like it more than y'all. Uh
+33:43
+personally, I think this is somewhere
+33:44
+bottom of A, top of B purely for glue
+33:46
+reasons. It just ties the room together
+33:49
+really really nicely almost regardless
+33:51
+of your strategy. Compare this with say
+33:53
+the uh the elf that we were talking
+33:55
+about before or the the um the warlock
+33:58
+that we were talking about before that
+33:59
+is a one- three death touch hutcher that
+34:00
+then you can sacrifice this to draw a
+34:02
+card. Well, this gives you ETB value.
+34:04
+ETB value is very very strong and in
+34:05
+general it's going to be way better than
+34:07
+any other effect that is not an ETB
+34:09
+value effect. So, um I like this card
+34:11
+quite a lot. I will play this in any
+34:12
+deck that cares about artifacts, but
+34:14
+I'll also play this in any deck that
+34:15
+cares about the graveyard. So, I think
+34:16
+this is a very solid card. I'd be happy
+34:18
+fine with top of B. I think actually top
+34:20
+of B probably makes the most sense to
+34:21
+me. Yeah, I think Top of B makes makes
+34:23
+sense. This is a good card. We don't we
+34:24
+don't really we don't play it anymore,
+34:26
+but um it was it was fine. Like it's a
+34:28
+good glue card. I think the more low to
+34:31
+the ground aggressive assertive style
+34:33
+things you're playing, the more Savannah
+34:35
+Lions that you put in the cube, the
+34:36
+better this card gets because it blocks
+34:37
+those really well. Um but you know,
+34:40
+who's playing Savannah Lions and Cure?
+34:43
+>> We we don't play this right now, but we
+34:44
+easily could. We support red black
+34:46
+artifacts. We support green black like
+34:48
+graveyard decks. this is just a fine
+34:50
+blocker for like a blue black control
+34:51
+deck or something like that. So, I I
+34:53
+think this has room. I like high B as
+34:55
+well. And there there's some discussion
+34:57
+about like how many of these cards were
+34:58
+ranking on power level versus how many
+35:00
+of these cards were ranking on like when
+35:01
+you should take them in a draft or how
+35:03
+well they fit into a cube because those
+35:04
+are kind of two different analyses, but
+35:06
+like this gets high ranks for being a
+35:08
+good use of a cube slot more than it is
+35:11
+like this is some sort of busted card
+35:13
+during gameplay.
+35:14
+>> Yep. Agreed with all that. All right,
+35:16
+the goats kind of uh depending on who
+35:18
+you ask. Aia Stick Twister. This is a
+35:20
+two two artifact creature scarecrow. It
+35:22
+has lifelink and it says it has delirium
+35:25
+at the beginning of your endstep. If
+35:26
+there are four or more card types among
+35:28
+cards in your graveyard, each opponent
+35:29
+may sacrifice a nonland permanent or
+35:32
+discard a card and if they don't, they
+35:34
+take damage to the face equal to stick
+35:36
+twisters power and that will be lifelink
+35:38
+damage.
+35:38
+>> This card
+35:39
+>> pick me. Pick me.
+35:40
+>> S tier.
+35:41
+>> S tier.
+35:42
+>> I think this card I think this is an S
+35:43
+tier. I think this card single-handedly
+35:45
+this card single-handedly wins games
+35:47
+sometimes. Yeah,
+35:48
+>> it it keeps you alive against opponents
+35:50
+who can't kill this. Like the lifelink
+35:53
+is so good on this ability cuz they
+35:54
+can't just afford to pitch cards to it
+35:57
+all the time. Like this gets around the
+35:58
+token sacrifice clause. You boost this
+36:01
+thing's power in any way and you're just
+36:03
+never dying. It has types in the
+36:06
+graveyard. Pays you off for having types
+36:07
+in the graveyard. So, it's even a fun
+36:09
+card to build around because Delirium is
+36:11
+like the perfect um peasant cube
+36:14
+mechanic in my my opinion. I I've seen
+36:16
+this card just win. in so many games off
+36:18
+the back of literally this card
+36:20
+surrounded by other things. Um, and
+36:23
+that's that's just as the two two
+36:24
+version of it. And it's really not that
+36:26
+hard to get it bigger. It's not that
+36:27
+hard to recur it. Like so many game
+36:28
+plans revolve around keeping this thing
+36:30
+alive and getting it on board. I think
+36:32
+this compared to all the other cards
+36:33
+we're looking at, I think this actually
+36:34
+plays like an S tier card.
+36:36
+>> I was going to go with A just because it
+36:39
+doesn't make game objects and it doesn't
+36:41
+have an ETB. I'm not opposed to S though
+36:44
+because you are right when you actually
+36:46
+put this card into play. It is a messed
+36:48
+up magic card. Um it's pretty easy to
+36:49
+turn it on too.
+36:50
+>> One thing to note here is that uh it
+36:53
+doesn't make game objects, but there are
+36:54
+a lot of situations where it takes game
+36:56
+objects from your opponent and that
+36:57
+that's like a very similar there are
+36:59
+some decks that can't afford to let you
+37:01
+just keep gaining the life off of this.
+37:02
+So they have to pitch a card or sack a
+37:04
+permanent at some point or you know if
+37:05
+you're the aggressor they're low enough
+37:07
+that they can't just take direct damage.
+37:08
+So, um, obviously that's not how this
+37:10
+plays if you roll it out on t two two
+37:12
+mana as a two two, you know, with
+37:14
+lifelink, a messa unicorn or whatever.
+37:16
+But I think there are enough situations
+37:17
+where this actually does put your
+37:19
+opponent in a bind and they can't just
+37:20
+take damage. And if they do take damage,
+37:22
+you're happy with that, too. It's hard
+37:24
+to go wrong once the delirium's on with
+37:25
+whatever your opponent decides to do.
+37:28
+>> Yeah, I think I think bottom of S, top
+37:30
+of a I'm basically in a similar boat as
+37:32
+both of you. I'm I'm just trying to
+37:33
+think like what are the cubes out there
+37:35
+that where I wouldn't be like adamant no
+37:38
+you must add stick twister to it and you
+37:40
+know I think there's a question I guess
+37:41
+about the delirium on this that maybe if
+37:43
+you're not if you're not a you know have
+37:45
+a large amount of graveyard focused
+37:46
+stuff or if your graveyard stuff is
+37:48
+really just you're sacrificing your
+37:49
+creatures because you're playing an
+37:50
+aristocrat strategy in black mostly then
+37:52
+then yeah I can imagine this actually
+37:53
+not getting there if you're if you're in
+37:54
+general if you're not on artifacts as a
+37:56
+strategy anywhere in your cube then this
+37:58
+get starts to make a lot less sense to
+38:00
+me so I think maybe top of a makes a
+38:03
+of S, but I I don't think there's going
+38:05
+to be many cards in S. So, I I think
+38:06
+this could be this could get there.
+38:07
+>> The thing that's keeping me wanting me
+38:09
+to keep this out of S is that the two
+38:11
+cards that I have mentally pegged as S
+38:12
+tier cards are so good that they see
+38:14
+play in multiple formats, including
+38:17
+constructed.
+38:17
+>> We can revisit it. I think the point
+38:18
+that we're trying to make here is this
+38:19
+card is really, really dope, and we
+38:21
+definitely recommend you try it if you
+38:22
+haven't tried it yet.
+38:23
+>> Yeah. Yeah. It's an S tier in my heart.
+38:24
+This card rules. Like, I I love that
+38:26
+card.
+38:27
+>> It's fun. It's fun, too. Next card is a
+38:28
+much worse artifact two lifelink uh
+38:30
+creature. This is leech gauntlet. It is
+38:32
+an artifact creature equipment leech.
+38:34
+It's a two two with lifelink. Uh
+38:36
+equipped creature has lifelink and it
+38:38
+has reconfigured for four. So you can
+38:39
+pay four mana to equip this onto a
+38:41
+creature you control to give a lifelink
+38:42
+which is a I I believe an act a game
+38:44
+action that I have never seen actually
+38:47
+taken in cube
+38:49
+>> with this card or with like rather
+38:51
+>> with this card with this card
+38:52
+specifically. I've seen it with others
+38:53
+but with this card specifically I've not
+38:54
+seen. This card would be really cool if
+38:56
+you could turn it into a lockxidon
+38:58
+warhammer for four or five mana like but
+39:01
+just giving a creature lifelink for is
+39:03
+it four or five? It did which what it
+39:05
+say?
+39:05
+>> Four. It's four.
+39:07
+>> Four. Yeah. I I think if they'd made
+39:09
+this like five mana give creature plus
+39:11
+two plus two in lifelink then we'd be
+39:12
+talking about a real card that that
+39:14
+actually be a really obnoxious card. Um
+39:17
+but no no stats like lifelink is not
+39:20
+worth four mana. This card is not a
+39:21
+particularly good two drop either. So,
+39:22
+like if it was really pushed on the the
+39:24
+creature side and you know the um the
+39:26
+reconfigure was just gravy, that would
+39:28
+be one thing, but this is kind of like
+39:30
+expecting you to do something with the
+39:32
+reconfigure and the reconfigure is not
+39:34
+very good.
+39:36
+>> This card sucks.
+39:37
+>> Yeah. Yeah. I played it for a while
+39:39
+because it's an artifact and I thought
+39:40
+that would be enough and it is an
+39:42
+equipment. I have some equipment side
+39:43
+synergies. I ended up cutting it myself.
+39:45
+I think it's not good enough anymore. Uh
+39:47
+>> well, you're right. if these if these
+39:49
+other artifact creatures we already
+39:50
+talked about didn't exist and this was
+39:51
+the only two mana artifact creature out
+39:53
+there like you
+39:54
+>> you might want it for that reason but
+39:55
+it's not it's there are other better
+39:58
+versions stick twister puts this card to
+40:00
+shame
+40:00
+>> exactly
+40:01
+>> what if there was a better artifact
+40:02
+creature in the exact same set though
+40:06
+>> what if next if only the card we're
+40:10
+about to talk about so next we have Numi
+40:12
+Prowler this is a 3-1 rat ninja it has
+40:15
+ninjutsu for one in a black if you don't
+40:17
+know ninja Juu, it means you can return
+40:18
+an unblocked attacking creature to your
+40:21
+hand and switch it out with this and it
+40:22
+comes intact and attacking. Uh, when it
+40:25
+enters the battlefield, target creature
+40:26
+you control gets death touch and
+40:27
+lifelink until end of turn.
+40:30
+>> Yeah, this card's decent.
+40:31
+>> Um, fine.
+40:32
+>> Yeah, this this is like definitionally a
+40:35
+B to me. Like I'm not embarrassed to
+40:37
+play it. I don't think it quite scales
+40:39
+up into the higher tiers. I think it's
+40:41
+fine to play and you can even get some
+40:43
+ETB value off of ninjutsu sometimes.
+40:45
+Nutsu is fun as well. So, yep. I I would
+40:48
+just slam this somewhere in like mid B,
+40:49
+like the most B card that ever beat.
+40:51
+>> Totally totally cumable. Has a bunch of
+40:53
+little micro synergies, not doing
+40:55
+anything too crazy. We don't run it, but
+40:57
+in a larger cube size like yours, I
+40:59
+could definitely see that happening.
+41:01
+>> Yep. I've been running it for a while.
+41:02
+It never at no point has it felt like a
+41:03
+card I had to keep in. I've thought
+41:05
+about cutting it many times. It actually
+41:06
+I might have cut it recently. I don't
+41:08
+even remember because it's just that
+41:08
+kind of a card that comes in and out. I
+41:10
+think it's a pretty quintessential beat.
+41:11
+Pretty easy to synergize with it, but
+41:13
+it's hard to do anything super busting.
+41:15
+Now talking about our next S tier, of
+41:17
+course. [laughter]
+41:18
+>> All right, so now we have Black Mage's
+41:20
+rod. This is an artifact equipment. So
+41:23
+it's not a creature, but it's
+41:24
+essentially a creature. It has job
+41:26
+select. When this equipment enters,
+41:27
+create a one-1 colorless hero creature
+41:29
+token and attach this equipment to it.
+41:32
+Equipped creature gets plus one plus O
+41:33
+and has whenever you cast a non-creature
+41:36
+spell, this creature deals one damage to
+41:38
+each opponent. Go for it, Tel.
+41:39
+>> Two mana, two game object. Ship it. Uh,
+41:43
+you know, this is uh this card is
+41:44
+actually really good. I think it's an
+41:45
+aer card. Like this is a
+41:47
+>> a Oh god, I knew you were going to
+41:49
+[laughter]
+41:50
+>> uh you know, you you're getting you're
+41:51
+getting that premium rate. You're
+41:53
+getting two two game objects. Your
+41:54
+opponent never gets anything on you. The
+41:55
+explosive prodigy this you still get to
+41:57
+keep the rod. If it sits in play, it's
+41:59
+going to ping some damage. It attacks.
+42:00
+It slices. It dices. It gets re-equipped
+42:02
+and picked up by Core Skyfishers. Who
+42:04
+doesn't love this card?
+42:06
+>> Oh, Tim. That's right.
+42:07
+>> I know. I I think this card's really
+42:09
+cool, but it like it's a B. Like I I
+42:11
+just don't think it's exceptionally
+42:13
+powerful card. You know, when we get to
+42:14
+red and we put flamekin archer or
+42:16
+whatever up here in a tier or whatever,
+42:18
+>> flame archer does not make two game
+42:20
+objects and is not an artifact.
+42:21
+>> No, this card is better than that
+42:23
+obviously cuz it's that card with
+42:24
+upside. Uh I I don't think this card
+42:27
+plays out like an A. I think people just
+42:29
+people love these bad equipment that
+42:32
+makes bad creature and it's like that's
+42:35
+enough.
+42:35
+>> You're goddamn right. And it's like, no,
+42:38
+that's good, but it's not excellent.
+42:40
+This I I do not believe this card is
+42:42
+excellent. I think it's merely good and
+42:44
+I would have it in B. But
+42:45
+>> so this is the reason why I wanted to be
+42:46
+in control of the actually putting the
+42:48
+cards in the tier list because I knew
+42:49
+that you wouldn't accept putting this
+42:51
+into its correct position of A. Uh the
+42:54
+reason why it's an A that we haven't
+42:55
+talked about other than what Tel said. I
+42:57
+actually think that cards like this are
+42:58
+the reason, the main way that you fight
+43:00
+the white recursive game object stuff in
+43:03
+general in peasant right now because
+43:05
+this is a game object thing except for
+43:06
+it drains the opponent the whole time
+43:08
+that you're taking your game actions.
+43:09
+And I'm like, this is the quintessential
+43:11
+black red card to me because you're
+43:13
+playing all your random make two object
+43:15
+things that are non-creatures and you're
+43:16
+just draining them the whole time you're
+43:18
+having these back and forth uh trades.
+43:20
+This is actually killing your opponent
+43:21
+while it's happening. I think that
+43:22
+actually matters quite a lot. I do think
+43:24
+I did not when I when we originally
+43:26
+graded the card and it came out, I would
+43:27
+not have put it this high. Now that I've
+43:28
+seen it in play a number of times, I
+43:30
+definitely think it gets up here. I
+43:31
+think it's actually an important peasant
+43:32
+card these days for.
+43:32
+>> I mean, I'm I'm out ruled.
+43:35
+>> Yeah. Two uh two two against one o or
+43:38
+something like that. I I I don't
+43:40
+disagree with any of the words you say.
+43:41
+I just think like in if you watch the
+43:43
+games where this is around, it's like
+43:44
+that's a good
+43:45
+>> I do watch it. It attacks for two and
+43:47
+then it traits for something.
+43:48
+>> It deals like seven. It deals like seven
+43:50
+damage and it's two objects. It's crazy.
+43:52
+Never does that. It never does that.
+43:54
+>> All right, moving on. Because we have
+43:55
+the correct grading for that card, uh we
+43:57
+have Star Starscape Cleric. This is a
+44:01
+2-1 uh bat cleric. It has offspring,
+44:04
+tuna black, so you can play tuna black
+44:06
+when it enters the battlefield or sorry,
+44:07
+as an additional cost to casting this,
+44:08
+you can pay tuna black and if you do,
+44:10
+you get a one-1 copy of this. And it has
+44:12
+flying. It can't block. And whenever you
+44:14
+gain life, each opponent loses one life.
+44:16
+Uh did could you repeat the the word you
+44:18
+said after I believe you said it after
+44:20
+flying. There was a couple of words you
+44:21
+said. Could you repeat?
+44:22
+>> I said uh this creature cannot block.
+44:24
+>> Ah D2.
+44:25
+>> I mean this is this is like even worse
+44:27
+than the the adventure [snorts] creature
+44:29
+in my [laughter] opinion. Like um like
+44:32
+it's not it's it's an even worse card to
+44:34
+play out on two which you have to do at
+44:36
+least half of the time that this is in
+44:38
+your opening hand. It's doesn't really
+44:40
+give you that much incredible value for
+44:42
+offspring in it and you have to be in
+44:43
+like some sort of life gain deck to
+44:45
+really want to justify it in the first
+44:46
+place. So all that points to like D
+44:48
+tier, wherever you want to put it in D
+44:50
+tier. I just don't think you should be
+44:51
+running this card.
+44:52
+>> Yeah, agreed. Agreed. A better lifegame
+44:55
+payoff incoming. We have Restless
+44:56
+Bloodseker. This is a one- three vampire
+44:58
+and it says the beginning of your end
+45:00
+step. If you gained life this turn,
+45:02
+create a blood token and then you can
+45:04
+sacrifice two blood tokens, transform
+45:06
+it, and oh god, on the back side, I
+45:08
+believe it's a three five that then lets
+45:10
+you sacrifice blood to drain your
+45:11
+opponent. I'll get the exact wording
+45:12
+there, but I think it's just three on
+45:14
+the back.
+45:15
+>> I think it's just a three three. If it
+45:16
+was a 35, that would be incredible, but
+45:18
+>> crazy.
+45:19
+>> Um, [clears throat]
+45:20
+>> I think this is a cool card. Um, it's
+45:22
+it's less allin on life gain
+45:25
+>> than, you know, another life gain
+45:27
+payoff. But I I think this is a really
+45:29
+interesting card. Blood tokens play out
+45:30
+really well and there is actually a
+45:32
+small reward for jumping the hoop to get
+45:34
+this transformed. So I would put this
+45:36
+above things like Iron Shield elf which
+45:39
+just seem like liabilities and probably
+45:41
+just middle of C. It's still not pushing
+45:43
+me into like playing this over all the
+45:45
+better twos that we've gotten since
+45:46
+Crimson Val came out. But I do like the
+45:48
+design of the card and I think there are
+45:50
+reasons to want to put it in IQ.
+45:52
+>> I want to put this into Btier. Um I
+45:54
+don't think it quite gets there. The
+45:57
+problem is is that this reads like a
+45:59
+life gain card, which we've explicitly
+46:01
+stated don't support that. But there's
+46:03
+also a lot of ways to incidentally gain
+46:05
+a life here and there. And I mean, if
+46:08
+this is reliably like two mana, one
+46:10
+three, make a blood, that's pretty good.
+46:12
+And if you get two or three blood off
+46:14
+this, this is pretty crazy. I think this
+46:16
+is a really interesting card that I it's
+46:18
+a weird high uh low floor high ceiling
+46:21
+type of card where the the the card if
+46:24
+you're able to consistently I mean
+46:25
+another thing that strikes me too is
+46:26
+that if you get the blood right we've
+46:28
+got now suzar voidorn and um Albed
+46:32
+scavengers available on the client and
+46:34
+then once you get the first blood it's
+46:36
+it's providing its own blood I think
+46:38
+this card probably has enough hoops you
+46:40
+have to jump through that it doesn't
+46:41
+quite get in to the higher tiers but
+46:43
+like it's a card that makes game objects
+46:44
+and is a cheap efficient blocker So
+46:47
+>> yeah, I I played this for a while and my
+46:48
+thinking was this is like the exact kind
+46:50
+of card I wanted to play as a life gain
+46:52
+payoff because it doesn't really ask
+46:53
+that much of you if you gain life like
+46:55
+you're saying, you gain life one time
+46:56
+and it's b I mean two mana one three
+46:57
+make a blood I think is like fine. It's
+46:59
+not amazing but I think you could
+47:00
+justify that and yes it has the
+47:01
+potential to do do it multiple times.
+47:03
+The backside of this just to be clear
+47:04
+it's probably popped up on the screen
+47:05
+already but it's a three three. It still
+47:08
+keeps that top ability and then you can
+47:09
+pay five mana to drain your opponent for
+47:11
+two and gain two. um that I'll just say
+47:13
+never happened one time in the entire
+47:15
+time I ran this card. All it is is just
+47:17
+sitting in play spitting out little
+47:18
+blood tokens. In my heart, this is a
+47:21
+B-level card, but people never never
+47:23
+never took it like it was a B-level
+47:24
+card. It was a very niche playable and
+47:26
+that's why I ended up cutting it. I
+47:27
+think you're right that s that salvagers
+47:29
+and void maybe give it a little bit more
+47:32
+reason to be played and I could see
+47:33
+maybe trying it again at some point,
+47:34
+especially if you got a little bit more
+47:35
+like a better life gain trigger of some
+47:37
+kind um in black. But I think for now I
+47:40
+have to leave it as a high C just
+47:41
+because I've been playing with it and
+47:41
+just nobody treats it like a B level
+47:43
+card.
+47:43
+>> Yeah, I think top very top of C just is
+47:46
+probably the correct placement for this
+47:47
+card. I also want to say that I think of
+47:49
+the cards that we've talked about that
+47:50
+are in these lower tiers, this is a card
+47:51
+that like a year or two from now we
+47:53
+could be like, yeah, this card had a
+47:54
+sudden resurgence because we had a bunch
+47:56
+of, you know, deep cavern bat style
+47:57
+cards that are just incidental easy life
+47:59
+gain cards. And because the more of
+48:01
+those you have floating around, I mean,
+48:02
+that may be bad for for your cube format
+48:04
+depending on, you know, what's going on.
+48:06
+But if you have a lot of access to like
+48:07
+gain a life one time, now now you're
+48:10
+kind of cooking. And this card, this
+48:12
+card has a pretty high ceiling.
+48:13
+>> It makes art, it makes objects, it makes
+48:15
+permanence in play and doesn't ask you
+48:16
+to spend mana to do it. It, you know,
+48:18
+it's hard for it to be bad. It's that's
+48:19
+the that's the thing. But it's just
+48:21
+again, not a card.
+48:22
+>> Pretty good curve with a virulent uh
+48:24
+what's the what's the elf by death touch
+48:26
+elf that that gains a life. Uh pretty
+48:28
+good curve. That's true.
+48:29
+>> One one final note on that card um is
+48:33
+even if you think you have enough
+48:34
+incidental life gain, if you're not
+48:36
+actively supporting a life gain theme, a
+48:38
+lot [snorts] of drafters will see this
+48:40
+as a life gain payoff, whether that's
+48:41
+what it's intended for or not. And
+48:43
+that's why people don't take it. And if
+48:44
+that is how it ends up playing in a
+48:46
+cube, it's not worth a slide. People are
+48:48
+going to consider it a card that
+48:50
+requires you to do work surrounded by
+48:51
+all these other cards that do not
+48:53
+require you to do work.
+48:54
+>> I could I could see by the end of this
+48:55
+moving this back up, moving it to the
+48:57
+bottom of E, but we can keep it here for
+48:58
+now. Um, all right. Next card. Treasure
+49:00
+Dreger. This is a two two Human Rogue.
+49:01
+It has one mana, pay a mana, generic
+49:04
+mana. Tap it and pay a life to create a
+49:06
+treasure token.
+49:07
+>> Um, I like this card, but it's not very
+49:09
+good.
+49:11
+>> Conceptually, I think the card is cool.
+49:13
+I would have a hard time finding a cut
+49:16
+for it. If I was on things like Pack
+49:18
+Doll Terror, like if I was pushing
+49:19
+artifacts that much or multicolor or
+49:23
+something, I it reads as buffalo card to
+49:26
+me. I want to be doing more with it than
+49:28
+just making a treasure. The life payment
+49:30
+kind of sucks, but two mana 2 two is not
+49:32
+impressive stats. It has like things
+49:34
+pulling it in both directions, which to
+49:35
+me averages out to sea level something.
+49:37
+>> Yeah, I think I I think I would want to
+49:39
+put this right next to the the the other
+49:41
+guy. Um, two mana has the ability to
+49:44
+make game objects on a consistent basis.
+49:46
+And this one does technically take mana,
+49:48
+but if you need it to not take mana, it
+49:50
+doesn't take mana. Um, so
+49:53
+>> yeah, sim similar to me to this is I I
+49:55
+do want specific stuff happening in the
+49:56
+cube, but I think if you're pushing
+49:57
+artifacts enough, then it's reasonable.
+49:59
+I run it at different times in the life
+50:00
+of my cube and it's it's been fine, just
+50:02
+never impressive. So, uh, again, hard to
+50:04
+grade things that make objects that low,
+50:06
+and I think top of C is kind of the
+50:07
+lowest that I'm really willing to go on
+50:10
+an effect like that, but your mileage
+50:11
+may vary.
+50:12
+>> What's the lowest you're willing to go
+50:13
+on a bad card draw card?
+50:16
+>> Uh, I think kind of bottom of B,
+50:17
+honestly. But so this is Dusk Legion
+50:19
+Zealot. This is a vampire soldier 1-1.
+50:21
+When it enters the battlefield, you draw
+50:22
+a card and you lose one life. So yeah, I
+50:24
+mean I I I don't think it's reasonable,
+50:26
+honestly, to put this anywhere lower
+50:28
+than bottom of B. I think the effect has
+50:30
+just been proven over and over over
+50:31
+[snorts] again to be a card you can run
+50:33
+um very easily in any archetype. Similar
+50:34
+to the the two meta one in white that we
+50:37
+were just like, yeah, there's just like
+50:38
+the quintessential B card. It's a role
+50:39
+player. It'll be run in some cubes. It
+50:40
+won't surprise you when you see it. Uh
+50:42
+you know, that's how I feel at it.
+50:43
+>> He qualified it with the I can't put it
+50:45
+lower than B. So I I can't put it lower
+50:47
+than
+50:47
+>> I I could put it lower than B and I
+50:49
+would put it lower than B, but um I'm
+50:52
+not I mean if we can't put it lower than
+50:54
+B, then I guess
+50:54
+>> so. So like talk talk to me about if we
+50:55
+gave the white one like smack dab middle
+50:58
+middle of B.
+50:58
+>> The white was also an enchantment in a
+51:01
+better in a color that's better.
+51:02
+>> This is a B. Like
+51:03
+>> I'm not saying it's middle. I'm saying
+51:05
+that like bottom of is fine, but like
+51:06
+again if I saw this in a cube, I would
+51:07
+never blink twice. I'd be like, yeah,
+51:09
+not only would I do would I be fine
+51:10
+seeing in a cube, I'd probably run it in
+51:12
+a lot of my decks, you know?
+51:13
+>> Yeah. I mean, I just I guess I just
+51:14
+really don't like this template of card.
+51:16
+I don't like I wasn't on the episode for
+51:17
+the uh for the one one getting put into
+51:19
+B or I would have argued to put it into
+51:21
+C. Um
+51:22
+>> Oh, interesting. I think
+51:24
+>> this is the type of bee that I want to
+51:26
+have in C cuz I do not like cantrip
+51:28
+creatures in general. Like I do not like
+51:32
+poor body plus draw a card, Elvish
+51:34
+Visionary, whatever. I just have never
+51:36
+never never liked those cards. But you
+51:38
+are right that like they're not bad
+51:41
+cards just cuz I don't like them to me.
+51:43
+This this is fine. This is fine. This is
+51:46
+the type of card that I would like if I
+51:47
+was playing someone else's cube, I'd be
+51:49
+like, "Have you considered blah blah
+51:50
+blah instead of Dus Legion Zealot?" But
+51:52
+like I wouldn't be confused why they're
+51:54
+running Dusk Legion Zealot. It's clean
+51:56
+>> to me. There's nothing about a cube that
+51:58
+makes this better or worse to be run
+52:00
+other than, you know, there might be
+52:01
+some better cards, but I I just think
+52:03
+that the role this serves is very solid.
+52:06
+Well, it it will serve that role across
+52:08
+many decks. You know, are you know, it's
+52:10
+just it's just hard for this card to not
+52:11
+do the thing that it's doing. I agree
+52:13
+with you. Like just ETB draw a card is
+52:15
+boring kind of, but like I I think
+52:16
+that's a very solid rate on the card and
+52:18
+I think there's a lot of black decks
+52:19
+that are happy to run it.
+52:20
+>> Like we'll we'll get to another black
+52:22
+two drop. I think that just like blows
+52:23
+this card out of the water and
+52:25
+>> would make me question why you're still
+52:27
+running this instead of
+52:29
+we'll see. Yeah, when we come to it. I'm
+52:31
+willing to revisit this. It's just like
+52:32
+this just seems to be like a
+52:33
+quintessential B. just like a a card
+52:34
+that a lot of people play and I don't
+52:35
+think there's anything wrong with it.
+52:36
+It's just
+52:37
+>> that's how all cantrip can creatures
+52:39
+like Sel's Pac-Made and stuff. They're
+52:40
+all B's that I want to be C's.
+52:42
+>> Okay. Yeah,
+52:43
+>> that that's fair. Okay, I'll accept that
+52:45
+it's it's B based on the definitions
+52:46
+that Denilius uses. I would vive it as a
+52:48
+C.
+52:48
+>> Exactly.
+52:49
+>> Yeah, that's that makes sense. All
+52:50
+right. Virus beetle. This is a two mana
+52:53
+one uh sorry, it's a one one insect
+52:55
+artifact creature. When it enters the
+52:56
+battlefield, each opponent discards a
+52:58
+card. And before we talk about this,
+52:58
+let's just pull all three of So, we have
+53:00
+Virus Beetle is a one-1 artifact that
+53:02
+when it enters battlefield, each
+53:03
+opponent discards a card. There is uh
+53:06
+Skull Scap Snail, which is a one- one
+53:08
+that when it's not an artifact, but the
+53:10
+opponent has to exile the card from
+53:12
+their hand. And then there's
+53:13
+Acquisition's Expert, which is a one-two
+53:15
+human rogue. And when it enters, your
+53:17
+opponent reveals X cards where X cards
+53:19
+is the number of creatures in your
+53:20
+party. And then you choose one of those
+53:22
+and they discard that card.
+53:25
+>> Yeah, there's a lot of cards that are
+53:26
+like this. These are these are basically
+53:27
+to me like the the quintessential
+53:29
+versions of this template that are worth
+53:31
+talking about.
+53:31
+>> Yeah.
+53:32
+>> Yeah. Um these all feel like C's that I
+53:34
+I want to be D's really. Um these are
+53:37
+not cards I enjoy playing with a ton. I
+53:39
+mean Virus Beetle I I do like as a card
+53:41
+but these kind of cards are kind of like
+53:44
+your cantrip creatures Dus Legion Zealot
+53:46
+except some reasonable percentage of the
+53:48
+time they miss and they don't help you
+53:49
+increase getting your land drops which
+53:51
+are what cards like Dus Legion Zealot
+53:52
+are usually good for. Um, so it feels
+53:56
+like they're just kind of generally
+53:57
+worse versions of of the cantrip
+53:59
+creatures. Um,
+54:01
+>> yeah. Um, the snail I think in
+54:02
+particular is the worst of them because
+54:04
+it it's it's really just buffing the
+54:06
+discard and I if I'm going to consider
+54:08
+these cards, I want them to synergize
+54:10
+with my deck, which is where I could
+54:11
+totally see somebody pushing artifact
+54:13
+synergies in one and virus beetle. Virus
+54:15
+beetle has been good in retail limited
+54:17
+twice now as like a top tier common
+54:19
+because it is an artifact, not because
+54:21
+it's a a discard creature. Acquisitions
+54:24
+Expert I think is a really cool card and
+54:26
+we played it when it came out and I
+54:27
+thought I still think it's like a fine
+54:29
+card. Um even you you don't have to push
+54:32
+party or anything. I think it's just a
+54:33
+fine card, but you wouldn't play it over
+54:37
+virus beetle if you had artifact
+54:38
+synergy. So I how much room do you have
+54:41
+for any of these at all? I don't know. I
+54:42
+[snorts] think snail is probably an
+54:44
+entire step below virus beetle. Um
+54:48
+because you just can't synergize with
+54:49
+snail where you can synergize with
+54:51
+beetle. Even then, it's like we, you
+54:55
+know, cantrip creature versus discard
+54:57
+creature almost. It's like divination
+54:58
+versus mind drop. Divination's usually
+55:00
+better for you than mind drop because
+55:01
+it's progressing your game plan instead
+55:04
+of giving your an opponent a choice on
+55:06
+how to disrupt their own game plan. So,
+55:09
+uh I I kind of have to put virus beetle
+55:11
+below wherever we're going to put the
+55:14
+zealot, I think. Um though, obviously
+55:17
+there are cube considerations that could
+55:18
+push an artifact creature above. Hey,
+55:20
+you want to give me an artifact creature
+55:22
+zealot? I'm all for it. But, uh, that's
+55:25
+not what we've got. So, yeah. Uh,
+55:26
+acquisitions expert I think is below
+55:28
+virus beetle and virus beetle is still C
+55:30
+tier. I think
+55:31
+>> I think I would have them right next to
+55:32
+one another because I think the ability
+55:34
+to profitably block one one tokens and
+55:36
+occasionally, it won't happen often, but
+55:38
+sometimes you'll get a choice in the
+55:39
+cards you discard. Um, like if
+55:41
+Acquisition Experts gives you two
+55:42
+choices, that's that's pretty good in a
+55:44
+lot of cases because, you know, your
+55:45
+opponent, especially like on turn three
+55:47
+or four when this would presumably be
+55:49
+happening, probably doesn't have extra
+55:51
+lands that they can give you two lands.
+55:52
+They might be able to offer up one land
+55:53
+to discard, but a lot of times they're
+55:55
+not be able to discard offer up two to
+55:57
+discard in the in, you know, that that
+55:59
+uh turn span.
+56:01
+So, I I don't want to argue too much for
+56:02
+snail, but I the the reason why I kept
+56:05
+it on the list is specifically because
+56:07
+of uh the fact that I I think getting
+56:10
+more Exile in your cube as a way to
+56:12
+fight the the recursive decks is
+56:14
+something that I'm very interested in
+56:15
+doing in 2026 and this could be a way to
+56:18
+do it, but it's just the effect. It's
+56:21
+just not affect that I'm that interested
+56:22
+in in running. But I think that that
+56:24
+would be the reason to consider this
+56:25
+over Beetle or Expert. I I generally
+56:27
+agree with y'all that I would rather
+56:29
+consider these for the reasons you
+56:30
+talked about. [snorts] Uh the the by far
+56:32
+the best version of the creature that
+56:34
+comes into play and makes your opponent
+56:35
+discard something. Deep Cavern Bat.
+56:37
+>> Is this the best discard card ever
+56:39
+printed? This card is standard slash
+56:42
+maybe multiiformat uh allstar. Vintage
+56:44
+cube allstar. Vintage cube.
+56:46
+>> Yeah, I mean this card is like
+56:49
+>> it. No matter how high you were when
+56:51
+this card was spoiled, I have to imagine
+56:53
+you were blown away with the actual
+56:55
+performance of this card. Um, I think
+56:57
+this card is actually worse in peasant
+56:59
+cube than it is in other cubes and it's
+57:02
+still an easy S tier for me.
+57:03
+>> Yes. So, real quick, this is a 1-1 with
+57:05
+flying and lifelink. When it enters the
+57:06
+battlefield, target opponent reveals
+57:08
+their hand and you choose a non-land
+57:09
+card from it and it's exiled until Deep
+57:12
+Cavern Bat leaves the battlefield. And
+57:13
+one one thing to note is this is like
+57:15
+the exact same text as Kiteale free
+57:17
+bootter except for free booter is a one
+57:19
+two and doesn't have lightning.
+57:21
+>> Uh, no it's not. Well, this free instant
+57:24
+or sorcerer. Oh, really? Never mind. My
+57:26
+bad. No free deep cavern bat. One of the
+57:29
+ways you avoid one of the ways you can
+57:31
+avoid getting explosive prodigy on your
+57:33
+one toughness creature is to just take
+57:35
+the explosive prodigy with your deep
+57:37
+cappa bat.
+57:38
+>> Um,
+57:39
+>> okay. Pre- bidder is non creature non
+57:40
+land. So, yes, it is. Okay. So the the
+57:43
+usual play pattern with this card is
+57:44
+that you take your opponent's removal
+57:46
+spell and then they are locked out of
+57:47
+having removal until they draw another
+57:49
+removal spell at which point they have
+57:50
+to use mana to kill your bat that's
+57:52
+already generated some value which is I
+57:54
+mean if you're obviously if you're
+57:56
+playing two removal spells sometimes you
+57:57
+just like take the better one or
+57:59
+sometimes you'll take a creature or
+58:00
+whatever but the cool thing is you you
+58:02
+don't have to do that. There's a bunch
+58:03
+of different play patterns with this
+58:04
+card, but um just a super powerful
+58:06
+disruptive creature. Carries buffs well,
+58:08
+you know, chips in lifelink for cards
+58:10
+like the uh the blood guy we were
+58:12
+talking about. Just, you know,
+58:13
+incidental synergy on top of a really
+58:15
+efficient body.
+58:16
+>> Plays pretty well with uh black mage's
+58:18
+rod because you put your rod on it and
+58:19
+now you're get you're dealing lifelink
+58:21
+damage. Oh, [laughter]
+58:23
+>> sure. Okay. You got a wizard bat.
+58:25
+>> Yeah, it's a it deals two damage and
+58:26
+then pings for extra damage in life life
+58:29
+gain. Love it. I I don't want to go too
+58:31
+far down this, but there's a Yu-Gi-Oh
+58:32
+card called Light Force Sword that would
+58:34
+pluck a card out of your opponent's
+58:35
+[laughter] hand and put it off to the
+58:36
+side for four turns. And in the anime,
+58:38
+it's like it sniped whatever card was
+58:40
+going to win the game and gave Yugi the
+58:43
+time to win. This is Light Force Sword
+58:44
+on a one-1 life bunker. [laughter]
+58:47
+>> Yeah, the card is
+58:48
+>> I think that's what it's called.
+58:49
+>> What a card.
+58:49
+>> Yeah, the card is uh very very very
+58:51
+strong. And you're right, the main thing
+58:52
+that that protects it from having one
+58:54
+toughness is the fact that you get to
+58:55
+take the card that was going to blow you
+58:56
+out for having the one toughness
+58:58
+creature when it enters the battlefield.
+58:59
+So, yeah, I easy estimate and and pretty
+59:01
+clearly the second best black to drop in
+59:02
+peasant in my mind.
+59:04
+>> Yeah.
+59:04
+>> Um,
+59:04
+>> straight Matty.
+59:05
+>> All right. Next, we have Ashnod's
+59:07
+Harvester. This is a uh two colorless
+59:10
+mana 3-1. So, it is it's a colorless
+59:12
+card. You could theor theoretically play
+59:13
+it in any deck. Um, it's a 3-1 artifact
+59:16
+creature construct. Whenever it enters,
+59:17
+sorry, whenever it attacks, exile target
+59:19
+card from a graveyard. And it has unear
+59:21
+for one of black. And unearth is just
+59:23
+you can pay one to black, return it to
+59:24
+the battlefield, it gains haste, exile,
+59:26
+exile it if it would leave the
+59:28
+battlefield and sacrifice it and at end
+59:30
+of turn.
+59:31
+>> Yeah. What do you think about this one?
+59:33
+>> I like this card a lot. Um I think that
+59:35
+it's hard to rate it super highly. I
+59:38
+don't know that I'd have it in B where
+59:39
+I'm having it now. But what I like about
+59:40
+it is it is kind of a hybridish card in
+59:43
+the sense that you can play it in a
+59:44
+non-black deck. If you have like a way
+59:46
+to make black or a couple ways to make
+59:47
+black, it can be reasonable to do that.
+59:48
+But the main thing I like about it is
+59:50
+that it's a it's a two permanence for
+59:53
+one card kind of. You know, if the way
+59:55
+that you if the reason why you need
+59:56
+permanence is for like sacrifice or
+59:58
+whatever else, then yes, you can bring
+59:59
+this back from the yard uh to get
+1:00:01
+advantage of a second rectangle in play.
+1:00:03
+It it it's relevant in your graveyard
+1:00:05
+decks potentially because it's value
+1:00:07
+from the graveyard. And again, it gives
+1:00:09
+you value against these recursive decks
+1:00:10
+that are just trying to hit the same
+1:00:12
+permanent over and over and over again.
+1:00:13
+So it I I like it as a glue card. It's
+1:00:15
+just not particularly powerful. it its
+1:00:17
+upside is relatively low and so I I
+1:00:20
+think somewhere in C or B is where I
+1:00:22
+would put it. I could see it as bottom
+1:00:23
+of B. I could see it in C. Either one.
+1:00:25
+It's also two artifacts kind of. It's an
+1:00:27
+artifact trigger eting on the front side
+1:00:29
+and then again from the graveyard. So I
+1:00:30
+think it just does a lot of little
+1:00:31
+things. It's just the upside is is
+1:00:33
+limited.
+1:00:33
+>> Yeah. Um instantly be able to play this
+1:00:35
+off of like mill. It's pretty cool with
+1:00:37
+uh roots if you're on that right. You
+1:00:39
+mill it and then you you get a roots
+1:00:41
+token and then you attack you get
+1:00:42
+another roots token. um instant
+1:00:44
+graveyard hate super valuable in pez
+1:00:46
+cube at the moment. It's not something
+1:00:47
+you necessarily want to commit a bunch
+1:00:48
+of resources to, but when you get it
+1:00:50
+kind of for free on a on an artifact. Um
+1:00:53
+but yeah, like you said, limited upside
+1:00:55
+on this card. Uh, I I think this is kind
+1:00:57
+of just a C-tier card just, you know, it
+1:01:00
+if you're carrying about um artifacts,
+1:01:03
+specifically actually casting artifacts
+1:01:06
+um or having artifacts in your deck, I
+1:01:08
+think this uh goes up a little bit, but
+1:01:11
+in it's not just like a generically
+1:01:13
+powerful card.
+1:01:15
+>> Yeah, it easy buffalo card, right? you
+1:01:18
+kind of want to care about artifacts,
+1:01:19
+care about graveyard exile, whether it's
+1:01:21
+yours or your opponents, and care about
+1:01:23
+beating down in black to some extent. If
+1:01:25
+you can check off all those boxes, it's
+1:01:26
+good. My my one gripe with the card, and
+1:01:28
+it doesn't come up that often, but it
+1:01:29
+does come up, is that it has to exile
+1:01:31
+your own cards if you're the only one
+1:01:32
+with stuff in your graveyard, which I
+1:01:33
+always hated about the card, but um that
+1:01:36
+that's really not a knock against it. It
+1:01:38
+just happens sparingly. I like this
+1:01:40
+card. I think high C. I was going to say
+1:01:42
+low B, but I think high C is like an
+1:01:44
+appropriate spot for it. like top of sea
+1:01:46
+carrier thr.
+1:01:47
+>> I was going to ask if you wanted to grab
+1:01:48
+the grub and the persist goblin or just
+1:01:50
+talk and talk about them all together or
+1:01:51
+do you want to talk about those
+1:01:52
+individually?
+1:01:55
+>> Sure, that makes sense. They can
+1:01:56
+probably all go together.
+1:01:57
+>> I guess there's also technically
+1:01:58
+monstrosity and or there there's like a
+1:02:01
+whole pile of these.
+1:02:02
+>> So yeah, we'll just do we'll just do all
+1:02:03
+of these kind of back to back to back.
+1:02:05
+All right, so we're going to these are
+1:02:06
+all creatures that die into value um of
+1:02:08
+some kind. And there's others that also
+1:02:09
+kind of die into value, but this is die
+1:02:11
+into like uh objects that you're putting
+1:02:13
+into play. So, uh, Carrier Thraw is a
+1:02:15
+two-1 vampire. When it dies, you create
+1:02:18
+a 1-1 colorless Eldrazi scion creature
+1:02:20
+token. It has sacrificed this creature
+1:02:22
+to add a colorless mana. There's
+1:02:25
+Wriggling Grub, which is a one-1 worm.
+1:02:27
+When it dies, you create two one black
+1:02:29
+and green worm creature tokens. There's
+1:02:31
+Orzov Enforcer, which has Death Hutch,
+1:02:34
+and when this creature and afterlife
+1:02:35
+one, so when this creature dies, you
+1:02:36
+make a one- one black uh spirit
+1:02:39
+creature token with flying. There's
+1:02:42
+putrid goblin, which is a two two that
+1:02:43
+has persist uh zombie goblin. So, it has
+1:02:46
+persist. When it dies, if it didn't have
+1:02:48
+a one-1 counter on it, it returns as a
+1:02:50
+one- one with a negative one counter on
+1:02:51
+it. And then there's monstrosity, which
+1:02:53
+is a 3-1 horror. When it dies, you
+1:02:55
+create a food token. So, we can just
+1:02:57
+start with Thraw. What do we think about
+1:02:59
+Thraw?
+1:03:00
+>> Uh, I don't think I've ever thought
+1:03:01
+about this card in the entire existence
+1:03:03
+of Keeper.
+1:03:04
+>> Well, okay. How about this? Let's What
+1:03:06
+do we like the most out of these? So,
+1:03:07
+personally, I would put Enforcer as the
+1:03:09
+best of all these. Maybe then
+1:03:11
+>> enforcer, then monstrosity, then grub,
+1:03:14
+then goblin, then carrier.
+1:03:17
+>> So goblin, [laughter] you know, goblin
+1:03:20
+for me is is basically a C in the I I
+1:03:23
+think it has to just be C in the sense
+1:03:24
+that it's an infinite combo card. I
+1:03:26
+don't think you really care to run this.
+1:03:27
+But if you have if you're running if you
+1:03:28
+like the combos, then yeah, like
+1:03:29
+obviously you're going to run this card.
+1:03:31
+Otherwise, I think it's like it's fine.
+1:03:32
+It's probably worse than a lot of these
+1:03:33
+others, but as a combo card, it can't be
+1:03:35
+beat. Um these four are a lot more
+1:03:37
+interesting. Yeah.
+1:03:39
+>> Yeah. Uh I I had the Goblin Sea just
+1:03:40
+because you could like I was thinking
+1:03:41
+you could like pick it up a recurrent,
+1:03:43
+you get a little extra value or
+1:03:44
+whatever, but like yeah, the um I think
+1:03:46
+these other four are a lot more uh
+1:03:48
+comparable. Um so I think Enforcer is
+1:03:50
+like clearly the best one of these
+1:03:51
+bunch. Um just having death touch and
+1:03:53
+tra and becoming a one-1 flyer is like a
+1:03:56
+lot better than the rest of these cards.
+1:03:58
+>> Um
+1:03:59
+>> yeah, I agree. I'd have that an A. Yeah,
+1:04:01
+I I think the reason I had Mstrosy
+1:04:03
+number two is I just value making a
+1:04:05
+artifact more than I value making one
+1:04:07
+one and it has three power on the front
+1:04:09
+side, which allows it to in spots where
+1:04:13
+it doesn't get pinged off, it allows it
+1:04:14
+to trade much more effectively as a
+1:04:16
+defensive card. Whereas the Grub I found
+1:04:18
+when I tried playing it, the one-1 stat
+1:04:21
+line, even if it dies into more game
+1:04:22
+objects, which sounds really good, it
+1:04:24
+just is so anemic on the front side,
+1:04:26
+it's kind of hard to work with.
+1:04:31
+I I cannot. So, you guys are going to
+1:04:33
+have to collaborate on this. I cannot
+1:04:35
+back monstrosity at all. Period. So,
+1:04:37
+whatever wherever you guys want to put
+1:04:39
+it, just know that I'm a full twoletter
+1:04:40
+grades below that. So, I'll let you guys
+1:04:42
+decide where it goes. I think that is a
+1:04:44
+horrendously bad card. Personally, um I
+1:04:47
+think food is one of the worst tokens
+1:04:48
+you can make if you're going to lean on
+1:04:50
+this makes a token and 3-1 stat line is
+1:04:52
+a terrible stat line. So, it's just to
+1:04:54
+me bad two really bad tastes that uh
+1:04:57
+just don't add up to a a card that
+1:04:59
+tastes good. So, I I I think it's not a
+1:05:02
+card you should put in a cube. Whatever
+1:05:03
+the opposite of S is like should be in
+1:05:05
+every cube should not be in any
+1:05:06
+[laughter] cube. That's where I would
+1:05:07
+put monstrosity. But I like yes, it
+1:05:10
+makes a game. You guys are right. It has
+1:05:11
+>> mer. We played this card in the main or
+1:05:13
+the the jank diver peasant cube for a
+1:05:15
+while and I actually enjoyed it. I
+1:05:16
+thought it was fine.
+1:05:17
+>> I don't remember that and it it might be
+1:05:20
+um my brain blocking it out that we did.
+1:05:22
+So,
+1:05:23
+>> so Personally, I would have monstrosity
+1:05:24
+as like a low tier C. Um, you know, I
+1:05:26
+care about food. I care about artifacts.
+1:05:28
+I've run it before and it still never
+1:05:30
+felt like a card that really mattered
+1:05:31
+much. I agree with Helen that it's like
+1:05:32
+it's fine. It never feels really bad or
+1:05:34
+anything, but it just has never felt
+1:05:36
+like it mattered much. And given the
+1:05:37
+fact that I think my environment is one
+1:05:38
+that's probably set up to take advantage
+1:05:40
+of this card more than most. And at no
+1:05:42
+point has it felt like a card that
+1:05:43
+really mattered much. I I don't think it
+1:05:45
+can get higher than like bottom Cish
+1:05:48
+level card. Yeah. Um, I don't have a
+1:05:50
+strong opinion honestly on Grub. I've
+1:05:51
+never played with it. it. You know, I
+1:05:53
+this is one of the most played cards out
+1:05:55
+of this whole list. So, like if we're
+1:05:56
+just ranking this by how often is this
+1:05:58
+played in peasant, this might be like
+1:06:00
+>> S or or A. Um I I don't I don't think I
+1:06:04
+agree with that honestly, but it doesn't
+1:06:06
+seem insane to me. It makes three
+1:06:07
+objects for two mana. That's like that's
+1:06:09
+a lot of objects. So, I mean I
+1:06:11
+personally, if I was if I was ranking
+1:06:12
+this without y'all here, I would
+1:06:13
+probably say like somewhere in B for
+1:06:16
+grub.
+1:06:16
+>> Um I include Thraw because I think that
+1:06:18
+I think that people don't respect this
+1:06:20
+card enough. I do see this card in a lot
+1:06:21
+of lists, though I'd see grub a lot more
+1:06:23
+often. But like this is 32 of stats
+1:06:26
+across two bodies and the in the second
+1:06:27
+body this mix is like pretty relevant. I
+1:06:29
+think that that scions are like pretty
+1:06:31
+good objects. Um so I don't know. I
+1:06:33
+could see both of these being bottom of
+1:06:35
+B or somewhere in the B range. I agree
+1:06:37
+generally I think with Tim that
+1:06:39
+monstrosity should be lower. I don't
+1:06:41
+think it gets to D because it is still
+1:06:43
+an object creating three one for two.
+1:06:44
+It's like there's not a lot of black
+1:06:45
+cards that do this um in this way. But I
+1:06:47
+I agree that it's not a particularly
+1:06:48
+impressive card. Yeah, I I like Mint
+1:06:50
+Shsy. I don't necessarily know if it's
+1:06:52
+good. I I do like it though. The way
+1:06:53
+black red wins and this is a black it's
+1:06:55
+a black red gold card, right? And the
+1:06:57
+way black red wins is by playing this
+1:06:59
+kind of aggro attrition game plan of
+1:07:01
+like trade. We've talked about it. You
+1:07:03
+trade for resources while chipping in
+1:07:04
+damage and you're generating extra
+1:07:05
+value. The problem is is that grub
+1:07:08
+doesn't do anything. You have to trade
+1:07:09
+it off before it does anything or you
+1:07:11
+have to like crack the hornet nest
+1:07:12
+yourself. And your opponent's not going
+1:07:14
+to help you do that. If you attack with
+1:07:15
+the grub, they're going to, you know,
+1:07:17
+they're just going to take one, which is
+1:07:19
+sure it's it's fine, but like you could
+1:07:21
+also just attack with other creatures
+1:07:22
+and then when it, you know, you so
+1:07:24
+usually end up having to crack it
+1:07:25
+yourself or try to like chump block with
+1:07:27
+it and then you spent two mana for two
+1:07:28
+tokens, which is like a raise the alarm,
+1:07:29
+right? That gained you two life. Um, and
+1:07:32
+I don't think any of those things are
+1:07:33
+particularly powerful. Like grub reads
+1:07:35
+like a really strong card. I was really
+1:07:36
+high on it in our set review, but when
+1:07:38
+you actually think about how black red
+1:07:39
+wins games, I don't think it plays very
+1:07:41
+well in that game plan. Um, so I think
+1:07:43
+this is an overcubed card.
+1:07:45
+>> I'd say the the argument against that is
+1:07:47
+that we just have so many very like
+1:07:50
+strong and interesting sacrifice outlets
+1:07:52
+these days like June, like Judy, you
+1:07:55
+know, Gollum, Vampire, Gourmand, like
+1:07:57
+Umber, Caller, Zealot, like this whole
+1:07:58
+last half of, you know, these last
+1:08:00
+seven, eight cards here are all
+1:08:01
+sacrifice cards. And this is the best
+1:08:03
+card to be sacrificed in the sense that
+1:08:04
+it gives you three things to sacrifice.
+1:08:06
+So, if you're doing the, you know,
+1:08:07
+voidorn marinet apprentice, like almost
+1:08:09
+combo kill, um, aristocrat style game
+1:08:12
+plan, this has got to be the a card you
+1:08:13
+almost have to play if that's like the
+1:08:15
+main thing that you're doing in black.
+1:08:16
+So, that's why I'm like, I don't know
+1:08:17
+that it can get lower than like be, you
+1:08:20
+know, even like low B because a lot of
+1:08:22
+cubes are running this doing that thing
+1:08:24
+and in that thing, this has got to be
+1:08:25
+like the best version of that effect you
+1:08:26
+can run.
+1:08:26
+>> Yeah. I guess I just wonder how often
+1:08:28
+that whole Rude Goldberg machine of uh
+1:08:30
+of death comes together. And a lot of
+1:08:31
+these cards too, to to be to your point,
+1:08:34
+three of these cards were printed in the
+1:08:35
+back half of last year. And I would
+1:08:36
+argue the three good ones that you
+1:08:38
+mentioned were printed in the back half
+1:08:39
+of last year. Um, like Vermin Gorgger is
+1:08:42
+really good as well in in certain spots,
+1:08:44
+and we'll get to it in a minute. But
+1:08:45
+like, you know, these sack outlets that
+1:08:47
+are actually playable are pretty new. U
+1:08:49
+most of the other ones, if you're not
+1:08:50
+playing some historically really messed
+1:08:52
+up cards, you know, something like a
+1:08:53
+Goblin Bombardment, like if you're
+1:08:54
+playing Goblin Bombardment, I'm sure
+1:08:56
+Grub is awesome. Um, yeah. But, you
+1:08:58
+know, I think in RC cube, I was really
+1:09:00
+disappointed by it. I tried playing it
+1:09:01
+several times and just never really got
+1:09:04
+any juice out of it that felt like it
+1:09:06
+was worth the squeeze.
+1:09:08
+>> Yeah, I also I I still read this card
+1:09:11
+and I think it's really good. I think
+1:09:12
+this reads to me like a Btier card, but
+1:09:14
+play like a Ctier card in Rube. And it's
+1:09:16
+hard to say why. Part of it maybe
+1:09:18
+because Ratos and Rube started moving
+1:09:20
+away from an all-in sacrifice identity
+1:09:23
+to kind of like different areas like
+1:09:25
+artifacts and stuff like that. So, it's
+1:09:27
+you can craft Ratosse decks that don't
+1:09:28
+care about sacrificing bodies, but I
+1:09:30
+just feel like any cube where that's a
+1:09:32
+central theme of a black X deck, usually
+1:09:34
+Orzov or Ratosse, this card has to be
+1:09:36
+good. Um, it just didn't play out that
+1:09:38
+way. So, I I still think they're like
+1:09:40
+the Grub. I would recommend this card to
+1:09:43
+people if they're looking for Sackfod.
+1:09:44
+Sure.
+1:09:45
+>> Uh especially over things like Zealot
+1:09:47
+and stuff like that if they're trying to
+1:09:48
+fill that exact niche in their cube. And
+1:09:51
+I find it hard to believe the card is
+1:09:52
+bad, but it really did did not pan out
+1:09:55
+for us very well. And it's hard to say
+1:09:57
+why that was. Um, but it still reads to
+1:09:59
+me as good. And Carrier Thraw, I think
+1:10:00
+Carrier Thraw is like neither impressive
+1:10:04
+nor unimpressive, which to me is like a
+1:10:06
+high C, low B or something like that.
+1:10:08
+But, uh, I would have a hard time
+1:10:10
+finding it a cut over, you know, if you
+1:10:12
+consider every card above carrier thr
+1:10:14
+something you would consider playing
+1:10:16
+over it. I find it hard to cut a lot of
+1:10:18
+those cards to find room for something
+1:10:20
+like the Thraw. But, uh, I I think it's
+1:10:22
+a fine card. I wouldn't really be upset
+1:10:24
+if I saw it in someone else's cube.
+1:10:26
+>> How do we feel about this general
+1:10:27
+grading of of orzone for sure in A, Grub
+1:10:29
+somewhere, you know, near the bottom of
+1:10:31
+B, uh, thrall somewhere, you know,
+1:10:34
+midtop of top of C, and then monstrosity
+1:10:36
+like bottom of C, maybe top of D.
+1:10:39
+>> Yeah. Yeah. I think uh I think
+1:10:40
+monstrosity is like way higher than it
+1:10:42
+should be. [laughter]
+1:10:44
+Otherwise, no complaints.
+1:10:47
+>> All right, then let's move on for now.
+1:10:48
+We can we'll re address this again when
+1:10:50
+we get back uh to it. All right, let's
+1:10:51
+pick a couple of cards that return from
+1:10:53
+the graveyard after they die. So, we got
+1:10:55
+timeline color. This is black black for
+1:10:58
+a uh something warlock. Oh, drics. It's
+1:11:01
+a drix warlock and it has haste. And you
+1:11:03
+can cast this card from your graveyard
+1:11:05
+using its warp ability. It has warp for
+1:11:07
+black and pay to life. And as a
+1:11:09
+reminder, uh warp means that you uh cast
+1:11:12
+this for its warp cost and then on your
+1:11:14
+end step, you get a trigger to exile it
+1:11:16
+and you can cast it from exile for its
+1:11:17
+normal mana cost. And then restart.
+1:11:20
+Reassembling skeleton is a skeleton
+1:11:21
+warrior 1- one and it has one in a
+1:11:23
+black. Return this card from your
+1:11:24
+graveyard to the battlefield attempt.
+1:11:29
+>> Um, timeline coler is a very cool card
+1:11:31
+that I think plays out somewhat poorly.
+1:11:33
+Um, to to me I would put it in C. Like
+1:11:35
+black black is rough. Paying two life
+1:11:37
+every time you want to bring it back is
+1:11:39
+rough. There there's enough things that
+1:11:40
+are just rough about the card that even
+1:11:42
+though it's a recursive body you can get
+1:11:43
+a lot of value off of. I don't think
+1:11:45
+it's like an excellent card. Um, you
+1:11:47
+know, if I if I had to compare that
+1:11:48
+directly to gifted etherborn, I'm not
+1:11:50
+even sure I like it more than gifted. I
+1:11:53
+do like it more than gifted etherborn.
+1:11:54
+>> Reassembling skeleton's a really
+1:11:55
+interesting one because I just talked
+1:11:57
+about how the grub being a 1-1 was
+1:11:58
+pretty bad and like feels like it plays
+1:12:00
+really poorly. And reassembling skeleton
+1:12:02
+reads like it should be super clunky,
+1:12:04
+but boy, this card does like wins you
+1:12:05
+games you have no business being in. I
+1:12:07
+haven't seen it in a while, so like
+1:12:08
+maybe I should be lower on it than I
+1:12:10
+than I am. But like I feel like every
+1:12:12
+time I see this card, it just sits there
+1:12:14
+and like you get to this game state that
+1:12:16
+the Ratosse deck is trying to do where
+1:12:18
+both players are kind of just mostly out
+1:12:20
+of stuff to do except every turn the
+1:12:22
+Ratnos player is like converting this
+1:12:24
+this uh two mana or four mana or
+1:12:26
+whatever into something. And you know if
+1:12:30
+you get an open-ended attack outlet like
+1:12:31
+resemblance skeleton just let you funnel
+1:12:32
+all your mana into it. It feels like it
+1:12:35
+plays really well once you've kind of
+1:12:37
+achieved the game state that you're
+1:12:38
+looking for in these decks and you can
+1:12:40
+discard it early and not really care
+1:12:41
+about it. Like if you're you could sack
+1:12:43
+it early to something and and not really
+1:12:45
+care about it. I I don't know why this
+1:12:47
+card played a lot better than grub for
+1:12:48
+us though. Um substantially better than
+1:12:50
+grub even though it reads like it should
+1:12:52
+be worse.
+1:12:54
+>> I I have a hard time putting either of
+1:12:56
+these in B to be honest with you. But to
+1:12:59
+the other thing that's that's hard for
+1:13:00
+me is that like you mentioned we got so
+1:13:02
+many of these interesting and strong
+1:13:04
+sack outlets towards the end of last
+1:13:06
+year that I do think is kind of
+1:13:07
+redefined black to some extent
+1:13:08
+potentially in a lot of cubes around
+1:13:10
+like really heavily around doing almost
+1:13:13
+comboy aristocrat stuff and from that
+1:13:15
+perspective I could see both of these
+1:13:16
+getting to be potentially I think these
+1:13:18
+are probably the two best at doing this
+1:13:20
+thing of of you know coming back to the
+1:13:22
+from the graveyard. Um I agree with
+1:13:24
+everything that Tim said about color.
+1:13:26
+The problem is in the space that I want
+1:13:28
+it, I'm probably gaining life from it
+1:13:30
+dying and so I don't mind that I'm
+1:13:32
+losing the life from it. So it's like I
+1:13:34
+I think both of these cards have
+1:13:35
+arguments and I don't feel super
+1:13:37
+confident in giving either of them bees.
+1:13:39
+Like it's true that if I saw it if I saw
+1:13:42
+either of these in a cube,
+1:13:43
+>> it wouldn't necessarily shock me, but I
+1:13:45
+would not be drawn to them. Even if I
+1:13:46
+was in an aristocrat space, I don't know
+1:13:48
+how much I would care about these versus
+1:13:50
+things that make multiple objects and
+1:13:51
+are just going to be better more often.
+1:13:52
+Even though yes, there are situations
+1:13:54
+like you described Tel where they will
+1:13:56
+be very powerful in what they're doing.
+1:13:57
+So I I personally I think I I would go
+1:13:59
+like kind of top of C for both, but I
+1:14:01
+could see them maybe getting into B.
+1:14:02
+>> Yeah, I think I would go timeline color
+1:14:04
+D. I think that card is awful. And then
+1:14:06
+I think I would put maybe I'm about to
+1:14:08
+sound like a crazy person, but I would
+1:14:10
+put Reassembling Skeleton like top of B,
+1:14:12
+bottom of A. I think this card rules. Oh
+1:14:14
+god.
+1:14:14
+>> Um like
+1:14:15
+>> bottom of A. Okay. Like I think that's
+1:14:17
+probably I'm probably higher on it cuz
+1:14:18
+like you remember look I I acknowledge
+1:14:20
+there's some bias here in that you
+1:14:21
+remember the times where reassembling
+1:14:23
+skeleton dug you out of a hole that you
+1:14:24
+could never get out of with any other
+1:14:26
+card and you forget the times that it
+1:14:27
+was a one two made a one-1. Um so like I
+1:14:31
+>> a terrible it's a terrible retail card
+1:14:33
+even in sets it's only printed in sets
+1:14:35
+where theoretically it's it's it's like
+1:14:37
+designed for and it's never good in
+1:14:38
+retail.
+1:14:39
+>> Yeah I acknowledge all of this and and
+1:14:41
+yet it it continues impressing. So I
+1:14:43
+don't know like I think you're probably
+1:14:44
+you're probably right. It's probably
+1:14:45
+like a C-tier card. Um, but man, I've
+1:14:47
+I've had just so many games that I've
+1:14:49
+just won off of this card being just a
+1:14:51
+really really dumb card.
+1:14:53
+>> I'll say my piece about the skeleton. I
+1:14:55
+I would put it in at the very bottom of
+1:14:57
+B. And the reason I can't go A is cuz
+1:14:59
+there really is only one type of deck
+1:15:01
+that even wants it. And if you look at
+1:15:02
+all those other black A's and S's, like
+1:15:04
+those can go in a lot of different
+1:15:06
+decks. The thing about skeleton is like
+1:15:08
+even though it's narrow, it is still
+1:15:11
+after this card might have been printed
+1:15:13
+in like M11 or M12 or something like
+1:15:15
+that, it's still
+1:15:17
+a an effect that hasn't been iterated on
+1:15:19
+with a better version yet. There are
+1:15:21
+alternate versions like Sanitarium
+1:15:22
+Skeleton goes back to your hand or there
+1:15:24
+was one from Midnight Hunt Crimson Vow
+1:15:26
+that costs less to cast but costs more.
+1:15:28
+There's quatter augur which can't block.
+1:15:31
+Like this is still the best version of
+1:15:34
+like an infinite fodder piece for
+1:15:36
+peasants.
+1:15:38
+I I can't think of any other card that
+1:15:40
+is just one card that will give you
+1:15:42
+every piece of fodder that you need
+1:15:44
+given time and mana. So in the decks
+1:15:47
+that this is such a good I mean if
+1:15:49
+you're going to define B as role players
+1:15:50
+like this is a literal role player for
+1:15:53
+decks that need sacrifice fodder and I
+1:15:55
+think it still does that job fine. I'm
+1:15:56
+I'm actively surprised this hasn't been
+1:15:59
+power crept in some way, like strictly
+1:16:01
+better version. There is no strictly
+1:16:02
+better version. So, I'm not surprised
+1:16:04
+that it shows up and that Wizards falls
+1:16:06
+back on this for like every other core
+1:16:08
+set with a sacrifice theme, but it's not
+1:16:11
+it's not a universally powerful card
+1:16:13
+there. I mean, I'm sure we've all had
+1:16:15
+drafts, maybe Denelius, if you if this
+1:16:17
+isn't in your cube, no, but I've
+1:16:19
+definitely had drafts until I know
+1:16:20
+you've had drafts where it's like, I
+1:16:22
+need I need to get Reassemblance
+1:16:23
+Skeleton. like I need that card to show
+1:16:25
+up in a pack and I need to draft that
+1:16:26
+card for my deck to like have
+1:16:28
+>> its key piece. Um, so that to me is like
+1:16:31
+definitionally a B. But I do I I do
+1:16:34
+agree the timeline color.
+1:16:35
+>> One other thing is I if we ever get a
+1:16:37
+playable version of like cynical owner,
+1:16:38
+which is the uh 3-1 um survivor from uh
+1:16:43
+Dustorn that lets you in something if it
+1:16:46
+survives combat, which it never does in
+1:16:47
+peasant. But um if we ever get a
+1:16:49
+playable version of that uh at a low
+1:16:51
+enough mana cost, then I could see
+1:16:53
+reassembling skeleton being even better
+1:16:54
+because like the best thing you could do
+1:16:55
+with this card is manage to get it into
+1:16:57
+your graveyard without having to
+1:16:58
+actually draw it.
+1:17:00
+>> True.
+1:17:00
+>> So the only I'm happy putting in B uh
+1:17:04
+based on y'all's request. I I I would
+1:17:06
+definitely not have it be myself. The
+1:17:08
+main disagreement I just have is like I
+1:17:09
+I I have never felt that of like, oh
+1:17:11
+man, I desperately need a skeleton
+1:17:12
+because generally speaking in the decks
+1:17:14
+that I would want skeleton in, I'm not
+1:17:15
+I'm like never hurting for things to
+1:17:17
+sacrifice. It's more like do I do I have
+1:17:19
+the time and mana to spend doing that
+1:17:21
+thing or do I need you know is that not
+1:17:23
+like how this game is going right now?
+1:17:24
+But I I don't think I've ever
+1:17:25
+experienced a draft where I'm like man I
+1:17:27
+would love a resembling skeleton right
+1:17:28
+now. So personally I would not have this
+1:17:29
+in B but but based on y'all's and and
+1:17:31
+it's it's played a lot. It is played a
+1:17:32
+lot by a lot of people. So you know I
+1:17:34
+certainly could have something wrong
+1:17:35
+here but I've just never been impressed
+1:17:37
+by this card basically ever.
+1:17:38
+>> Your average mana value is lower than
+1:17:40
+ours too. So that that is notable.
+1:17:42
+There's there's more pressure going on.
+1:17:43
+There's more cheap interaction. There's
+1:17:45
+there I think the weirdest thing for me
+1:17:47
+is why I think re why reassembling
+1:17:48
+skeleton so consistently played better
+1:17:50
+for us than the grub because the grub
+1:17:52
+reads like it should just be a much
+1:17:53
+better card.
+1:17:53
+>> Yeah, I would I would much rather have
+1:17:55
+grub in my mind than I would have
+1:17:56
+>> anime art turns people away.
+1:17:58
+>> There you go.
+1:17:59
+>> B people didn't know this card because
+1:18:00
+it wasn't in retail limited so it there
+1:18:02
+there was no like retail like oh this
+1:18:05
+card was really good in red black you
+1:18:06
+know people just didn't have any
+1:18:08
+familiarity with it. It's two mana one
+1:18:10
+one that asks you to do work so that
+1:18:12
+pushes people away. So that I think
+1:18:14
+there's a lot of things that didn't let
+1:18:15
+Grub reach its like realize its actual
+1:18:18
+potential, but I do believe Grub is
+1:18:19
+still a good card. And I'm I would be I
+1:18:22
+would love to hear the listener's
+1:18:23
+opinion on this if you run a cube with
+1:18:24
+Grub in it, how that card is.
+1:18:26
+>> I'm going to leave uh Color Bottom of
+1:18:28
+Sea speculatively. I don't I don't
+1:18:30
+actually have strong feelings on this
+1:18:31
+card, but I do see the combo potential
+1:18:33
+on this. I'm still running it because I
+1:18:35
+want to see that play out a couple
+1:18:36
+times, but I could easily see this being
+1:18:37
+a D. I don't feel strongly about it, but
+1:18:39
+I think that the potential on this card
+1:18:40
+is more than the potential on a lot of
+1:18:42
+these cards. Yeah,
+1:18:43
+>> there's a world where I can see this
+1:18:44
+actually being powerful, but but I don't
+1:18:46
+feel strongly. Uh the la a couple final
+1:18:48
+things that value on death. Uh I'm not
+1:18:50
+going to group them together because
+1:18:51
+they're very different cards. This is
+1:18:52
+Guild Sworn Prowler. It's a Teling Rogue
+1:18:55
+Assassin 2-1 death touch. And when it
+1:18:58
+dies, if it wasn't blocking draw a card.
+1:19:01
+So, I'll just briefly say my piece on
+1:19:02
+this. in uh HBG, which was the online
+1:19:06
+the arena version of um Balders'sGate,
+1:19:08
+the kind of commander set that came out
+1:19:10
+that for on for arena, they [snorts]
+1:19:11
+made a 1v one draft format out of that
+1:19:13
+set and they changed a lot of cards,
+1:19:14
+what the cards did. Uh it was a very
+1:19:16
+weird weird set. This card was not
+1:19:18
+changed. This is available in paper at
+1:19:19
+this exact uh text box. This card was
+1:19:22
+completely busted out like totally
+1:19:23
+broken in in a set that had a lot of
+1:19:25
+busted broken cards. Um so from that
+1:19:28
+perspective, I think it's hard for it to
+1:19:30
+be have get a bad grade. It was it was
+1:19:32
+just an insane performer. I've played
+1:19:34
+with it a fair amount in cube and I've
+1:19:36
+never really been all that impressed. I
+1:19:38
+think part of it is that it's not that
+1:19:40
+common that your black decks are really
+1:19:41
+looking to beat down with your two drops
+1:19:43
+like that much. I think that does hurt
+1:19:44
+it a bit. Um but I it's it's a totally
+1:19:47
+solid card. Um and yeah, I I think it
+1:19:50
+would never surprise me to see this in a
+1:19:52
+cube purely from the fact that I've seen
+1:19:53
+it be completely outrageously busted and
+1:19:54
+limited.
+1:19:55
+>> Yeah. Uh, we played this for a while and
+1:19:58
+um I think it sort of feels a more
+1:20:02
+cohesive version of the the knight we
+1:20:04
+talked about that's like just if you
+1:20:06
+want black cards that attack, which most
+1:20:08
+cubes don't. I I think this card is rock
+1:20:10
+solid. It It's worse in because of all
+1:20:12
+the ones floating around um than it is
+1:20:15
+in like a retail set. But just if you
+1:20:18
+care about a two drop that is able to
+1:20:20
+turn sideways, this is one of the best
+1:20:22
+ones you can get. This card's really
+1:20:23
+strong. It just the decks that it's good
+1:20:26
+in are neither common nor good nor
+1:20:29
+supported very well at peasant.
+1:20:32
+>> To me, this this is the card you should
+1:20:34
+play instead of Dus Legion Zealot in
+1:20:35
+pretty much every scenario. In in my
+1:20:37
+opinion, I think this card just plays
+1:20:39
+like Dusle Legion Zealot in like 90% of
+1:20:41
+situations and is a better attacker. And
+1:20:43
+like yes, there are times you don't get
+1:20:45
+the card off of it, but if Dusk Legion
+1:20:47
+Zealot just ends up chumping, you didn't
+1:20:50
+you really only got a one for one off
+1:20:52
+that in the first place. I I think just
+1:20:54
+stats and death touch and you know I
+1:20:56
+guess I I guess let me let me let me
+1:20:58
+phrase this correctly. If the reason
+1:20:59
+you're playing Dusk Legion Zel is
+1:21:01
+because you have sacrifice synergies and
+1:21:02
+you're just looking for a cantra
+1:21:04
+creature that you can sacrifice then you
+1:21:05
+should 100% be playing the steeling
+1:21:07
+first because you can just convert like
+1:21:09
+you can say okay I'm going to give up um
+1:21:12
+given the card to have the potential to
+1:21:13
+trade off with a bigger creature
+1:21:14
+sometimes which Zealot basically never
+1:21:16
+does. So, if that's if that's the reason
+1:21:18
+you're playing Zealot is because it
+1:21:20
+replaces itself and leaves a body to
+1:21:22
+sacrifice, then I think you just rather
+1:21:23
+play this tling. There are some, you
+1:21:25
+know, black decks that aren't really
+1:21:27
+interested in sacrificing things. So, um
+1:21:30
+I think maybe that's me knocking on
+1:21:32
+Zealot more than I should, but I think
+1:21:34
+this card plays really well. It's an
+1:21:35
+easy card, I think, to cut in the end.
+1:21:38
+Like every time, you know, for years me
+1:21:40
+and Tel were like, "Well, what black two
+1:21:41
+drop do we want to cut for this new
+1:21:42
+thing?" We always looked at Tling and we
+1:21:44
+held on to it.
+1:21:45
+Not necessary to play, but I do think,
+1:21:48
+you know, people gravitate towards the
+1:21:49
+cantrip creature. And I think this plays
+1:21:51
+out better than that in a lot of
+1:21:53
+situations. Yep. All right. Fair. Next,
+1:21:55
+we got Undead Butler. It's a one two
+1:21:57
+zombie. When it enters the battlefield,
+1:21:59
+mill three cards, and when it dies, you
+1:22:01
+may exile it if you do return target
+1:22:02
+creature from your graveyard to your
+1:22:04
+hand. Good roots card. Uh, very good
+1:22:07
+roots card because it double triggers
+1:22:08
+it. This I mean, this versus Meer
+1:22:11
+Triton. I like Myer Triton more, but I
+1:22:13
+don't think Undead Butler is a bad card
+1:22:14
+by any means. It's to me like Ctier
+1:22:17
+filler.
+1:22:18
+>> Yeah,
+1:22:18
+>> honestly. Um, unless you're really
+1:22:20
+really pushing self-mill or something
+1:22:22
+like that.
+1:22:22
+>> Yeah. The problem I have with this card
+1:22:24
+is that it is pretty narrow. It It
+1:22:26
+really wants to be like a roots card. I
+1:22:28
+don't think you're super interested this
+1:22:30
+in your more Ratnoscoded decks because I
+1:22:32
+think those decks want some amount of
+1:22:34
+assertiveness which is probably why like
+1:22:36
+thinking back on the resembling skeleton
+1:22:37
+I should probably be lower on it than I
+1:22:38
+am just because of how assertive Ratosse
+1:22:40
+can be sometimes especially you know in
+1:22:43
+more recent uh sets. So, I mean, I think
+1:22:46
+the butler being fairly locked in on
+1:22:49
+slow, grindy creature, cares about
+1:22:51
+creature in the yard deck, it's good for
+1:22:53
+what it does, but it it it has a pretty
+1:22:55
+low uh flexibility, you know, it can't
+1:22:58
+really go in many many spots.
+1:23:01
+>> Yep. Sure. I played it for a while. It
+1:23:02
+was never particularly impressive, but
+1:23:04
+yes, if you're really pushing graveyard
+1:23:05
+synergies, this is one of the better
+1:23:06
+cards probably that facilitates that.
+1:23:09
+>> Uh, that's fine.
+1:23:10
+>> Last for like the value from graveyard
+1:23:12
+cards, we have Learing Onlooker. It is a
+1:23:14
+one- three vampire with flying and you
+1:23:17
+can pay two black black and exile it
+1:23:19
+from your graveyard. If you do, you get
+1:23:20
+two tapped one- one black bat creature
+1:23:22
+tokens with flying.
+1:23:25
+>> This card looked like a B to me, like a
+1:23:27
+high B when we did MKM uh year and a
+1:23:31
+half ago or whatever now, but it didn't
+1:23:33
+play that way. I still read it and I I
+1:23:35
+think it should be fine. It's like
+1:23:36
+almost half of a lingering. It's like
+1:23:39
+75% of the way to a lingering soul. So
+1:23:41
+it reads like it should be good, but it
+1:23:42
+just never played that well. Probably
+1:23:44
+because the the back half is just so
+1:23:45
+expensive. And I uh you I know you just
+1:23:48
+read it, but it puts the tokens in
+1:23:49
+tapped, I believe, as well. So So
+1:23:51
+there's a lot of things that knock
+1:23:52
+against it. I think this is fine if you
+1:23:54
+had it in your cube. I think it'd be a
+1:23:56
+cool
+1:23:56
+>> a cool card for maybe non power max
+1:24:00
+peasant cubes or something like that,
+1:24:01
+but ultimately this didn't play out very
+1:24:03
+well for us. And that leads me to
+1:24:04
+believe it's C territory again.
+1:24:06
+>> Yeah. Uh card reads awesome and plays
+1:24:09
+okay.
+1:24:12
+Yeah, I think I think I would want
+1:24:13
+pretty significant graveyard strategies
+1:24:15
+before I'm excited by it. I agree with
+1:24:16
+you. The issue with it is the front side
+1:24:18
+is so whatever. And uh the backside
+1:24:21
+while giving you reasonable value over
+1:24:23
+the late game, it's not it's not the
+1:24:24
+kind of card that stabilizes you. You
+1:24:25
+can't go like pay four mana, stabilize
+1:24:26
+myself with two bodies because they come
+1:24:27
+into play tapped. So um so yeah, I I
+1:24:30
+think you want to be you really want to
+1:24:31
+want pretty significant graveyard
+1:24:32
+synergies before you're excited about
+1:24:33
+it. But it's fine. It's fine as a value
+1:24:35
+card from the graveyard. All right,
+1:24:37
+Umbrell Collar Zealot. This is a 32 for
+1:24:41
+some reason uh because mo because it's
+1:24:43
+2025 when it was printed. It's a human
+1:24:45
+cleric.
+1:24:46
+>> It says sacrifice another creature or
+1:24:48
+artifact to surveil one and that is
+1:24:49
+ungated, but that's all it says.
+1:24:51
+>> Yeah, this is an I think this is an S
+1:24:53
+tier card. It's the bottom of S. It's
+1:24:55
+not it's not as good as the other two
+1:24:56
+cards.
+1:24:57
+>> However, um one this is the third card
+1:25:00
+that we do run in our main like cube,
+1:25:01
+which is usually a good sign. Um but 32,
+1:25:04
+they didn't skip on the stats at all.
+1:25:06
+Even if you you don't need to have a
+1:25:08
+dedicated sack plan to find some value
+1:25:10
+out of this, like there you'll just
+1:25:12
+incidentally do it with the cards that
+1:25:13
+black naturally plays that are good. And
+1:25:15
+if you've got the full sack outlet combo
+1:25:17
+stuff, it uh does the combo thing, too.
+1:25:21
+>> I mean, if we're going to define SS
+1:25:22
+should be in every cube, then I think
+1:25:24
+this is
+1:25:25
+>> this would be a Mi A and a Denelius S. I
+1:25:27
+think would would be how we
+1:25:28
+>> I would be very confused why this wasn't
+1:25:30
+in someone's, you know, arena peasant
+1:25:32
+cube basically.
+1:25:33
+>> Yeah. I'm trying to think. I guess my
+1:25:35
+issue with it is that like on power
+1:25:37
+level I don't think but but it can it
+1:25:39
+can if you're doing aristocrat stuff
+1:25:40
+yeah get to the power level of these
+1:25:42
+things. So maybe yeah I I agree top of a
+1:25:45
+bottom of I could see either one but I'm
+1:25:46
+fine putting an S. I don't think we're
+1:25:47
+going to have any other S's. So
+1:25:48
+>> yeah the way you frame S I think it has
+1:25:50
+to be an S because I think this should
+1:25:52
+probably be in every arena as a cube
+1:25:54
+unless you have a really really really
+1:25:55
+good reason not to. Um
+1:25:57
+>> I I just don't even know what that
+1:25:58
+reason would be. like what black decks
+1:25:59
+these days aren't playing around with
+1:26:01
+sacrifice to some degree and if you are
+1:26:03
+this is the best sacrifice card right
+1:26:04
+like I I don't see what else you could
+1:26:07
+consider running instead of that so
+1:26:09
+>> yeah just just to frame that those S
+1:26:10
+tier cards because I agree we're not
+1:26:11
+going to get another S like Marionette
+1:26:13
+Master and Deep Cavern Bat go in pretty
+1:26:15
+much every black deck no questions asked
+1:26:16
+umbrellar zealot does not but if S is
+1:26:19
+going to be should this card be in your
+1:26:21
+cube the answer is yes these three cards
+1:26:23
+should be in your present arena cube
+1:26:25
+>> I think that's right yeah okay uh
+1:26:27
+>> and stick twister should be up there but
+1:26:28
+it's by the way. Uh, next we have Legion
+1:26:30
+Vanguard. Uh, it's a two two vampire
+1:26:32
+soldier. You can pay one mana and
+1:26:33
+sacrifice another creature. And it says
+1:26:35
+right there, Legion Vanguard Explores.
+1:26:37
+Actually, instead of doing this, we have
+1:26:39
+literally here 1 2 3 4 5 6 seven
+1:26:41
+different creatures that sacrifice
+1:26:43
+creatures for value. So, I'm just going
+1:26:45
+to read through all these and we can
+1:26:46
+just start talking about where we rank
+1:26:47
+them because I think they're all pretty
+1:26:48
+similar. We have Gollum patient plotter.
+1:26:51
+This is a three- one. It's a legendary
+1:26:53
+creature halfling horror. Whenever it
+1:26:55
+leaves the battlefield, the ring temps
+1:26:56
+you. I'm not going to tell you what that
+1:26:58
+is. You'll have to look that up. Um, you
+1:27:00
+can pay a black and sacrifice a creature
+1:27:01
+if this is in the graveyard. If you do,
+1:27:03
+you return this from your graveyard to
+1:27:05
+your hand and activate only as a
+1:27:06
+sorcery. There's uh June. Oh god. June
+1:27:11
+something. June. June. It's June. Bounty
+1:27:14
+hunter. Thank you. It's a legendary
+1:27:16
+creature human mercenary. It's a two
+1:27:17
+that can't be blocked as long as you've
+1:27:18
+drawn two or more cards this turn. You
+1:27:20
+can pay one sacrifice another creature
+1:27:22
+to create a clue token. There's Judy,
+1:27:25
+one of many.
+1:27:28
+There's a is a human artificer two not
+1:27:30
+legendary. Uh you can pay black tap her
+1:27:33
+and surveil to surveil one and then you
+1:27:36
+create a token that's a copy of her.
+1:27:38
+Then you sacrifice an artifact or
+1:27:40
+creature and you do that as a sorcery.
+1:27:42
+There's lampad of death vigils oldie but
+1:27:44
+goody. It's a one- three enchantment
+1:27:46
+creature nymph. You can pay one mana
+1:27:48
+sacrifice a creature. Each opponent
+1:27:50
+loses one life and you gain one life.
+1:27:52
+There is uh you said what this was Tim.
+1:27:54
+What is this card again? Vermin vermin
+1:27:56
+Gorgger Verman Gorgger.
+1:27:57
+>> This is a vampire tutu. You can tap it
+1:28:00
+to sacrifice another creature. Each
+1:28:02
+opponent loses two life and you gain two
+1:28:03
+life. And finally, there's vampire
+1:28:05
+gourmand. This is a two- mana two
+1:28:06
+vampire. Whenever it attacks, you can
+1:28:08
+sacrifice another creature. If you do
+1:28:10
+draw a card and this creature can't be
+1:28:12
+blocked this turn. So, I'm not going to
+1:28:13
+get into specific cards right now. I'm
+1:28:15
+just going to talk in general about how
+1:28:16
+I feel about um sacrifice outlets along
+1:28:19
+these lines. Personally, if I am
+1:28:22
+sacrificing board presence, I want to be
+1:28:24
+generating value that is captured
+1:28:26
+somehow outside of the card um itself
+1:28:29
+that's doing the sacrificing. So, that's
+1:28:30
+what all of these have that ability. So,
+1:28:32
+I've I've cut any sacrifice outlets that
+1:28:34
+all they do is like add a plus one plus
+1:28:36
+one counter to the creature or you know,
+1:28:38
+blood bloodthorn vampire that gets um
+1:28:40
+you know, plus two plus two when you
+1:28:41
+sacrifice a creature, whatever. To me,
+1:28:43
+if I'm removing board presence from my
+1:28:45
+board, I want value of some kind. All of
+1:28:46
+these give you value of some kind.
+1:28:48
+Vermin Gorgger and Lampad to me are the
+1:28:51
+the the least value generating cards
+1:28:53
+here because all they give you is life
+1:28:55
+loss life drain. And um from that
+1:28:58
+perspective, I think this puts them in a
+1:28:59
+more niche uh role than the others
+1:29:01
+because I I kind of want to be doing
+1:29:02
+this as like a combo uh sort of a thing
+1:29:05
+before I'm running these cards, whereas
+1:29:06
+all the rest give you some amount of
+1:29:08
+value attached to them. So I could I I
+1:29:10
+can imagine running them in more more
+1:29:11
+spots. That's in general how I'm
+1:29:12
+thinking about these cards, but go for
+1:29:13
+it.
+1:29:13
+>> Yeah, I think in general I agree with
+1:29:16
+you though. I think Vermin Gorgger's
+1:29:18
+damage output is so high that I would I
+1:29:22
+would say it clears Legion Vanguard. I
+1:29:25
+mean, Vander Gourbon's a joke, but um
+1:29:27
+you know, uh I think it definitely
+1:29:28
+clears those two. I don't have enough
+1:29:30
+experience with Gollum to necessarily
+1:29:31
+talk about it. Um and then June and Judy
+1:29:34
+I think are the best of this bunch. Uh
+1:29:36
+J, even though I haven't had a chance to
+1:29:38
+play with Judy outside of retail yet, I
+1:29:40
+haven't had a chance to draft her in the
+1:29:41
+in our cube. Um in retail, card's a
+1:29:44
+banger. Uh, I have no idea what it 17
+1:29:46
+lands data is, but I played it in like
+1:29:48
+three different Demir decks and it was
+1:29:50
+amazing. Um, so,
+1:29:52
+>> so does it do any of these cards get
+1:29:54
+none of these cards get to the S level
+1:29:55
+for me personally? I'm guessing we agree
+1:29:56
+on that. Do any of them get to A level
+1:29:58
+where we're like, yeah, most should be
+1:30:00
+running these cards.
+1:30:01
+>> I I think the two avatar cards could get
+1:30:03
+to A level, but I'm not willing to call
+1:30:05
+that yet because they are a little slow,
+1:30:06
+grindy, and don't have a lot of um exper
+1:30:09
+like they don't immediately shout to me
+1:30:11
+A's, which leads me to believe like I
+1:30:13
+should pull back that opinion a little
+1:30:14
+bit. But I do think like do this tier
+1:30:16
+list 6 months from now, we'll have
+1:30:18
+enough, you know, under our belt to say
+1:30:20
+that they're A's. But I I think they're
+1:30:21
+going to land in B range, both of them.
+1:30:23
+>> Yeah, I think both of them for me right
+1:30:24
+now, even though again, I haven't played
+1:30:26
+Judy in our cube. I've seen June a few
+1:30:28
+times. Um I I think I would say they
+1:30:29
+clear everything at least below the
+1:30:31
+Wickerfolk. Um I don't know if they
+1:30:35
+clear that card. Um but I do think they
+1:30:37
+clear all the other cards, too. I think
+1:30:38
+these are all the other like sack
+1:30:40
+outlets that aren't uh dusk legion or
+1:30:43
+unprod.
+1:30:45
+>> Oh yeah, I'm willing to agree with that
+1:30:46
+for now. Though I will caveat that by
+1:30:48
+saying I've just played with these cards
+1:30:49
+less than a lot of the other cards Yeah.
+1:30:51
+on the list. So that could be wrong. Um
+1:30:54
+the stats on these cards were not that
+1:30:55
+impressive in Avatar, but black in
+1:30:57
+general was not that impressive in
+1:30:58
+Avatar. So it's like it's tough to know
+1:31:00
+what to do with that. And there's combo
+1:31:01
+potential in cube with both these cards
+1:31:02
+that you couldn't really generate nearly
+1:31:04
+as easily in uh Avatar. I'll I'll talk
+1:31:07
+about Gollum briefly because this is
+1:31:08
+yeah one of the the lesser played two
+1:31:10
+drops on this list and peasant in
+1:31:12
+general. I love this card and I'll say
+1:31:13
+that the feedback that I get from my
+1:31:14
+players about this card is very very
+1:31:16
+very very strong. It's different from
+1:31:18
+the other cards and that the sack outlet
+1:31:19
+is only active from the graveyard but
+1:31:22
+from that perspective it's kind of like
+1:31:24
+vampire gormand in that this this draws
+1:31:26
+you cards with a sacrifice outlet. It
+1:31:27
+draws itself you know now so then the
+1:31:29
+question becomes like okay is the card
+1:31:30
+you're drawing all that strong? And I
+1:31:32
+will say that I personally think that
+1:31:33
+the ring tempts youu is a very cube
+1:31:36
+playable ability. Um the downside is
+1:31:39
+okay if you don't have if this is the
+1:31:40
+only ring tempu card in your cube does
+1:31:43
+this ever actually get there? I would
+1:31:44
+say yes. I think even just getting to to
+1:31:45
+level one or level two on your ring
+1:31:47
+temps youu is quite a lot of nice little
+1:31:49
+incidental value. Um so in the fact that
+1:31:51
+you can mill this over into your
+1:31:52
+graveyard if you're in a graveyard deck
+1:31:53
+and then it still is potentially a
+1:31:54
+relevant card for you. So I do like
+1:31:56
+Gollum a lot and I would I would put
+1:31:57
+this up in the B range like you know
+1:31:59
+bottom of B whatever. Um, and then
+1:32:01
+Gormand I I tend to agree with with
+1:32:02
+Teld. I don't like the card very much at
+1:32:04
+all. I think, you know, top of D, bottom
+1:32:06
+of C makes sense. I have no experience
+1:32:08
+at all with um vampire or or uh yeah,
+1:32:12
+Vanguard Legion. I have a hard time I
+1:32:14
+don't I think explore is a not a great
+1:32:16
+mechanic, you know, for cube. I I I
+1:32:18
+don't think it's it's particularly
+1:32:19
+impressive. So, I would probably put
+1:32:20
+this in D. And then, yeah, I think it's
+1:32:22
+fine to say that that uh the Gorgger is
+1:32:25
+stronger than Lampad. I think for me,
+1:32:27
+Lampad I'm mostly interested in if I'm
+1:32:30
+either hard hardcore into like um combo
+1:32:34
+the combo space because you can activate
+1:32:35
+this four or five times in a turn and
+1:32:36
+just drain them out for a bunch. I could
+1:32:38
+and and again if you have like a a void
+1:32:40
+or a blood artist effect in general in
+1:32:42
+play then this can really um do a whole
+1:32:44
+bunch of damage. Um something along
+1:32:46
+these lines makes sense to me where it's
+1:32:47
+like Gollum plus Judy and June in the B
+1:32:50
+range and then Gorgger like top of C
+1:32:53
+maybe gets to the B range but I I
+1:32:55
+preferred in C. Lampad kind of bottom of
+1:32:57
+sea and then Gourmand and um Explorer or
+1:33:00
+Vanguard in D. That's kind of what I'm
+1:33:01
+thinking.
+1:33:01
+>> Yeah, I think uh Gollum is the one that
+1:33:03
+I'm most interested in uh seeing more of
+1:33:06
+of this bunch because like uh I mean
+1:33:08
+Judy and June obviously, but those are
+1:33:09
+ones we play, but the the Gollum because
+1:33:11
+we don't play it. I I'm really
+1:33:13
+interested because like the Sack Allen
+1:33:14
+out of the graveyard is pretty cool,
+1:33:15
+right? It's a that's a unique space.
+1:33:17
+It's again kind of like the reassembling
+1:33:19
+skeleton sort of space where if you can
+1:33:21
+find a way to put it in the graveyard,
+1:33:23
+you can rack up a little incidental
+1:33:24
+value. And I also like that if you want
+1:33:26
+the ring to do anything, Gollum is the
+1:33:28
+best ring card, right? Because it's the
+1:33:30
+one that can in theory it can
+1:33:32
+single-handedly get you the entirety of
+1:33:34
+the ring, which is is pretty good.
+1:33:37
+>> Um, and if you get the ring to max, it's
+1:33:39
+really good. It's like what, like three,
+1:33:41
+does it lightning heal at your opponent
+1:33:42
+or something?
+1:33:43
+>> Deals four. They lose three life.
+1:33:45
+>> Yeah, they lose three life. And um, they
+1:33:47
+have to sack the creature that blocked
+1:33:48
+it. And it's a it's a 3-1 itself. That's
+1:33:50
+the other thing is like again, not a
+1:33:51
+whole lot of three power creatures on
+1:33:52
+this list in general for black. So, it's
+1:33:54
+a it's a solid body on its own that's
+1:33:56
+recursive and gives you a little bit of
+1:33:57
+extra value on top of that. So, I I
+1:33:59
+again, nobody everyone that plays with
+1:34:00
+this card is like, "Oh, that's um you
+1:34:02
+know, better than I thought it would be,
+1:34:03
+or it's just a nice it's a nice
+1:34:04
+package." Yeah.
+1:34:05
+>> Um I would recommend it to anybody who
+1:34:07
+hasn't played it yet.
+1:34:07
+>> Golem I have very little experience
+1:34:09
+with, so um I'm fine placing this where
+1:34:12
+you think it should be. We we didn't
+1:34:13
+play it very if we played it at all, we
+1:34:15
+didn't play it very long [snorts]
+1:34:16
+and uh I'm willing to like come back to
+1:34:19
+that. I think Judy and June should both
+1:34:22
+probably be like above between
+1:34:23
+Wickerfolk and Meer Triton because I I
+1:34:26
+suspect that the the ceiling on these
+1:34:27
+cards is obviously strong enough that uh
+1:34:30
+they're going to be main stays for a
+1:34:31
+while. Maybe not J maybe Judy ends up
+1:34:33
+being too slow or something, but like
+1:34:35
+these are such unique sack effects
+1:34:37
+compared to everything else we just
+1:34:38
+talked about that it feels like there's
+1:34:40
+so much more potential to them. Um
+1:34:43
+especially if you're going for like pure
+1:34:44
+interest factor like the these are cards
+1:34:47
+you should be trying out. Uh, Legion
+1:34:49
+Vanguard, I agree, also is my least
+1:34:51
+favorite because unlike any of the other
+1:34:54
+ones, you actually don't know what the
+1:34:55
+outcome of sacrificing like your
+1:34:57
+sacrifice outlet's going to be here.
+1:34:59
+Like, you might get a bigger creature.
+1:35:01
+You might draw a land and that's not
+1:35:03
+like a tossup that I want. I I would
+1:35:05
+rather play something like the Lampad
+1:35:07
+where it's like I know why I'm
+1:35:08
+sacrificing creatures because I know
+1:35:10
+what the output's going to be. Lampad
+1:35:12
+when we when Chris and I made the
+1:35:14
+peasant cube five years ago, six years
+1:35:15
+ago now, Lampad was a top tier card like
+1:35:18
+that that that thing was busted. But
+1:35:19
+like Ratosse and Orzob were just
+1:35:21
+sacrificed. That's all they did.
+1:35:23
+Sacrifice, sacrifice outlets, fodder.
+1:35:25
+Um, but I I have to imagine, you know,
+1:35:27
+fast forward four or five years, Lampad
+1:35:30
+certainly got a lot more competition.
+1:35:31
+And Gorman's a card I like, but uh we we
+1:35:34
+got laughed out of the laughed at a
+1:35:36
+little bit for running Gorman. People
+1:35:37
+just didn't even want to play it. And it
+1:35:38
+it's the type of card that basically
+1:35:40
+needs a a wriggling worm or a skeleton
+1:35:43
+to get the thing going. It relies so
+1:35:45
+much on like all of your engines going
+1:35:47
+without your opponent interacting with
+1:35:48
+you that like it just plays like a two-
+1:35:50
+mana 2 two a little bit too often.
+1:35:52
+Vermin Gorgger strikes me as very
+1:35:53
+similar, but obviously like the damage
+1:35:55
+is a little bit more guaranteed there.
+1:35:57
+So, um yeah, just to summarize, I like
+1:36:00
+June and Judy really highly. Um,
+1:36:03
+[clears throat] I like the Dtier cards
+1:36:04
+where they are and then the rest I could
+1:36:06
+see being shifted around a little bit. I
+1:36:08
+do agree Lampad if you are going all in
+1:36:10
+on the like sort of combo sacrifice kill
+1:36:13
+versions of Ratosse or Oro Orzov that
+1:36:16
+Lampad probably has a little bit more of
+1:36:18
+a home there. But I don't think people
+1:36:19
+are really leaning into that as hard
+1:36:21
+these days.
+1:36:22
+>> Yeah. So big I want to talk about a big
+1:36:25
+picture thing because now we're through
+1:36:26
+three tier lists. And one thing that
+1:36:29
+you're maybe noticing at home again is
+1:36:31
+the uh overwhelming number of these
+1:36:33
+cards that ended up in the C and D tier
+1:36:37
+uh compared to our first tier list where
+1:36:40
+white had just a very large number of S
+1:36:43
+and A tier cards. Um and I think there
+1:36:46
+was eight cards in blue, nine cards in
+1:36:48
+blue that made it into A tier or above.
+1:36:50
+Uh is that right?
+1:36:52
+>> Yeah, I think it was eight or I want to
+1:36:54
+say eight. Yeah.
+1:36:55
+>> Yeah, we got seven here that made it
+1:36:56
+into the A tier above. And I I want to
+1:36:58
+say white had like 12. One of the big
+1:37:01
+reasons why white has been so good in
+1:37:03
+peasant cube lately is that it has the
+1:37:05
+be it's got the best two drops. It's got
+1:37:07
+the highest density of good two drops.
+1:37:09
+Maybe would be another way of putting
+1:37:10
+that. It's so much more likely in white
+1:37:13
+that you start with a card that your
+1:37:15
+opponent has to be concerned about. And
+1:37:17
+I don't know if it's going to get any
+1:37:18
+better as we move into red or green.
+1:37:20
+Like the the white twos are just
+1:37:22
+incredible. and the other card the other
+1:37:24
+colors get like one card a year that
+1:37:26
+helps them keep up.
+1:37:28
+>> Yeah, I think red red might be able to
+1:37:29
+compete a little bit, but I generally
+1:37:31
+agree whites whites twos are incredibly
+1:37:32
+strong. And I think the interesting
+1:37:34
+thing about black, so blue has a small
+1:37:37
+number of clear awesome cards and then
+1:37:40
+not a whole lot that you would ever
+1:37:41
+really consider. I think what's
+1:37:43
+interesting about black is there's a lot
+1:37:44
+of stuff here in BNC that I see running
+1:37:46
+cubes and I don't think is I don't think
+1:37:48
+is silly to run. I think there's
+1:37:49
+arguments to be run for a lot of it. Um,
+1:37:52
+there's a lot more choose your own
+1:37:53
+adventure in my mind with in black than
+1:37:55
+there is in all the other colors,
+1:37:57
+honestly. Yeah. Uh, I do think what we
+1:37:59
+have here in A and S makes a lot of
+1:38:00
+sense. I do think these are the cards
+1:38:02
+that kind of stand out to me. And I can
+1:38:03
+imagine a world where June or G Judy get
+1:38:07
+to that level. Um, I just I need to see
+1:38:09
+it first. I just I I'm not I'm not
+1:38:11
+convinced yet that they're that that's
+1:38:12
+going to happen. But um so before we
+1:38:14
+before we end this, let's just go over
+1:38:16
+the tiers and try to order a little bit
+1:38:17
+more. If you have anything that you call
+1:38:18
+out that you're like, "Ah, that makes no
+1:38:19
+sense." So to me, I like I might do
+1:38:23
+this. I like the top two rows relatively
+1:38:27
+speaking based on what we've talked
+1:38:28
+about. For B, I don't I would have this
+1:38:33
+definitely at the bottom personally, but
+1:38:35
+and I I think you guys, it sounds like
+1:38:36
+you would have this also near the bottom
+1:38:38
+or at the bottom.
+1:38:39
+>> Um I don't have I think this is all
+1:38:41
+relatively fine here. I don't know which
+1:38:43
+one I prefer honestly with Junior Judy.
+1:38:45
+Um
+1:38:46
+>> I know which one I like better. I don't
+1:38:48
+know which one is actually the stronger
+1:38:50
+card, though.
+1:38:50
+>> Yeah. I I I also think June is probably
+1:38:53
+the stronger card, but Judy does sweeter
+1:38:55
+things and has a a much bigger cap on
+1:38:57
+it, too. Yeah.
+1:38:58
+>> Yeah. All right. And then for C again, I
+1:39:00
+I I like all of these cards being in C.
+1:39:03
+I think I agree with Tim that maybe you
+1:39:05
+could argue monstrosity is lower, but I
+1:39:07
+see I could see a cube that might want
+1:39:09
+to run this. Um, but you know what? Just
+1:39:11
+for for purposes of of helping Tim out,
+1:39:13
+I'll I'll move that to be sure.
+1:39:14
+>> I I would move timeline color to D as
+1:39:16
+Well, I think that card is is really bad
+1:39:17
+if you're not doing unfair comboy
+1:39:19
+things.
+1:39:21
+>> Um,
+1:39:22
+>> and if you and if you are, like you
+1:39:23
+might as well just run the persist
+1:39:24
+gobblet instead as like your first
+1:39:26
+option.
+1:39:27
+>> Sure, sure. Sure. Um, yeah, I think
+1:39:30
+something like this seems pretty
+1:39:30
+reasonable to me. I don't see anything
+1:39:32
+standing out as like that should
+1:39:33
+definitely be lower or higher even
+1:39:34
+within tiers.
+1:39:36
+>> Yeah.
+1:39:36
+>> Yeah. I guess just to kind of wrap up my
+1:39:38
+thoughts on it, D is like these D's
+1:39:41
+especially, if I came to your maybe not
+1:39:43
+timeline colar necessarily because of
+1:39:44
+how new it is, but if I came to your
+1:39:46
+cube and I saw these cards, I'd probably
+1:39:48
+ask the question like, why are you
+1:39:50
+playing this? Or I prefer the question,
+1:39:52
+have you considered blank instead of
+1:39:54
+this? I I actually really don't like
+1:39:56
+when people come to my cube and they're
+1:39:57
+like, why are you playing this? And it's
+1:39:59
+like I can give you a thousand answers
+1:40:01
+why I'm playing this. Like, why are you
+1:40:02
+playing this instead of this? these D's
+1:40:05
+would stand out to me is like, why is
+1:40:06
+this in the cube over the stuff that we
+1:40:08
+have in this tier above it? And then
+1:40:09
+another point to that when people come
+1:40:11
+into your cube for the first time and
+1:40:12
+your your question is like, oh, why
+1:40:14
+aren't you playing carrier thraw? You
+1:40:16
+know, look look at this tier list. Look
+1:40:18
+how many cards we have ranked above in
+1:40:19
+our mind carrier thraw. And we have what
+1:40:22
+how many slots for black two drops in
+1:40:23
+the 360 cube? Somewhere like 7 to 10 on
+1:40:26
+any given day. Like carrier thraw
+1:40:29
+doesn't breach the B tier. All these
+1:40:30
+other cards breach higher. So, we're
+1:40:32
+we're going to probably play those
+1:40:34
+first, you know, if we they're just not
+1:40:36
+as high in our evaluation. So, 90% of
+1:40:38
+the cards on this list we've played at
+1:40:40
+some point or another. There are ones
+1:40:41
+that we have not, but um you know, we
+1:40:44
+have a lot of experience with these
+1:40:46
+cards, and this is just, you know, our
+1:40:48
+thoughts based on experience. So, the
+1:40:50
+the S's and the A's I think everyone
+1:40:52
+should consider. You know, Orzav
+1:40:53
+Enforcer is a good example of a card
+1:40:55
+that like if it's not in your cube, I'm
+1:40:56
+not going to like question it. But if it
+1:40:58
+is in your cube and I draft your cube,
+1:41:00
+I'm going to take it highly and I'm I
+1:41:01
+think it's going to perform well.
+1:41:02
+Everything else is a step below that. So
+1:41:06
+>> I think Orav Enforcer is the only one of
+1:41:07
+this bunch that we're not currently on
+1:41:09
+and we absolutely could be and arguably,
+1:41:11
+you know, should be. This makes a lot of
+1:41:12
+sense. Uh glad we're all on the same
+1:41:14
+page about Black Mage's rod. Um
+1:41:17
+>> correct. This is the correct
+1:41:18
+positioning. Uh this might be yeah I
+1:41:20
+would say of really briefly going over
+1:41:22
+where where I think people will have
+1:41:25
+surprise or strong disagreement. Um you
+1:41:28
+know
+1:41:28
+>> I would say of the Dtier stuff I would
+1:41:31
+hope nobody has strong disagreement.
+1:41:33
+Maybe order of midnight. I see this card
+1:41:34
+played probably the most on this list.
+1:41:36
+>> I think Mros is playable. You guys you
+1:41:38
+guys are crazy.
+1:41:39
+>> I mean I I would [laughter]
+1:41:42
+but I would also maybe have this year
+1:41:43
+too. So I don't know. Um, so then in C,
+1:41:46
+Blood Artist obviously gets played a
+1:41:48
+huge huge amount, so people are going to
+1:41:49
+disagree about that. I see Lampad all
+1:41:51
+the time as well. I see Gifted Worn a
+1:41:53
+lot, but I don't then go and check and
+1:41:55
+see if the if the mana base is rare, so
+1:41:56
+that that definitely can impact things.
+1:41:58
+I don't think there's anything else on
+1:41:59
+this list that I see a ton though. I do
+1:42:00
+see a lot of cubes that run a discard
+1:42:02
+outlet of some kind. Um, like most cubes
+1:42:04
+or maybe half or more that I see. So
+1:42:06
+they I think the peasant community
+1:42:09
+probably treats discard effects as being
+1:42:10
+more B, but I I think that's just not
+1:42:13
+not where I would rank them. I think uh
+1:42:14
+the two big ones here are Order of
+1:42:16
+Midnight, Zulicart, Cutthroat, and
+1:42:18
+Eternal Taskmaster. I think I said two
+1:42:19
+cards. Three cards.
+1:42:20
+>> Two, sorry. Yeah. Yeah.
+1:42:21
+>> Yeah. Th those three are cards that I
+1:42:22
+see all the time and just should not be
+1:42:24
+in cubes. Get them out.
+1:42:26
+>> Yeah, that's what I think too. But, you
+1:42:27
+know, if it sparks joy, then go for it.
+1:42:28
+And then on the B tier, definitely
+1:42:31
+people I think don't run. Gollum is very
+1:42:33
+not heavily played at all. And I think
+1:42:34
+one of the reasons why that makes a lot
+1:42:36
+of sense is people just don't want to
+1:42:37
+play with the ring if it's if this is
+1:42:39
+the only card that has ring on it. And I
+1:42:40
+think that's totally fine. Yeah, I think
+1:42:42
+that's that's totally fine. But I I'm
+1:42:43
+strictly on power level. I think this is
+1:42:44
+definitely a B- level card. Um, servant
+1:42:48
+might be too high. This is a little bit
+1:42:49
+speculative. I haven't played with this
+1:42:50
+much in cube. I just I know how it
+1:42:51
+plays. I played with a lot in retail and
+1:42:52
+it's it's a coherent card to me that I
+1:42:54
+think is very solid. So, um, I could
+1:42:55
+maybe see this coming down here, though.
+1:42:57
+But yeah, I think all this makes Oh, and
+1:42:58
+then yeah, sorry, this is the other one
+1:42:59
+I was going to bring up as people
+1:43:01
+probably not playing this as an A. Um,
+1:43:03
+but I feel very strongly that it's an A
+1:43:05
+level card. I think it's very, very
+1:43:06
+strong. But, but yeah, Tim can Tim can
+1:43:08
+be wrong about that one for as long as
+1:43:09
+he wants. That's fine.
+1:43:10
+>> It's it's a it's a B. It's a [laughter]
+1:43:12
+good B. I'm not even saying.
+1:43:13
+>> No, no, no. It should be in most cubes.
+1:43:15
+There's no there's not a lot of reason
+1:43:16
+not to run the cards.
+1:43:18
+>> Like it's probably like a B in your
+1:43:20
+deck,
+1:43:21
+>> but not but in in your cube in your cube
+1:43:23
+equity, it's an A.
+1:43:25
+>> Should be in most cubes. Okay. Yeah,
+1:43:26
+cube equity. You got me with cube
+1:43:28
+equity. Um, my final thought here, just
+1:43:30
+to follow up what Denilia said, is some
+1:43:32
+Oh, with the exception of Gollum and
+1:43:34
+Black Mage's Rod, the other cards that
+1:43:36
+you pointed out that people have higher
+1:43:38
+than we would have them are, I don't
+1:43:40
+want to call them classic because
+1:43:41
+they're like five years old, but Gifted
+1:43:43
+Etherborn, um, Order of Midnight, uh,
+1:43:47
+Blood Artist. These are cards that have
+1:43:48
+traditionally been powerful at a point
+1:43:51
+beyond the most recent wave of power
+1:43:53
+creep that people still have latched on
+1:43:55
+in their head as this is a good card and
+1:43:58
+like they haven't adjusted for a lot of
+1:44:00
+what's happened in peasant cube over the
+1:44:01
+last couple years. So peasant cube is
+1:44:04
+just about different things than these
+1:44:06
+stat lines you know and abilities like
+1:44:08
+that it's it's more about object
+1:44:10
+creation and two for ones than it ever
+1:44:12
+has been. So,
+1:44:13
+>> yeah. Uh, first, so two things. Uh,
+1:44:15
+firstly, Tim out here, uh, calling
+1:44:17
+10-year-old gifted Etherborn a
+1:44:19
+5-year-old card. Uh, old man stuck in
+1:44:21
+the past.
+1:44:21
+>> I I adjusted. I said, [laughter]
+1:44:23
+uh, secondly is like we're not immune
+1:44:26
+from this either entirely, right? Is
+1:44:27
+like I'm sitting there and I remember
+1:44:28
+hype, we were talking, we were talking
+1:44:30
+about similly skeleton. I just hyped it
+1:44:31
+up and I talked about, you know, and
+1:44:32
+then I thought as we've been sitting
+1:44:33
+here, I've been thinking I think the
+1:44:35
+last time I actually played that card
+1:44:36
+might have been like a year or two ago.
+1:44:39
+Even though I do like it a lot, it might
+1:44:41
+might maybe it's supposed to be like a
+1:44:42
+sea level card at this point. It does
+1:44:44
+dig you. Like I said, it there are decks
+1:44:46
+that you can draft that you will you
+1:44:48
+want a reassembly skeleton. It's the
+1:44:50
+best card you can possibly get. There's
+1:44:52
+game states where it wins you games you
+1:44:54
+have no business being in, but peasant
+1:44:56
+is moving away from that sort of like
+1:44:58
+small anemic mana committ middle body
+1:45:00
+and like more towards these free game
+1:45:02
+object uh cards. So like I think even
+1:45:04
+some of our own mental recalibration
+1:45:06
+sometimes takes a little time even
+1:45:07
+though we play a lot more than the
+1:45:08
+average person at peasant cube.
+1:45:10
+>> That's a wrap on black two drops. Again
+1:45:12
+there are way these are not the only
+1:45:14
+black two drops that exist on arena. If
+1:45:15
+you're on beam saw prospector,
+1:45:18
+congratulations. You're
+1:45:20
+>> let us know what we missed. Yeah. Let us
+1:45:21
+know what we missed. Yeah.
+1:45:22
+>> Yeah. Uh you know you know what came to
+1:45:24
+mind was that Krumar Bonkin guy from T
+1:45:26
+TDM that was like tap and pay a bunch of
+1:45:29
+life to make a five or whatever. Um,
+1:45:31
+that could we could we could have thrown
+1:45:32
+that in the conversation.
+1:45:34
+>> I think that card ended up just being
+1:45:35
+really bad, but yeah, I hear you.
+1:45:36
+>> Yeah, Judy was the card I wanted that
+1:45:38
+card to be.
+1:45:39
+>> Yeah, there you go.
+1:45:40
+>> Yeah. Point point being uh this this is
+1:45:43
+not an exhaustive list, but if we were
+1:45:44
+going to put something in F tier or it's
+1:45:47
+at least like almost obvious that it's
+1:45:50
+worse than something we did mention
+1:45:51
+here, it's not on the list for the sake
+1:45:53
+of time, too, like we add another hour.
+1:45:56
+So, yeah, that's going to go ahead and
+1:45:58
+wrap it up. So, we're through uh the
+1:45:59
+Esper colors here, and assuming we're
+1:46:01
+going in Wooberg order, we'll have a red
+1:46:03
+and green at some point, you know, where
+1:46:05
+it's it's kind of hard to wrangle the
+1:46:06
+three of us together for 2 hours to to
+1:46:08
+pump these out, but we've got tons of
+1:46:10
+ideas for tier lists. Uh I've we've got
+1:46:12
+a couple ideas for actually just
+1:46:13
+mainline bonus episodes. I know Denilis
+1:46:16
+is really interested in just getting
+1:46:17
+more content out there and talking more
+1:46:18
+about Peasant Cube. And of course, this
+1:46:21
+is all all in service of telling the
+1:46:24
+listener to come play peasant cube with
+1:46:26
+us, you know. Come join the Discord
+1:46:28
+server down below. I should have done
+1:46:29
+this spiel at the beginning and I
+1:46:31
+didn't. But, uh, come do this. Come
+1:46:33
+draft cube with us. Come let us know
+1:46:35
+what your take on stuff is. Come let us
+1:46:37
+know what your favorite Black Two drops
+1:46:39
+are and come join the Discord server
+1:46:40
+down below or join the limited level up
+1:46:42
+server. I personally don't care where
+1:46:44
+you're pleasant paying playing peasant
+1:46:46
+cube as long as you're playing peasant
+1:46:47
+cube somewhere. Um, preferably Jank
+1:46:50
+Diver Gaiman, but if you want to go play
+1:46:51
+it somewhere else, go play it somewhere
+1:46:52
+else. Just as long as you're playing
+1:46:53
+Peasant Cube, the best way to play Magic
+1:46:55
+currently, uh, I'll be happy. So, yeah,
+1:46:58
+let us know where you would rank some of
+1:47:00
+these cards, what's missing. Um, and I
+1:47:02
+don't know, is this is this tier list
+1:47:04
+readily available? Could somebody copy
+1:47:06
+it and just make their own tier list? I
+1:47:07
+think they could maybe
+1:47:09
+>> Yeah, I made this publicly available, so
+1:47:10
+I'll post we can post this in the show
+1:47:12
+in the uh, description. Yeah, I'll put
+1:47:14
+it in the description down below and
+1:47:16
+come join the Discord server and show us
+1:47:18
+your tier list. Show us what you have
+1:47:19
+ranked different reason.
+1:47:20
+>> This was uh this was good. I I I like
+1:47:22
+the direction too that this tier list is
+1:47:24
+kind of showing. Like I mentioned about
+1:47:25
+the white stuff. Like I I think kind of
+1:47:27
+giving an idea of like why certain
+1:47:28
+colors are better than others is like,
+1:47:31
+you know, black has a lot of redundancy,
+1:47:32
+blue has a lot of high performers,
+1:47:34
+white's just got great cards up top to
+1:47:36
+bottom. Like you can kind of draw these
+1:47:37
+conclusions by looking at the tier list
+1:47:39
+and our thoughts on the cards and like
+1:47:40
+what we include.
+1:47:42
+>> Yep. Yep. And to the listener, if you
+1:47:44
+have ideas for tier lists or any other
+1:47:45
+content you want to see once we're done
+1:47:47
+with these two drops, let us know and
+1:47:49
+we'll uh we'll work some stuff out.
+1:47:50
+We've all got ideas for other tier lists
+1:47:52
+[snorts] we want to do. So, um yeah, as
+1:47:54
+usual, thank you for watching everybody.
+1:47:56
+Like, comment, subscribe, do all that
+1:47:58
+good YouTube stuff, and we will see you
+1:48:00
+all next time.

@@ -1,0 +1,6901 @@
+https://youtu.be/CtdQg8a0EsQ
+0:00
+This is like a four mana card. Like I
+0:01
+feel like at four mana they could have
+0:02
+given a they could have spotted us
+0:04
+something like we could have you could
+0:05
+have given us something here that was
+0:07
+that was free that was free rolled.
+0:09
+>> This is a four mana saga with with
+0:12
+infinite words that is a one for one
+0:14
+somehow. How is this how do they give us
+0:15
+at the end of all this a one for one? I
+0:18
+don't understand.
+0:22
+Hello friends and welcome back to the
+0:24
+Jank Diver Gaming YouTube channel. My
+0:26
+name is Timothy Zachanino aka Jank Diver
+0:28
+Tim. I'm joined by Denelius and Teld and
+0:31
+we're going to continue our guild
+0:33
+coverage here with Ratos aka Stinger
+0:36
+Stinger Quill for uh all you Hex Haven
+0:38
+fans.
+0:38
+>> I'm sure that will stick.
+0:40
+>> Yeah, that one's not going to last for
+0:42
+more than uh the duration of Reality
+0:44
+Fracture, I hope. But uh Stinger Quill's
+0:47
+a little bit on the nose. Uh we've
+0:48
+covered I think three guilds up to this
+0:50
+point. This will be the fourth one. And
+0:52
+>> we've covered Vigor Bloom and Theorix.
+0:56
+>> Yes. and uh whatever. Demir, what is it?
+1:01
+>> Constrai or whatever. We we we've
+1:03
+covered that one.
+1:04
+>> That one's a little bit of I'll give you
+1:05
+that complaint on the reality shift uh
+1:07
+I'll give you the names on the reality
+1:09
+shift uh review, but
+1:12
+>> yeah.
+1:13
+>> Oh, Mega God. Uh we're we're going to
+1:14
+stick to Ratos today though. This is
+1:16
+Ratos Red Black. Um, and we are going to
+1:19
+be tier listing as we have been all of
+1:21
+the playable or heavily played, I should
+1:25
+say, uncommons and commons available on
+1:28
+the arena client. We will touch on a few
+1:30
+not on the arena client. I think we
+1:31
+should probably continue to plug um
+1:33
+where you're getting this information
+1:35
+from, Denilius, at least for the next
+1:36
+couple videos. I'll be tagging that in
+1:38
+the description down below, which is
+1:39
+also where you can join our Discord
+1:41
+server and check out Denil's Peasant
+1:43
+All-Star Cube.
+1:44
+>> Yep. Shout out to Hagen BMJ. I hope I'm
+1:47
+saying that correctly for the cube
+1:49
+analysis tool they put together. It's
+1:51
+been very helpful for these lists.
+1:53
+>> Yeah. Um
+1:55
+just a quick touch here before we start
+1:57
+uh looking at cards. Uh Ratosse in my
+2:00
+mind is a more competitive two-color
+2:03
+pair than a lot of other two-color
+2:05
+pairs. At least some of the ones we've
+2:06
+already looked at. Uh do you guys have
+2:08
+the same sentiment? That's my gut
+2:10
+reaction is it's hard to find room for
+2:13
+new Ratosse cards because the ones that
+2:15
+are already available are pretty good.
+2:16
+>> There's a laundry list of ones we could
+2:19
+be playing that would be totally fine in
+2:20
+our cube that we're not playing. This is
+2:23
+uh this is I think the most competitive
+2:25
+slot there. I could hear an argument for
+2:27
+like Warsoft maybe.
+2:28
+>> Yeah, maybe.
+2:30
+>> Yeah, for sure.
+2:32
+>> For sure.
+2:32
+>> It's going to be a lot of bangers here.
+2:34
+Um or at least that that's again gut
+2:35
+reaction. I I've said that for a lot of
+2:37
+these and then there end up not being a
+2:38
+lot of bangers. It's just the ones that
+2:39
+are good are really good. Uh you can see
+2:41
+the placement of the the signet and the
+2:43
+um talisman up there. Also the MDFC,
+2:46
+which we've discussed in a different
+2:47
+video covering all the MDFCs available
+2:49
+on arena. Uh no, the signet and the
+2:52
+talisman do not get better because
+2:53
+there's artifact synergies. Uh I did try
+2:56
+that in our 450 for a little bit. It's
+2:57
+just signets and talismans are not where
+2:59
+it's at for peasant cube. Honestly, cube
+3:01
+in general, but uh they're going to stay
+3:03
+down there in D as a little bit of a
+3:04
+bookend for us with uh uh what is it?
+3:07
+bloodline, something the the red black
+3:09
+MDFC being a little bit weaker than some
+3:11
+of the best MDFCs, but still being a
+3:13
+card that we would recommend you play in
+3:15
+all your cubes. Which brings us to uh I
+3:17
+believe these are the three most played
+3:20
+uh cards not currently available for
+3:22
+peasant cubes on arena. Uh one of them,
+3:24
+the first one, Judith the Scourge Diva
+3:27
+is actually technically on Arena, but
+3:29
+doesn't exist at Uncommon. So, if you're
+3:30
+one of those purists who's like anywhere
+3:32
+it's been printed on Uncommon makes it
+3:34
+legal in my format, that's totally up to
+3:36
+you. I think all of us generally avoid
+3:39
+uh cards that can't be crafted at
+3:41
+uncommon because it taxes people's wild
+3:43
+cards to participate and we don't want
+3:45
+to do that. So I guess our question is
+3:47
+we we actually know how good Judith is.
+3:49
+We have played with Judith in different
+3:50
+uh environments. Do you suspect it would
+3:53
+be really good in you know our
+3:54
+environments if we were playing with it?
+3:56
+This is the three mana 2 two gives all
+3:58
+your creatures plus one plus o other
+4:00
+creatures and then when a creature you
+4:01
+control dies you uh ping any target,
+4:04
+right?
+4:05
+>> Yeah, any target. Um, which is a pretty
+4:07
+big upgrade from only going face. Um,
+4:09
+another big thing Judith's got going for
+4:11
+her is that the uh the Anthem effect
+4:14
+here pushes damage really well. And um,
+4:17
+creative wrong, Judith triggers on her
+4:19
+own death. Or is it other?
+4:21
+>> It's her own. Yep. Any any death.
+4:24
+>> Yeah.
+4:24
+>> Yeah. So, even if she dies immediately,
+4:26
+you're
+4:26
+>> non-token. I I don't know if I said
+4:28
+non-token, but it is non-token creature.
+4:30
+It pumps all other creatures, but only
+4:32
+non-tokens and Judith will ping when
+4:34
+they die. Like I think the red black
+4:36
+cards do want to be leaning towards the
+4:37
+artifact synergy cards, the like two for
+4:39
+one game objecty stuff. This is a
+4:41
+threeminute 22 two at the end of the
+4:42
+day. Like it is a powerful a pretty
+4:44
+powerful effect, but you you do have to
+4:46
+have like setup for it before you can't
+4:49
+just like run this out on turn three,
+4:51
+you know?
+4:52
+>> Yeah, I think it has the same problem as
+4:53
+a lot of like the sacrifice payoff cards
+4:55
+have and that their removal magnets uh
+4:56
+generally speaking, the cards that
+4:58
+you're going to be playing alongside
+4:59
+Judith, they're not going to care to
+5:00
+remove and so they're they're holding
+5:01
+the removal for, you know, the payoff
+5:03
+like this one. I almost like it better
+5:04
+in just like a black red aggra deck
+5:06
+where this is the top of your curve. You
+5:07
+pump up your team, they feel like they
+5:09
+got a block, you deal some extra damage
+5:11
+and it's decent there. Yeah, I think
+5:12
+it's a a solid B. I don't think I would
+5:13
+recommend it for every environment, but
+5:15
+I think um you certainly can play it and
+5:16
+it'll it'll do good work. I do think
+5:18
+like even though this is a pretty solid
+5:20
+card, I I do think there's also a bit of
+5:22
+tension with spiteful prankster existing
+5:25
+in the mono red slot, which is like
+5:27
+>> true,
+5:27
+>> not as good as this, but it is in terms
+5:30
+of like effect, but it is a much easier
+5:34
+card to fit into your cube.
+5:36
+>> Yeah, this would almost always have an
+5:38
+effect on a game, but I don't think it
+5:39
+would be a revolutionary ratos card for
+5:41
+peasant cubes. Uh, and if you are
+5:43
+playing with this card already in
+5:44
+peasant cubes, this card is uncommon in
+5:46
+paper. Let us know how it uh performs in
+5:48
+your peasant cubes. Uh that brings us to
+5:50
+Ratos Cackler. Classic one drop here.
+5:52
+This is a hybrid ratos mana. So either
+5:55
+black or red. It's a one- one with
+5:57
+unleash which means when it enters you
+5:59
+can have it or rather it enters with
+6:01
+your choice of a plus one plus1 counter
+6:03
+in which case it can't block or nothing
+6:06
+and it's just a one-1. So I you you
+6:08
+can't do that. So this has to be a two
+6:10
+two that can't block. One one very tiny
+6:12
+itty bitty note that makes unleash just
+6:14
+one of the worst mechanics of all time
+6:15
+is the creature can't block if it gets a
+6:17
+plus one counter from another source
+6:18
+which is just stupid but um yeah you're
+6:22
+never not unleashing this. It' just be a
+6:23
+one mana 1 one. So treat this like a one
+6:26
+mana 2 two that can't block.
+6:28
+>> Am I missing something here? Is this
+6:29
+card actually played in a lot of cubes?
+6:32
+>> Flexible one drop. It makes sense that
+6:33
+people would play it a lot. It's not the
+6:35
+type of card me and you tell
+6:36
+>> bad, I guess. But
+6:37
+>> it's 100% not the type of card me and
+6:39
+you would ever like super be interested,
+6:41
+but it's hybrid. I mean, it goes into
+6:43
+color pairs that can be aggressive.
+6:46
+>> Seven color pairs instead of just
+6:47
+instead of just one.
+6:49
+>> Yeah, I we're not we're not into this
+6:52
+sort of stuff.
+6:52
+>> I I think I gave Dried Milton a C minus
+6:55
+in the White Green set review. I would
+6:56
+not give this a C rather. I would not
+6:58
+give this a C. This is, you know, not
+7:00
+block is is too bad. Sometimes you're
+7:02
+not the aggro. It just you can't always
+7:04
+guarantee.
+7:05
+>> Yeah. And if you need to block, you have
+7:06
+to play it as a one mana one. It's so
+7:08
+that's so janky. Um terrible. Okay.
+7:10
+>> Uh Azra Oddsmaker is an This one's from
+7:13
+Battle Bond. I believe it's one black
+7:14
+red uh 33. So three mana 3. At the
+7:17
+beginning of combat on your turn, you
+7:19
+may discard a card. If you do, choose a
+7:21
+creature and when that creature deals
+7:22
+combat damage to a player this turn, you
+7:24
+draw two cards. So uh very good if you
+7:27
+can just slip a creature past or you do
+7:29
+have to get in otherwise you're down a
+7:31
+card. Yeah, I've played this a little
+7:33
+bit in commander and it's um
+7:36
+>> it's okay. It's been okay in the Yeah.
+7:39
+Um I think the thing I would I would
+7:41
+suggest is that if you are putting this
+7:43
+card in your cube, you want to have
+7:45
+evasive creatures at one and two mana in
+7:47
+in your color pairs. And like there
+7:49
+honestly aren't that many. Um like deep
+7:51
+cavern bat obviously comes to mind as a
+7:53
+a good curve with this card, but you
+7:55
+know deep cavern bat is amazing in its
+7:57
+own right. So like yeah that that
+7:59
+whatever. Um, but yeah, if you've got
+8:01
+like evasive creatures low down on the
+8:04
+curve, then this can be a pretty
+8:06
+powerful card and that you'll get some
+8:07
+value on it the turn you play it and
+8:09
+then you'll acquire some more value
+8:11
+potential um on future turn so your
+8:13
+opponent will feel obligated to answer
+8:14
+it. I would also probably want to try to
+8:16
+sneak in some discard synergy, you know,
+8:18
+make or something like that. Yeah, try
+8:20
+to get as much value as possible. Really
+8:22
+good with uh the three mana enchantment
+8:23
+if you can trigger it though, the
+8:24
+mindless conscription, right? It
+8:26
+automatically uh
+8:27
+>> triggers that to to proc. So, that's
+8:29
+pretty cool.
+8:30
+>> Yeah, I think that uh probably the
+8:32
+reason why some people are playing this
+8:33
+is because it's signpostyish for um
+8:36
+mayhem and madness and people like to
+8:38
+play that in black red. There's a couple
+8:40
+other cards along those lines that we'll
+8:41
+talk about soon. But then it is cool
+8:43
+that this also gets to work with your
+8:45
+draw two synergies, your you know, I
+8:47
+assume or I can imagine a cube that's
+8:50
+playing this alongside like a black blue
+8:51
+ninjas theme or or an esper ninjas theme
+8:53
+and now it's like you get to make use of
+8:55
+um the cheap black evasive creatures
+8:56
+that you want to play for those decks.
+8:58
+Anyways, with this, so I think it's a
+8:59
+cool card. I don't I personally don't
+9:01
+really have an interest in it myself,
+9:03
+even if it were on arena, but I don't
+9:05
+think it's unreasonable. I think if you
+9:06
+can enable it, uh, it does seem very
+9:08
+cool at the very least.
+9:09
+>> That's an Uffies card if ever I've seen
+9:10
+an oof.
+9:11
+>> You know, that was a that was a really
+9:12
+good shout to post this as a black red
+9:14
+card to put in your cube to to, you
+9:16
+know, cross synergy a little with your
+9:18
+black ninja blue black ninja deck that
+9:19
+you have to put in your cube.
+9:22
+>> Uh, all right. On to onto real cards. uh
+9:25
+cards that we have uh more experience
+9:27
+with. Boy, Mayhem Devil
+9:29
+>> straight. Yeah, just just
+9:31
+>> Yeah. Uh one, we have not s tiered a lot
+9:34
+of gold cards yet, but uh Mayhem Devil
+9:36
+is definitely up there. It's one black
+9:37
+red, three devil. Whenever a player
+9:40
+sacrifices a permanent, it deals one
+9:42
+damage to any just has all the all the
+9:44
+right things.
+9:45
+>> What a dumb one.
+9:46
+>> One damage to any target on top of any
+9:48
+permanent on top of your opponent's
+9:50
+stuff as well. like they didn't need to
+9:52
+go out with your they didn't need to
+9:53
+make this your opponent's stuff as well
+9:54
+when they designed this card. I don't
+9:56
+even know why they did, but
+9:57
+>> when your opponent's got a one toughness
+9:59
+creature and a fetch land in their hand,
+10:01
+it's just they're just like, "What do I
+10:02
+do? What do I do when this card
+10:03
+resolves?" And like you just find this
+10:05
+card takes over games in a way that few
+10:07
+other cards that we've talked about
+10:09
+really do. Um there's obviously some
+10:11
+hoops to jump through to get it going.
+10:13
+And like I think I would rather enable
+10:15
+this with blood and treasures and things
+10:17
+and fetch lands rather than trying to
+10:19
+like sack my creatures, which I think is
+10:21
+what people typically move towards. But
+10:23
+the cool thing is it doesn't care what
+10:25
+you sacrifice. Just find something to
+10:27
+sack. Find find a way to sacri sacrifice
+10:29
+a card and this card is going to have an
+10:30
+incredible output.
+10:32
+>> Yeah, sacrifice is probably the the most
+10:35
+commonly seen theme across all black red
+10:38
+um gold cards. And what's cool,
+10:41
+depending on how your perspective about
+10:43
+devil is that uh it's a card that can
+10:45
+basically just get played in any black
+10:46
+red deck. Um but obviously will get
+10:48
+better the more you're synergizing
+10:49
+around it. Um yep card is amazing. I do
+10:52
+like that sometimes it just dies, you
+10:54
+know, but when we talk about removal in
+10:57
+peasant getting more and more tax these
+10:59
+days. It's the kind of card we're
+11:00
+talking about. It's just another card
+11:01
+that can't can't live or you're probably
+11:03
+going to die. will literally lock
+11:04
+certain play like some some archetypes
+11:06
+will get locked out of the game off of
+11:08
+this card if you cannot kill it.
+11:09
+>> Yeah, I I recommend watching our red
+11:11
+threes. Obviously, you should be
+11:13
+watching all these tier lists, but uh I
+11:15
+made a case for Weaver of Lightning
+11:16
+being a card that controls the board
+11:18
+really well, but for like a niche kind
+11:19
+of set of cards. Uh imagine if Weaver of
+11:22
+Lightning also triggered off your
+11:23
+opponent's Instance and Sorceries
+11:24
+>> and it was a three three and a
+11:26
+>> and was bigger. Yeah. Like
+11:28
+>> Mayhem Devil just shuts down boards
+11:30
+sometimes. This is a card that we elect
+11:31
+not to play just because it is such an
+11:33
+oppressive force on those X1s.
+11:36
+>> Yeah.
+11:36
+>> Y
+11:37
+>> uh Blood Tithe Harvester, Red Black 32.
+11:40
+>> Another banger.
+11:42
+>> Constructed constructed allstar blood
+11:44
+tithe harvester.
+11:45
+>> Uh two mana 32 when it enters uh create
+11:48
+a blood token. You can tap this and
+11:50
+sacrifice it to give a creature minus X
+11:52
+- X where X is the number of blood
+11:54
+tokens you control. You can only do that
+11:55
+at sorcery speed. Most of the time this
+11:57
+means tap sack. This gives something out
+11:59
+minus two minus two, but occasionally
+12:00
+you can actually get up to minus4
+12:02
+minus4.
+12:03
+>> Yeah, I think the cool thing about blood
+12:05
+tithe harvester next to Mayhem Devil is
+12:07
+that they're S's for two completely
+12:08
+different reasons. Um like Maym Devil is
+12:10
+an incredibly broken oppressive thing at
+12:13
+exactly one game action. Uh whereas
+12:15
+Blood Tide Harvester, I don't feel like
+12:17
+any of the things that it does are like
+12:20
+crazy broken. It's just a good rate at
+12:23
+everything that it does and it happens
+12:25
+to cross into like every possible
+12:27
+synergy you could put into this color
+12:28
+pair.
+12:29
+>> Artifies discard good rate.
+12:31
+>> Sacrifice.
+12:32
+>> Sacrifice.
+12:33
+>> Yeah. Madness. Vampires. Yeah. Just like
+12:36
+P. You throw a dart at the at the wall
+12:38
+and like you're going to hit a synergy
+12:40
+that this card can do.
+12:42
+>> Yep. No notes. Amazing card. And I
+12:44
+definitely think it's an S.
+12:45
+>> I also there's a there's a premium on
+12:47
+cards that are really good two drops.
+12:48
+like uh cards that do that automatically
+12:50
+get bumped up a little bit.
+12:52
+>> I I hate this card because there's so
+12:53
+many other cool cards that have come out
+12:55
+that like I would have considered if it
+12:58
+wasn't like another red black two drop
+13:00
+that it's like ah but you should just
+13:01
+put blood tithe harvester in your deck
+13:03
+instead like Garland. We'll get to
+13:05
+Garland as an example of that. Um all
+13:07
+right, up next on Cole Anvil. I am glad
+13:09
+to see that these are this is in order
+13:11
+of most played cards across cubes,
+13:13
+right? Like okay, people are people are
+13:15
+playing the good Ratos cards. Got it.
+13:17
+Um, on Cole Anvil, Red Black Artifact.
+13:20
+Whenever one or more artifacts you
+13:21
+control leave the battlefield during
+13:23
+your turn, you make a one- one construct
+13:25
+artifact creature token that it only
+13:26
+triggers once each turn. You can tap
+13:28
+anvil and sacrifice an artifact artifact
+13:31
+to deal one damage to each opponent and
+13:32
+you gain one life.
+13:34
+>> Yeah. Uh, the only downside of this card
+13:37
+in cube compared to like retail or
+13:39
+constructed is that you can only play
+13:40
+with one copy of Oni Cult anvil. Um
+13:43
+because if you've ever gotten multiple
+13:44
+employees, it's completely
+13:46
+>> that's got to be that's got to be a good
+13:47
+thing for
+13:47
+>> Cupid. Yeah, you know, time to time out
+13:50
+the copy artifact, boys. Um yeah, really
+13:53
+powerful card. Like I I love that the
+13:54
+the artifact making a dude triggers off
+13:57
+of anything. You don't have to force
+13:58
+sack this. You can just like sometimes
+14:00
+you can just like throw dudes at your
+14:01
+opponent's face or like, you know, you
+14:03
+could just like randomly sack an
+14:05
+artifact generate some board presence.
+14:06
+Works great with bridges and things like
+14:08
+that. Um, yeah, this is this is one that
+14:11
+you do have to jump through the hoop of
+14:12
+like playing the good cards, playing the
+14:13
+the artifact tokens, but like it's a
+14:16
+really solid enabler that also is a
+14:18
+meaningful clock. There's a lot of deck
+14:20
+like I I mentioned before I was playing
+14:22
+an esper deck against Flutter and he
+14:24
+played this card and just I suddenly had
+14:26
+like I had seven life so I had seven
+14:28
+turns at most to win the game and my
+14:29
+deck was not capable.
+14:32
+Yeah, we've talked for a fair amount
+14:34
+about um one of the things that Black
+14:35
+Red is so good about is good at in
+14:37
+peasant is just playing a mid-range game
+14:40
+where you're somehow dying the whole
+14:42
+time even while just things are just
+14:43
+getting traded off um where nobody's
+14:45
+really applying a lot of pressure and
+14:46
+it's because of cards like Devil and
+14:48
+Oniote Lamble. They're just able to deal
+14:49
+a ton of damage um as as you're just
+14:52
+playing the game naturally. So, I like
+14:53
+the card a I do think that you you
+14:55
+probably do want, you know, a decent art
+14:57
+artifact theme going in your cube before
+14:59
+you put this in. Otherwise, you might
+15:00
+trick your drafters, but assuming that's
+15:01
+possible at all. On cult doesn't need a
+15:03
+lot of help. It's just that if you put
+15:05
+it in your cube, it's going to suggest
+15:06
+something to your drafters that you want
+15:07
+to be a little bit careful about what
+15:08
+you're doing there. But, um, really good
+15:10
+card.
+15:10
+>> Yeah. Yeah. This is one of those ones
+15:11
+where like the fake there, you can't
+15:13
+really not mean this. You've got to have
+15:15
+enough artifact generating cards in
+15:18
+order to get over the the hump of of
+15:20
+making it reliable. But, like, it's not
+15:21
+really that hard to do. Most the good
+15:22
+cards in red and black are doing that
+15:24
+anyway. So
+15:25
+>> yeah, it's um it's where the the the way
+15:28
+we've tier listed gets a little bit
+15:30
+weird because I I think in cubes that
+15:32
+support this, this is just another S,
+15:34
+but it doesn't go in every single cube.
+15:36
+So
+15:36
+>> yeah. Um I think unlike Blood Tath
+15:38
+Harvester and Mayhem Devil that just
+15:40
+kind of work like you do have to
+15:42
+actually put some cube design thought
+15:43
+into your own before you can uh
+15:46
+>> Yeah.
+15:46
+>> Yep.
+15:47
+>> Uh all all three of those cards, they
+15:49
+all work together fairly well, too. Mhm.
+15:51
+Yeah, that is true.
+15:52
+>> But this is just as good as the other
+15:53
+cards we're playing it. It's a great
+15:54
+card. Run it. Just Yeah.
+15:57
+>> Here's your resident DMU card of the one
+16:00
+of them. Actually, there's another one
+16:01
+coming.
+16:02
+>> Better than uh better than most.
+16:04
+>> Yeah, it's still fine. It's fine. Uh
+16:05
+Lagamos Hand of Hatred. This is one
+16:07
+black red for a one three legendary uh
+16:10
+human shaman. At the beginning of combat
+16:11
+on your turn, you create a 2-1 red
+16:13
+elemental with trample and haste. You
+16:15
+sacrifice it at the beginning of the
+16:16
+next end step. And uh also you can tap
+16:19
+Lagamos to search your library for any
+16:20
+card and put into your hand, but only if
+16:22
+five or more creatures have died this
+16:23
+turn. I've seen that exactly one time.
+16:25
+>> Same. Yeah. Um doesn't happen very
+16:27
+often. But um this is fine if you're a
+16:30
+less if you're if you're less into the
+16:32
+trinkety artifact thing. This is a
+16:34
+totally serviceable,
+16:36
+>> you know, produce a game object every
+16:37
+turn. Like we we we're usually pretty
+16:39
+favorable of cards that have the
+16:41
+capacity to produce unbounded amounts of
+16:43
+game objects. And while you can debate
+16:45
+how good making a 2-1 that dies at the
+16:47
+end of turn is, there's a lot of ways to
+16:49
+take advantage of that and to to get
+16:50
+some value out of that, it's a fun card.
+16:53
+>> I was going to say the absolute best
+16:54
+Ratos cards are going to be ones that
+16:56
+bridge the gap between the artifact side
+16:57
+of thing and the creature sacrifice side
+16:59
+of thing. And you know, they're like
+17:00
+artifact sacrifice or whatever. Uh,
+17:02
+Lagamos is like squarely on one side of
+17:04
+that. So it it's never going to be like
+17:06
+competing with the Squality cards, but
+17:08
+it is actually good in the creature
+17:10
+sacrifice realm that people push in
+17:12
+Ratos quite a bit.
+17:14
+>> Yeah, I was not super high on it. Um I
+17:16
+haven't played it ever in my cube, but
+17:18
+I've seen it in your cube a fair amount
+17:20
+and I think it's it's been pretty
+17:21
+reasonable each time I've seen it. So I
+17:23
+think like Loi uh maybe maybe high sea,
+17:25
+but somewhere in there it's fine to me.
+17:26
+>> Globy Lobi makes perfect sense to me.
+17:28
+It's it's okay if you need like it spits
+17:30
+out material at a rate that a lot of
+17:31
+creatures don't do. Um, fire covenant.
+17:35
+>> Yeah, fire is
+17:37
+>> what what are you people doing? What are
+17:38
+you people doing? Um, I I do understand
+17:40
+there is a category of people uh cubers
+17:42
+out there, peasant and otherwise, who
+17:44
+believe that cube exists who power max
+17:46
+and play the absolute best cards that
+17:47
+you can. And if that's your philosophy
+17:49
+and you play fire covenant and you don't
+17:50
+like having good matches of Magic, I'm
+17:52
+just kidding. Uh, like then sure, go for
+17:54
+it. We railed on Gut. This is like
+17:56
+possibly up there with gut as far as uh
+18:00
+egregious peasant cube cards go.
+18:03
+>> Yeah. I I always ask myself when we're
+18:04
+talking about peasant cards is like
+18:06
+would they ever dare to print this at
+18:08
+uncommon in a retail set? And if the
+18:11
+answer is no that that's never
+18:13
+happening. I just don't think that we
+18:14
+would ever consider playing those cards
+18:16
+like
+18:17
+>> Yeah.
+18:17
+>> Would they would they ever print this
+18:18
+below mythic in a in a like a retail
+18:20
+set?
+18:20
+>> 100% no, right? Like
+18:22
+>> no. Yeah.
+18:23
+>> Yeah. Hard to imagine. Um, that's the
+18:25
+that's the three mana. Yeah, that's the
+18:27
+three mana instant. Pay pay x life and
+18:29
+divide that damage up between uh any
+18:31
+number of creatures.
+18:33
+>> Any number of targets, right? Is it
+18:34
+>> is it targets? Does it fireball?
+18:37
+>> No, you you can't just fireball. Like
+18:39
+>> I'm at a higher life total. I win.
+18:41
+>> I would not be surprised if you put this
+18:43
+in like any retail set and it ends up
+18:45
+being like a, you know, 65% plus super
+18:47
+bomb. Like it would be
+18:48
+>> Yeah, it's I mean it's like a toxic
+18:50
+delugeish but all on your opponent's
+18:52
+stuff. Yeah.
+18:53
+>> Yeah. Yeah.
+18:54
+>> Okay.
+18:54
+>> That's card. That's card.
+18:56
+>> Uh, easy peasy here. Terminate red black
+18:58
+instant destroy target creature can't be
+19:00
+regenerated.
+19:02
+Removal spell that uh, you know, a lot
+19:04
+of us don't tend to want to use gold
+19:06
+slots on just pure one for one removal
+19:08
+spells. Even if this is like slightly
+19:11
+better than your average like doom doom
+19:13
+blade. I I think I'm gonna tax this and
+19:15
+try to convince you that we should put
+19:16
+this in D because in some color pairs
+19:18
+being a passable removal spell might be
+19:21
+okay, but we are talking about arguably
+19:23
+the most stacked color pair on the
+19:25
+client. I I just I can't see even in a
+19:27
+larger cube size justifying this. I I
+19:29
+don't
+19:30
+>> uh you might run it as like a a reward
+19:33
+for red black specifically like you want
+19:35
+to make sure there's a removal spell
+19:36
+that ends up in the hands of the black
+19:38
+red player if everyone's fighting for
+19:40
+black doom blades or whatever.
+19:42
+especially if you have a spell slinger
+19:44
+theme going on and you want to like make
+19:45
+room for that in Black 2, just giving a
+19:47
+little bit more density to that effect.
+19:48
+I think it's just it's so so efficient
+19:50
+that I I I would never be surprised to
+19:52
+see this in somebody's cube. I would be
+19:54
+maybe a little disappointed uh because
+19:55
+I'd like to see more, you know, more
+19:57
+themed cards in in the Yeah, in the gold
+20:00
+slots. But I don't know. It's it seems
+20:01
+just too strong to put it a D, but I
+20:03
+hear what you're saying. Yeah, I I I'm
+20:05
+imagining uh Denelius draft in someone
+20:07
+else's cube, smile on his face, draft in
+20:09
+red black, he sees terminate, uh
+20:11
+immediate frown, and then clicks it and
+20:13
+moves it to his pile. Anyway,
+20:14
+>> probably.
+20:15
+>> Probably. Yeah. Yeah.
+20:17
+>> All right. Uh
+20:17
+>> this one is bizarre to me. This one's
+20:19
+very bizarre.
+20:20
+>> Bizarre. Okay. Uh Stormclaw Ragger. This
+20:22
+is one black red two. Uh you can pay one
+20:24
+mana, sacrifice another creature or
+20:26
+artifact, put a plus one counter on this
+20:28
+creature, and draw a card. Uh activate
+20:30
+only as a sorcery. Um, yeah. So, I have
+20:33
+seen this card single-handedly win too
+20:35
+many games to be willing to put into D
+20:36
+tier.
+20:38
+>> Okay. You think you think it's pretty
+20:39
+bad, Denilius? Is that the
+20:41
+>> state? Quite bad. I think it's quite
+20:42
+bad. Um, I think that sorcery speed on a
+20:45
+three drop, no ETB. Uh, I I think
+20:48
+there's just way better cards um in
+20:50
+Black Red. I think that sacrifice in
+20:52
+general, like think about this versus um
+20:54
+the two drops now that we have that can
+20:56
+like pay a mana, sacrifice a thing, and
+20:58
+get value. Like, wouldn't we just rather
+20:59
+much rather have those in black alone as
+21:02
+opposed to using a gold slot on that
+21:03
+effect? Like, I don't know. I'm I'm very
+21:05
+unconvinced by this card.
+21:07
+>> If if I hadn't played the card, I would
+21:08
+probably agree with you. But I do think
+21:09
+it was actually quite good when we were
+21:11
+running it. And the only reason we cut
+21:12
+it was to play the junkyard genius,
+21:14
+which was occupying a similar space. I
+21:15
+think if you treat it like a forrop and
+21:17
+you have sacrifice synergies, it often
+21:19
+plays like Sel's Pacmate that then
+21:20
+leaves behind uh
+21:22
+>> you know I not that Sar's Pacmate's like
+21:24
+a great card necessarily, but as like a
+21:26
+a baseline of uh you know four four man
+21:28
+two
+21:29
+>> four mana three draw a card and then
+21:31
+you'll even behind a draw engine. So I
+21:33
+I'm I'm not going to claim this is one
+21:35
+of uh Ratos's better cards, but I I
+21:37
+think I agree tell that this I can't put
+21:38
+this in D necessarily. I think it is.
+21:40
+>> Yeah, I don't we have just one one and
+21:42
+two mana versions of this effect in in
+21:44
+black like you don't have that converts
+21:46
+your mana to cards at this efficient of
+21:49
+a ratio like once you're into the mid
+21:50
+game. Like I'm not saying this card is
+21:52
+amazing because you're right, it's not
+21:54
+like a real three drop, you're not
+21:56
+playing it as a three, but once you get
+21:58
+later like once you have gotten to a
+22:00
+point where you've got the mana to use
+22:02
+this, it is quite potent as a draw
+22:04
+engine. Um I think you would want to
+22:07
+ideally have like lower powered removal
+22:09
+in order to run this. And you do need
+22:10
+the trinkets. You've got to have stuff
+22:12
+floating around that you can easily
+22:13
+sacrifice uh to convert into cards. But
+22:15
+like this card can over the core, you
+22:17
+know, you do see this card when we ran
+22:19
+it in our cube, it would draw four or
+22:20
+five cards sometimes and just like take
+22:22
+over games.
+22:23
+>> Yeah. I guess my issue with the tempo is
+22:25
+just same as it was in mom where it's
+22:26
+like it come even when it works. It
+22:28
+comes down, you sacrifice your thing,
+22:29
+you draw a card, they kill this, and now
+22:30
+you just you've just given yourself such
+22:32
+a massive tempo disadvantage by losing
+22:34
+multiple things in play.
+22:35
+>> I was going to say, wasn't this card
+22:36
+really good in mom?
+22:38
+>> People loved it and the stats on it were
+22:39
+awful. They're terrible.
+22:41
+It was a very very overrated
+22:43
+>> again. Again, stat stats not telling
+22:45
+>> stats are stats are fake, Denelius. We
+22:47
+all know that.
+22:48
+>> Yeah, exactly. Right.
+22:49
+>> I mean, I think I think C is a fine
+22:50
+place for it. Um, I wouldn't go higher
+22:52
+than that, but
+22:53
+>> I that was going to be my hot hot take
+22:54
+of the set. I I consider this card to be
+22:56
+nonplayable. I just I And it's one of
+22:57
+the most played racket cards in Peasant.
+22:59
+I just don't I don't I don't
+23:01
+>> We were talking about a new set card in
+23:02
+a set review. I would agree with you,
+23:04
+but we've played this card a couple of
+23:05
+times like in our environment at various
+23:07
+points and like
+23:08
+>> it's a little strange to me that it's
+23:10
+like one of the most played given that
+23:11
+you know we've looked at three other
+23:13
+three drop ratos creatures that I think
+23:15
+are probably better. But
+23:17
+>> uh okay, jury master of the review. Uh
+23:19
+this is red black one one legendary.
+23:22
+Whenever you sacrifice a permanent put a
+23:24
+plus one counter on it when it dies deal
+23:25
+damage equal to its power to any target.
+23:28
+This one I don't think we've ever tried
+23:30
+actually.
+23:31
+>> Yeah.
+23:32
+in, you know, similar to the Revolt
+23:34
+conversation we've had in both of our
+23:36
+last two set reviews. I I am thinking of
+23:39
+Fetchlands when I look at this card and
+23:41
+I'm imagining it getting, you know,
+23:43
+decently large pretty fast and then, you
+23:45
+know, it's a decent roadblock. I I don't
+23:47
+know how much I'm interested in this as
+23:49
+a signpost over other sacrifice cards
+23:51
+that we've already talked about and more
+23:53
+that we're going to talk about soon. So,
+23:55
+um, but yeah, I don't know. It seemed
+23:56
+decent decent enough. is going to very
+23:58
+often trade for something um even if
+24:00
+small and in some niche circumstances
+24:02
+can grow really fast.
+24:03
+>> Uh this is interestingly also in mom and
+24:05
+basically have the same win rate as
+24:06
+Stormclaw Ranger to the same range. Um I
+24:10
+think this card kind of sucks to be
+24:12
+honest. Um I've seen it do some crazy
+24:13
+things like it admittedly its ceiling is
+24:15
+really high but like first of all unlike
+24:18
+Stormclaw Ranger it's not
+24:19
+self-activating. You have to do all the
+24:21
+work to get this to get in the door
+24:22
+here. Um, but then also it dies to like
+24:25
+a lot of commonly played removal like
+24:27
+specifically portable jumps to mind as
+24:29
+like a super commonly played card that
+24:31
+just bodies the super hard. Um, and
+24:34
+that's not the end all be all of a card.
+24:35
+Like a card can be bad against a
+24:37
+specific removal spell and and still be
+24:38
+okay, but it just feels like a lot of
+24:40
+work for something that is so soft into
+24:43
+bounce and exile effects. Um,
+24:47
+>> yeah, just just a lot of work.
+24:49
+>> Best case mentality card for sure. I
+24:51
+think C range is probably fine because
+24:52
+there is a sealant on the card of like
+24:54
+lava ax and your opponent or whatever.
+24:56
+But you know a ravenous squirrel that
+24:57
+dies into damage
+24:59
+>> just just sack like five eldriz spawn
+25:01
+and then you know don't hit him for five
+25:03
+sacrifice.
+25:04
+>> That's how that's how people talk about
+25:05
+cards like this.
+25:06
+>> Yep. Exactly. Yep. Yep. Yep.
+25:08
+>> Okay. Uh Garna Bloodfist of Kela
+25:10
+Dominarian United card apparently also
+25:12
+in Foundations or whatever. No, it
+25:15
+wasn't. I I don't believe that. Uh, one
+25:17
+black red red 43 legendary human
+25:20
+berserker. Whenever another creature you
+25:21
+control dies, draw a card if it was
+25:23
+attacking. Otherwise, it deals one
+25:25
+damage to each opponent, which is eerily
+25:27
+similar to the the Zerggo that we play
+25:29
+in the mainline Jank Diver game in Cube.
+25:31
+Um, I
+25:34
+>> um
+25:35
+>> this is a zero interest card to me given
+25:37
+the mana cost and the competition. Um,
+25:40
+it can draw a bunch of cards though, so
+25:42
+>> yeah. Um, Zerg brings its own buddy. Uh,
+25:45
+which is really cool. I mean, obviously
+25:47
+we're comparing like a mythic to a to a
+25:49
+uncommon at that point.
+25:51
+>> Uncommon.
+25:51
+>> Yeah. I mean, I don't I I I see the
+25:55
+vision here, but like all of these blood
+25:56
+artisty type cards I'm generally not
+25:59
+going to be super high on, especially at
+26:01
+this mana value.
+26:02
+>> Also, four mana 43 is like not a good
+26:04
+style line. I don't I don't know that.
+26:06
+>> Uh, where you at? Anyways, I I would My
+26:08
+thought is D. My thought is D here.
+26:11
+Yeah, I'm inclined to say D as well. Uh,
+26:13
+no, you know, it has a fake ETB and that
+26:15
+it like gives your creatures an ability
+26:16
+the turn it comes down, but that's
+26:17
+that's kind of fake. It's small for the
+26:19
+mana cost, three toughness means it dies
+26:21
+to one mana removal. Um, yeah, I just
+26:23
+not not very interested.
+26:24
+>> Yeah, to four four drops that die to
+26:25
+torch the witness without immediate
+26:27
+value or rough.
+26:28
+>> All right, let's uh let's talk about
+26:29
+cards that abandon popper
+26:32
+>> about this one.
+26:33
+>> Yeah, I'm not sure either. Red black
+26:35
+equipment with living weapon. So, comes
+26:37
+in with a germ and attaches itself to
+26:38
+it. The equip creature gets plus x plus
+26:41
+one where x is the number of artifacts
+26:43
+you control. The equip cost is two. So
+26:45
+minimum this is a uh a one one and then
+26:49
+every artifact pumps it. Oftent times
+26:51
+it's like a 51 or 61 or whatever.
+26:54
+>> So this is a really interesting card to
+26:56
+compare to on cult anvil because I think
+26:58
+on cult anvil is much more cubable. It
+27:00
+requires much less out of you, right?
+27:02
+because you can like at worst with on
+27:03
+cold damvil you can look at it as like
+27:05
+drain your opponent for one every turn
+27:07
+because you can just sack the one one
+27:08
+and it like loops a single artifact. Um
+27:12
+and if you ever get a second artifact
+27:14
+like it's pretty easy to to get like a
+27:16
+pretty hard to break loop going. Um
+27:18
+cranial ram requires more out of you but
+27:20
+the ceiling is also like kill you dead
+27:23
+very quickly. So, I mean, I think like I
+27:25
+would the way I would view it is it's
+27:27
+less cubable than only gold anvil
+27:28
+because it requires more out of you, but
+27:30
+the ceiling is is higher for sure.
+27:32
+>> Well, and also I feel like the majority
+27:33
+of cubes that are playing with one are
+27:35
+just going to play the other, you know,
+27:36
+a a large percentage of the time. So, um
+27:39
+yeah, a card's insane. I don't feel like
+27:41
+I can just give it an A or an S. I do
+27:43
+think you have to, you know, think about
+27:44
+it in your cube construction and not
+27:46
+every cube would run it, but any cube
+27:48
+that is playing the type of token
+27:50
+generation we are these days, um, I
+27:52
+would say it's going to be really
+27:53
+strong.
+27:54
+>> Uh, I love this next card, by the way.
+27:57
+Not I don't know play, but I do love it.
+28:00
+Uh, but blast
+28:01
+>> classic.
+28:02
+>> Yes, it is. Uh, and Denilius did rate
+28:04
+blood elf as an S.
+28:06
+Boyf
+28:09
+elf. Three black red instant with
+28:11
+cascade and it deals four damage to
+28:13
+target creature. So instant speed
+28:16
+extremely expensive removal spell only
+28:17
+hits creatures but you get cascade off
+28:19
+of it.
+28:20
+>> Yeah. I mean
+28:22
+>> this is another one of those like the
+28:24
+range of things that this card does is
+28:26
+really high. Um, one reason I do like
+28:30
+this better a little bit than than
+28:32
+Bloodbraid in terms of the design is the
+28:35
+the instant speed of it all. Um, because
+28:37
+you can sometimes like flash in a
+28:39
+creature during your opponent's combat
+28:40
+step, which is really cool. I don't
+28:42
+think this card's as good as Blood
+28:43
+Braided Elf. Probably not. It's It's
+28:45
+almost certainly not, but it's also in a
+28:46
+much more competitive like a very
+28:47
+competitive color pair. Gr's GR is
+28:49
+fairly competitive, too. But um this is
+28:51
+like a re this is just one of those old
+28:53
+cards that was like popular andor iconic
+28:57
+when I started playing Magic and so
+28:58
+there's some nostalgia there of like I
+29:02
+want this card to be good.
+29:04
+>> I I want to give this like a lower grade
+29:05
+than Terminate. Um I think that unlike
+29:08
+first of all I think it's just one more
+29:10
+expensive one one more mana expensive
+29:12
+than Blood Braid elf which is like a
+29:13
+huge a huge deal here in terms of the
+29:15
+not just in terms of the mana value on
+29:16
+the card in terms of like what you're
+29:17
+getting out of the card. I think if you
+29:19
+imagine, you know, how much are you are
+29:20
+you willing to spend on four damage uh
+29:22
+for two mana instant speed? I think
+29:24
+that's generally speaking going to be
+29:25
+around a two mana effect. If you're
+29:26
+spending three mana on that, that's
+29:27
+that's pretty bad. So, think about that
+29:29
+as a two mana effect. Well, okay, for
+29:31
+blood braid off, you're getting a
+29:32
+three-2 haste. That's also around a two
+29:34
+mana effect, maybe slightly more. And
+29:35
+so, Blood Rage just could just cost one
+29:37
+less. Like, that's the the difference
+29:38
+here. Um, and then the fact that again,
+29:41
+there's not really ways to synergize
+29:42
+around this card. Like, what are you
+29:43
+doing? You're playing Red Black removal.
+29:45
+Similar problem as Terminate. we don't
+29:47
+have access to blue cards that can stack
+29:49
+our deck um for the cascade. I just
+29:51
+Yeah, I don't really see it. Personally,
+29:53
+I would say it's like bottom of C, top
+29:54
+of D even. I would probably play
+29:55
+Terminate first. And I don't really
+29:56
+think I'd play either one, but
+29:58
+>> I also don't even know. My my gut would
+30:00
+tell me people would just splash this
+30:02
+more often in like it wouldn't even be a
+30:04
+real Ratos card necessarily, but uh
+30:07
+Grixus Jun card or whatever. You also
+30:10
+run some risk with this with counter
+30:11
+spells less so than blood braid elf,
+30:12
+right? Because you can like cast it in
+30:14
+response to your opponent playing a
+30:16
+spell to try to to hit a counter spell
+30:17
+off the top. But, you know, there's a
+30:19
+little bit of that weird tension there.
+30:20
+>> There's also the issue about like you're
+30:23
+playing this in your red black control
+30:24
+deck, I guess, which means that some
+30:26
+percentage of your hits are going to be
+30:27
+removal spells, but this is also removal
+30:29
+spell. Whereas blood blood braid, you're
+30:31
+theoretically playing more often with
+30:32
+creatures. You're being more proactive.
+30:34
+I don't know. I just This card doesn't
+30:35
+do much for me these days. I think it's
+30:37
+it's cool, but
+30:37
+>> yeah, it's definitely it's definitely
+30:38
+better to be proactive. Like Blood Brain
+30:40
+Elf is is definitely a better card. Um
+30:44
+>> it's clearly not like a dud, so it's not
+30:46
+a D, but
+30:47
+>> I'd say like Bottom of Sea just because
+30:49
+I do also think there's some synergies
+30:51
+in red for like casting from exile and
+30:53
+stuff like that. And you know, that does
+30:55
+have to be mentioned. Like I think
+30:56
+there's a little bit of of juice there.
+30:58
+>> Yeah, you hate like your deadly dispute
+31:00
+with nothing on board or something. So
+31:01
+like whatever. Um okay, C see seems good
+31:04
+for that. Uh, I'm not like compelled to
+31:06
+even necessarily test it. And again, I'm
+31:08
+curious to the peasant designers out
+31:09
+there
+31:10
+>> what's going on. Buminous blast.
+31:13
+>> Uh, Sawblade, Skin Ripper, one of the
+31:15
+Dominaria or Dusorn cards. One black
+31:17
+red, three two menace, pay two mana,
+31:20
+sacrifice another creature or
+31:21
+enchantment to put a plus one plus one
+31:23
+counter on it. At the beginning of your
+31:25
+end step, if you sacrifice one or more
+31:27
+permanence this turn, it deals that much
+31:29
+damage to any target. This is a very
+31:31
+cool potential card in modern limited
+31:32
+with Eldrazi spawns unless this does it
+31:34
+say non-token actually now that I say
+31:36
+that
+31:36
+>> I don't think so.
+31:38
+>> Yeah. Yeah. So, I mean with Eldrazi
+31:40
+spawns with um Fetchlands, it does like
+31:42
+a a very poor Mayhem Devil
+31:45
+impersonation. Um but I think that top
+31:47
+ability is relatively fake. You're
+31:49
+rarely going to be spending two men on
+31:50
+this. You really want to be pairing it
+31:51
+with other stuff. But yeah, I think I
+31:53
+think it's kind of similar to me to the
+31:54
+jury storm the rager and jury tier. S
+31:57
+like I could imagine any of these as
+31:58
+kind of support pieces in a black red
+32:00
+sacrifice lane, but none of them are
+32:01
+super compelling to me.
+32:03
+>> This is a this I I like that it has the
+32:05
+the ability to selfact or to self
+32:07
+enable, but like two mana is so much to
+32:09
+ask for that and it like doesn't draw
+32:10
+you cards either.
+32:11
+>> Yeah, creature and enchantment is like
+32:13
+pretty significant.
+32:14
+>> I also like
+32:16
+>> I know the black red deck, this is
+32:17
+mostly a dustworth specific thing. I
+32:19
+know the black red deck in Dusorn is
+32:20
+like considered a pretty good deck. I
+32:22
+don't think I've ever put together a
+32:24
+deck of that that I was happy about.
+32:26
+Like every time I played it, I felt like
+32:28
+I was I was pretty let down about it.
+32:30
+And then I would play against this
+32:31
+stupid card and it would just like, you
+32:33
+know, steamroll me all the time.
+32:35
+>> So to to be clear, black red I did like
+32:37
+a lot in dust, but it's for a card
+32:38
+coming up soon that we haven't talked
+32:39
+about yet. Skinner was
+32:41
+>> Yeah, Skinner was playing second fiddle
+32:43
+to that to that card in that format. But
+32:44
+if you are, you know, the enchantment
+32:46
+line, the sacrifice enchantment line
+32:47
+will come up in a bit for that card. I
+32:49
+can imagine if you're doing enchantment
+32:51
+synergy, sacrifice stuff in black red
+32:52
+that you might want this. I just think
+32:53
+that's a a really niche um scenario.
+32:56
+>> Yeah.
+32:57
+>> Ratos Headliner Red Black 33 haste echo
+33:01
+discard a card. So the turn after it
+33:03
+enters the battlefield you have to uh
+33:05
+discard a card or sacrifice it.
+33:10
+>> I mean the the theoretical upside here
+33:12
+is madness. That's why I assume people
+33:13
+are playing with this is they just want
+33:14
+another discard outlet. This is a quote
+33:16
+unquote free discard outlet attached to
+33:17
+a two mana three three haste. So it's
+33:19
+like wow that's pretty powerful. And and
+33:21
+honestly, look, if you're going hard
+33:22
+enough on discard synergies, then I
+33:25
+think this card is perfectly reasonable.
+33:27
+I just don't really enjoy um generally
+33:29
+speaking, I don't want my lanes to be so
+33:31
+defined so that a card like this is
+33:33
+going to be consistently good. And I
+33:35
+think if you're if it's not consistently
+33:36
+good, I don't want to be playing with it
+33:38
+at all. Um but yeah, if you really like
+33:40
+madness um as a mechanic, if you want to
+33:43
+really push the amount of cards in your
+33:44
+cube that have madness or mayhem on
+33:46
+them, then I think this is a perfectly
+33:48
+fine support piece for that lane. I do
+33:50
+think there's a little bit of
+33:51
+awkwardness with this card in that it's
+33:53
+a two draw if you would like to play on
+33:54
+turn two, but then like the good madness
+33:56
+cards have a ma a lot of times like
+33:58
+Gus's bidding for example has a madness
+34:00
+cost of three and so you can't really
+34:02
+line it up like obviously there's the u
+34:04
+the guy we talked about in the red tier
+34:05
+list the uh the two mana one
+34:06
+>> strong kirk. Yeah, that's that's a
+34:09
+pretty good curve. But yeah, that's a
+34:10
+really defined like a really defined
+34:11
+lane. there's more like this is where
+34:13
+Blood Death Harvester gets so much
+34:14
+equity in that it's a really elegant
+34:17
+uh kind of way to enable those synergies
+34:20
+without just being all in on those
+34:22
+synergies.
+34:23
+>> Yeah, there's a lot of good
+34:25
+>> from an equity perspective too, I think
+34:26
+you get more mileage out of your your
+34:28
+red like rumagers, your your uh what's
+34:30
+the gremlin and your scrapwork mut and
+34:32
+your things like that.
+34:33
+>> Reckless detective. Yeah.
+34:34
+>> Yeah. All those two drop. There's a lot
+34:36
+of two good playable red two drops that
+34:38
+that do that. Um, okay. Perforating
+34:42
+>> artist. Uh, fairly forgettable card from
+34:45
+Foundations. If I remember correctly,
+34:47
+it's one black red 32 death touch. Uh,
+34:50
+has raid at the beginning of your
+34:52
+endstep if you attack this turn with
+34:54
+anything. Each opponent loses three life
+34:56
+unless they sacrifice a non-land
+34:57
+permanent of their choice or discards a
+34:59
+card. Kind of the AIA stick twister
+35:02
+dilemma there.
+35:03
+>> So, this is a card that is in a weird
+35:05
+place in that I I like the design of it.
+35:07
+I really like these sort of Zoya Lava
+35:10
+Tongue style cards.
+35:12
+>> Um, but three mana, first of all, three
+35:15
+mana, two two toughness, really hard to
+35:18
+hard cell, uh, because you also have to
+35:20
+be able to attack. You're not always
+35:22
+going to be in a position to attack. Um,
+35:24
+it does have evasion. This I would
+35:25
+probably like better if it had menace
+35:26
+because then it would be able to, uh, I
+35:28
+guess it'd be maybe slightly worse as a
+35:30
+blocker, but be slightly better as an
+35:31
+attacker. Um but then like the biggest
+35:34
+thing here is I think that it wants to
+35:35
+go in cubes that are playing simpler
+35:37
+designs, less tokens, right? Where the
+35:39
+um opponent sacrificing a creature or
+35:42
+nonlay permanent is going to be a big
+35:44
+meaningful decision for them, but then
+35:47
+it has a wall of text on top of that. So
+35:49
+I mean it's a little at odds with the
+35:51
+simplicity design that you might be
+35:53
+going for. I think you need to be in
+35:56
+like one of those environments that
+35:57
+isn't playing a lot of tokens, though.
+35:58
+If you're playing in a a more simplified
+36:00
+game state environment, I think this
+36:01
+card's okay.
+36:03
+>> Yeah, I think that makes sense to me
+36:04
+that I like that that they've tried to
+36:06
+to go down this Punisher route as a
+36:08
+theme for Black Red. Like you said,
+36:10
+Ztor, there's a few other Punisher style
+36:12
+cards for Black Red. Um I I've just
+36:14
+never I've never felt like those were
+36:16
+the kinds of cards that people will see
+36:17
+in a cube draft and be like, "Oh, I'm
+36:18
+going to draft around the Punisher
+36:20
+mechanic." It's just that's not that's
+36:21
+not really a thing. So, I think the cube
+36:23
+equity argument is pretty low and so the
+36:25
+the power level of the card would need
+36:26
+to be pretty high and I I don't see it
+36:28
+being that high.
+36:29
+>> Okay, I'll agree on D on that one.
+36:30
+That's what that was my guess as well.
+36:32
+>> Um, Garland, Knight of Cornelia. This is
+36:35
+red black 32 legendary. When you cast a
+36:38
+non-creature spell, Surveil One. So,
+36:40
+it's got the the Dragon Rage channeler
+36:42
+ability on it. Uh, for three black red,
+36:45
+you can return it from your graveyard to
+36:47
+the battlefield transformed as a
+36:49
+sorcery. it becomes chaos the endless
+36:51
+which is a five five flyer that puts it
+36:53
+on its uh the bottom of its owner's
+36:54
+library when it dies. So three mana 32
+36:58
+surveil off non-creatures seven mana
+37:00
+bring it back as a five five flyer.
+37:01
+>> Have y'all tested with this at all yet?
+37:03
+>> Very briefly but then but then it was
+37:06
+like uh I think we we even cut blood
+37:08
+tithe harvester maybe to play it for a
+37:10
+little bit and it was like blood tithe
+37:11
+harvester just synergizes so much
+37:13
+better.
+37:14
+>> Um I like this card. I like the design
+37:16
+of the card. I like the uniqueness
+37:18
+factor that it has for red black
+37:19
+specifically. And the graveyard ability
+37:21
+is like juice there that I would
+37:24
+probably still like the card just as
+37:25
+much if it didn't have that. So, it's
+37:26
+just gravy. Uh it's not amazing, but you
+37:30
+know, it is something extra.
+37:32
+>> I uh I really love the flavor of this
+37:34
+card, too, because um if you This is
+37:36
+like more of a Final Fantasy specific
+37:37
+thing, but like the you know, the end
+37:39
+boss also being the first boss and then
+37:41
+like being stuck in a time loop. So,
+37:43
+this goes back to the bottom of your
+37:44
+deck even after you beat the final boss.
+37:45
+>> Um Um, yeah, really, really good flavor
+37:48
+design. I think the the output here is
+37:50
+decent and being a two drop, two mana,
+37:53
+32 is like a pretty good starting place.
+37:55
+Um, so there's, you know, I I kind of
+37:58
+feel like B is where I want to put this
+38:00
+in terms of I probably wouldn't play it
+38:01
+over, and maybe this is where I'm going
+38:03
+to argue we should probably be moving on
+38:05
+Colt's Anvil and possibly Cranial Ram up
+38:07
+because I wouldn't play it over those
+38:08
+cards. But I do think it's pretty easy
+38:10
+to fit this into a cube. And again, if
+38:11
+you're trying to be a little more
+38:12
+simplistic in terms of what you're
+38:13
+doing, I think this is a card that that
+38:15
+makes some sense, right? You can um you
+38:17
+know, it's a pretty simple card with a
+38:19
+lot of play to it.
+38:21
+>> Yeah, I played with it a lot. I played
+38:23
+with and against it a fair amount. And I
+38:25
+won't rant about the card like I did uh
+38:27
+in the set review. I'll just say that I
+38:28
+really do enjoy having some cards in my
+38:30
+gold sections that are still have wide
+38:32
+playability. you'll play Garland in
+38:34
+basically any black red deck, but that
+38:35
+if you happen to get it early, it might
+38:37
+change your pick orders versus taking
+38:40
+some of the other black red cards, like
+38:41
+basically any other black red card on
+38:43
+this list. I think that's really cool. I
+38:44
+think that creates for more
+38:45
+replay-ability uh in your drafts. But
+38:47
+yeah, it's not a world beater and it
+38:49
+doesn't like specifically synergize with
+38:50
+a lot of the other stuff blackard is
+38:51
+doing. So low to me makes sense. Yeah.
+38:54
+Uh fireglass mentor. Uh this is red
+38:57
+black 2-1 wizard warlock. At the
+39:00
+beginning of your second main phase, if
+39:02
+an opponent lost life this turn, exile
+39:04
+the top two cards of your library,
+39:05
+choose one of them, and you can play
+39:06
+that card this turn. This is not an
+39:09
+until end of next turn ability.
+39:10
+>> Yeah, this to me falls into the uh we've
+39:14
+had discussions about there's only so
+39:15
+low I'm willing to go on a two on a
+39:17
+cheap engine card. Um the hoop to jump
+39:21
+through here is I mean damaging your
+39:22
+opponent's not always going to happen
+39:24
+but this is where cards that enable you
+39:26
+to damage your opponent every turn like
+39:27
+you know we haven't talked about it yet
+39:28
+in the reviews but Oke keeper wreck a
+39:30
+raid or only cult anvil or command face
+39:32
+Kazak cockaz
+39:34
+>> Kazakhstan yeah
+39:36
+>> whichever whichever whichever one it is.
+39:38
+Um you know these cards that ping and
+39:40
+deal damage reliably help enable cards
+39:42
+like this. Um at the end of the day
+39:44
+though like this is a like it is it does
+39:47
+have one toughness. We do have to do
+39:48
+jump through some hoops, but it's an
+39:50
+engine. It's card selection. Like this
+39:52
+is a this is this does have um
+39:54
+especially again in simple more simple
+39:56
+environments. This is a like a card you
+39:58
+can play.
+40:00
+>> Yeah, I hate two minute two ones. This
+40:01
+will die a hu just a huge amount of the
+40:03
+time as a two-1 engine card. Uh and it's
+40:06
+not quite as easy in my mind to enable
+40:08
+as it might seem because first of all
+40:09
+the turn the turn you play this it's
+40:11
+going to be the most hard to get the
+40:13
+draw off of it. So, it's like really it
+40:14
+kind of has to survive a turn rotation
+40:16
+and a two-1 surviving a turn rotation
+40:18
+isn't going to happen uh as often as
+40:20
+you'd like. But, but I agree there are
+40:21
+games where it will draw multiple cards.
+40:22
+So, I think I don't think it can go
+40:24
+lower than C, but um I don't I don't
+40:26
+know. I think I would want to be
+40:27
+considering cube construction a little
+40:29
+bit. I would want evasive creatures
+40:30
+again might be good for that cube where
+40:32
+you have an an for ninja lane or
+40:34
+whatever. Um so, yeah, but it draw it
+40:37
+can draw cards. It can't be that bad.
+40:38
+>> Yeah, the the hoop is more than I need
+40:41
+to consistently deal damage to my
+40:42
+opponent. The hoop is also like I need
+40:44
+to do it in a way where I spend the
+40:46
+least amount of mana possible to be able
+40:48
+to play the cards that this exiles and
+40:50
+then also have my two one survive and
+40:51
+stuff like that. I think we did play
+40:52
+this when it came out and like the
+40:54
+number of times where you trigger it but
+40:56
+can't actually play the cards or vice
+40:58
+vers like you can't trigger it because
+40:59
+you have to use your mana to push
+41:02
+something through like was enough for me
+41:03
+to be like kind of off of the card. But
+41:05
+yeah, it can draw a bunch of cards. So
+41:07
+um C see seems good there. Uh Fireblade
+41:10
+Artist is up next. This is red black two
+41:12
+two haste. At the beginning of your
+41:13
+upkeep, you may sacrifice a creature.
+41:16
+When you do, it deals two damage to
+41:17
+target opponent or planaineswalker. Uh
+41:19
+OG jank diver gaan peasant cube ratos
+41:23
+card from the first build of the cube.
+41:26
+>> It's two haste for two. It's a two haste
+41:28
+for two. We don't we don't get these
+41:29
+anywhere. I'm just kidding.
+41:30
+>> This vampire gourand with haste,
+41:32
+>> but you don't draw the card.
+41:34
+>> Doesn't draw any cards. Yeah. It's so
+41:35
+much worse.
+41:37
+>> Moving on.
+41:38
+>> I mean Yeah. Like no, right? Like we get
+41:40
+mono cards that have this this output.
+41:43
+>> Uh unlicensed disintegration. I played
+41:46
+this in a standard R RCQ once. Uh one
+41:48
+black red instant destroy target
+41:50
+creature. If you control an artifact, it
+41:52
+deals three damage to that creature's
+41:54
+controller.
+41:55
+>> Yeah, I mean this is a card that like
+41:58
+three mana is is I guess you're you're
+42:00
+not really getting away with anything
+42:02
+with a three mana Doom Blade, but deal
+42:04
+three is decent. Like that's more that's
+42:06
+that's reach um for sure. This card was
+42:08
+really was like playable in standard, a
+42:10
+good st a pretty good standard card uh
+42:13
+when it came out. I I think I would put
+42:15
+it like kind of near terminate in that I
+42:16
+think Terminate is obviously more
+42:18
+efficient, probably more generically
+42:19
+playable, but I think the the upside
+42:22
+here is like not ins. It's not nothing,
+42:24
+right? Like dealing three damage is a is
+42:26
+a decent hit if you're and it's pretty
+42:28
+easy to enable.
+42:30
+>> Yep. Agreed with all that. I I I can't
+42:32
+imagine ever playing with both Terminate
+42:33
+and and license in disintegration, but I
+42:35
+think all three of these interactive
+42:37
+spells make sense in a similar similar
+42:38
+place.
+42:39
+>> You know what? You know what else? I
+42:40
+mean, Terminate also deals three damage
+42:43
+because it kills your opponent's
+42:44
+cheaper and you get to attack them. Um
+42:46
+there's a mono code in SOS that's
+42:48
+similar, but I think the stipulation is
+42:50
+gaining life
+42:51
+>> instead of controlling an artifact. Um,
+42:53
+okay. To toteen taunts swarm piper. One
+42:57
+black red, two three legendary human
+42:59
+warlock bard. Whenever it or another
+43:02
+non-token you control dies, non-token
+43:05
+creature you control dies. Create a one-
+43:07
+one black rat that can't block. You can
+43:09
+pay one in a black to give target
+43:11
+attacking rat you control death touch
+43:13
+until end of turn.
+43:15
+>> Oh man, remember remembering black red
+43:17
+rats led the uh the iconic from wilds at
+43:20
+Eldrain. Uh,
+43:24
+>> so this is a two me it's a three two
+43:26
+three that requires that requires you to
+43:28
+have things go right like you have to
+43:29
+have things happen for this card to do
+43:30
+anything.
+43:31
+>> Yeah. I guess the question is would you
+43:33
+rather have uh end of turn? I feel like
+43:36
+you'd rather have all three of the
+43:37
+sacrifice cards to the left of it. So
+43:39
+that probably though in our combo in our
+43:42
+in our combo deck in our combo cube in
+43:45
+peasant uh when we combine is Forexian
+43:48
+is Forexian alter a rare or is it
+43:51
+originally pretty uncommon? I know
+43:52
+>> it's probably a common.
+43:54
+>> Yeah, let's go. Let's assume it was a
+43:55
+common then see then we can sacrifice
+43:57
+reassembling skeleton for a mana. We
+43:59
+sack the rat for a mana and then we
+44:01
+bring back reassembling skeleton and we
+44:03
+create an infinite loot for our blood
+44:04
+artist. just uh if you want the if you
+44:07
+want this power this body generation I
+44:10
+think Lagamos is the the card you're
+44:11
+looking for not not to
+44:13
+>> tons
+44:14
+>> um okay terminal agony uh it's it's
+44:17
+terminate again it's a two black red
+44:19
+sorcery destroy target creature but it
+44:21
+has madness for red black so it's a
+44:24
+mostly better terminate if you're doing
+44:25
+the madness thing significantly worse
+44:28
+terminate if you're not doing the
+44:29
+madness thing and I don't I question why
+44:31
+you're playing it
+44:32
+>> yeah once you've really made it though
+44:34
+it's basically like two mana doom blade
+44:36
+draw a card, right?
+44:37
+>> If if you're on the headliner, then
+44:39
+you're probably on this. They they go
+44:40
+hand in hand. Um
+44:42
+>> Oh, then you've just then you've just
+44:43
+like made terminate for like no vantage.
+44:46
+Like I want to be doing this with a
+44:47
+strife so that I can draw a card.
+44:49
+>> Well, that too. Your advantage is having
+44:50
+a two minute three- three haste. I mean,
+44:52
+that was the advantage. But yeah,
+44:53
+agreed. I We're I'm kind of cheating
+44:54
+here. And if you want to feel I want to
+44:56
+fight this, it's fine. And saying that
+44:57
+terminate is similar to all these in
+44:59
+terms of where I'd place them. But to
+45:01
+me, it's like a cube equity
+45:02
+consideration. I don't really see a
+45:04
+great reason to run Terminate, but it's
+45:06
+better than all these cards. But then
+45:08
+there's potential reasons to run these
+45:09
+cards, you know, in terms of like a lane
+45:11
+that you're trying to seed. And then,
+45:13
+you know, they're more exciting, but
+45:14
+none of them are as good as Terminate.
+45:16
+So, it's like they're all kind of in a
+45:17
+similar spot in my mind.
+45:18
+>> No, I I agree with all of this. All
+45:19
+right. Um, man, generally where we put
+45:22
+like gold one for one removal spells is
+45:25
+just this category.
+45:26
+>> I wanted this card for so long.
+45:29
+>> It's a It's a U card. We got it in what?
+45:30
+Pioneer Masters. Yeah, we got it well
+45:33
+after its expiration date had uh had
+45:35
+arrived. This was originally printed in
+45:37
+Dragons of Tar.
+45:39
+Um, is it swift Helkite? Is that the
+45:42
+name of it?
+45:43
+>> Swift Warite.
+45:44
+>> Swift Warite. And I believe it is a six
+45:47
+mana 44 with flying. And when it enters
+45:50
+the battlefield, you may return target
+45:52
+creature with mana value three or less
+45:54
+from your graveyard to the battlefield.
+45:55
+It gains haste until end of turn and
+45:57
+then returns to your hand at the end of
+45:58
+turn.
+45:59
+>> Yep. notably back to your haven instead
+46:01
+of sacrificing it.
+46:02
+>> Yeah. Um this was a neat little value
+46:05
+card when it was printed in like 2011
+46:08
+or whatever it was.
+46:10
+>> Later later than that. 2015 I think.
+46:12
+>> Is it 2015? Sure. Whatever. Whatever.
+46:14
+The years all run together. Um but yeah,
+46:17
+like I mean even though there's some
+46:18
+cool things you can do with this card
+46:20
+with like you know your cash triggers
+46:21
+and getting to reby ETVs multiple times
+46:23
+and you know generating some like
+46:24
+pressure and stuff, it's just it's a six
+46:26
+mana four
+46:27
+>> at the end of the day.
+46:29
+>> Yeah. It's uh
+46:30
+>> not good enough.
+46:32
+>> Yeah, sorry.
+46:33
+>> This is one of the other red black has a
+46:34
+No, it's all good. One red black has a
+46:36
+lot of cool Maybe red black has more
+46:38
+things it can do than actually like any
+46:40
+other color. It's just funny how much
+46:42
+better than the sacrifice stuff is than
+46:43
+than most of the rest of it. But black
+46:45
+red also has this kind of like temporary
+46:47
+reanimation lane that it gets to play
+46:48
+around with. But yeah, if you if you
+46:50
+like the effect, I would suggest
+46:51
+pirateic rebirth probably over this just
+46:53
+because it's a cheaper card and we'll
+46:54
+get to that in a little bit. Six mana is
+46:55
+just too much.
+46:56
+>> Yep. Sorry. War kite. Uh, Slaughter
+46:59
+Priest of Mous Black Red 2 Minotaur
+47:02
+Shaman. Whenever you sacrifice a
+47:04
+permanent, this thing gets plus two plus
+47:06
+O until end of turn. You can pay two
+47:08
+mana, sacrifice another creature or
+47:10
+enchantment wamp wamp to give this thing
+47:12
+first strike until end of turn.
+47:15
+>> Yeah, I really wish that that benefit
+47:18
+from sacking was like a little bit
+47:20
+better. Yeah, it's not a good card.
+47:21
+Nope.
+47:23
+better outlet
+47:24
+>> jury jury but like they're just going to
+47:26
+chump block it if it ever gets big.
+47:28
+>> It also just like it doesn't keep the
+47:30
+stats.
+47:31
+>> It doesn't give you any advantage for
+47:32
+sacrificing your stuff. I just Yeah. Not
+47:34
+good enough.
+47:34
+>> Enchantment too. This I don't even think
+47:36
+this one would be significantly better
+47:38
+if it was artifact. But may maybe it
+47:39
+would.
+47:39
+>> No. Even if even if you had an
+47:40
+enchantment theme unless you're playing
+47:42
+with specifically with the card
+47:43
+disturbing mirth, which we'll get to
+47:44
+later, there's just no reason to run
+47:45
+that card at all. I find it fascinating
+47:47
+that the LA this little streak of like
+47:49
+terrible cards that we've seen are like
+47:51
+more played than the streak of cards
+47:52
+that are about to come up.
+47:55
+>> Uh these might all be at the same kind
+47:56
+of tier. I'm not sure, but once we get
+47:58
+towards the end, all this stuff is
+48:00
+played. Not that much.
+48:00
+>> There's some cool effects in here at
+48:02
+least. Uh Carter's Vicious Return. This
+48:04
+is a two black red for a saga. Chapter
+48:07
+one, you may sacrifice a creature. When
+48:09
+you do, Carter's uh vicious return deals
+48:11
+three damage to any target. Uh, chapter
+48:13
+two, each player discards a card.
+48:16
+Chapter three, return a creature from
+48:17
+your graveyard to the battlefield, put a
+48:19
+plus one counter on it, and it gains
+48:20
+haste until the next end of your turn.
+48:23
+>> It's I I love the design of this card in
+48:26
+sense of like a value generating saga
+48:28
+that gives us like a way to to utilize
+48:30
+some different synergies. The problem is
+48:31
+we just don't get away with anything.
+48:33
+>> Also, you you do you do force discard
+48:35
+yourself on chapter 2.
+48:36
+>> This is like a four mana card. Like I
+48:38
+feel like at four mana they could have
+48:39
+given a they could have spotted us
+48:41
+something like we could have you could
+48:42
+have given us something here that was
+48:44
+that was free that was free rolled.
+48:46
+>> This is a four mana saga with with
+48:49
+infinite words that is a one for one
+48:50
+somehow. How is this how do they give us
+48:52
+at the end of all this a one for one? I
+48:54
+don't understand.
+48:55
+>> I mean chapter 2 I think would work a
+48:57
+lot better if it was like you may
+48:58
+discard a card and if you do your
+48:59
+opponent discards a card but it's forced
+49:01
+discard on you which is gross. It's
+49:03
+gross. Um, red, black,
+49:05
+>> I think I would have written the way
+49:06
+this should have been is the chapter two
+49:08
+should have been your opponent discards
+49:10
+a card. You may discard a card if you do
+49:11
+draw a card.
+49:13
+>> And then we would then at least
+49:15
+>> more words once again needs more words
+49:18
+because it's like you said, it's a one
+49:19
+for one saga. I don't how
+49:21
+>> the only way I would I would ever even
+49:23
+consider this at all is again with the
+49:25
+serving worth, which we're going to get
+49:26
+to soon, but black actually does have a
+49:28
+reason at gold to play around with
+49:30
+enchantments. Not every, you know, color
+49:32
+pair does. It's just not this
+49:33
+enchantment. It's a It's another
+49:34
+enchantment we're going to talk about
+49:35
+soon. But sure, if you're there already,
+49:37
+then maybe you want more
+49:37
+>> enchantment. I
+49:38
+>> I feel like this saga was so close to
+49:40
+being good. There's a world where this
+49:41
+is just like lightning bolt plus a a
+49:44
+discard effect plus like a reanimate,
+49:46
+and you're just like, "Wow, this card's
+49:47
+incredible."
+49:48
+>> Well, you know, you know what Carter's
+49:49
+Vicious Return can bring back to the
+49:51
+battlefield?
+49:51
+>> Carter Doomscourge.
+49:53
+>> Carter Doomscourge. The most metal name
+49:55
+of all time. Uh,
+49:57
+>> this card is really cool.
+49:58
+>> I It is cool. I am interested that it's
+50:00
+shown up in cubes. It's uh two black red
+50:02
+43 legendary. Uh when Carter enters
+50:05
+until your next turn, creatures your
+50:07
+opponent control, attack each combat if
+50:09
+able and attack a player. It goss
+50:12
+essentially though. Interestingly, it
+50:14
+also like goats haste creatures if they
+50:16
+play one pre- combat. Go doesn't do
+50:18
+that. But uh whenever an attacking
+50:20
+creature dies, each opponent loses one
+50:22
+life and you gain one life. And that's
+50:24
+uh any attacking creature that's yours
+50:25
+or your opponent. So 4 three, your
+50:28
+opponent must attack you with all their
+50:29
+stuff that's able to attack you on their
+50:30
+next turn.
+50:32
+>> If this was a uh a commander black red
+50:34
+tier list, I would be arguing about why
+50:36
+Carter Doomscur should probably make it.
+50:37
+>> This card is great in
+50:38
+>> Yeah. Yeah. This card just like I want
+50:40
+to put it into every black red commander
+50:42
+I ever make. Like it just it's it's so
+50:44
+efficient at what it does. Um that being
+50:46
+said, uh that that is because it's a
+50:47
+multiplayer format and your opponents
+50:48
+have to attack each other and not you.
+50:50
+Um, I like it a lot less here where our
+50:52
+opponent just to, you know, I like
+50:54
+you'll sometimes get you can sometimes
+50:56
+get your opponent where like they've
+50:57
+got, you know, utility creatures that
+50:58
+they have to ship into you or something
+51:00
+like that. But there's just it's a lot
+51:02
+of hoops to jump through and like this
+51:04
+the effect is scaled is commander
+51:06
+focused, right? It's it scaled towards
+51:07
+the multiplayer aspect of like attacking
+51:10
+other players.
+51:12
+>> Yes. However, I do think it was like
+51:14
+decent in Calheim. And I think the
+51:16
+reason for that is like there's a play
+51:18
+here where you go, you play it, they
+51:19
+have to jump attack their two into this,
+51:21
+you kill the two, and you've gained some
+51:22
+life and drain them, you know, to to
+51:24
+counteract the fact that they got the
+51:25
+attack off. To me, the biggest reason
+51:26
+why I can't abide this is it's a four-
+51:28
+mana creature with three toughness that
+51:30
+doesn't have an ETB or I mean, it has a
+51:31
+kind of ETB, but not really. Um, I just
+51:34
+can't I can't. Now, if you're again, if
+51:35
+you're not playing with any cheap
+51:36
+interaction, then I could imagine
+51:39
+starting to be more interested in this
+51:40
+again as a kind of a very pseudo uh
+51:43
+Chipacabra, but it's extremely pseudo. I
+51:44
+just I I don't I don't see it.
+51:46
+>> Extremely cool card though.
+51:47
+>> Same stats as that Garna too. Like four
+51:49
+mana 43 is just like not not where you
+51:51
+want to be honest.
+51:53
+>> Uh Junkyard Genius. This is one of the
+51:55
+four Ratos cards currently in the JDG
+51:57
+peasant cube. It's one black red two
+52:00
+human artificer. When it enters you
+52:01
+create a power stone token. Those are
+52:03
+the artifacts that can be tapped for
+52:07
+they can't be tapped for non-artifact
+52:10
+uh to cast non-artifact spells. Um,
+52:12
+three mana, one black red. Sacrifice
+52:14
+another creature or artifact until end
+52:16
+of turn. Other creatures you control get
+52:18
+plus one plus O and Menace and Haste.
+52:21
+>> Uh, yeah, this card is a little dorky.
+52:23
+The turn you like sometimes if you play
+52:25
+try, you can't really, it's not really
+52:26
+like I'm playing this on curve type
+52:28
+card, but there aren't a lot of cards
+52:30
+that have the damage output that this
+52:31
+card has. Um, this is a card that will
+52:34
+just straight up murder people if you
+52:35
+untap with it or sometimes that, you
+52:37
+know, you just like play it on turn five
+52:39
+and like activated or whatever turn six
+52:41
+or whatever and just like kill your
+52:42
+opponent anyways. Um, Spotion Artifact
+52:45
+like a really really good damage output
+52:48
+card.
+52:50
+>> Yep. I like the card. I played it for a
+52:52
+long time. It's not in my cube at the
+52:53
+moment just because I I have Oni Cult
+52:55
+and Cranial Ram in as kind of the more
+52:57
+artifact specific payoffs for Black Red.
+53:00
+But I think if you want a third or you
+53:01
+don't want to play with one of those,
+53:02
+then it's totally totally fine.
+53:04
+>> Yeah. Uh I'd probably put it like uh mid
+53:07
+midb like between Lagamos and Oni Colt
+53:09
+personally. Um yeah,
+53:10
+>> power stones tend to you tend to be able
+53:12
+to find a lot of uses for power stones
+53:14
+for just the mana if not sacrificing
+53:17
+them. So
+53:17
+>> I think I would put this higher than
+53:19
+Judith. Um maybe that's a
+53:21
+>> hot I'm just not sure. I don't know
+53:23
+where I would Yeah, I I think I would do
+53:24
+it like that because I I think the
+53:26
+spotting you an artifact up front and
+53:28
+giving your creatures menace is probably
+53:30
+better. But I I I haven't played with
+53:32
+Judith enough at peasant to really, you
+53:34
+know, be sure about that. But but yeah,
+53:36
+I think this is the way I would probably
+53:38
+run it at the moment.
+53:39
+>> All right, we got a battle here.
+53:41
+Invasion of Asgold. This is red black
+53:43
+for a four defense counter battle. Uh
+53:48
+it's a siege. When invasion of Asgol
+53:51
+enters, target player, sacrifices a
+53:53
+creature or planaineswalker and loses a
+53:55
+life. If you defeat the battle, if you
+53:57
+get four counters off of the battle, it
+53:59
+transforms into Hold on, give me a
+54:00
+second. Uh, Ashen Reaper, which is a 2-1
+54:03
+Menace zombie elemental at the beginning
+54:06
+of your end step. Uh, put a plus one
+54:08
+counter on this creature if a permanent
+54:10
+was put into a graveyard from the
+54:12
+battlefield this turn. Uh, Denil, see,
+54:14
+you play this card right now, don't you?
+54:15
+>> I do, and I I feel like I'm on an island
+54:17
+of defense for this card. But I'm
+54:18
+starting it in B assuming y'all are
+54:20
+going to force it down to C. But I think
+54:21
+this card is really strong. It it was
+54:23
+really good in mom.
+54:24
+>> I don't have anything against it. I just
+54:25
+don't love it.
+54:26
+>> PE people the the argument I've heard
+54:29
+against this card from people is like,
+54:30
+oh, you know, edicts are just so bad in
+54:31
+cube. And it's like, okay, they're
+54:33
+they're definitely worse in cube than uh
+54:35
+than in retail, but we I play with some
+54:37
+other edict effects that are still
+54:38
+pretty strong. And the point is this is
+54:40
+an edict. This is an edict on a
+54:41
+creature. This is more like a ravenous
+54:42
+chupacabra than it is just an edict.
+54:44
+Yes, you have to attack this battle
+54:45
+down, but that's black red. really
+54:47
+enjoys this style of gameplay where it's
+54:49
+like, "Oh, you're telling me I can, you
+54:50
+know, use up some of my damage points to
+54:52
+get even more value out of my cards.
+54:53
+Like I I think black red is set up
+54:55
+pretty well to do that. So, I've been
+54:56
+really impressed with the card ever and
+54:57
+I've played with it literally since the
+54:59
+moment I created the cube. It stayed in
+55:00
+the entire time. It's always been
+55:01
+solid." This is the removal of choice
+55:03
+that I play in my black red section.
+55:05
+>> I have no intentions of pushing you off
+55:07
+that. I actually like the card a lot. I
+55:09
+think it's one of those cards that
+55:10
+suffers from RQ being 360. We don't have
+55:13
+really have room for a card like this,
+55:14
+but I mean, the output's good. Um, black
+55:17
+red, like you said, is really good at
+55:18
+taking advantage of it because you would
+55:20
+because you're chipping in damage so
+55:21
+frequently with Ratosse, you don't mind
+55:23
+usually trading a little of that damage
+55:25
+for more, like you said, more damage
+55:27
+value, whatever. Um, at the end of the
+55:29
+day, this ends up being like a decent
+55:31
+creature with like an edict attached to
+55:32
+it. If you're able to flip it the turn
+55:34
+you play it, you also get a 3-2, which
+55:35
+is really cool.
+55:37
+>> Yeah, I I have no qualms against this
+55:39
+card at all, and I'm a little bit higher
+55:40
+on edicts than most people anyway. I
+55:42
+just think you can't overload on them
+55:43
+and you need to couple them with like
+55:44
+actual real removal.
+55:46
+>> Yeah. Like this is a card that notably
+55:47
+too like if you play like on turn like a
+55:50
+sequence I I could see with this is like
+55:51
+blitz nightclubber on turn five and then
+55:53
+play this after you've cleaned up a
+55:55
+bunch of their cheap little tokens to
+55:56
+actually kill something real and then
+55:57
+the blitz nightclubber can now help chip
+55:59
+in damage to flip this. So that that if
+56:01
+especially if you are on nightclubber
+56:03
+which is a really good card this is a
+56:04
+card that pairs well with that when I'm
+56:05
+kind of theory crafting it. And I' in
+56:08
+talking with this to some folks, I
+56:09
+definitely think that some people don't
+56:10
+want to play it because it's a battle
+56:11
+and they just it introduces more card
+56:13
+types into their environment, more
+56:15
+complexity. I'm personally the exact
+56:16
+opposite. I really like having, you
+56:18
+know, just more interesting unique types
+56:19
+of cards in the environment. So for me,
+56:22
+yeah.
+56:23
+>> Uh we might might get some next set. Um
+56:26
+Interceptor Mechan is up next. This is
+56:28
+two black red for a two two flying
+56:30
+artifact creature rebel. When it enters,
+56:33
+return target artifact or creature from
+56:35
+your graveyard to your hand. It has void
+56:37
+at the beginning of your endstep. If a
+56:39
+non-land permanent left the battlefield
+56:41
+this turn or a spell was warped this
+56:43
+turn, uh, put a plus one plus one
+56:45
+counter on this creature. It's great.
+56:48
+It's gravedigger with fine.
+56:50
+>> Yeah, this is like a more competitive
+56:52
+version of uh the swift war kite. Um,
+56:55
+>> which it was it was it was dorky.
+56:58
+>> It was a performer. Like I I don't know.
+57:00
+It it it was never ever an impressive
+57:03
+card and uh it was never like the worst
+57:06
+card in your deck either. It's like
+57:07
+total C range. I think it's a C. I mean,
+57:10
+it's a totally serviceable card to to
+57:13
+resolve. It's fine.
+57:14
+>> Um I would fight for D just because I
+57:16
+think that ultimately if it was
+57:17
+monocolored, I would like it more, but
+57:19
+as a gold card, I think the equity
+57:20
+argument for it is pretty poor. There's
+57:22
+three three other artifacty type cards
+57:24
+that I would play over it pretty pretty
+57:25
+easily and maybe even a couple more that
+57:27
+we haven't talked about yet. So, I I
+57:28
+think it's a D for that reason. It's not
+57:29
+a bad card. I agree, but I think there's
+57:30
+just a lot of better options.
+57:32
+>> Yeah, I think the artifact I think the
+57:34
+artifact recursion element is at least
+57:36
+interesting enough to because there's
+57:37
+not a lot of cards that do that. There's
+57:39
+not an infinite,
+57:40
+>> but it gets bigger when you warp stuff
+57:42
+like don't you don't you do you not like
+57:44
+warp?
+57:45
+>> I I think I would say C, but it's kind
+57:47
+of like a reluctancy.
+57:50
+>> That sounds a reluctant sounds like a D
+57:52
+to me, but
+57:52
+>> rel.
+57:54
+>> All right. Uh Garna the Blood Flame OG
+57:56
+Dominaria card here. This is three black
+57:59
+red 3 3 legendary human warrior. It has
+58:01
+flash. Other creatures you control have
+58:03
+haste and when it enters it has yeah
+58:06
+well it kind of needs flash but um other
+58:09
+creatures you control have haste and
+58:11
+when it enters you return all
+58:13
+>> creatures that were put into your
+58:14
+graveyard from the battlefield to your
+58:16
+hand. Uh I'm sorry not any any creature
+58:18
+that went to your graveyard from
+58:19
+anywhere goes back to your hand uh when
+58:21
+this enters the battlefield.
+58:23
+>> Yes. The key to this card is actually
+58:25
+that it is a um I think it's a discard
+58:27
+themed card kind of secretly. You want
+58:29
+to be like getting natural discard off
+58:31
+of a looter multiple looter effects or
+58:33
+whatever. Then you cast this, you draw
+58:34
+two from your graveyard. I think that's
+58:35
+just too narrow. And I think that
+58:37
+ultimately if you want to be playing
+58:38
+around with madness, there are better
+58:39
+cards we've already talked about and
+58:40
+we'll be talking about um that kind of
+58:41
+fit that theme better. And outside of
+58:43
+that space, I just don't care about this
+58:44
+at all. I think like the play pattern of
+58:46
+okay, I'm going to pass with all my mana
+58:48
+open. You're going to cast your fearfire
+58:49
+foes or whatever and I'm going to get
+58:50
+everything back doesn't really work. And
+58:51
+I think that also the use case of I'm
+58:53
+going to, you know, attack into you with
+58:55
+all my stuff. You get a couple blocks
+58:56
+off. I pick up a couple creatures. That
+58:58
+also doesn't work that often. And even
+58:59
+when that happens, you still have a
+59:01
+fiveminute three- three um at the end of
+59:03
+the day. That's like, you know, not that
+59:04
+special. So, not not a great card. No,
+59:07
+>> this would be this would be down there
+59:08
+with like cackle personally as far as
+59:10
+like
+59:11
+>> this card is terrible.
+59:12
+>> Is this the ratos card you're you're
+59:13
+going to choose? Apparently, for some
+59:14
+people it is. So, again, that that
+59:16
+screams to me D power and that's fine.
+59:19
+Uh, forge boss from New Capenna. This is
+59:22
+two black red three four human warrior.
+59:24
+Whenever you sacrifice one or more other
+59:26
+creatures, it deals two damage to each
+59:28
+opponent. It triggers only once each
+59:29
+turn.
+59:31
+I vaguely remember Denelius trying to
+59:33
+sell me on this uh maybe like over a
+59:35
+year ago at one point. Somebody was
+59:38
+trying to sell me on this, was it not
+59:39
+you?
+59:39
+>> I don't think so. I I remember when this
+59:41
+card was spoiled for SNC, um there was a
+59:44
+few people who thought the card might be
+59:45
+decent and uh No. Why is it not good?
+59:48
+because four mana. It has no ATP. It
+59:50
+needs other things going on around it to
+59:51
+do anything at all. It's unders sized.
+59:53
+It's No, no, no, no, no.
+59:57
+>> You see, there is an alchemy version
+59:58
+that is a four for
+1:00:01
+>> Oh, there you go.
+1:00:01
+>> I mean, that would help it. That
+1:00:02
+certainly would make it slightly better.
+1:00:04
+>> Buffed it up. Go ahead and bump that
+1:00:06
+damage up to four per creature as well.
+1:00:09
+>> Uh, okay. The other SNZ Kai, uh, body
+1:00:11
+dropper, red black two two devil
+1:00:14
+warrior. Whenever you sacrifice another
+1:00:15
+creature, put a plus one counter on it.
+1:00:17
+You can pay red black to sacrifice a
+1:00:18
+creature and give this thing menace
+1:00:20
+until end of turn.
+1:00:22
+>> So this is like jury that
+1:00:24
+>> just wor way worse jury I think. I mean
+1:00:26
+>> yeah like it it self enables and it
+1:00:28
+spots you like a slightly better
+1:00:30
+baseline but it also just doesn't have
+1:00:33
+jury ceiling.
+1:00:35
+>> Also it's just like look you know
+1:00:36
+compare body body dropper and slaughter
+1:00:39
+uh priest emojis. Okay, they're they're
+1:00:41
+sacrifice outlets, but again, we've
+1:00:42
+gotten a lot better sacrifice outlets
+1:00:44
+recently in black and red as like two
+1:00:47
+drop creatures and then compare both of
+1:00:48
+them to bloody harvester and it's just a
+1:00:50
+joke. So, I can't imagine why you'd run
+1:00:52
+these.
+1:00:53
+>> Just play just play the squirrel. Play
+1:00:54
+ravenous squirrel as your your thing
+1:00:55
+that does this if you want. Yep.
+1:00:57
+>> Uh yeah, that's a that's a D for sure.
+1:00:59
+Uh black walts number three. This is
+1:01:01
+from Final Fantasy. It's two black red
+1:01:04
+for a two two legendary wizard. Flying
+1:01:07
+death touch and when you cast a
+1:01:08
+non-creature spell deals two damage to
+1:01:10
+each opponent. Another Final Fantasy
+1:01:12
+win, by the way, this being like a a
+1:01:14
+pumped up version of the black mages in
+1:01:16
+the the game. It's it's also like a
+1:01:18
+pumped up version of the the black mage
+1:01:20
+tokens from from the set. Also, the
+1:01:22
+cards sucks, but
+1:01:24
+>> this card was not even not good in
+1:01:26
+retail. Um the only justification I
+1:01:29
+could see for it is that it is a simple
+1:01:31
+clean text box. If you are trying to
+1:01:33
+have simple, clean text boxes,
+1:01:35
+>> I'm sorry, I said the f word. I didn't
+1:01:37
+mean to say the f word. I'm sorry.
+1:01:39
+>> And if you're pushing, you know, uh,
+1:01:42
+spells slinger in grixus overall, then
+1:01:44
+okay, this is your grixus, your red
+1:01:46
+black spells slinger signpost, but it's
+1:01:48
+not a good card. Again, this dies to any
+1:01:50
+one mana removal spell that's not
+1:01:51
+acceptable in my four mana card that
+1:01:52
+doesn't give me any ETB value.
+1:01:54
+>> Did I tell you guys how much I hate
+1:01:55
+gutter snipe? I know this is
+1:01:56
+non-creature, but uh this is S tier as
+1:01:59
+far as uh flavor text that you can shout
+1:02:01
+out as you cast the card. You fool. Do I
+1:02:04
+look like some lovely black mage
+1:02:06
+soldier?
+1:02:07
+Um I want Tel to take this one because
+1:02:10
+he doesn't know what the name of the
+1:02:11
+card is and never has.
+1:02:13
+>> Oh god. Uh this is
+1:02:16
+Zoya. Um Lava.
+1:02:18
+>> That's it. That's the one. You nailed
+1:02:19
+it.
+1:02:19
+>> Lavaone. Um
+1:02:22
+>> Zoya. Zoya.
+1:02:24
+Um, I don't know if I've ever not called
+1:02:26
+this card Zoya Lava Tongue. Um, it's red
+1:02:28
+black for a two two death touch. And
+1:02:30
+it's got descend. So during at the
+1:02:33
+beginning of your instep, if a permanent
+1:02:35
+went to the graveyard this turn, I think
+1:02:38
+one of your permanents went to the
+1:02:39
+graveyard this turn.
+1:02:40
+>> Non-token permanent went to your
+1:02:42
+graveyard.
+1:02:43
+>> Yeah. Uh, your opponent either takes
+1:02:46
+three damage, sacrifices a permanent or
+1:02:49
+discards card.
+1:02:51
+>> Yep. Another one of these punishers we
+1:02:53
+recommen this is a better one because a
+1:02:57
+two two for two is with death touch is
+1:02:59
+better than a three two for two or for
+1:03:02
+three with death touch.
+1:03:03
+>> Um it's a it's harder to get the effect
+1:03:06
+but it's gotten easier over time.
+1:03:08
+There's a lot more like artifacts that
+1:03:09
+randomly put them or you know cards that
+1:03:11
+randomly put themselves in the
+1:03:12
+graveyard. Notably being like fetchlands
+1:03:14
+um was a big way to enable this. I
+1:03:16
+really like this card. Uh I I I struggle
+1:03:19
+to see where we're playing it outside of
+1:03:22
+again that space of like we're looking
+1:03:23
+for a relatively
+1:03:25
+derrinketed simpler designs, but also we
+1:03:29
+don't mind a card having a a novel on it
+1:03:31
+to tell you what it does.
+1:03:34
+>> Yeah, I was kind of trolling with this.
+1:03:35
+I don't think there's any way you can go
+1:03:36
+up here. I think uh it is better. You're
+1:03:38
+right. I definitely like it more than
+1:03:39
+the rest. Um and if y'all want to fight
+1:03:41
+for it as higher than D, that's fine.
+1:03:42
+I'll leave it up here for now. I just
+1:03:43
+think ultimately it has the same it has
+1:03:45
+the same issues in terms of um equity
+1:03:48
+where it's like what what theme are you
+1:03:50
+supporting with this card? And then if
+1:03:51
+you're not supporting a theme with this
+1:03:52
+card, is this what card widely playable?
+1:03:53
+And I don't really think the answer is
+1:03:55
+yes. Um so that's
+1:03:57
+>> it's A LITTLE IT'S A LITTLE awkward too
+1:03:59
+in that like the trinket a lot of the
+1:04:01
+trinkety things are easier ways to
+1:04:03
+trigger this, but like if you play a
+1:04:05
+bunch of them, it also gives you things
+1:04:06
+to soak up its triggers. Um yeah, I I
+1:04:09
+think it is a card that does kind of
+1:04:10
+lack a home. We played it for a while
+1:04:12
+and like I enjoyed the card. I wanted I
+1:04:14
+kept trying to make it work and I felt
+1:04:15
+like it was just it was okay. Like it
+1:04:18
+was mostly okay off the fact that like a
+1:04:19
+two death toucher was like a an
+1:04:22
+acceptable floor for like the the kind
+1:04:24
+of goals that you could shoot for with
+1:04:26
+this card. But it's just the limited
+1:04:28
+output too. Like this card's can only
+1:04:31
+ever get one trigger per turn cycle. And
+1:04:32
+that's just it's really hard to keep up
+1:04:34
+with what your opponents are able to do.
+1:04:35
+Now, if your opponents don't follow the
+1:04:36
+rules, they aren't playing tok they are
+1:04:38
+playing cards that generate value and
+1:04:39
+generate like tokens and they let this
+1:04:42
+sit in play like I, you know,
+1:04:44
+occasionally it'll do like six, nine
+1:04:46
+damage or something like that and like
+1:04:47
+then it's like really good. But I think
+1:04:49
+ultimately this to see I'd put it like I
+1:04:51
+I think I probably like it better than
+1:04:52
+interceptor mechan and maybe some of the
+1:04:54
+removal spells, but I'm just ultimately
+1:04:56
+not a huge fan of it. Um, and I'm not a
+1:04:58
+huge fan of the way it played out. I
+1:04:59
+like the card.
+1:05:00
+>> That card's fine. We played in our main
+1:05:02
+line, too. Like we were pretty high on
+1:05:03
+it for a little while. Um, it's it's
+1:05:06
+fine. I think the cube equity argument
+1:05:08
+definitely comes into place here where
+1:05:09
+it's like, ah, look at all these other
+1:05:10
+ratos cards you could be playing in the
+1:05:12
+same like decks that would theoretically
+1:05:14
+be able to make descend. Descend not
+1:05:17
+happening on tokens is a pretty big
+1:05:18
+knock against a lot of peasant. Yeah,
+1:05:20
+>> descend. This is just a rough mechanic.
+1:05:22
+>> Uh, two minute two death touch is like a
+1:05:24
+fine fine place to start though. So like
+1:05:26
+C low lowish C mid C is I I think I'm
+1:05:28
+okay with that.
+1:05:29
+>> Yeah. Um, scarlet spider cane or one one
+1:05:34
+that is not completely botched on arena.
+1:05:36
+Kney orb weaver. They gave it some ratos
+1:05:38
+flavor if fits. This is a red black for
+1:05:41
+a two-1 legendary spider human hero. It
+1:05:44
+has menace. When it enters, you may
+1:05:46
+discard a card. If you do, put a plus
+1:05:47
+one plus1 counter on him. And it has
+1:05:49
+mayhem for a hybrid red black. So, one
+1:05:51
+mana, either red or black. And mayhem is
+1:05:53
+if you discard this card, you may play
+1:05:55
+it from your graveyard until the end of
+1:05:56
+your turn. uh time time and rules apply
+1:05:59
+unlike madness. Uh so that's like
+1:06:01
+sorcery, speed, mayhem bas or madness
+1:06:03
+basically. Uh we talked about this
+1:06:05
+actually pretty extensively when we
+1:06:06
+reviewed Spider-Man about how it's like
+1:06:09
+not really a ratos card because you're
+1:06:11
+you're only playing it in decks that can
+1:06:13
+mayhem in which case you only need one
+1:06:15
+color of mana. So it could theoretically
+1:06:17
+be like a mono black mono red card. Um,
+1:06:20
+either way, this this strikes me as like
+1:06:22
+>> a little bit too far into the discard
+1:06:25
+lane with like the headliner and stuff
+1:06:27
+like that, but again, there's a lot of
+1:06:29
+ways to actually mayhem things. So, this
+1:06:32
+got to be like low C.
+1:06:34
+>> I I know I painted this card. I remember
+1:06:35
+painting this card pretty bad during the
+1:06:37
+review. I do like it better than a lot
+1:06:39
+of these other incredibly committed
+1:06:41
+discard cards only because we can find
+1:06:44
+ways to generate value with this, right?
+1:06:46
+we can if we discard it to a card that
+1:06:48
+draws cards, we actually get something
+1:06:50
+get somewhere with this. Um, in addition
+1:06:52
+to be able to like enable our other uh
+1:06:54
+stuff situationally. So, not a fan of
+1:06:58
+it, but I like it better than the
+1:07:00
+headliner or the rat guy. I think I'd
+1:07:02
+put it like the top of D where it's like
+1:07:04
+I can see the vision with this card, but
+1:07:06
+I don't think I would ever be willing to
+1:07:08
+to use it. So, like I could see this
+1:07:10
+getting into C in that if you're really
+1:07:12
+pushing this theme like it does
+1:07:14
+potentially have a home, but I just
+1:07:15
+don't really like this card. Uh the like
+1:07:17
+oops it's asking to jump through.
+1:07:19
+>> Yeah, I think you could have included
+1:07:21
+this in the in the hybrid section
+1:07:22
+because I agree. I think if if you're
+1:07:23
+playing this card, you're likely playing
+1:07:24
+it as a hybrid card. Um I was I was
+1:07:27
+curious and I looked up in the
+1:07:29
+Spider-Man set on arena how well the
+1:07:30
+card performed because I just didn't
+1:07:32
+play that set at all. So, I have very
+1:07:33
+little opinion on this card in retail
+1:07:34
+and it was like a C minus. It's like
+1:07:36
+okay. Um, but yeah, I think the biggest
+1:07:38
+difference between uh cube cube madness
+1:07:41
+and retail madness is that you get to
+1:07:42
+play with like all the cards that have
+1:07:43
+madness one, which I think is a huge,
+1:07:45
+you know, you know, all the cheap
+1:07:46
+madness cards as opposed to the ones
+1:07:48
+where you're trying to set something up
+1:07:49
+for like a four mana madness play. Um,
+1:07:51
+and that does theoretically at least
+1:07:52
+make madness more exciting in retail.
+1:07:54
+Um, the issue is where exactly are you
+1:07:56
+playing this card outside of a dedicated
+1:07:57
+madness deck? I don't really see what
+1:07:59
+that is. So, just the whole madness
+1:08:00
+thing is just it's narrow. It's super
+1:08:01
+narrow and uh not not super exciting for
+1:08:03
+us. But yes, if you're doing madness
+1:08:04
+stuff, I think this is a a fine card you
+1:08:06
+could play. It's just not a big draw
+1:08:07
+into it for me.
+1:08:08
+>> The uh the only madness card that I
+1:08:11
+think gets there on its own merit is the
+1:08:13
+uh is it Fiery Temper? Is that the name
+1:08:15
+of the card? The the one that's
+1:08:16
+lightning bolt. Yeah, that that one kind
+1:08:18
+of just gets there because, you know,
+1:08:20
+you're not happy to pay three mana for
+1:08:21
+it, but as long as you can discard it a
+1:08:23
+reasonable percentage of the time, it
+1:08:24
+just does the thing.
+1:08:26
+>> Um but yeah, the rest of these cards,
+1:08:27
+ask a lot of you. Ka Kane is at least
+1:08:29
+part of like some of the coolest things
+1:08:31
+you can do with madness where you
+1:08:32
+discard this chain it into another
+1:08:34
+madness spell. You have three two menace
+1:08:35
+on board for one mana. Like it I was
+1:08:37
+drawn to the card, you know, in
+1:08:39
+Spider-Man Draft. But uh I I don't it
+1:08:41
+feel C C minus or whatever I think is
+1:08:43
+exactly
+1:08:44
+>> one of the wonkiness with this card is
+1:08:46
+like ideally you would want to like
+1:08:48
+chain it together, but it's legendary so
+1:08:49
+you can't chain a bunch of them together
+1:08:51
+and then also Mayhem doesn't let you
+1:08:53
+violate.
+1:08:53
+>> Well, you get to discard the extra copy
+1:08:55
+for the plus one plus one counter then.
+1:08:57
+>> Ah yes. uh gives you something to do
+1:08:59
+with your it has grandeur essentially.
+1:09:01
+>> Uh Ratosse Firewheeler black red red 43.
+1:09:05
+When this enters the battlefield, it
+1:09:07
+deals two damage to target opponent and
+1:09:08
+two damage to up to one target creature
+1:09:10
+or planes blocker.
+1:09:12
+>> Uh I already railed on four threes a
+1:09:14
+little bit. At least this one.
+1:09:16
+>> This is way better than kills a small
+1:09:17
+creature.
+1:09:18
+>> This is a flame tongue copy, right? It
+1:09:20
+deals four dam. It deals four damage and
+1:09:21
+it's a 43.
+1:09:22
+>> I mean very it's from that same cycle as
+1:09:24
+that white green worm coil engine or
+1:09:26
+whatever. It's like, ah, it's extremely
+1:09:28
+hard to cast, but uh it's actually like
+1:09:30
+a decent card. Um
+1:09:31
+>> I think this one's better than the white
+1:09:32
+green one we talked about because that
+1:09:33
+one has a death trigger and this one has
+1:09:35
+an ET trigger and trigger is pretty
+1:09:36
+pretty powerful. So that that to me
+1:09:38
+makes it like a C ultimately still I
+1:09:40
+don't want to play with the card because
+1:09:40
+the mana cost is like insane. It's just
+1:09:42
+that that's a deranged mana cost. But
+1:09:44
+>> do we people seem to just like these
+1:09:46
+cards too like these mana intensive like
+1:09:49
+signpost always ends up with the the
+1:09:50
+color pair thing. Did we see the other
+1:09:53
+ones? Um, I know. No way. We saw the
+1:09:55
+Deir one, the hex proof flyer. Did we
+1:09:57
+see the Did we talk about the gr one
+1:09:58
+that like hits artifacts and
+1:09:59
+>> enchantments shaman or whatever?
+1:10:02
+>> I had it on my list, I think, and we we
+1:10:03
+took it off because it didn't seem worth
+1:10:06
+talking about. And I do think that one's
+1:10:07
+definitely worse. I think the hex flyer
+1:10:08
+is like a rancid card play pattern wise.
+1:10:11
+Like I don't know why you'd choose to
+1:10:12
+include that in your environment, but uh
+1:10:14
+but yeah, all these are close enough to
+1:10:16
+play ability if you're willing to
+1:10:17
+stomach the the mana cost. And which to
+1:10:19
+me that means probably you're playing
+1:10:20
+with like rare lands or something
+1:10:21
+because otherwise these just get stuck
+1:10:23
+in your hand too much. Uh you know or
+1:10:24
+you're playing green. I guess if you're
+1:10:25
+playing green those get a little bit
+1:10:27
+easier to cast. But
+1:10:28
+>> yes use our green deck to slash our red
+1:10:30
+red black black card. Love it.
+1:10:31
+>> No no no. I mean if you're you're the
+1:10:33
+green the green versions of this temp
+1:10:35
+are more playable. But but yeah really
+1:10:37
+powerful. It's just really hard to cast.
+1:10:39
+Seeing seeing this in the green white
+1:10:40
+guy I think people just kind of like the
+1:10:42
+design of these cards. They they they
+1:10:43
+were kind of cool cards for the most
+1:10:45
+part that cycle. Um, next up is Pyetic
+1:10:48
+Rebirth from Modern Horizons 3. Hint
+1:10:50
+hint, it's two black red for an instant
+1:10:53
+return target artifact or creature from
+1:10:54
+your graveyard to your hand. Uh, this
+1:10:57
+spell deals damage equal to that card's
+1:10:59
+mana value to up to one target creature
+1:11:01
+or planes walker.
+1:11:02
+>> I forgot this card exists. Like, we
+1:11:04
+played this for a while. It's sick. All
+1:11:05
+right, you can bump interceptor mechan
+1:11:07
+to Dtier. I forgot this card exists.
+1:11:09
+>> No, no, no. I like I like interceptor. I
+1:11:11
+like interceptor mechan. It's it's still
+1:11:12
+an artifact. It's
+1:11:14
+>> Well, hold on. If Tel says D, I say D.
+1:11:15
+So that's two to one.
+1:11:16
+>> Oh, that is two to one. Okay, that's DD.
+1:11:18
+That's 2DS.
+1:11:19
+>> Yes.
+1:11:20
+>> Um I tried I tried, fam. I tried robot
+1:11:22
+robot uh overlords.
+1:11:24
+>> Um remember that. Uh Rebirth. We did
+1:11:27
+play Rebirth. Uh it is worth noting we
+1:11:28
+played Rebirth at a time where we were
+1:11:30
+like super hard on recursion effects. We
+1:11:33
+had like every possible recursion effect
+1:11:35
+in our cube at one time and like nothing
+1:11:38
+stayed dead. So, uh, it felt it felt
+1:11:40
+redundant to me at the time we were
+1:11:43
+playing because of the context of our,
+1:11:44
+uh, of our set. Just a little bit of a
+1:11:47
+>> Yeah. So, like this is a card that
+1:11:50
+specifically there's a couple of cards.
+1:11:52
+This is like when you're looking for
+1:11:54
+things to do with your land cyclers, the
+1:11:56
+LTR land cyclers in peasant, this is the
+1:11:58
+thing you can do with them, right? You
+1:11:59
+put in the graveyard, you pick it up,
+1:12:00
+you do six. Um, helps you get the mana
+1:12:03
+to cast this. So, like there's some cool
+1:12:05
+stuff you can do with this card. It's
+1:12:06
+got some powerful it's just like a
+1:12:08
+powerful little value card. Um there is
+1:12:10
+a ceiling on it because it's never going
+1:12:12
+to be more than like a two for one
+1:12:14
+really. Um but you know it's a it's a
+1:12:17
+neat card. It's got a monorizes three
+1:12:19
+symbols so you know it's probably pretty
+1:12:21
+good. I could see this definitely being
+1:12:23
+this is a card that suffers a little bit
+1:12:25
+from cubes compressed mana values though
+1:12:26
+because if you're not doing the l cycler
+1:12:28
+thing and you're bringing back like you
+1:12:29
+know a two drop this is uh not
+1:12:32
+impressive. does give you something to
+1:12:33
+do with your uh gives you something to
+1:12:35
+do with your an is it your uh I forget
+1:12:37
+the name is it anchovian spinach pizza
+1:12:39
+the black one is that the name of it um
+1:12:42
+>> banana whatever
+1:12:43
+>> whatever this is just the black red
+1:12:45
+version of lion weight right did we
+1:12:46
+already say that this is basically just
+1:12:47
+black red line weight it hits artifacts
+1:12:49
+so I think what I sorry I was what I was
+1:12:52
+going to say is I played with this for a
+1:12:53
+little bit because in my mind I was like
+1:12:55
+oh cool like we can play with two
+1:12:56
+different cards that do this thing and
+1:12:58
+now maybe there's like a lane getting
+1:12:59
+created here um but I think that
+1:13:01
+ultimately you you're much more often
+1:13:03
+going to want to play this card in green
+1:13:04
+anyways because green has the most big
+1:13:06
+creatures that also send themselves to
+1:13:08
+the graveyard. So, you're just you're
+1:13:10
+splashing this card and that's what I
+1:13:11
+found is that rebirth was getting
+1:13:12
+splashed more often than not. People
+1:13:13
+weren't really using it to pick up
+1:13:14
+artifacts. You want to pick up like a
+1:13:16
+big thing with this to deal a lot of
+1:13:17
+damage and then have a big thing in your
+1:13:19
+hand like you were saying the land
+1:13:20
+cyclinger. So, I there's also a keep
+1:13:21
+equity consideration with this card in
+1:13:23
+my mind. Like this doesn't really
+1:13:24
+suggest a lane particularly hard to me.
+1:13:26
+So, I don't know. Uh but it is it is
+1:13:27
+powerful enough. I agree with you all
+1:13:29
+that it's somewhere in the C range. Um,
+1:13:32
+I'm not sure. Yeah, top top bottom. I
+1:13:33
+don't know.
+1:13:33
+>> Yeah, somewhere in there.
+1:13:35
+>> Old six mana uh ghoul card that used to
+1:13:37
+do something similar and that was a
+1:13:38
+sorcery
+1:13:39
+>> vengeful rebirth I think was
+1:13:41
+>> as long as this is above the the pile of
+1:13:43
+generic removal spells. I I cool put it
+1:13:45
+at the top if you want because I think
+1:13:46
+it's more interesting than all those
+1:13:47
+cards and roughly at the same power
+1:13:50
+level of of something of some of those
+1:13:52
+cards if not better.
+1:13:54
+>> All right. Colleen, reclusive painter,
+1:13:57
+black, red, one, two, legendary human
+1:13:59
+elf bard. When it enters, create a
+1:14:02
+treasure token. Other creatures you
+1:14:03
+control uh enter the battlefield with an
+1:14:05
+additional plus one plus1 counter on
+1:14:07
+them for each mana from a treasure spent
+1:14:10
+to cast that creature.
+1:14:11
+>> All right, Dan, tell us what the stats
+1:14:12
+on this were.
+1:14:13
+>> No, I mean, they were insane, but
+1:14:14
+>> stats stats don't matter. AFR stats are
+1:14:17
+the the worst stats to go off of.
+1:14:18
+>> Also, the the point is that black red as
+1:14:20
+a as a color pair was like based around
+1:14:22
+treasure. it was like a treasure themed
+1:14:24
+um color pair in that set. And I think
+1:14:26
+that uh that being said, disregard that.
+1:14:28
+It's still two objects for two mana. Um
+1:14:30
+it's a you know there is a a benefit
+1:14:32
+that it gives you on top of just those
+1:14:34
+two artifacts that you're getting for
+1:14:35
+the two objects you're getting for two
+1:14:36
+mana. So there's kind of a prosperous
+1:14:38
+inkeeper thing going on with this. I
+1:14:39
+think I like inkeeper overall better and
+1:14:41
+that is a monocolor card. But I can
+1:14:42
+imagine especially with you know more
+1:14:45
+cards printed that we get more treasure
+1:14:47
+focused black red cards and treasure
+1:14:49
+plays really nicely into a lot of other
+1:14:50
+stuff that black red is already doing
+1:14:51
+that we've talked about. sacrifice an
+1:14:52
+artifact. So, any card's fine. Uh, but
+1:14:54
+again, if you're if you're looking to um
+1:14:56
+synergize around artifacts, there's like
+1:14:58
+three or four cards I play before it.
+1:15:01
+>> Yeah, I am drawn to this card in the
+1:15:03
+synergy cubes where it shows up. But,
+1:15:05
+uh, in your non, you know, whatever the
+1:15:10
+the more generic cubes, I I guess uh
+1:15:13
+there's just different options you would
+1:15:14
+play.
+1:15:16
+>> Uh, okay. Ether drift card here. This is
+1:15:18
+the the Gusto uh nipple twister. Um, the
+1:15:21
+th the thrillseker here. It's a black
+1:15:23
+red 23 lizard berserker. It has start
+1:15:26
+your engines. Going to operate under the
+1:15:28
+assumption that you either know how that
+1:15:29
+works or you can look it up for
+1:15:30
+yourself. Uh, when it enters, it deals
+1:15:33
+one damage to target opponent and you
+1:15:34
+gain a life. So, it automatically puts
+1:15:36
+you up to two speed if you're not, you
+1:15:38
+know, doing any other speed stuff. And
+1:15:40
+then at max speed, which is four, this
+1:15:42
+creature gains death, touch, and haste.
+1:15:45
+Haste largely irrelevant outside of a
+1:15:48
+speed format. This is a weird garden
+1:15:50
+that like I think the two three drain
+1:15:53
+one text box is like fine, but adding
+1:15:56
+the speed mechanic to it makes it super
+1:15:58
+convoluted in a way that removes its
+1:16:01
+value in the places it would actually be
+1:16:04
+usable in, right? Of like I want to play
+1:16:06
+this in my my more simple text box cube.
+1:16:08
+Like out here is okay though. Like two
+1:16:10
+three for two is fine. Drain one's fine.
+1:16:12
+Like if it gets death touch that's cool.
+1:16:13
+Uh, I don't really I don't really see
+1:16:16
+ever wanting to play this card, but
+1:16:17
+like, you know, you could do worse.
+1:16:20
+>> I think the card is actually uh
+1:16:23
+intriguing. It It was very very strong
+1:16:25
+in DFT. Yeah. But there's a a very
+1:16:27
+specific reason. This card, I think, in
+1:16:29
+the opening hand is a very good card
+1:16:31
+because two minute two three that pings
+1:16:32
+I I think that is very efficient rate.
+1:16:34
+That's that's good. Um, but in retail,
+1:16:36
+you get to draw this off the top and
+1:16:37
+you're already at speed four and so you
+1:16:39
+play this and it has haste and death
+1:16:41
+touch. You don't get that in cube unless
+1:16:43
+you're playing with a lot of other speed
+1:16:44
+cards. So, I think without you, you want
+1:16:47
+a you know, I don't know, a decent
+1:16:49
+number of other speed cards to be
+1:16:50
+pairing this with or it doesn't get
+1:16:52
+there. But I I think in the end it
+1:16:53
+doesn't get there um for the reasons you
+1:16:55
+said. But yeah, I think the in the
+1:16:57
+opening hand it's quite efficient. Gets
+1:16:59
+there on rate, but again, then there's
+1:17:01
+like a cube uh you know, cube equity
+1:17:03
+consideration there. So, I don't know.
+1:17:04
+Low C, high
+1:17:05
+>> D. It's just hard for me to ever imagine
+1:17:07
+wanting to play this over any of the
+1:17:08
+like five two drops we have up above it.
+1:17:11
+Yeah, there's I mean there's the hidden
+1:17:13
+cube equity discussion too of uh in
+1:17:15
+paper introducing a mechanic like speed
+1:17:18
+off of a single card. You know, we pay
+1:17:20
+daybound nightbound. This isn't as bad
+1:17:22
+as that, but it it does add more un
+1:17:24
+basically unnecessary complexity for a
+1:17:26
+card that's like not ultimately that.
+1:17:29
+So,
+1:17:29
+>> putting in D for that reason, like top
+1:17:31
+of D, maybe something like that cuz it's
+1:17:32
+got some
+1:17:32
+>> like I would be a little annoyed if I
+1:17:34
+sat down to someone's cube and I was
+1:17:36
+like, "Okay, here's your speech."
+1:17:37
+>> Anything that has these outside game
+1:17:39
+mechanics needs to be like pretty
+1:17:41
+compelling to not take a big hit in
+1:17:43
+terms of uh tiering it.
+1:17:46
+>> Agree. Uh Denelius, you were referencing
+1:17:49
+this card earlier. This is uh
+1:17:51
+>> yeah, this is a very cool card. This is
+1:17:53
+my favorite card in Dustorn by a lot.
+1:17:54
+And I Dustorn was one of my favorite
+1:17:56
+sets of all time. Uh it's disturbing
+1:17:57
+mirth. It's a black and a red
+1:17:59
+enchantment. When enters, you can
+1:18:01
+sacrifice a creature or an enchantment.
+1:18:03
+And if you do, you draw two cards. You
+1:18:05
+have to choose something else. Can't
+1:18:06
+sacrifice itself. And then it says
+1:18:08
+whenever it is sacrificed, you manifest
+1:18:10
+dread, which just basically means you
+1:18:12
+get a two uh with with some upside.
+1:18:14
+>> Um
+1:18:15
+>> go.
+1:18:15
+>> Yeah. My recollection is this is one of
+1:18:17
+the best non- rares in that set. Oh
+1:18:19
+yeah. Yeah. And this was like there was
+1:18:20
+a really interesting part of the format
+1:18:22
+where people didn't realize how busted
+1:18:23
+this card was. And Black Red was just
+1:18:25
+absolutely killing it. And then when
+1:18:26
+this card alone started getting taken
+1:18:28
+more more aggressively, Black Red just
+1:18:30
+collapsed because nothing else about the
+1:18:32
+deck mattered other than this card. This
+1:18:33
+card is a huge amount of value. Um I was
+1:18:36
+saying that it was like basically a two
+1:18:38
+mana version of a five mana molder
+1:18:40
+because you're getting, you know, two
+1:18:41
+mana for 82 and draw two cards off the
+1:18:43
+card. Um because yes, you have to
+1:18:44
+sacrifice something to itself at the
+1:18:47
+beginning, but then it gets to be used
+1:18:48
+as sacrifice spotter for something else
+1:18:50
+to then give you the the manifest red.
+1:18:51
+So the problem with the card is you need
+1:18:53
+black red enchantment, sacrifice synergy
+1:18:55
+in your cube in order to make it work.
+1:18:56
+And that is very hard to do, I think, in
+1:18:58
+a cube context, but if you can do it,
+1:19:00
+it's incredibly powerful. So I think
+1:19:02
+that to me is like a C. It's it's hard
+1:19:03
+to do, but if you can get there, it is
+1:19:05
+very good card.
+1:19:06
+>> Yeah. One way I could see a card like
+1:19:07
+this getting some life is if in the near
+1:19:09
+future, you know, we moved from blue
+1:19:11
+cards bouncing um and white cards
+1:19:13
+bouncing creatures to bouncing non-land
+1:19:15
+permanence. And if we go from our sack
+1:19:17
+outlets being we've moved from creatures
+1:19:19
+to creatures and artifacts and if
+1:19:21
+eventually they're sacrificing non-land
+1:19:23
+permanence, um I could see a card like
+1:19:25
+this, you know, being able to to have
+1:19:27
+some value. But we we really need a
+1:19:29
+pretty high density. But yeah, this
+1:19:30
+card's really powerful. Um, all right. I
+1:19:33
+I would put it above
+1:19:35
+probably above Saw Ripper guy because
+1:19:37
+that guy's like not nearly as powerful
+1:19:39
+and compelling. Um, even if it's easier
+1:19:41
+to like kind of get through the the door
+1:19:42
+with that card. I guess
+1:19:44
+>> we would we would need a whole revisit
+1:19:46
+to Duskorn. I think because even if they
+1:19:48
+printed um let's just say deadly dispute
+1:19:51
+but enchantments instead of artifacts.
+1:19:53
+That alone isn't like you you would need
+1:19:55
+three or four compelling cards in that
+1:19:57
+vein before you. That's what I'm saying
+1:19:59
+is like we would need to see them change
+1:20:00
+their design principles sort of like
+1:20:02
+they did with blue and white.
+1:20:04
+>> I think the one thing going for it is
+1:20:06
+that we get more effects like bargain
+1:20:08
+that those consec enchantments. Yeah. Uh
+1:20:10
+if also it is kind of interesting that
+1:20:13
+this is just a permanent deadly dispute
+1:20:14
+like you know it is a you get to use
+1:20:16
+this as a deadly dispute and if you have
+1:20:17
+some way of picking it up then you get
+1:20:18
+to reuse it again. Again, that's not
+1:20:20
+going to be super common in black red.
+1:20:21
+But um but yes, I I generally think that
+1:20:24
+we need at least one set along the lines
+1:20:26
+of dust mourn for this to be doable, but
+1:20:28
+there's also, you know, black and red
+1:20:29
+have a fair number of like enchantments
+1:20:31
+that sit in play as removal spells. And
+1:20:33
+so, you know, I can just I can imagine a
+1:20:35
+lane here if we get some deadly disputes
+1:20:36
+that care about enchantments, a few
+1:20:37
+other, you know, payoffs.
+1:20:38
+>> Yeah, as soon as we get our foot in the
+1:20:39
+door on that, this card's really good.
+1:20:41
+Like I mean like like you said like even
+1:20:43
+if you're just picking up like you know
+1:20:44
+with Kieran and thing or bouncing with
+1:20:46
+you know blue blue cards like the
+1:20:48
+potential output here is very high.
+1:20:52
+>> Okay. Uh OTJ card here we have at knife
+1:20:54
+point. This is one black red for an
+1:20:56
+enchantment. On your turn your outlaws
+1:20:58
+have first strike. That's assassins,
+1:21:00
+mercenaries, pirates, rogues and
+1:21:02
+warlocks. And then whenever you commit a
+1:21:04
+crime, so whenever you target a
+1:21:05
+permanent your opponent controls or a
+1:21:07
+permanent spell or card in their
+1:21:09
+graveyard that an opponent controls, you
+1:21:11
+create a mercenary token which can tap
+1:21:13
+to give a creature plus one plus O until
+1:21:14
+end of turn. You can only do that at
+1:21:16
+sorcery speed and at knife point only
+1:21:18
+triggers once each turn. A lot of
+1:21:20
+qualifiers there.
+1:21:21
+>> A lot of a lot of limitations on this
+1:21:24
+card. Um
+1:21:26
+there were a lot of ways to commit
+1:21:27
+crimes in Dustor. A lot of ways to
+1:21:30
+easily commit crimes in Dusborne. My
+1:21:32
+recollection, correct me if I'm wrong,
+1:21:33
+but this card was pretty bad in a like
+1:21:36
+even in an arc type that was already
+1:21:37
+kind of bad. It was like a bad card in
+1:21:39
+that deck.
+1:21:40
+>> The stats on this were very difficult to
+1:21:42
+parse. I think that there were some
+1:21:43
+decks where it was very good, but you
+1:21:44
+had to Yeah, it was very narrow for
+1:21:47
+sure.
+1:21:48
+>> Yeah.
+1:21:48
+>> And I think part of the problem with
+1:21:49
+this card in cube is that top line where
+1:21:51
+it says where it's giving this ability
+1:21:53
+to your outlaws because yes, the joke
+1:21:55
+here is that it's giving the ability to
+1:21:56
+the the uh tokens that it creates
+1:21:58
+>> signals like an outlaws theme. Well,
+1:22:01
+maybe signals that and it also just puts
+1:22:02
+this new cognitive load on both players
+1:22:04
+to be checking all the creatures that
+1:22:06
+come out to make to see if they if they
+1:22:08
+match that pipeline. I really dislike
+1:22:09
+that. So, I'd say even if you like the
+1:22:10
+card, I I probably wouldn't play with
+1:22:12
+it. It was different in OTJ because just
+1:22:14
+everything or it was far more
+1:22:16
+>> easily readable whether or not a card
+1:22:18
+was an outlaw or not. It wasn't perfect,
+1:22:20
+but they had the whole that was the
+1:22:21
+whole joke with the hatset. Um, and
+1:22:22
+that's just not going to be nearly as
+1:22:23
+easy in cube.
+1:22:25
+>> Yeah, it's a lot of mental upkeep on
+1:22:27
+this card for not a lot of gain.
+1:22:28
+Honestly, you you really need to support
+1:22:30
+it with some sort of repeatable like
+1:22:31
+targeting effect. Anyway, it just one
+1:22:34
+for one removal. You might get two dudes
+1:22:35
+out of it, but I still don't even think
+1:22:37
+that's quite enough. But
+1:22:38
+>> no, this is this is output like at least
+1:22:40
+three to four dudes to be to be if it
+1:22:42
+outputs three dudes, it's still just
+1:22:44
+like marginally better hop to it that
+1:22:46
+took three turns. Like if I even if I
+1:22:48
+give that like the the hop the three
+1:22:51
+mercenaries are better than three
+1:22:52
+rabbits. Like honestly, once you account
+1:22:54
+for the fact that it took three turns to
+1:22:55
+get it, I'm not even I'm not I think
+1:22:57
+probably need to get four guys out of
+1:22:59
+this.
+1:23:00
+>> A lot of work and a lot of cognitive
+1:23:01
+load on that one. Um, Angrath's Rampage
+1:23:04
+is up next. War of the Spark. This is
+1:23:05
+Red Black Sorcery. Choose one. Target
+1:23:07
+opponent sacrifices an artifact,
+1:23:09
+sacrifices a creature, or sacrifices a
+1:23:11
+Plains Walker.
+1:23:13
+>> Um, another boring removal spell.
+1:23:14
+>> It's an edict effect.
+1:23:16
+>> If it hits artifacts, I don't know what
+1:23:18
+that makes it, you know, get out of D. I
+1:23:21
+don't think that this is like the
+1:23:24
+downside of this not being a permanent
+1:23:26
+that we could potentially pick up and
+1:23:27
+not being able to flip into a into the
+1:23:29
+imp guy is um a pretty big downgrade
+1:23:33
+from the battle.
+1:23:34
+>> Yeah.
+1:23:35
+>> All right. Easy one there. Uh Charger is
+1:23:38
+up next. This is one black red for a two
+1:23:40
+three. When it enters, you create a
+1:23:42
+one-1 red forexian goblin. Whenever
+1:23:45
+another creature or artifact you control
+1:23:46
+is put into the graveyard from the
+1:23:48
+battlefield, you put an oil counter on
+1:23:49
+char forger and you can remove three oil
+1:23:52
+counters from char forger to exile the
+1:23:54
+top card of your library and you can
+1:23:56
+play it this turn.
+1:23:58
+>> A lot of similarities with essence
+1:24:00
+essence nit scholar. Is that what it's
+1:24:02
+called? The green black card from strict
+1:24:03
+haven.
+1:24:04
+>> Sure.
+1:24:04
+>> Yes.
+1:24:05
+>> Yeah. It's like makes two bodies and
+1:24:06
+then gives you this kind of slow card
+1:24:08
+draw engine in play. Um I play played
+1:24:10
+with it for a while and uh it was always
+1:24:12
+fine. It often drew one card. I would
+1:24:14
+say that was about the average number um
+1:24:16
+in terms of the output. But again, it's
+1:24:18
+just it's difficult in my mind to
+1:24:20
+justify it over the stuff above it. Like
+1:24:21
+the the black red stuff is really really
+1:24:22
+strong. But I think this card is totally
+1:24:23
+fine and I think it's probably better. I
+1:24:25
+I prefer it to a lot of the other
+1:24:26
+sacrifice stuff um here. It's not an
+1:24:28
+outlet itself, but
+1:24:29
+>> I kind of want to put this in B tier.
+1:24:31
+Not because it's as good as those cards
+1:24:33
+in Btier. I just think that the hoops
+1:24:35
+that this card asks you to jump through
+1:24:36
+are so much lower because it spots you a
+1:24:38
+game object. And it's just like
+1:24:40
+>> this isn't a this isn't comparing on
+1:24:42
+terms of pure power with these other
+1:24:44
+cards, but in terms of just being like a
+1:24:45
+card you can stick into a cube and it'll
+1:24:47
+like do a reliable thing. It's a role
+1:24:49
+player that's widely applicable. I think
+1:24:51
+I would I would argue that this is
+1:24:52
+probably tier.
+1:24:55
+>> I could buy that. That's that that seems
+1:24:56
+okay with me.
+1:24:58
+>> Cares about both artifacts and
+1:24:59
+creatures, which is nice. You know,
+1:25:00
+>> widely applicable.
+1:25:01
+>> Yeah. Just just really easy card to put
+1:25:03
+into a cube and have it do something.
+1:25:04
+It's it's never going to like rock the
+1:25:06
+world, but like it's it's solid.
+1:25:08
+>> All right. Some some number of uh our
+1:25:09
+last few cards are like goblin payoffs.
+1:25:11
+Uh which
+1:25:12
+>> Yeah. So notice that that card also made
+1:25:13
+a goblin. I believe it makes it
+1:25:16
+>> goblin. So some talk about these three
+1:25:19
+kind of at the same time I think.
+1:25:20
+>> Yeah. So you've got munitions expert
+1:25:22
+which is the red black flash one goblin.
+1:25:25
+When it enters you can have it deal
+1:25:26
+damage to target creature or
+1:25:27
+planaineswalker equal to the number of
+1:25:29
+goblins you control. You've got the ECL
+1:25:31
+bogger uh curse crafter, which is the
+1:25:33
+two mana two three um with death touch
+1:25:36
+that says whenever a goblin you control
+1:25:38
+dies, your opponent takes a damage. And
+1:25:39
+then you've got the eclipse bogger,
+1:25:41
+which is the three mana ratos hybrid
+1:25:44
+card. Any combination of red or black
+1:25:45
+for a two three that uh I think digs the
+1:25:48
+top four of your library for a swamp, a
+1:25:50
+mountain, or uh a goblin.
+1:25:52
+>> Yeah, all three of these cards are
+1:25:54
+really solid. They're just that you
+1:25:56
+shouldn't don't do tribal things in your
+1:25:58
+in your cube. It's just really hard to
+1:25:59
+to make it all together.
+1:26:00
+>> Unless that's what you're doing, then
+1:26:02
+then do it by all means. But
+1:26:04
+>> well, I I think the problem for goblins
+1:26:06
+specifically is is that it's just
+1:26:08
+difficult to build outside of red as a
+1:26:10
+red black deck as opposed to a red deck
+1:26:12
+that's then using up your red black gold
+1:26:14
+spells on goblin cards. Like black
+1:26:16
+goblin cards. There's the four drop from
+1:26:18
+modern horizons that makes the
+1:26:20
+lieutenant sling gang lieutenant.
+1:26:21
+There's like the MDFC
+1:26:26
+mischief. Then there's Bogger Mischief,
+1:26:29
+which by the way, no no one is playing
+1:26:30
+right now. I just thought the best
+1:26:32
+goblin, Changeling Outcast,
+1:26:34
+>> but but in both the cases of Bogurt
+1:26:35
+Mischief and Sling Gang Lieutenant, both
+1:26:37
+of those get way better in goblins
+1:26:39
+decks. And so it's like you're playing
+1:26:41
+cards that really kind of are secret
+1:26:43
+gold cards in your black sess section to
+1:26:45
+just support your black red.
+1:26:46
+>> So you're playing you're playing tribal
+1:26:48
+you're playing tribal cube at this
+1:26:49
+point. Like you've got to have like a
+1:26:50
+and and those cubes are inherently
+1:26:52
+>> like very very narrow in terms of what
+1:26:55
+they can do unless you're Tim and have
+1:26:56
+an emblem that you start the game with
+1:26:58
+that makes all creatures all creature
+1:26:59
+types or something. Is that was that
+1:27:00
+what it does, Tim?
+1:27:01
+>> Yeah. Yeah. Basically
+1:27:03
+>> all creatures game changing. Yeah.
+1:27:04
+>> Okay. You know, but I do think that red
+1:27:06
+has a fair number of goblins that can
+1:27:08
+get played outside of a goblin deck. And
+1:27:10
+so there's there's like the
+1:27:11
+infrastructure here kind of. We just
+1:27:13
+need more black and preferably green
+1:27:15
+goblins as well that don't only go into
+1:27:17
+goblins decks. And I think if we got, I
+1:27:19
+don't know, 10 more of those over the
+1:27:21
+course of the next couple years, then I
+1:27:22
+could imagine having like a a goblin sub
+1:27:24
+theme in your environment. And all these
+1:27:25
+cards are really really strong in my
+1:27:26
+mind if you can support them. I just
+1:27:28
+don't think it's worth it right now. The
+1:27:30
+>> these these are cards that are so niche
+1:27:31
+though that they have exactly one niche
+1:27:33
+and we would recommend general broadly
+1:27:35
+recommend against that niche. But they
+1:27:37
+are all three of these are are very
+1:27:38
+powerful cards.
+1:27:39
+>> Yeah, I I mean just a just a asterisk
+1:27:42
+that I wouldn't recommend doing a typo
+1:27:45
+cube. I would recommend against having a
+1:27:47
+typo color pair in a non-typole cube.
+1:27:50
+>> Um, which I think is basically what you
+1:27:52
+meant. But, um, it is strange to me that
+1:27:55
+the the Bastion of Remembrance isn't
+1:27:57
+showing up in any list, but like the
+1:27:59
+Eclipse bogar and the red black bogar
+1:28:01
+are.
+1:28:02
+>> I would also go as so far as to say that
+1:28:04
+I think tribal or Kindred or Tribal Cube
+1:28:06
+or whatever we're calling it is um far
+1:28:08
+less interesting once you have built it
+1:28:11
+than you probably are thinking it will
+1:28:13
+be. um look to like any of these sets.
+1:28:16
+Historically, ECL sucked. Like these
+1:28:18
+sets always suck and there's a reason
+1:28:20
+for that and just like say do yourself a
+1:28:22
+favor and like maybe reconsider. I
+1:28:25
+>> I think that the the best case scenario
+1:28:26
+for tribal is something like Calaldheim
+1:28:28
+where they were able to have a couple of
+1:28:31
+tribal decks in the format without
+1:28:34
+making the whole format be about tribal
+1:28:36
+tribal. And you do that by having number
+1:28:37
+one changelings, number two having your
+1:28:40
+cre your creatures that have the
+1:28:41
+appropriate type be playable in other
+1:28:43
+places. That that is the key thing. If
+1:28:44
+the if the card says play me in the in
+1:28:46
+the title deck, I think that's overall
+1:28:48
+not not great design.
+1:28:49
+>> ZNR is the set that I I jumped to that's
+1:28:52
+like similar principle there. I just
+1:28:53
+liked that one better than Calheim. But
+1:28:55
+yeah, you had like your type t type, you
+1:28:57
+know, warriors and clerics decks, but
+1:28:59
+also you had the party decks that asked
+1:29:00
+you to put a bunch of different types
+1:29:02
+into your deck. So there was some some
+1:29:03
+give and take, some pull there. And
+1:29:05
+that's that's why my paper cube has the
+1:29:07
+uh the emblem stipulation because then
+1:29:09
+every card works with every card and the
+1:29:11
+games are over on turn three.
+1:29:13
+>> No, everything is broken. Everything is
+1:29:15
+insanely broken. Yes, every card is
+1:29:18
+synergistic with every other card.
+1:29:19
+>> Yeah, that that actually sounds fun.
+1:29:20
+Like that sounds like fun degenerate
+1:29:22
+magic.
+1:29:23
+>> No, it is. It is not. It is not. Uh
+1:29:26
+murderous red cap is up next. This is
+1:29:28
+another goblin, so we can just lump it
+1:29:29
+in there. It's unplayable as well.
+1:29:31
+the the end of this list is all uh
+1:29:34
+hybrid cards and again ordered by
+1:29:36
+playability and actually red cap I
+1:29:38
+believe was the most played red black
+1:29:39
+card period makes sense.
+1:29:42
+>> Okay, so murderous red cap is an S I
+1:29:44
+think is an S tier card a tier card
+1:29:46
+somewhere in there. The problem with it
+1:29:48
+is that the problem with the problem
+1:29:51
+with murderous red cap the card itself
+1:29:53
+is great. However, it combos with a hand
+1:29:56
+sandwich like it did the card was in our
+1:29:58
+queue for I I kid you not. It was in our
+1:30:00
+cube for one set for Yeah. for like or
+1:30:03
+like one week until we we were like,
+1:30:05
+"Oh, this new card we added makes an
+1:30:07
+infinite combo with the persist combo."
+1:30:09
+And it was like, "Okay, whatever. I
+1:30:10
+guess it's out now." Like, it's so easy
+1:30:12
+to just accidentally stumble into a
+1:30:14
+combo with this with this card. And
+1:30:16
+like,
+1:30:18
+you know,
+1:30:19
+>> for if you're if you're new, if you
+1:30:21
+haven't seen Murderous Red Cap, it's uh
+1:30:22
+two Ratos Ratos, four mana for a two. Uh
+1:30:26
+it is a goblin. when it enters, it deals
+1:30:28
+damage equal to its power to any target.
+1:30:30
+So, typically two and then it has
+1:30:31
+persist. So, when it dies, if it didn't
+1:30:33
+already have a minus one counter, it
+1:30:35
+comes back with a minus one counter and
+1:30:37
+presumably deals one damage to uh uh any
+1:30:40
+target as well. And I assume, you know,
+1:30:43
+we've got some smart listeners and
+1:30:45
+stuff. I assume you understand persist
+1:30:46
+combos. You know, if you have anything
+1:30:48
+like Grum goalie or uh I think it's
+1:30:50
+mighty mutanimals for us. Anything that
+1:30:52
+puts a plus one counter on something,
+1:30:54
+when a creature enters, you can negate
+1:30:55
+the minus one counter. You go infinite
+1:30:57
+with a sack outlet.
+1:30:58
+>> Um,
+1:30:59
+>> and even if you like just have ways to
+1:31:01
+do it incidentally, it in it does raise
+1:31:04
+the card's power level substantially to
+1:31:05
+just have plus one plus one counter
+1:31:07
+cards floating around.
+1:31:08
+>> Um,
+1:31:09
+>> now independent of that, where would you
+1:31:11
+rank it? Like it it's got to be as uh
+1:31:14
+probably off the back of the fact that
+1:31:15
+it does do all of that.
+1:31:17
+>> Um, in addition to being a standalone
+1:31:19
+card,
+1:31:19
+>> I think it's still a good card, right?
+1:31:21
+Yeah, just because it's hybrid. If if it
+1:31:23
+wasn't hybrid, I would say maybe A. But
+1:31:24
+I think as a hybrid card, it just it's
+1:31:26
+got to be nest.
+1:31:28
+>> Yeah, it just trades for multiple things
+1:31:30
+over the course of a game. It's a great
+1:31:31
+card to bounce, reby, flicker, you know,
+1:31:35
+whatever. But even if you're just
+1:31:36
+playing it straight up with zero
+1:31:37
+recursion, like think of it, think of it
+1:31:39
+this way. Like we kill probably kill
+1:31:41
+something when it comes in. We probably
+1:31:42
+kill something when it when it blocks.
+1:31:44
+And we probably kill some animal like
+1:31:46
+cuz like even IF WHEN YOU BLOCK with it
+1:31:47
+too like one of the things that is not
+1:31:49
+necessarily immediately apparent but
+1:31:50
+like should be is that you can do three
+1:31:52
+damage to a card, right? So like if you
+1:31:54
+block a three three and then you damage
+1:31:56
+the with the one ping when it comes in,
+1:31:57
+you killed a three- three. So now it's
+1:31:59
+put out like five points of damage. Um
+1:32:01
+just a really solid card. It's just a
+1:32:02
+shame that it's so easy to accidentally
+1:32:04
+create infinite loops.
+1:32:07
+>> Yeah. And we didn't mention this with
+1:32:08
+Fhinx, but I think it's cuz this card is
+1:32:10
+so much more powerful in than Fhinx in
+1:32:12
+terms of like what it's doing that it's
+1:32:14
+much easier to just like play it in a
+1:32:16
+regular cube and then accidentally
+1:32:17
+discover you have a combo.
+1:32:18
+>> The the proactive thing is usually going
+1:32:20
+to be better than the defensive thing on
+1:32:22
+similar cards. Um, okay. Uh, yeah, S
+1:32:25
+tier. We got another S in there. No A's.
+1:32:27
+Look at this lonely A category. So,
+1:32:28
+Callus Cell Sword. This is one in a
+1:32:30
+black for a two. uh human soldier when
+1:32:33
+it enters or sorry rather it enters with
+1:32:35
+a plus one counter on it for each
+1:32:36
+creature that died under your control
+1:32:38
+this turn it has a adventure an
+1:32:41
+adventure called burn together it's a
+1:32:43
+red sorcery um one red mana target
+1:32:46
+creature you control deals damage equal
+1:32:48
+to its power to any other target and
+1:32:50
+then you sacrifice that creature
+1:32:53
+>> yeah
+1:32:55
+I I like this card a lot I think that um
+1:32:57
+it's very cool to be able to seed kind
+1:32:59
+of a a very mini archetype into your
+1:33:02
+environment. Like, think about this with
+1:33:03
+Heartfire Hero or just in general with
+1:33:06
+um what's the threeman Gishnac that
+1:33:09
+steals things um and and just have like
+1:33:11
+a little side archetype that you can not
+1:33:14
+it's not even an archetype, it's just a
+1:33:15
+little synergy that is different. And
+1:33:16
+again, it changes the pick orders um of
+1:33:18
+the cards that you're selecting on a
+1:33:20
+card that is just so rock solid already
+1:33:21
+on its own. Like so often this is just
+1:33:23
+going to be a two-minute 3-3 even if you
+1:33:25
+completely ignore the adventure side of
+1:33:27
+this card. So, um, yeah, I've played
+1:33:29
+with this card since it came out, and
+1:33:30
+I've always been very happy with it. I
+1:33:32
+think it's actually relatively strong.
+1:33:34
+Um, I don't think I would go all the way
+1:33:35
+to A with it, but I think it it's
+1:33:37
+definitely, um, a role player and you
+1:33:38
+can play it basically in any
+1:33:40
+environment.
+1:33:40
+>> Yeah, this is a card that I would um
+1:33:42
+that sometimes comes up as a card that I
+1:33:44
+would like to consider coming back
+1:33:46
+around to, even if you just included as
+1:33:47
+like a black two. I think as a black two
+1:33:49
+drop, it's like a totally serviceable
+1:33:50
+creature. And then if you, you know,
+1:33:52
+treat it with some hybridness where
+1:33:53
+you've got the red thud effect. You
+1:33:55
+know, obviously the heartfire hero combo
+1:33:56
+is like a actual constructed playable um
+1:33:59
+synergy. But yeah, just like does a
+1:34:02
+couple of really cool things that are
+1:34:03
+like reasonably effective. Um yeah, just
+1:34:06
+rock solid card.
+1:34:07
+>> Uh fling effects can be good, but there
+1:34:09
+aren't generally a lot of good fling
+1:34:10
+effects, and this is a a solid one. Um
+1:34:13
+just, you know, just for reference, we
+1:34:15
+we kind of sculpted out a hybrid section
+1:34:17
+to our cube uh not too too long ago. Um,
+1:34:21
+when we were playing this, we always
+1:34:22
+treated it like a Ratosse card and we
+1:34:24
+have a tight section, so it got kind of
+1:34:26
+weeded out for other Ratosse cards. But
+1:34:27
+now that we have a hybrid section, this
+1:34:29
+feels like a a better fit there in a
+1:34:31
+card that, you know, could squeeze in
+1:34:32
+some extra value for a couple extra
+1:34:34
+decks. But yeah, rock solid little
+1:34:36
+adventure.
+1:34:36
+>> The art the art kind of goes hard on
+1:34:38
+this card as well. I appreciate it.
+1:34:40
+>> Yep. Sure.
+1:34:41
+>> All all together good stuff. Adventures
+1:34:42
+are fun. Adventures have a lot of
+1:34:43
+synergy and it's got a lot of different
+1:34:45
+places it could see play. Um, Angrath,
+1:34:48
+Captain of Chaos, War of the Spark
+1:34:50
+Planaineswalker. This is two Ratos
+1:34:52
+Ratos, four mana total for an Angrath
+1:34:55
+planaineswalker. It has five loyalty.
+1:34:57
+Its static ability is creatures you
+1:34:59
+control have menace, and it has a minus
+1:35:01
+two to amass two. So, make an army, a 00
+1:35:04
+army, and put two plus one plus one
+1:35:06
+counters on it. If you already control
+1:35:07
+an army, uh, put two counters on that
+1:35:10
+army instead.
+1:35:12
+Uh yeah, this is another one that I
+1:35:13
+played for again I think the entirety of
+1:35:15
+my cube. It's one that generally I would
+1:35:18
+say get gets panned by my drafters when
+1:35:20
+they don't play with it. They like they
+1:35:22
+see it in packs like what is this doing
+1:35:23
+here? And then every time it gets played
+1:35:24
+it's almost always a great card. I think
+1:35:26
+that creatures you control have menace
+1:35:27
+line is really strong. You do want to be
+1:35:29
+playing this with this in a proactive
+1:35:30
+deck. Um you like the the general idea
+1:35:32
+here is you curve out one to three, then
+1:35:33
+you play this as your top end. All your
+1:35:35
+stuff has menace. And in that sense,
+1:35:36
+it's like a it's a card advantage card
+1:35:38
+almost because you're it's a four mana
+1:35:39
+for a two two plus this relevant object.
+1:35:42
+One of the relevances of that object is
+1:35:43
+it makes another two two at some point.
+1:35:44
+Maybe it just turns your two into four.
+1:35:46
+Um but it's it's object advantage uh for
+1:35:49
+a deck that is looking to push damage.
+1:35:51
+And I think this is more of a red card
+1:35:52
+than it is a black card. Um but there is
+1:35:54
+still some ability to play this in a
+1:35:56
+blue black deck or or black black white
+1:35:58
+deck. Um and yeah, I've always been
+1:35:59
+really really impressed with it. That's
+1:36:00
+why to me I would put it in black just
+1:36:02
+based on me seeing in play. I've always
+1:36:04
+been relatively pleased.
+1:36:06
+>> We've mentioned a few times just really
+1:36:08
+spoiled for choice in terms of like rock
+1:36:10
+solid uh rackos cards. Yeah, I I I've u
+1:36:13
+I've really learned with playing more
+1:36:15
+cube of just like menace is a really
+1:36:17
+powerful keyword. It's really good. Uh
+1:36:19
+giving all your creatures menace will
+1:36:21
+kill people. We mentioned that with
+1:36:22
+Junkyard Genius. I like the genius
+1:36:23
+better, but this doesn't take a gold
+1:36:24
+slot. It takes a hybrid slot. So, it's a
+1:36:27
+lot more flexible in terms of what you
+1:36:28
+can do with it. Um haven't played this
+1:36:29
+card much, but like reading it, I I see
+1:36:32
+the vision. I think it seems fine if
+1:36:34
+like it can also be kind of like a 44
+1:36:36
+that leaves behind a a small emblemy
+1:36:39
+sort of thing or maybe like block to
+1:36:41
+protect it. So, um yeah, definitely
+1:36:43
+would want to be attacking my opponents.
+1:36:44
+I want to be, you know, playing this and
+1:36:46
+and turning my dude sideways, but uh
+1:36:48
+once you're doing that, yeah, I like
+1:36:49
+what this card's offering pretty well.
+1:36:51
+>> Yeah, totally reasonable. We don't play
+1:36:53
+any planes walkers right now, but it's
+1:36:55
+not a hard and fast role. You play
+1:36:56
+Planaineswalkers, this card's perfectly
+1:36:58
+fine. Uh, Zho Xiao, Ruthless Admiral.
+1:37:03
+This is two Ratos Ratos three four. It's
+1:37:05
+a legendary human soldier with
+1:37:06
+firebending two. So, when it attacks,
+1:37:08
+you get red. That mana only lasts until
+1:37:11
+the end of combat. Uh, triggered
+1:37:13
+ability. Whenever you sacrifice another
+1:37:15
+permanent, creatures you control get
+1:37:17
+plus one plus O until end of turn. I had
+1:37:20
+this card pop off exactly one time in
+1:37:22
+TLA draft. Um, outside of that, I
+1:37:24
+remember it being just extremely clunky.
+1:37:26
+Never really got to do the thing with
+1:37:28
+it. Firebendon. I still maintain the
+1:37:31
+opinion that Firebendon does not
+1:37:32
+translate very well to cube environments
+1:37:34
+or outside of TLA at all. I think
+1:37:36
+Firebendon ended up being more of a dud
+1:37:39
+uh than anything despite thinking it was
+1:37:41
+going to be pretty good. But
+1:37:42
+>> it it is like kind of embarrassing
+1:37:44
+comparing this to Angrath actually. Um
+1:37:46
+>> well I mean the the the joke here being
+1:37:48
+you sacrifice like three treasures your
+1:37:50
+board you overrun your board. Like
+1:37:51
+there's there's a dream
+1:37:53
+>> I I suppose is why it gets played. Um,
+1:37:56
+Firebon does not really factor in here.
+1:37:58
+I think it's really just the the sack uh
+1:38:02
+>> trying to do the jury thing like on a
+1:38:04
+wider scale with a more expensive
+1:38:06
+clunkier card.
+1:38:08
+>> Yeah. Um, I guess my question here is if
+1:38:10
+we have enough of a board that the
+1:38:11
+Anthem like is really really good, would
+1:38:14
+it give all of our creatures menace also
+1:38:16
+be really really good?
+1:38:18
+>> But you know, compar Yeah. And also just
+1:38:19
+to me to me the issue with the card is
+1:38:21
+just it it's a four mana card without an
+1:38:22
+ATB that also asks again other things
+1:38:25
+going on. You you both need to have a
+1:38:26
+board and stuff to sacrifice. I just
+1:38:28
+think it's asking too much.
+1:38:29
+>> Yeah. Like I think people just
+1:38:30
+habitually undervalue how much asking to
+1:38:33
+sack a permanent is out of you which is
+1:38:36
+probably odd if you're looking at just
+1:38:37
+you know we're to just click here and
+1:38:39
+look at the the mayhem devil sitting at
+1:38:40
+the top of the tier list. But like that
+1:38:42
+card's output is incredible and like it
+1:38:44
+can do it incidentally off your
+1:38:46
+opponent's cards. And just like when you
+1:38:48
+actually have to start sacking things
+1:38:50
+and the output isn't Mayhem Devil, it's
+1:38:52
+it's a really hard ask. It's a really
+1:38:54
+really hard ask.
+1:38:57
+>> Yeah. So Dtier on that one. Are we Dier?
+1:39:00
+I think so.
+1:39:00
+>> Yeah, I think we're Dier that one.
+1:39:02
+>> Uh Pumpkin Bombardment Spider-Man card
+1:39:04
+here. Actually one of the few that might
+1:39:05
+have gotten a glow up on Arena. It's
+1:39:07
+knife trick on arena with some some
+1:39:09
+ratos flavor there. This is a single
+1:39:11
+mana ratose hybrid, so either red or
+1:39:14
+black. It's a sorcery as an additional
+1:39:16
+cost to cast this spell. Discard a card
+1:39:18
+or pay two and it deals three damage to
+1:39:20
+target creature specifically.
+1:39:24
+>> Yes, this is kind of the the the
+1:39:26
+companion card to um fiery Oh, we were
+1:39:29
+just talking about it. The uh the
+1:39:30
+madness three damage temper.
+1:39:32
+>> Fiery temper. Um and you it used to be
+1:39:34
+that the that the pair was fiery temper
+1:39:36
+with lightning axe. This is like similar
+1:39:38
+to lightning axe. It costs a similar
+1:39:41
+amount except for, you know, the buyout
+1:39:43
+is, I guess, cheaper technically. It
+1:39:44
+does less damage, but it's hybrid. It's
+1:39:46
+also a sorcery. I believe lightning ax
+1:39:47
+is a is an instant. So, I think overall
+1:39:49
+that that whole package isn't
+1:39:50
+particularly compelling to me versus
+1:39:52
+lightning axe. But if you're really
+1:39:53
+looking to push discard in black red,
+1:39:54
+then then sure, I I think this can make
+1:39:56
+some sense. But personally, I would much
+1:39:58
+rather if I'm looking to push the theme,
+1:40:00
+I'm going to be looking for madness
+1:40:01
+cards because I feel like you can get
+1:40:02
+there on discard already with stuff like
+1:40:04
+Reckless Detective or Gremlin or, you
+1:40:07
+know, any of the other um red and black
+1:40:09
+discard effects you have access to. I
+1:40:10
+don't feel like you're really hurting
+1:40:11
+for that. You you need the madness
+1:40:12
+cards.
+1:40:12
+>> Yep.
+1:40:13
+>> Yeah, the madness cards have the
+1:40:14
+madness/bahhem cards have always been
+1:40:16
+the the hangup on these cards. Like
+1:40:18
+they're just they don't they don't print
+1:40:19
+very many cards that are good that you
+1:40:22
+want to discard.
+1:40:24
+>> No. Uh Foot Light Fiend. Two more cards
+1:40:26
+here. This is uh another one mana
+1:40:28
+ratosse card. It's a one- one devil and
+1:40:32
+when it dies, it deals one damage to any
+1:40:33
+target. It's literally literally like
+1:40:35
+the prototypical devil token as a
+1:40:37
+creature.
+1:40:37
+>> Yep.
+1:40:38
+>> Yeah. You know, hybrid has to be pulling
+1:40:41
+an enormous amount of weight for you to
+1:40:42
+consider this card at all. It's just too
+1:40:44
+weak.
+1:40:44
+>> Yeah. I mean, I would consider it if it
+1:40:46
+was an ETV, but a death trigger is much
+1:40:48
+worse.
+1:40:49
+>> Yep. And then final card here is
+1:40:51
+Carnival Carnage. This is a a split
+1:40:54
+card. Carnival is a single mana again,
+1:40:56
+Ratose Hybrid. It's an instant. Deals
+1:40:59
+one damage to target creature or
+1:41:00
+planaineswalker and one damage to its
+1:41:02
+controller. And then the other half is
+1:41:04
+Carnage, which is two black red for a
+1:41:06
+sorcery. It deals three damage to target
+1:41:08
+opponent. And that player discards two
+1:41:10
+cards. So, so basically blightening for
+1:41:12
+one more mana on the right side, and
+1:41:13
+then the left side's a uh one mana ping
+1:41:16
+effect that also pings your opponent.
+1:41:19
+>> Yeah, this is a bad modality. Is not a
+1:41:20
+real modality situation. I think uh even
+1:41:22
+even lightning I I wouldn't be
+1:41:24
+interested in playing and this is a
+1:41:25
+little more expensive than that. And
+1:41:26
+then the damage side I think is actually
+1:41:28
+going to come up the most. That's going
+1:41:29
+to be what you're using the most with
+1:41:30
+this card, but there's much better
+1:41:31
+versions of that effect that we have
+1:41:32
+access to. So,
+1:41:33
+>> yep. Not worth it.
+1:41:34
+>> Blighten was like uh I think like the
+1:41:37
+fourth runner up as off arena card that
+1:41:39
+people play quite a bit too. So,
+1:41:41
+>> uh yeah, uh some some uh definite hybrid
+1:41:43
+duds there to close out the list. Um,
+1:41:45
+okay. This ended up kind of exactly
+1:41:47
+where, you know, what I was asking at
+1:41:49
+the beginning is there are not that many
+1:41:52
+mustplay Ratosse cards despite my gut
+1:41:55
+being Ratos being pretty competitive.
+1:41:57
+Now, it is competitive as far as like
+1:41:58
+the B's and the the reasonable C's for
+1:42:00
+different types of, you know, decks and
+1:42:02
+styles of cube go, but uh there aren't I
+1:42:06
+mean there's three essentially like we I
+1:42:09
+should see these in your cube bar in
+1:42:10
+certain circumstances. It's It's the
+1:42:12
+three that earned Fire Covenant up there
+1:42:14
+in S.
+1:42:15
+>> Uh well, I would say it's the two up
+1:42:16
+there plus the A tier card like which
+1:42:18
+which you know, realistically you could
+1:42:19
+put Blood Soaked inside an S because
+1:42:21
+like if you're
+1:42:22
+>> Yeah, I would just fact figure that's
+1:42:24
+like that that's an auto include that
+1:42:27
+should be included in there.
+1:42:28
+>> I think I think the it's pretty easy to
+1:42:30
+exclude uh the Red Cats for the reasons
+1:42:32
+we mentioned. Um but yeah, I mean like I
+1:42:34
+do and we're not all mayhem either, so
+1:42:36
+like you know, I I get that. Well, I and
+1:42:38
+I think I think that like for for the
+1:42:40
+ways that we build our cubes, we would
+1:42:42
+consider cranial RAM probably only cult
+1:42:44
+to be A's. It's just that I don't
+1:42:46
+necessarily want to project that onto
+1:42:47
+everyone's cubes. I think you can be
+1:42:49
+doing a relatively power max thing and
+1:42:51
+still trying and still generally
+1:42:52
+speaking avoiding artifacts for whatever
+1:42:54
+reasons. In that case, yeah, for that
+1:42:57
+reason, I think those cards are bees.
+1:42:58
+But on power level, they're they're
+1:42:59
+really strong. So to me, red block isn't
+1:43:01
+hurting for really powerful cards. You
+1:43:03
+kind of just got to pick your lane. And
+1:43:04
+as long as as long as artifacts is that
+1:43:07
+lane, then you get access to really
+1:43:08
+strong payoffs.
+1:43:10
+>> Yeah, I I would want I it feels weird to
+1:43:12
+not have any cards in A and that there's
+1:43:14
+like this big gap, but like because I
+1:43:16
+WOULD BE I would be intented tempted to
+1:43:19
+put Oni called Anvil in A because I
+1:43:20
+would recommend it that it's not that
+1:43:22
+hard to get through the door with it.
+1:43:23
+Like cranial ran's a little harder. Um
+1:43:25
+but you know, I don't have a problem
+1:43:27
+with the way we've set it up. It just
+1:43:29
+looks weird. It it makes a little sense
+1:43:32
+like your gold sections are usually
+1:43:33
+pushing a theme more often than not. Uh
+1:43:36
+even if you're trying to keep it open,
+1:43:37
+they usually cross synergize with some
+1:43:39
+sort of theme and that makes them a
+1:43:41
+little less like hey we you can just put
+1:43:44
+this in any cube. Whereas like mono
+1:43:46
+colored sections had a lot more A's
+1:43:47
+because they're just generically good
+1:43:48
+cards that go in a lot more decks. So,
+1:43:50
+it kind of makes sense that the A's are
+1:43:52
+drying up a little bit in the uh these
+1:43:54
+um uh guild um tier lists as opposed to
+1:43:59
+like the three drop tier lists.
+1:44:00
+>> Part of the reason why there's no A's is
+1:44:02
+that uh Black Red's two best cards that
+1:44:05
+aren't the broken cards are also S's. I
+1:44:07
+mean, like if if these cards were
+1:44:09
+weaker, then okay, we'd have two A's if
+1:44:11
+Mayhem Devil and and Harvester were
+1:44:12
+weaker. But the yeah, the issue is that
+1:44:14
+they're just really really strong and
+1:44:15
+like very obviously best-in-class uh
+1:44:17
+cards. So, Black Red is not hurting.
+1:44:19
+Black is not hurting for options. I
+1:44:21
+would say that black arguably has just
+1:44:22
+the best gold cards period in
+1:44:25
+>> Yeah, I would not be surprised to see
+1:44:26
+like half of these Ctier cards in
+1:44:28
+people's cube, maybe more either. Like,
+1:44:30
+you know, the the options are very deep.
+1:44:32
+Um, and you know, every every gold whole
+1:44:35
+gold section at this point is going to
+1:44:36
+have a lot of stinkers because they
+1:44:38
+print a lot of bad arc types into uh
+1:44:41
+retail sets and there's been a lot of
+1:44:42
+power creep and stuff, but yeah, like
+1:44:44
+black has a ton of options compared to a
+1:44:46
+lot of the other colors
+1:44:47
+>> for sure. Okay, that's a good place to
+1:44:49
+wrap here. Uh we will be continuing this
+1:44:51
+series. I don't know what color pairs we
+1:44:53
+have lined up next. Um but we we've been
+1:44:55
+trying to flip-flop a little bit. We
+1:44:57
+talk about one two color pair. Let's do
+1:44:59
+like kind of a alternate colors there. A
+1:45:01
+completely different sphere. So we've
+1:45:03
+covered four now. We've got the other
+1:45:04
+six coming. We've got the three drops
+1:45:06
+coming down the line as well. Plus a a
+1:45:08
+podcast episode planned probably around
+1:45:11
+maybe before maybe after this episode
+1:45:13
+goes live. There's going to be some
+1:45:14
+CubeCon commentary happening sometime
+1:45:16
+soon as well. So, we'll be pushing
+1:45:18
+people to go vote for cubes, assuming
+1:45:20
+one of the either the Jen Diver Gaming
+1:45:22
+or Denise Peasant All-Star Cube gets
+1:45:24
+pushed into the vote in, if not both.
+1:45:26
+That would be awesome. And, uh, we'll
+1:45:28
+have more conversation about that moving
+1:45:30
+forward. Uh, thanks to the listener as
+1:45:32
+always for hanging out and listening to
+1:45:35
+three dudes talk about arena peasant
+1:45:37
+cube cards. Always fun. And
+1:45:40
+>> and some off and some offer cards, don't
+1:45:41
+forget.
+1:45:42
+>> Yep. And and three specifically three uh
+1:45:44
+off arena cards. Leave a comment if
+1:45:46
+you've uh got anything to say about uh
+1:45:48
+where we ranked something or where we
+1:45:50
+would rank something that's not
+1:45:51
+currently on arena. And uh yeah,
+1:45:53
+Denilius Tel, thanks for hanging out to
+1:45:55
+the listener. We'll catch you next time.
