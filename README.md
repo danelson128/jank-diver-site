@@ -59,7 +59,7 @@ The RSS feed has only the newest 15 videos. To add an older video, add it to `da
 { "id": "XXXXXXXXXXX", "title": "Video title", "date": "2026-06-01", "kind": "Tier List" }
 ```
 
-`kind` is one of `Tier List`, `The Jank Tank`, `Cube Draft`, `Cube Update` or any new name you want as a filter. Add `"date_approx": true` if you do not know the exact date; the site then shows only the month.
+`kind` is one of `Tier List`, `The Jank Tank`, `Draft`, `Cube Update`, `Shorts`, `Video` or any new name you want as a filter. Add `"date_approx": true` if you do not know the exact date; the site then shows only the month.
 
 Channel links are in `links` in `data/site.json`. The site shows a button for each link.
 

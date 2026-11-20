@@ -22,10 +22,12 @@ NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/sche
 
 def kind_of(title):
     t = title.lower()
-    if "tier list" in t:
+    if "tier list" in t or "tier-list" in t:
         return "Tier List"
-    if "cube draft" in t:
-        return "Cube Draft"
+    if "#" in t:
+        return "Shorts"
+    if "draft" in t:
+        return "Draft"
     if "swaps" in t or "update" in t:
         return "Cube Update"
     if "jank tank" in t:
