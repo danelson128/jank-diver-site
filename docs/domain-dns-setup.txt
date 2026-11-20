@@ -1,0 +1,51 @@
+DNS SETUP FOR jankdivergaming.com  (connects the domain to GitHub Pages)
+=========================================================================
+
+Where: the DNS settings page at the company where the domain was bought
+(often called "DNS", "DNS records", "Manage DNS" or "Advanced DNS").
+
+BEFORE YOU START
+- If there is already an A record, or a "parking page" / "forwarding" record,
+  for the domain itself (Name "@" or empty), delete it.
+- Do not delete MX or TXT records you use for email.
+
+ADD THESE 9 RECORDS
+-------------------
+
+Type    Name / Host    Value / Points to
+-----   -----------    ------------------------
+A       @              185.199.108.153
+A       @              185.199.109.153
+A       @              185.199.110.153
+A       @              185.199.111.153
+AAAA    @              2606:50c0:8000::153
+AAAA    @              2606:50c0:8001::153
+AAAA    @              2606:50c0:8002::153
+AAAA    @              2606:50c0:8003::153
+CNAME   www            danelson128.github.io
+
+NOTES
+- "@" means the domain itself (jankdivergaming.com). Some providers want the
+  Name field left empty instead of "@". Both mean the same thing.
+- TTL: leave the default (or "Automatic").
+- The 4 A records point jankdivergaming.com to GitHub Pages.
+- The 4 AAAA records do the same for IPv6. They are optional, but recommended.
+- The CNAME record makes www.jankdivergaming.com work too. Enter the value
+  exactly as shown, with no "https://" and no "/jank-diver-site".
+- If you use Cloudflare: set each record to "DNS only" (grey cloud), not
+  "Proxied" (orange cloud). GitHub needs to see the records directly to issue
+  the free HTTPS certificate.
+
+AFTER YOU SAVE
+- Changes can take from a few minutes to a few hours to spread.
+- Then tell Claude the records are in. Claude connects the domain to the site
+  (adds the CNAME file to the repository), and you tick "Enforce HTTPS" in
+  https://github.com/danelson128/jank-diver-site/settings/pages
+  once GitHub shows "DNS check successful".
+
+OPTIONAL, RECOMMENDED: VERIFY THE DOMAIN WITH GITHUB
+- Go to https://github.com/settings/pages (account settings, not the repository).
+- Click "Add a domain", enter jankdivergaming.com, and follow the steps.
+- GitHub gives you one TXT record to add on the same DNS page. Add it, wait a
+  few minutes, then click "Verify". This stops any other GitHub account from
+  using the domain.
