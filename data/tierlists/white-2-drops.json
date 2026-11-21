@@ -1,0 +1,618 @@
+{
+  "title": "White 2-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-01-17T00:00:00.000Z",
+  "count": 61,
+  "cards": [
+    {
+      "name": "Spirited Companion",
+      "collector_number": "256",
+      "rarity": "common",
+      "order": 0,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 19
+    },
+    {
+      "name": "Wall of Omens",
+      "collector_number": "138",
+      "rarity": "uncommon",
+      "order": 1,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 27
+    },
+    {
+      "name": "Splitskin Doll",
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−",
+      "rank": 12
+    },
+    {
+      "name": "Raffine's Informant",
+      "collector_number": "26",
+      "rarity": "common",
+      "order": 3,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 15
+    },
+    {
+      "name": "Builder's Talent",
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+",
+      "rank": 0
+    },
+    {
+      "name": "Ambitious Farmhand // Seasoned Cathar",
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 18
+    },
+    {
+      "name": "The Birth of Meletis",
+      "collector_number": "5",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 20
+    },
+    {
+      "name": "Kor Skyfisher",
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 7,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+",
+      "rank": 7
+    },
+    {
+      "name": "Sunpearl Kirin",
+      "collector_number": "29",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+",
+      "rank": 1
+    },
+    {
+      "name": "Ambrosia Whiteheart",
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 8
+    },
+    {
+      "name": "Shepherd of the Flock // Usher to Safety",
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 43
+    },
+    {
+      "name": "Citizen's Crowbar",
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+",
+      "rank": 6
+    },
+    {
+      "name": "Carrot Cake",
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 12,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−",
+      "rank": 10
+    },
+    {
+      "name": "Ancestral Blade",
+      "collector_number": "160",
+      "rarity": "common",
+      "order": 13,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 23
+    },
+    {
+      "name": "Dragoon's Lance",
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+",
+      "rank": 5
+    },
+    {
+      "name": "Norn's Inquisitor",
+      "collector_number": "29",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−",
+      "rank": 3
+    },
+    {
+      "name": "Hopeful Vigil",
+      "collector_number": "17",
+      "rarity": "common",
+      "order": 16,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 38
+    },
+    {
+      "name": "Resolute Reinforcements",
+      "collector_number": "145",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 26
+    },
+    {
+      "name": "Honored Knight-Captain",
+      "collector_number": "22",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 50
+    },
+    {
+      "name": "Clarion Spirit",
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−",
+      "rank": 11
+    },
+    {
+      "name": "Fortress Kin-Guard",
+      "collector_number": "12",
+      "rarity": "common",
+      "order": 20,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 17
+    },
+    {
+      "name": "Samwise the Stouthearted",
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 16
+    },
+    {
+      "name": "Sun-Blessed Healer",
+      "collector_number": "25",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 14
+    },
+    {
+      "name": "Coppercoat Vanguard",
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 37
+    },
+    {
+      "name": "Neighborhood Guardian",
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 9
+    },
+    {
+      "name": "Dawnwing Marshal",
+      "collector_number": "570",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 13
+    },
+    {
+      "name": "Shire Shirriff",
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 46
+    },
+    {
+      "name": "Battle Menu",
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 32
+    },
+    {
+      "name": "Sunder the Gateway",
+      "collector_number": "39",
+      "rarity": "common",
+      "order": 28,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 21
+    },
+    {
+      "name": "Cathar Commando",
+      "collector_number": "15",
+      "rarity": "common",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 55
+    },
+    {
+      "name": "Leonin Relic-Warder",
+      "collector_number": "65",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 51
+    },
+    {
+      "name": "Vanguard of the Rose",
+      "collector_number": "42",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 44
+    },
+    {
+      "name": "Adanto Vanguard",
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 59
+    },
+    {
+      "name": "Seasoned Hallowblade",
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 45
+    },
+    {
+      "name": "Brightblade Stoat",
+      "collector_number": "4",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 28
+    },
+    {
+      "name": "Knight of Dawn's Light",
+      "collector_number": "23",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 30
+    },
+    {
+      "name": "Sunhome Stalwart",
+      "collector_number": "266",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 29
+    },
+    {
+      "name": "Thunderous Orator",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 52
+    },
+    {
+      "name": "Nyxborn Unicorn",
+      "collector_number": "37",
+      "rarity": "common",
+      "order": 38,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 22
+    },
+    {
+      "name": "Glyph Elemental",
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S",
+      "rank": 2
+    },
+    {
+      "name": "Stone Haven Pilgrim",
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 24
+    },
+    {
+      "name": "Fearless Fledgling",
+      "collector_number": "15",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 31
+    },
+    {
+      "name": "Seeker of the Way",
+      "collector_number": "28",
+      "rarity": "common",
+      "order": 42,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 49
+    },
+    {
+      "name": "Gloryheath Lynx",
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−",
+      "rank": 4
+    },
+    {
+      "name": "Sundial, Dawn Tyrant",
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 25
+    },
+    {
+      "name": "Lone Rider // It That Rides as One",
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 54
+    },
+    {
+      "name": "Ajani's Pridemate",
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 60
+    },
+    {
+      "name": "Twinblade Geist // Twinblade Invocation",
+      "collector_number": "47",
+      "rarity": "uncommon",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 42
+    },
+    {
+      "name": "Illuminator Virtuoso",
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 40
+    },
+    {
+      "name": "Urdnan, Dromoka Warrior",
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 34
+    },
+    {
+      "name": "Ironpaw Aspirant",
+      "collector_number": "18",
+      "rarity": "common",
+      "order": 50,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 57
+    },
+    {
+      "name": "Martyr of Dusk",
+      "collector_number": "132",
+      "rarity": "common",
+      "order": 51,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 39
+    },
+    {
+      "name": "Distinguished Conjurer",
+      "collector_number": "264",
+      "rarity": "uncommon",
+      "order": 52,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 47
+    },
+    {
+      "name": "Metastatic Evangel",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 33
+    },
+    {
+      "name": "Omenport Vigilante",
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 48
+    },
+    {
+      "name": "Outlaw Medic",
+      "collector_number": "23",
+      "rarity": "common",
+      "order": 55,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 56
+    },
+    {
+      "name": "Prairie Dog",
+      "collector_number": "24",
+      "rarity": "uncommon",
+      "order": 56,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 35
+    },
+    {
+      "name": "Nyx-Fleece Ram",
+      "collector_number": "126",
+      "rarity": "uncommon",
+      "order": 57,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 58
+    },
+    {
+      "name": "Daxos, Blessed by the Sun",
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 58,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 53
+    },
+    {
+      "name": "Hero of Iroas",
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 59,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 41
+    },
+    {
+      "name": "Ingenious Smith",
+      "collector_number": "135",
+      "rarity": "uncommon",
+      "order": 60,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 36
+    }
+  ]
+}
