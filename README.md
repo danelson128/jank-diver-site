@@ -9,13 +9,22 @@ It has no build step and no server code. Any static host can serve it (GitHub Pa
 python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000. You must use a web server. If you open `index.html` directly as a file, it can't load the data.
+Then open http://localhost:8000. You must use a web server.
+
+To see the full site, with the card and tier list pages, build it first and serve the result:
+
+```bash
+python3 tools/build_site.py && python3 -m http.server 8000 --directory _site
+``` If you open `index.html` directly as a file, it can't load the data.
 
 ## Folder layout
 
 | Path | What it is |
 | --- | --- |
 | `index.html`, `styles.css`, `app.js` | The site. |
+| `buy.js` | Printings, prices and shop links. Used by the card popup and the card pages. |
+| `tools/build_site.py` | Builds the published site into `_site/`, with a page for every card and tier list, the sitemap and the 404 page. |
+| `.github/workflows/pages.yml` | Runs `build_site.py` and publishes the site on every push to `main`. |
 | `data/site.json` | Channel name, tagline and social links. |
 | `data/videos.json` | All channel videos. `tools/fetch_videos.py` adds new ones from the RSS feed. |
 | `data/tierlists.json` | The list of tier lists, each with an optional YouTube link. |
@@ -120,7 +129,15 @@ The first version of the ranking game is saved on the `archive/this-or-that` bra
 
 ## Where the site is hosted
 
-The site is live at **https://jankdivergaming.com**, served by GitHub Pages from the `main` branch (root folder) of this repository. Every push to `main` updates the site in about a minute.
+The site is live at **https://jankdivergaming.com**. On every push to `main`, GitHub runs `.github/workflows/pages.yml`: it builds the site with `tools/build_site.py` and publishes it to GitHub Pages, in about a minute. (In **Settings → Pages**, **Source** must be **GitHub Actions**.)
+
+The build makes these pages from the data, so they never need editing by hand:
+
+- `/cards/<card-name>/`: one page per graded card, with every grade, the video timestamp, printings, prices and related cards. New cards, grades and timestamps appear on the next push.
+- `/cards/`: all cards A to Z. `/tierlists/` and `/tierlists/<list>/`: one page per tier list.
+- `sitemap.xml` and `robots.txt` for search engines, and `404.html` for unknown addresses.
+
+If the build fails (for example two cards would get the same page address), GitHub shows the reason in the **Actions** tab, and the site stays as it was.
 
 - The `CNAME` file in the repository root tells GitHub Pages the domain. Do not delete it, or the site goes back to `https://danelson128.github.io/jank-diver-site/`.
 - The domain's DNS records are at Porkbun. The setup is in `docs/domain-dns-setup.txt`.

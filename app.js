@@ -6,7 +6,7 @@
   const MODS = [1, 0, -1];
   const MOD_SIGN = { 1: "+", 0: "", "-1": "−" };
   const app = document.getElementById("app");
-  const state = { site: {}, lists: [], cards: {}, videos: [], index: new Map() };
+  const state = { site: {}, lists: [], cards: {}, videos: [], pages: {}, index: new Map() };
 
   /* ---------- Helpers ---------- */
 
@@ -57,6 +57,8 @@
   };
 
   const cardInfo = (name) => state.cards[norm(name)] || null;
+  // The card's own page (/cards/<slug>/), or "" when the pages have not been built.
+  const cardPageUrl = (name) => (state.pages?.[norm(name)] ? `/cards/${state.pages[norm(name)]}/` : "");
   const imgSrc = (name, size = "normal") => { const i = cardInfo(name)?.image; return i?.[size] || i?.normal || ""; };
   const imgHTML = (name, size = "normal") => {
     const src = imgSrc(name, size);
@@ -80,14 +82,16 @@
   }
 
   async function load() {
-    const [site, manifest, cards, videos] = await Promise.all([
+    const [site, manifest, cards, videos, pages] = await Promise.all([
       getJSON("data/site.json"),
       getJSON("data/tierlists.json"),
       getJSON("data/cards.json").catch(() => ({})),
       getJSON("data/videos.json").catch(() => []),
+      getJSON("data/card-pages.json").catch(() => ({})),
     ]);
     state.site = site;
     state.cards = cards;
+    state.pages = pages;
     state.videos = videos.map((v) => ({ ...v, youtube: youtubeId(v.id || v.youtube) }));
     const videoById = new Map(state.videos.map((v) => [v.youtube, v]));
 
@@ -463,7 +467,7 @@
         const info = cardInfo(r.name);
         return `<article class="result">
           <button class="thumbbtn" data-card="${esc(r.name)}" aria-label="Show ${esc(r.name)}">${imgHTML(r.name, "small")}</button>
-          <div><h3><button type="button" class="name-btn" data-card="${esc(r.name)}" data-preview>${esc(r.name)}</button></h3>${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}<div class="apps">${appearancesHTML(r.entries)}</div></div>
+          <div><h3><button type="button" class="name-btn" data-card="${esc(r.name)}" data-preview>${esc(r.name)}</button></h3>${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}<div class="apps">${appearancesHTML(r.entries)}</div>${cardPageUrl(r.name) ? `<a class="more page-link" href="${cardPageUrl(r.name)}">Card page</a>` : ""}</div>
         </article>`;
       }).join("")}</div>`;
   }
@@ -494,58 +498,6 @@
   const preview = document.getElementById("hover-preview");
   const hidePreview = () => { preview.hidden = true; };
 
-  /* ---------- Printings and shop links ---------- */
-
-  // All paper printings of a card, oldest first, from Scryfall. Fetched only when a
-  // visitor opens a card, and kept in memory for the visit.
-  const printsCache = new Map();
-  function loadPrintings(name) {
-    const front = name.split(" // ")[0];
-    if (!printsCache.has(front)) {
-      const q = new URLSearchParams({ q: `!"${front}" game:paper`, unique: "prints", order: "released", dir: "asc" });
-      printsCache.set(front, fetch(`https://api.scryfall.com/cards/search?${q}`)
-        .then((r) => (r.ok ? r.json() : Promise.reject(new Error(r.status))))
-        .then((d) => d.data.map((c) => {
-          const face = c.image_uris || c.card_faces?.[0]?.image_uris || {};
-          const back = c.card_faces?.[1]?.image_uris || null;
-          return {
-            set: c.set, setName: c.set_name, num: c.collector_number, date: c.released_at,
-            image: face.large || face.normal || "", back: back?.large || back?.normal || "",
-            usd: c.prices?.usd, usdFoil: c.prices?.usd_foil, eur: c.prices?.eur,
-            tcgplayerId: c.tcgplayer_id, cardmarketId: c.cardmarket_id, scryfall: c.scryfall_uri,
-          };
-        }))
-        .catch((err) => { printsCache.delete(front); throw err; }));
-    }
-    return printsCache.get(front);
-  }
-
-  // Wrap a shop URL with the affiliate link from data/site.json, if one is set.
-  // The template uses {url} for the encoded product URL.
-  function shopUrl(shop, url) {
-    const tpl = state.site.shops?.[shop]?.affiliate;
-    return tpl ? tpl.replace("{url}", encodeURIComponent(url)) : url;
-  }
-
-  function shopLinks(name, p) {
-    const out = [];
-    const tcg = p?.tcgplayerId
-      ? `https://www.tcgplayer.com/product/${p.tcgplayerId}`
-      : `https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=${encodeURIComponent(name.split(" // ")[0])}`;
-    out.push(`<a class="btn-cta" href="${esc(shopUrl("tcgplayer", tcg))}" target="_blank" rel="noopener sponsored">Buy on TCGplayer</a>`);
-    if (p?.cardmarketId) {
-      const cm = `https://www.cardmarket.com/en/Magic/Products?idProduct=${p.cardmarketId}`;
-      out.push(`<a class="btn-tile" href="${esc(shopUrl("cardmarket", cm))}" target="_blank" rel="noopener sponsored">Cardmarket</a>`);
-    }
-    return out.join("");
-  }
-
-  const money = (v, sign) => (v ? `${sign}${Number(v).toFixed(2)}` : "");
-  function priceLine(p) {
-    const parts = [money(p.usd, "$"), money(p.usdFoil, "$") && `foil ${money(p.usdFoil, "$")}`, money(p.eur, "€")].filter(Boolean);
-    return parts.length ? parts.join(" · ") : "No price data";
-  }
-
   function openCard(name) {
     const entry = state.index.get(norm(name));
     if (!entry) return;
@@ -561,46 +513,15 @@
         ${info ? `<div class="type">${esc(info.type_line)}</div>` : ""}
         <span class="label">Our grades</span>
         <div class="apps">${appearancesHTML(entry.entries)}</div>
-        <div class="buy">
-          <label class="label" for="printing">Printing</label>
-          <select id="printing" disabled><option>${info ? `${esc(info.set_name)} (${esc(info.set.toUpperCase())}) #${esc(info.collector_number)}` : "Loading printings…"}</option></select>
-          <div class="price mono" id="price">Loading prices…</div>
-          <div class="shop-row" id="shops">${shopLinks(entry.name, null)}</div>
-          <p class="fine mono">Prices from <a id="sf-link" href="${esc(info?.scryfall_uri || "https://scryfall.com")}" target="_blank" rel="noopener">Scryfall</a>, updated daily.</p>
-        </div>
+        ${cardPageUrl(entry.name) ? `<p class="page-link"><a class="more" href="${cardPageUrl(entry.name)}">Card page</a></p>` : ""}
+        ${window.JDGBuy.html(state.site.shops, entry.name, info)}
       </div>`;
-    // The printing on screen. Starts as the site's printing (the first paper printing).
-    let cur = { image: info?.image?.large || "", back: info?.back_image?.large || "" };
-    let back = false;
-    const bigImg = () => modalBody.querySelector(".big img");
-    const flip = document.getElementById("flip");
-    if (flip) flip.addEventListener("click", () => {
-      back = !back;
-      if (bigImg()) bigImg().src = back && cur.back ? cur.back : cur.image;
-    });
-
-    const sel = document.getElementById("printing");
-    const show = (p) => {
-      cur = p;
-      back = false;
-      if (bigImg() && p.image) bigImg().src = p.image;
-      document.getElementById("price").textContent = priceLine(p);
-      document.getElementById("shops").innerHTML = shopLinks(entry.name, p);
-      if (p.scryfall) document.getElementById("sf-link").href = p.scryfall;
-    };
-    loadPrintings(entry.name).then((prints) => {
+    modalBody.dataset.open = entry.name;
+    window.JDGBuy.wire(modalBody, {
+      shops: state.site.shops, name: entry.name, info,
+      img: modalBody.querySelector(".big img"), flip: document.getElementById("flip"),
       // Stop if the visitor closed this popup or opened another card meanwhile.
-      if (modal.hidden || document.getElementById("printing") !== sel || !prints.length) return;
-      const start = Math.max(0, prints.findIndex((p) => info && p.set === info.set && p.num === info.collector_number));
-      sel.innerHTML = prints.map((p, i) =>
-        `<option value="${i}"${i === start ? " selected" : ""}>${esc(p.setName)} (${esc(p.set.toUpperCase())}) #${esc(p.num)} · ${esc((p.date || "").slice(0, 4))}${p.usd ? ` · $${Number(p.usd).toFixed(2)}` : ""}</option>`).join("");
-      sel.disabled = prints.length < 2;
-      sel.previousElementSibling.textContent = `Printing (${prints.length})`;
-      sel.addEventListener("change", () => show(prints[Number(sel.value)]));
-      show(prints[start]);
-    }).catch(() => {
-      if (document.getElementById("printing") !== sel) return;
-      document.getElementById("price").textContent = "Could not load printings right now.";
+      alive: () => !modal.hidden && modalBody.dataset.open === entry.name,
     });
 
     modal.hidden = false;
