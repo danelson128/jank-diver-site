@@ -1,0 +1,408 @@
+{
+  "title": "Blue 2-Drop Creatures",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-01-28T00:00:00.000Z",
+  "count": 40,
+  "cards": [
+    {
+      "name": "Mischievous Mystic",
+      "collector_number": "47",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+",
+      "rank": 0
+    },
+    {
+      "name": "Aether Swooper",
+      "collector_number": "26",
+      "rarity": "common",
+      "order": 1,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 22
+    },
+    {
+      "name": "Emrakul's Messenger",
+      "collector_number": "61",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "A",
+      "mod": 1,
+      "grade": "A+",
+      "rank": 5
+    },
+    {
+      "name": "Shoreline Looter",
+      "collector_number": "70",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+",
+      "rank": 1
+    },
+    {
+      "name": "Merfolk Looter",
+      "collector_number": "86",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 23
+    },
+    {
+      "name": "Canyon Crab",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 6
+    },
+    {
+      "name": "Thopter Mechanic",
+      "collector_number": "372",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 33
+    },
+    {
+      "name": "Knowledge Seeker",
+      "collector_number": "60",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 11
+    },
+    {
+      "name": "Forecasting Fortune Teller",
+      "collector_number": "51",
+      "rarity": "common",
+      "order": 8,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 7
+    },
+    {
+      "name": "Renowned Weaponsmith",
+      "collector_number": "114",
+      "rarity": "common",
+      "order": 9,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 27
+    },
+    {
+      "name": "Oaken Siren",
+      "collector_number": "66",
+      "rarity": "common",
+      "order": 10,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 26
+    },
+    {
+      "name": "Glint-Nest Crane",
+      "collector_number": "50",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 28
+    },
+    {
+      "name": "Benevolent River Spirit",
+      "collector_number": "45",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 14
+    },
+    {
+      "name": "Diversion Unit",
+      "collector_number": "41",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 24
+    },
+    {
+      "name": "Stormchaser Drake",
+      "collector_number": "82",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 31
+    },
+    {
+      "name": "Skyclave Aerialist // Skyclave Invader",
+      "collector_number": "78",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 35
+    },
+    {
+      "name": "Unwelcome Sprite",
+      "collector_number": "81",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 12
+    },
+    {
+      "name": "Il Mheg Pixie",
+      "collector_number": "57",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 30
+    },
+    {
+      "name": "Skyship Plunderer",
+      "collector_number": "232",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 32
+    },
+    {
+      "name": "Zephyr Sentinel",
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−",
+      "rank": 8
+    },
+    {
+      "name": "Plumecreed Escort",
+      "collector_number": "65",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S",
+      "rank": 2
+    },
+    {
+      "name": "Hypnotic Sprite // Mesmeric Glare",
+      "collector_number": "49",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 25
+    },
+    {
+      "name": "Threnody Singer",
+      "collector_number": "75",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 9
+    },
+    {
+      "name": "Floodpits Drowner",
+      "collector_number": "59",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−",
+      "rank": 3
+    },
+    {
+      "name": "Glamer Gifter",
+      "collector_number": "49",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 10
+    },
+    {
+      "name": "Saiba Cryptomancer",
+      "collector_number": "76",
+      "rarity": "common",
+      "order": 25,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 20
+    },
+    {
+      "name": "Fear of Isolation",
+      "collector_number": "58",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "S",
+      "mod": -1,
+      "grade": "S−",
+      "rank": 4
+    },
+    {
+      "name": "Moon-Circuit Hacker",
+      "collector_number": "327",
+      "rarity": "common",
+      "order": 27,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 17
+    },
+    {
+      "name": "Fallaji Archaeologist",
+      "collector_number": "48",
+      "rarity": "common",
+      "order": 28,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 21
+    },
+    {
+      "name": "Oracle of Tragedy",
+      "collector_number": "71",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 29
+    },
+    {
+      "name": "Augur of Bolas",
+      "collector_number": "286",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 36
+    },
+    {
+      "name": "Covetous Castaway // Ghostly Castigator",
+      "collector_number": "58",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 34
+    },
+    {
+      "name": "Labyrinth Guardian",
+      "collector_number": "60",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 19
+    },
+    {
+      "name": "Scrounging Skyray",
+      "collector_number": "60",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 13
+    },
+    {
+      "name": "Faerie Vandal",
+      "collector_number": "311",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 37
+    },
+    {
+      "name": "Brineborn Cutthroat",
+      "collector_number": "152",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 38
+    },
+    {
+      "name": "Veteran Ice Climber",
+      "collector_number": "64",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 16
+    },
+    {
+      "name": "Invisible Stalker",
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 39
+    },
+    {
+      "name": "Picklock Prankster // Free the Fae",
+      "collector_number": "64",
+      "rarity": "uncommon",
+      "order": 38,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 15
+    },
+    {
+      "name": "Pelargir Survivor",
+      "collector_number": "182",
+      "rarity": "common",
+      "order": 39,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 18
+    }
+  ]
+}
