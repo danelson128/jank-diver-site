@@ -90,6 +90,10 @@
       getJSON("data/card-pages.json").catch(() => ({})),
     ]);
     state.site = site;
+    // Affiliate law (FTC) and the shops' affiliate terms need a disclosure once a code is set.
+    if (Object.values(site.shops || {}).some((v) => v?.affiliate)) {
+      document.querySelector(".site-footer p")?.insertAdjacentText("beforeend", " Shop links are affiliate links: we may earn a commission at no cost to you.");
+    }
     state.cards = cards;
     state.pages = pages;
     state.videos = videos.map((v) => ({ ...v, youtube: youtubeId(v.id || v.youtube) }));

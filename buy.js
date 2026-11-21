@@ -6,11 +6,25 @@
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   // All paper printings of a card, oldest first, from Scryfall. Fetched only when a
-  // visitor looks at a card, and kept in memory for the visit.
+  // visitor looks at a card. Scryfall asks apps to keep its data for at least 24 hours,
+  // so the result is kept in the browser's storage for that long (and in memory for the visit).
+  const DAY = 24 * 60 * 60 * 1000;
   const cache = new Map();
+  const stored = (key) => {
+    try {
+      const v = JSON.parse(localStorage.getItem(key));
+      return v && Date.now() - v.t < DAY ? v.data : null;
+    } catch { return null; }
+  };
+  const store = (key, data) => {
+    try { localStorage.setItem(key, JSON.stringify({ t: Date.now(), data })); } catch { /* storage full or blocked */ }
+  };
   function loadPrintings(name) {
     const front = name.split(" // ")[0];
     if (!cache.has(front)) {
+      const key = `jdg-prints:${front}`;
+      const saved = stored(key);
+      if (saved) { cache.set(front, Promise.resolve(saved)); return cache.get(front); }
       const q = new URLSearchParams({ q: `!"${front}" game:paper`, unique: "prints", order: "released", dir: "asc" });
       cache.set(front, fetch(`https://api.scryfall.com/cards/search?${q}`)
         .then((r) => (r.ok ? r.json() : Promise.reject(new Error(r.status))))
@@ -24,6 +38,7 @@
             tcgplayerId: c.tcgplayer_id, cardmarketId: c.cardmarket_id, scryfall: c.scryfall_uri,
           };
         }))
+        .then((prints) => { store(key, prints); return prints; })
         .catch((err) => { cache.delete(front); throw err; }));
     }
     return cache.get(front);

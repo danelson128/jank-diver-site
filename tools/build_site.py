@@ -154,6 +154,9 @@ def page(site, *, title, description, path, image="", sub="", body, scripts=""):
     base = site.get("url", "").rstrip("/")
     url = base + path
     links = site.get("links", {})
+    # Affiliate law (FTC) and the shops' affiliate terms need a disclosure once a code is set.
+    disclose = " Shop links are affiliate links: we may earn a commission at no cost to you." if any(
+        (v or {}).get("affiliate") for v in site.get("shops", {}).values()) else ""
     og_image = f'<meta property="og:image" content="{E(image)}">\n  ' if image else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -197,7 +200,7 @@ def page(site, *, title, description, path, image="", sub="", body, scripts=""):
   </main>
   <footer class="site-footer">
     <div class="footer-inner">
-      <p class="mono">Jank Diver Gaming is unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC. Card images from <a href="https://scryfall.com" target="_blank" rel="noopener">Scryfall</a>.</p>
+      <p class="mono">Jank Diver Gaming is unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC. Card images from <a href="https://scryfall.com" target="_blank" rel="noopener">Scryfall</a>.{disclose}</p>
       <nav class="footer-links" aria-label="Social">
         {"".join(f'<a href="{E(u)}" target="_blank" rel="noopener">{E(k)}</a>' for k, u in links.items() if u)}
       </nav>

@@ -104,7 +104,7 @@ If the script picks the wrong printing, add the card to `data/card-overrides.jso
 
 ## Printings and shop links
 
-The card popup lists every paper printing of the card, with Scryfall prices. The visitor's browser gets this list from Scryfall when they open a card. Each printing links to its TCGplayer and Cardmarket product page.
+The card popup lists every paper printing of the card, with Scryfall prices. The visitor's browser gets this list from Scryfall when they open a card, and keeps it for 24 hours (Scryfall asks for this). Each printing links to its TCGplayer and Cardmarket product page.
 
 To earn affiliate commission, put your affiliate link template in `shops` in `data/site.json`. Use `{url}` where the product URL goes. The site fills it in, URL-encoded:
 
@@ -115,9 +115,15 @@ To earn affiliate commission, put your affiliate link template in `shops` in `da
 }
 ```
 
-Use the exact link format your affiliate program gives you. With an empty `affiliate`, the links go straight to the shop with no affiliate code.
+Use the exact link format your affiliate program gives you. With an empty `affiliate`, the links go straight to the shop with no affiliate code. When an affiliate link is set, the footer automatically adds a line that says shop links are affiliate links. The law (FTC) and the affiliate programs require this, so do not remove it.
 
 Do not use the "purchase" links from the Scryfall API: they contain Scryfall's own affiliate code.
+
+## Rules from the data sources
+
+- **Scryfall:** do not crop, cover or change card images (the artist name and copyright line must stay visible). Do not use Scryfall's logo or say Scryfall supports the site. Keep the "Card images from Scryfall" credit in the footer.
+- **Wizards of the Coast:** keep the Fan Content Policy line in the footer. Do not put card content behind a paywall.
+- **YouTube:** show videos only with the normal YouTube player (embed). Do not download or re-upload videos.
 
 ## Look and feel
 
