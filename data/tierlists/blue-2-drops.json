@@ -130,8 +130,8 @@
       "rarity": "uncommon",
       "order": 12,
       "tier": "B",
-      "mod": 0,
-      "grade": "B",
+      "mod": -1,
+      "grade": "B−",
       "rank": 14
     },
     {
@@ -260,8 +260,8 @@
       "rarity": "common",
       "order": 25,
       "tier": "C",
-      "mod": 1,
-      "grade": "C+",
+      "mod": 0,
+      "grade": "C",
       "rank": 20
     },
     {
