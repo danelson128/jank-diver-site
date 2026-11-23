@@ -1,0 +1,628 @@
+{
+  "title": "White Instants and Sorceries",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-11-11T01:01:10.469Z",
+  "count": 62,
+  "cards": [
+    {
+      "name": "Ephemerate",
+      "cubes": 53,
+      "collector_number": "7",
+      "rarity": "common",
+      "order": 0,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Kirtar's Wrath",
+      "cubes": 39,
+      "collector_number": "28",
+      "rarity": "rare",
+      "order": 1,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Mana Tithe",
+      "cubes": 30,
+      "collector_number": "25",
+      "rarity": "common",
+      "order": 2,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Harm's Way",
+      "cubes": 13,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Prismatic Ending",
+      "cubes": 11,
+      "collector_number": "25",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Slaughter the Strong",
+      "cubes": 10,
+      "collector_number": "22",
+      "rarity": "rare",
+      "order": 5,
+      "tier": "D",
+      "mod": -2,
+      "grade": "D⊘"
+    },
+    {
+      "name": "Swords to Plowshares",
+      "cubes": 45,
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "S",
+      "mod": 2,
+      "grade": "S★"
+    },
+    {
+      "name": "Oust",
+      "cubes": 19,
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Path to Exile",
+      "cubes": 50,
+      "collector_number": "15",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Stroke of Midnight",
+      "cubes": 6,
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Prophesied End",
+      "cubes": 1,
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Razorgrass Ambush // Razorgrass Field",
+      "cubes": 17,
+      "collector_number": "238",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Joust Through",
+      "cubes": 7,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Blessed Alliance",
+      "cubes": 6,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Elspeth's Smite",
+      "cubes": 4,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Airbender's Reversal",
+      "cubes": 4,
+      "collector_number": "7",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Ride's End",
+      "cubes": 3,
+      "collector_number": "25",
+      "rarity": "common",
+      "order": 16,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Spectacular Tactics",
+      "cubes": 7,
+      "collector_number": "15",
+      "rarity": "common",
+      "order": 17,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Exorcise",
+      "cubes": 3,
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Destroy Evil",
+      "cubes": 2,
+      "collector_number": "17",
+      "rarity": "common",
+      "order": 19,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Gallant Strike",
+      "cubes": 2,
+      "collector_number": "13",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Repel Calamity",
+      "cubes": 0,
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Thraben Charm",
+      "cubes": 25,
+      "collector_number": "45",
+      "rarity": "common",
+      "order": 22,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A"
+    },
+    {
+      "name": "Kabira Takedown // Kabira Plateau",
+      "cubes": 7,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Focus Fire",
+      "cubes": 1,
+      "collector_number": "18",
+      "rarity": "common",
+      "order": 24,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Requisition Raid",
+      "cubes": 41,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Forsake the Worldly",
+      "cubes": 5,
+      "collector_number": "13",
+      "rarity": "common",
+      "order": 26,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Sunder the Gateway",
+      "cubes": 3,
+      "collector_number": "39",
+      "rarity": "common",
+      "order": 27,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Banishing Slash",
+      "cubes": 2,
+      "collector_number": "3",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Reprieve",
+      "cubes": 50,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Pyrrhic Strike",
+      "cubes": 4,
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Airbending Lesson",
+      "cubes": 5,
+      "collector_number": "8",
+      "rarity": "common",
+      "order": 31,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Duty Beyond Death",
+      "cubes": 7,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Honor",
+      "cubes": 5,
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Gird for Battle",
+      "cubes": 2,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Homestead Courage",
+      "cubes": 1,
+      "collector_number": "24",
+      "rarity": "common",
+      "order": 35,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Pride of Conquerors",
+      "cubes": 6,
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Makindi Stampede // Makindi Mesas",
+      "cubes": 2,
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "You Hear Something on Watch",
+      "cubes": 2,
+      "collector_number": "42",
+      "rarity": "common",
+      "order": 38,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "On the Job",
+      "cubes": 1,
+      "collector_number": "30",
+      "rarity": "common",
+      "order": 39,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Daydream",
+      "cubes": 22,
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Getaway Glamer",
+      "cubes": 17,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 41,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Parting Gust",
+      "cubes": 3,
+      "collector_number": "24",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−"
+    },
+    {
+      "name": "Fight as One",
+      "cubes": 9,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 43,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Loran's Escape",
+      "cubes": 4,
+      "collector_number": "14",
+      "rarity": "common",
+      "order": 44,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Reroute Systems",
+      "cubes": 4,
+      "collector_number": "31",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Take Up the Shield",
+      "cubes": 4,
+      "collector_number": "35",
+      "rarity": "common",
+      "order": 46,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Shelter",
+      "cubes": 2,
+      "collector_number": "46",
+      "rarity": "common",
+      "order": 47,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Sejiri Shelter // Sejiri Glacier",
+      "cubes": 1,
+      "collector_number": "37",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Enter the Avatar State",
+      "cubes": 1,
+      "collector_number": "18",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Restoration Magic",
+      "cubes": 0,
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Angelic Intervention",
+      "cubes": 0,
+      "collector_number": "5",
+      "rarity": "common",
+      "order": 51,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Aerial Boost",
+      "cubes": 0,
+      "collector_number": "2",
+      "rarity": "common",
+      "order": 52,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Scout for Survivors",
+      "cubes": 9,
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 53,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Dewdrop Cure",
+      "cubes": 8,
+      "collector_number": "10",
+      "rarity": "uncommon",
+      "order": 54,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Recommission",
+      "cubes": 7,
+      "collector_number": "22",
+      "rarity": "common",
+      "order": 55,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Helping Hand",
+      "cubes": 7,
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 56,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Late to Dinner",
+      "cubes": 6,
+      "collector_number": "19",
+      "rarity": "common",
+      "order": 57,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Against All Odds",
+      "cubes": 3,
+      "collector_number": "1",
+      "rarity": "uncommon",
+      "order": 58,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Generous Revival",
+      "cubes": 2,
+      "collector_number": "8",
+      "rarity": "uncommon",
+      "order": 59,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Enlightened Tutor",
+      "cubes": 6,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 60,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "There's Coffee in that Nebula",
+      "cubes": 2,
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "order": 61,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    }
+  ]
+}

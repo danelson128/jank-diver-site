@@ -98,5 +98,15 @@
     "file": "blue-2-drops.json",
     "youtube": "https://www.youtube.com/watch?v=-JDEvCo2RUY",
     "timestamps": true
+  },
+  {
+    "file": "white-4-drops.json",
+    "youtube": "https://www.youtube.com/watch?v=UqPPTdFnV24",
+    "timestamps": true
+  },
+  {
+    "file": "white-instants-and-sorceries.json",
+    "youtube": "https://www.youtube.com/watch?v=z3fKedykAiQ",
+    "timestamps": true
   }
 ]

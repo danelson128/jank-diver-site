@@ -1,0 +1,538 @@
+{
+  "title": "White 4-Drops",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-11-08T17:29:23.402Z",
+  "count": 53,
+  "cards": [
+    {
+      "name": "Palace Jailer",
+      "cubes": 11,
+      "collector_number": "18",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Rhox Veteran",
+      "cubes": 8,
+      "collector_number": "24",
+      "rarity": "common",
+      "order": 1,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Glimmerpoint Stag",
+      "cubes": 8,
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Teshar, Ancestor's Apostle",
+      "cubes": 8,
+      "collector_number": "36",
+      "rarity": "rare",
+      "order": 3,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Battle Screech",
+      "cubes": 47,
+      "collector_number": "3",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "S",
+      "mod": 1,
+      "grade": "S+"
+    },
+    {
+      "name": "Release the Dogs",
+      "cubes": 2,
+      "collector_number": "4",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Okoye, Dora Milaje Leader",
+      "cubes": 21,
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+"
+    },
+    {
+      "name": "Visionary Augmenter",
+      "cubes": 10,
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "The Last Ronin's Technique",
+      "cubes": 16,
+      "collector_number": "12",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "You're Confronted by Robbers",
+      "cubes": 2,
+      "collector_number": "53",
+      "rarity": "common",
+      "order": 9,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Decree of Justice",
+      "cubes": 6,
+      "collector_number": "8",
+      "rarity": "rare",
+      "order": 10,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Mighty Mutanimals",
+      "cubes": 29,
+      "collector_number": "21",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Rally the Monastery",
+      "cubes": 22,
+      "collector_number": "19",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Master Splicer",
+      "cubes": 12,
+      "collector_number": "16",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Way of the Healer",
+      "cubes": 11,
+      "collector_number": "207",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+"
+    },
+    {
+      "name": "Teeming Dragonstorm",
+      "cubes": 6,
+      "collector_number": "30",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Wingmantle Chaplain",
+      "cubes": 4,
+      "collector_number": "39",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Irregular Cohort",
+      "cubes": 3,
+      "collector_number": "15",
+      "rarity": "common",
+      "order": 17,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Scrapwork Cohort",
+      "cubes": 3,
+      "collector_number": "37",
+      "rarity": "common",
+      "order": 18,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Oltec Cloud Guard",
+      "cubes": 2,
+      "collector_number": "28",
+      "rarity": "common",
+      "order": 19,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Gallant Cavalry",
+      "cubes": 1,
+      "collector_number": "12",
+      "rarity": "common",
+      "order": 20,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Prosperity Tycoon",
+      "cubes": 1,
+      "collector_number": "25",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Dragonback Lancer",
+      "cubes": 3,
+      "collector_number": "9",
+      "rarity": "common",
+      "order": 22,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Witch Enchanter // Witch-Blessed Meadow",
+      "cubes": 42,
+      "collector_number": "239",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S"
+    },
+    {
+      "name": "Angel of Finality",
+      "cubes": 2,
+      "collector_number": "4",
+      "rarity": "rare",
+      "order": 24,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Thalia, the Survivor",
+      "cubes": 2,
+      "collector_number": "205",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Lassoed by the Law",
+      "cubes": 1,
+      "collector_number": "18",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "All-Fates Stalker",
+      "cubes": 35,
+      "collector_number": "3",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Aang, the Last Airbender",
+      "cubes": 9,
+      "collector_number": "4",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Photon, Lady of Light",
+      "cubes": 2,
+      "collector_number": "606",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Ghost of Illyria",
+      "cubes": 1,
+      "collector_number": "20",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Indoctrination Attendant",
+      "cubes": 0,
+      "collector_number": "16",
+      "rarity": "common",
+      "order": 31,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Aerie Auxiliary",
+      "cubes": 28,
+      "collector_number": "18",
+      "rarity": "common",
+      "order": 32,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B"
+    },
+    {
+      "name": "Guardian of the Forgotten",
+      "cubes": 6,
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "order": 33,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Relief Captain",
+      "cubes": 5,
+      "collector_number": "32",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "White Widow, Free Agent",
+      "cubes": 2,
+      "collector_number": "42",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Daily Bugle Reporters",
+      "cubes": 1,
+      "collector_number": "6",
+      "rarity": "common",
+      "order": 36,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Dr. McCoy, Surly Surgeon",
+      "cubes": 1,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Bola Slinger",
+      "cubes": 0,
+      "collector_number": "8",
+      "rarity": "common",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Delivery Moogle",
+      "cubes": 22,
+      "collector_number": "15",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−"
+    },
+    {
+      "name": "Spider-UK",
+      "cubes": 19,
+      "collector_number": "17",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "A",
+      "mod": -1,
+      "grade": "A−"
+    },
+    {
+      "name": "Search Party Captain",
+      "cubes": 1,
+      "collector_number": "32",
+      "rarity": "common",
+      "order": 41,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Sunstar Lightsmith",
+      "cubes": 1,
+      "collector_number": "42",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Blessed Hippogriff // Tyr's Blessing",
+      "cubes": 6,
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 43,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Hexgold Hoverwings",
+      "cubes": 4,
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "order": 44,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Bill the Pony",
+      "cubes": 2,
+      "collector_number": "3",
+      "rarity": "uncommon",
+      "order": 45,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Magitek Armor",
+      "cubes": 0,
+      "collector_number": "24",
+      "rarity": "uncommon",
+      "order": 46,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C"
+    },
+    {
+      "name": "Combat Professor",
+      "cubes": 2,
+      "collector_number": "11",
+      "rarity": "common",
+      "order": 47,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Thraben Watcher",
+      "cubes": 1,
+      "collector_number": "34",
+      "rarity": "uncommon",
+      "order": 48,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    },
+    {
+      "name": "Qala, Ajani's Pridemate",
+      "cubes": 1,
+      "collector_number": "32",
+      "rarity": "uncommon",
+      "order": 49,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+"
+    },
+    {
+      "name": "Star Charter",
+      "cubes": 0,
+      "collector_number": "33",
+      "rarity": "uncommon",
+      "order": 50,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Harnessed Snubhorn",
+      "cubes": 1,
+      "collector_number": "3",
+      "rarity": "uncommon",
+      "order": 51,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−"
+    },
+    {
+      "name": "Timely Hordemate",
+      "cubes": 1,
+      "collector_number": "27",
+      "rarity": "uncommon",
+      "order": 52,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D"
+    }
+  ]
+}
