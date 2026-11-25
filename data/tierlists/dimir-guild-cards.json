@@ -100,8 +100,8 @@
       "rarity": "uncommon",
       "order": 9,
       "tier": "A",
-      "mod": 0,
-      "grade": "A",
+      "mod": -1,
+      "grade": "A−",
       "rank": 2
     },
     {
@@ -110,8 +110,8 @@
       "rarity": "uncommon",
       "order": 10,
       "tier": "D",
-      "mod": -1,
-      "grade": "D−",
+      "mod": 0,
+      "grade": "D",
       "rank": 37
     },
     {
@@ -120,8 +120,8 @@
       "rarity": "uncommon",
       "order": 11,
       "tier": "D",
-      "mod": -1,
-      "grade": "D−",
+      "mod": 0,
+      "grade": "D",
       "rank": 38
     },
     {
@@ -130,8 +130,8 @@
       "rarity": "uncommon",
       "order": 12,
       "tier": "D",
-      "mod": -1,
-      "grade": "D−",
+      "mod": 0,
+      "grade": "D",
       "rank": 36
     },
     {
@@ -140,8 +140,8 @@
       "rarity": "uncommon",
       "order": 13,
       "tier": "D",
-      "mod": -1,
-      "grade": "D−",
+      "mod": 0,
+      "grade": "D",
       "rank": 35
     },
     {
@@ -160,8 +160,8 @@
       "rarity": "uncommon",
       "order": 15,
       "tier": "D",
-      "mod": -1,
-      "grade": "D−",
+      "mod": 0,
+      "grade": "D",
       "rank": 34
     },
     {
