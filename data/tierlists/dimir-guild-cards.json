@@ -1,0 +1,438 @@
+{
+  "title": "Dimir Guild Cards",
+  "subtitle": "Jank Tank Tier Lists",
+  "exported": "2026-04-22T00:00:00.000Z",
+  "count": 43,
+  "cards": [
+    {
+      "name": "Invasion of Amonkhet // Lazotep Convert",
+      "collector_number": "231",
+      "rarity": "uncommon",
+      "order": 0,
+      "tier": "S",
+      "mod": 0,
+      "grade": "S",
+      "rank": 0
+    },
+    {
+      "name": "Sneaky Snacker",
+      "collector_number": "205",
+      "rarity": "common",
+      "order": 1,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 4
+    },
+    {
+      "name": "Evangel of Synthesis",
+      "collector_number": "209",
+      "rarity": "uncommon",
+      "order": 2,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 10
+    },
+    {
+      "name": "Vohar, Vodalian Desecrator",
+      "collector_number": "226",
+      "rarity": "uncommon",
+      "order": 3,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 6
+    },
+    {
+      "name": "Krydle of Baldur's Gate",
+      "collector_number": "226",
+      "rarity": "uncommon",
+      "order": 4,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 40
+    },
+    {
+      "name": "Skullsnap Nuisance",
+      "collector_number": "234",
+      "rarity": "uncommon",
+      "order": 5,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 39
+    },
+    {
+      "name": "Fear of Infinity",
+      "collector_number": "214",
+      "rarity": "uncommon",
+      "order": 6,
+      "tier": "C",
+      "mod": 1,
+      "grade": "C+",
+      "rank": 11
+    },
+    {
+      "name": "Foggy Swamp Spirit Keeper",
+      "collector_number": "222",
+      "rarity": "uncommon",
+      "order": 7,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 1
+    },
+    {
+      "name": "Halo Forager",
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 8,
+      "tier": "B",
+      "mod": 1,
+      "grade": "B+",
+      "rank": 3
+    },
+    {
+      "name": "Dreadwing Scavenger",
+      "collector_number": "118",
+      "rarity": "uncommon",
+      "order": 9,
+      "tier": "A",
+      "mod": 0,
+      "grade": "A",
+      "rank": 2
+    },
+    {
+      "name": "Locke Cole",
+      "collector_number": "234",
+      "rarity": "uncommon",
+      "order": 10,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 37
+    },
+    {
+      "name": "Tomebound Lich",
+      "collector_number": "219",
+      "rarity": "uncommon",
+      "order": 11,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 38
+    },
+    {
+      "name": "Obsessive Stitcher",
+      "collector_number": "189",
+      "rarity": "uncommon",
+      "order": 12,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 36
+    },
+    {
+      "name": "Gleaming Overseer",
+      "collector_number": "151",
+      "rarity": "uncommon",
+      "order": 13,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 35
+    },
+    {
+      "name": "Lazav, Familiar Stranger",
+      "collector_number": "216",
+      "rarity": "uncommon",
+      "order": 14,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 7
+    },
+    {
+      "name": "Tidecaller Mentor",
+      "collector_number": "236",
+      "rarity": "uncommon",
+      "order": 15,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 34
+    },
+    {
+      "name": "Ingenious Infiltrator",
+      "collector_number": "204",
+      "rarity": "uncommon",
+      "order": 16,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 12
+    },
+    {
+      "name": "Morbius the Living Vampire",
+      "collector_number": "137",
+      "rarity": "uncommon",
+      "order": 17,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 33
+    },
+    {
+      "name": "Narfi, Betrayer King",
+      "collector_number": "224",
+      "rarity": "uncommon",
+      "order": 18,
+      "tier": "C",
+      "mod": 0,
+      "grade": "C",
+      "rank": 13
+    },
+    {
+      "name": "The Mouth of Sauron",
+      "collector_number": "216",
+      "rarity": "uncommon",
+      "order": 19,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 8
+    },
+    {
+      "name": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+      "collector_number": "247",
+      "rarity": "uncommon",
+      "order": 20,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 32
+    },
+    {
+      "name": "Haunt the Network",
+      "collector_number": "207",
+      "rarity": "uncommon",
+      "order": 21,
+      "tier": "B",
+      "mod": 0,
+      "grade": "B",
+      "rank": 5
+    },
+    {
+      "name": "Far // Away",
+      "collector_number": "127",
+      "rarity": "uncommon",
+      "order": 22,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 17
+    },
+    {
+      "name": "Possessed Skaab",
+      "collector_number": "215",
+      "rarity": "uncommon",
+      "order": 23,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 31
+    },
+    {
+      "name": "Dinrova Horror",
+      "collector_number": "450",
+      "rarity": "uncommon",
+      "order": 24,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 14
+    },
+    {
+      "name": "Psychic Symbiont",
+      "collector_number": "266",
+      "rarity": "uncommon",
+      "order": 25,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 30
+    },
+    {
+      "name": "Drown in the Loch",
+      "collector_number": "842",
+      "rarity": "uncommon",
+      "order": 26,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 24
+    },
+    {
+      "name": "Thought Erasure",
+      "collector_number": "206",
+      "rarity": "uncommon",
+      "order": 27,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 25
+    },
+    {
+      "name": "Tyrant's Scorn",
+      "collector_number": "225",
+      "rarity": "uncommon",
+      "order": 28,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 26
+    },
+    {
+      "name": "Tainted Indulgence",
+      "collector_number": "227",
+      "rarity": "uncommon",
+      "order": 29,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 27
+    },
+    {
+      "name": "Intimidation Campaign",
+      "collector_number": "208",
+      "rarity": "uncommon",
+      "order": 30,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 23
+    },
+    {
+      "name": "Coerced to Kill",
+      "collector_number": "192",
+      "rarity": "uncommon",
+      "order": 31,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 22
+    },
+    {
+      "name": "Voracious Tome-Skimmer",
+      "collector_number": "250",
+      "rarity": "uncommon",
+      "order": 32,
+      "tier": "B",
+      "mod": -1,
+      "grade": "B−",
+      "rank": 9
+    },
+    {
+      "name": "Messenger Hawk",
+      "collector_number": "234",
+      "rarity": "common",
+      "order": 33,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 21
+    },
+    {
+      "name": "Spellscorn Coven // Take It Back",
+      "collector_number": "237",
+      "rarity": "uncommon",
+      "order": 34,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 20
+    },
+    {
+      "name": "Hama, the Bloodbender",
+      "collector_number": "224",
+      "rarity": "uncommon",
+      "order": 35,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 19
+    },
+    {
+      "name": "Ashiok, Dream Render",
+      "collector_number": "228",
+      "rarity": "uncommon",
+      "order": 36,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 42
+    },
+    {
+      "name": "Rona's Vortex",
+      "collector_number": "63",
+      "rarity": "uncommon",
+      "order": 37,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 28
+    },
+    {
+      "name": "Tribute to Urborg",
+      "collector_number": "113",
+      "rarity": "common",
+      "order": 38,
+      "tier": "D",
+      "mod": 0,
+      "grade": "D",
+      "rank": 29
+    },
+    {
+      "name": "Consign // Oblivion",
+      "collector_number": "149",
+      "rarity": "uncommon",
+      "order": 39,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 16
+    },
+    {
+      "name": "Discovery // Dispersal",
+      "collector_number": "187",
+      "rarity": "uncommon",
+      "order": 40,
+      "tier": "C",
+      "mod": -1,
+      "grade": "C−",
+      "rank": 15
+    },
+    {
+      "name": "Forbidden Alchemy",
+      "collector_number": "152",
+      "rarity": "common",
+      "order": 41,
+      "tier": "D",
+      "mod": 1,
+      "grade": "D+",
+      "rank": 18
+    },
+    {
+      "name": "Mystical Teachings",
+      "collector_number": "594",
+      "rarity": "uncommon",
+      "order": 42,
+      "tier": "D",
+      "mod": -1,
+      "grade": "D−",
+      "rank": 41
+    }
+  ]
+}

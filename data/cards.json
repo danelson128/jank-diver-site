@@ -1310,6 +1310,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/woe/201/ash-party-crasher?utm_source=api"
  },
+ "ashiok, dream render": {
+  "name": "Ashiok, Dream Render",
+  "wanted": "Ashiok, Dream Render",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "collector_number": "228",
+  "released": "2019-05-03",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U/B}{U/B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Planeswalker — Ashiok",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/2/f2df3258-c053-48a8-974f-d80899b2cd93.jpg?1783933381",
+   "large": "https://cards.scryfall.io/large/front/f/2/f2df3258-c053-48a8-974f-d80899b2cd93.jpg?1783933381",
+   "small": "https://cards.scryfall.io/small/front/f/2/f2df3258-c053-48a8-974f-d80899b2cd93.jpg?1783933381"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/war/228/ashiok-dream-render?utm_source=api"
+ },
  "augur of bolas": {
   "name": "Augur of Bolas",
   "wanted": "Augur of Bolas",
@@ -3389,6 +3412,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/lrw/10/cloudgoat-ranger?utm_source=api"
  },
+ "coerced to kill": {
+  "name": "Coerced to Kill",
+  "wanted": "Coerced to Kill",
+  "set": "mkm",
+  "set_name": "Murders at Karlov Manor",
+  "collector_number": "192",
+  "released": "2024-02-09",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Enchantment — Aura",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1783912855",
+   "large": "https://cards.scryfall.io/large/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1783912855",
+   "small": "https://cards.scryfall.io/small/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1783912855"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/mkm/192/coerced-to-kill?utm_source=api"
+ },
  "cogwork wrestler": {
   "name": "Cogwork Wrestler",
   "wanted": "Cogwork Wrestler",
@@ -3699,6 +3745,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/rna/224/consecrate-consume?utm_source=api"
+ },
+ "consign // oblivion": {
+  "name": "Consign // Oblivion",
+  "wanted": "Consign // Oblivion",
+  "set": "hou",
+  "set_name": "Hour of Devastation",
+  "collector_number": "149",
+  "released": "2017-07-14",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U} // {4}{B}",
+  "cmc": 7.0,
+  "type_line": "Instant // Sorcery",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/1/c/1c1ead90-10d8-4217-80e4-6f40320c5569.jpg?1783936007",
+   "large": "https://cards.scryfall.io/large/front/1/c/1c1ead90-10d8-4217-80e4-6f40320c5569.jpg?1783936007",
+   "small": "https://cards.scryfall.io/small/front/1/c/1c1ead90-10d8-4217-80e4-6f40320c5569.jpg?1783936007"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/hou/149/consign-oblivion?utm_source=api"
  },
  "constable odo": {
   "name": "Constable Odo",
@@ -4733,6 +4802,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fin/183/diamond-weapon?utm_source=api"
  },
+ "dinrova horror": {
+  "name": "Dinrova Horror",
+  "wanted": "Dinrova Horror",
+  "set": "gtc",
+  "set_name": "Gatecrash",
+  "collector_number": "155",
+  "released": "2013-02-01",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{U}{B}",
+  "cmc": 6.0,
+  "type_line": "Creature — Horror",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/9/398df5e6-6bda-467a-81e2-91be7e21d715.jpg?1783940109",
+   "large": "https://cards.scryfall.io/large/front/3/9/398df5e6-6bda-467a-81e2-91be7e21d715.jpg?1783940109",
+   "small": "https://cards.scryfall.io/small/front/3/9/398df5e6-6bda-467a-81e2-91be7e21d715.jpg?1783940109"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/gtc/155/dinrova-horror?utm_source=api"
+ },
  "diregraf ghoul": {
   "name": "Diregraf Ghoul",
   "wanted": "Diregraf Ghoul",
@@ -4846,6 +4938,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/mh2/11/disciple-of-the-sun?utm_source=api"
+ },
+ "discovery // dispersal": {
+  "name": "Discovery // Dispersal",
+  "wanted": "Discovery // Dispersal",
+  "set": "grn",
+  "set_name": "Guilds of Ravnica",
+  "collector_number": "223",
+  "released": "2018-10-05",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U/B} // {3}{U}{B}",
+  "cmc": 7.0,
+  "type_line": "Sorcery // Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/a/c/ace631d1-897a-417e-8628-0170713f03d3.jpg?1783934113",
+   "large": "https://cards.scryfall.io/large/front/a/c/ace631d1-897a-417e-8628-0170713f03d3.jpg?1783934113",
+   "small": "https://cards.scryfall.io/small/front/a/c/ace631d1-897a-417e-8628-0170713f03d3.jpg?1783934113"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/grn/223/discovery-dispersal?utm_source=api"
  },
  "distinguished conjurer": {
   "name": "Distinguished Conjurer",
@@ -5177,6 +5292,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/war/87/dreadmalkin?utm_source=api"
  },
+ "dreadwing scavenger": {
+  "name": "Dreadwing Scavenger",
+  "wanted": "Dreadwing Scavenger",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "collector_number": "118",
+  "released": "2024-11-15",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Nightmare Bird",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/2/e24d838b-ab48-410a-9a50-dbfea5da089b.jpg?1783909093",
+   "large": "https://cards.scryfall.io/large/front/e/2/e24d838b-ab48-410a-9a50-dbfea5da089b.jpg?1783909093",
+   "small": "https://cards.scryfall.io/small/front/e/2/e24d838b-ab48-410a-9a50-dbfea5da089b.jpg?1783909093"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/fdn/118/dreadwing-scavenger?utm_source=api"
+ },
  "dream beavers": {
   "name": "Dream Beavers",
   "wanted": "Dream Beavers",
@@ -5220,6 +5358,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/blb/11/driftgloom-coyote?utm_source=api"
+ },
+ "drown in the loch": {
+  "name": "Drown in the Loch",
+  "wanted": "Drown in the Loch",
+  "set": "eld",
+  "set_name": "Throne of Eldraine",
+  "collector_number": "188",
+  "released": "2019-10-04",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1783932598",
+   "large": "https://cards.scryfall.io/large/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1783932598",
+   "small": "https://cards.scryfall.io/small/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1783932598"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/eld/188/drown-in-the-loch?utm_source=api"
  },
  "dune drifter": {
   "name": "Dune Drifter",
@@ -5957,6 +6118,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/eoe/181/eusocial-engineering?utm_source=api"
  },
+ "evangel of synthesis": {
+  "name": "Evangel of Synthesis",
+  "wanted": "Evangel of Synthesis",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "209",
+  "released": "2022-11-18",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Human Cleric",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/8/e8b60003-a987-49b0-a0f8-bb825c97da4d.jpg?1783920031",
+   "large": "https://cards.scryfall.io/large/front/e/8/e8b60003-a987-49b0-a0f8-bb825c97da4d.jpg?1783920031",
+   "small": "https://cards.scryfall.io/small/front/e/8/e8b60003-a987-49b0-a0f8-bb825c97da4d.jpg?1783920031"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/bro/209/evangel-of-synthesis?utm_source=api"
+ },
  "exorcise": {
   "name": "Exorcise",
   "wanted": "Exorcise",
@@ -6400,6 +6584,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/neo/183/fang-of-shigeki?utm_source=api"
  },
+ "far // away": {
+  "name": "Far // Away",
+  "wanted": "Far // Away",
+  "set": "dgm",
+  "set_name": "Dragon's Maze",
+  "collector_number": "127",
+  "released": "2013-05-03",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U} // {2}{B}",
+  "cmc": 5.0,
+  "type_line": "Instant // Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/d/1/d13cdb71-a499-41db-84e6-95f84650c524.jpg?1783940016",
+   "large": "https://cards.scryfall.io/large/front/d/1/d13cdb71-a499-41db-84e6-95f84650c524.jpg?1783940016",
+   "small": "https://cards.scryfall.io/small/front/d/1/d13cdb71-a499-41db-84e6-95f84650c524.jpg?1783940016"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dgm/127/far-away?utm_source=api"
+ },
  "fatehold charm": {
   "name": "Fatehold Charm",
   "wanted": "Fatehold Charm",
@@ -6533,6 +6740,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dsk/135/fear-of-burning-alive?utm_source=api"
+ },
+ "fear of infinity": {
+  "name": "Fear of Infinity",
+  "wanted": "Fear of Infinity",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "214",
+  "released": "2024-09-27",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Enchantment Creature — Nightmare",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/1/81756844-c642-406f-842d-35c1e404fec0.jpg?1783909443",
+   "large": "https://cards.scryfall.io/large/front/8/1/81756844-c642-406f-842d-35c1e404fec0.jpg?1783909443",
+   "small": "https://cards.scryfall.io/small/front/8/1/81756844-c642-406f-842d-35c1e404fec0.jpg?1783909443"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dsk/214/fear-of-infinity?utm_source=api"
  },
  "fear of isolation": {
   "name": "Fear of Isolation",
@@ -6932,6 +7162,52 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/eoe/18/focus-fire?utm_source=api"
+ },
+ "foggy swamp spirit keeper": {
+  "name": "Foggy Swamp Spirit Keeper",
+  "wanted": "Foggy Swamp Spirit Keeper",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "222",
+  "released": "2025-11-21",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Human Druid Ally",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/c/d/cd624be9-e960-4485-a8a9-2d5f2dd51777.jpg?1783904927",
+   "large": "https://cards.scryfall.io/large/front/c/d/cd624be9-e960-4485-a8a9-2d5f2dd51777.jpg?1783904927",
+   "small": "https://cards.scryfall.io/small/front/c/d/cd624be9-e960-4485-a8a9-2d5f2dd51777.jpg?1783904927"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/tla/222/foggy-swamp-spirit-keeper?utm_source=api"
+ },
+ "forbidden alchemy": {
+  "name": "Forbidden Alchemy",
+  "wanted": "Forbidden Alchemy",
+  "set": "isd",
+  "set_name": "Innistrad",
+  "collector_number": "55",
+  "released": "2011-09-30",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/b/eb22ae62-6207-4693-87cf-7adf0fc1fe29.jpg?1783940974",
+   "large": "https://cards.scryfall.io/large/front/e/b/eb22ae62-6207-4693-87cf-7adf0fc1fe29.jpg?1783940974",
+   "small": "https://cards.scryfall.io/small/front/e/b/eb22ae62-6207-4693-87cf-7adf0fc1fe29.jpg?1783940974"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/isd/55/forbidden-alchemy?utm_source=api"
  },
  "forecasting fortune teller": {
   "name": "Forecasting Fortune Teller",
@@ -8178,6 +8454,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/mkm/205/gleaming-geardrake?utm_source=api"
  },
+ "gleaming overseer": {
+  "name": "Gleaming Overseer",
+  "wanted": "Gleaming Overseer",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "collector_number": "198",
+  "released": "2019-05-03",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Zombie Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/0/b/0b4604b4-df53-485c-a604-4d823b33d8ba.jpg?1783933397",
+   "large": "https://cards.scryfall.io/large/front/0/b/0b4604b4-df53-485c-a604-4d823b33d8ba.jpg?1783933397",
+   "small": "https://cards.scryfall.io/small/front/0/b/0b4604b4-df53-485c-a604-4d823b33d8ba.jpg?1783933397"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/war/198/gleaming-overseer?utm_source=api"
+ },
  "glider staff": {
   "name": "Glider Staff",
   "wanted": "Glider Staff",
@@ -9196,6 +9495,52 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/frf/72/gurmag-angler?utm_source=api"
  },
+ "halo forager": {
+  "name": "Halo Forager",
+  "wanted": "Halo Forager",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "227",
+  "released": "2023-04-21",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Faerie Rogue",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg?1783916950",
+   "large": "https://cards.scryfall.io/large/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg?1783916950",
+   "small": "https://cards.scryfall.io/small/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg?1783916950"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/mom/227/halo-forager?utm_source=api"
+ },
+ "hama, the bloodbender": {
+  "name": "Hama, the Bloodbender",
+  "wanted": "Hama, the Bloodbender",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "224",
+  "released": "2025-11-21",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U/B}{U/B}{U/B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Warlock",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/f/6fa1197d-7b19-4d86-81e2-5c87de87757b.jpg?1783904926",
+   "large": "https://cards.scryfall.io/large/front/6/f/6fa1197d-7b19-4d86-81e2-5c87de87757b.jpg?1783904926",
+   "small": "https://cards.scryfall.io/small/front/6/f/6fa1197d-7b19-4d86-81e2-5c87de87757b.jpg?1783904926"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/tla/224/hama-the-bloodbender?utm_source=api"
+ },
  "hamlet glutton": {
   "name": "Hamlet Glutton",
   "wanted": "Hamlet Glutton",
@@ -9394,6 +9739,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/otj/52/harrier-strix?utm_source=api"
+ },
+ "haunt the network": {
+  "name": "Haunt the Network",
+  "wanted": "Haunt the Network",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "207",
+  "released": "2025-02-14",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/4/7/478d236c-9778-435a-ac21-bd0017a17d5b.jpg?1783907857",
+   "large": "https://cards.scryfall.io/large/front/4/7/478d236c-9778-435a-ac21-bd0017a17d5b.jpg?1783907857",
+   "small": "https://cards.scryfall.io/small/front/4/7/478d236c-9778-435a-ac21-bd0017a17d5b.jpg?1783907857"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dft/207/haunt-the-network?utm_source=api"
  },
  "havoc jester": {
   "name": "Havoc Jester",
@@ -10660,6 +11028,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fdn/64/infestation-sage?utm_source=api"
  },
+ "ingenious infiltrator": {
+  "name": "Ingenious Infiltrator",
+  "wanted": "Ingenious Infiltrator",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "collector_number": "204",
+  "released": "2019-06-14",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Vedalken Ninja",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1783933081",
+   "large": "https://cards.scryfall.io/large/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1783933081",
+   "small": "https://cards.scryfall.io/small/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1783933081"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/mh1/204/ingenious-infiltrator?utm_source=api"
+ },
  "ingenious smith": {
   "name": "Ingenious Smith",
   "wanted": "Ingenious Smith",
@@ -10793,6 +11184,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/grn/227/integrity-intervention?utm_source=api"
  },
+ "intimidation campaign": {
+  "name": "Intimidation Campaign",
+  "wanted": "Intimidation Campaign",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "collector_number": "208",
+  "released": "2024-04-19",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/9/596fb7a2-bb79-44b7-ad84-414c8139ec13.jpg?1783911792",
+   "large": "https://cards.scryfall.io/large/front/5/9/596fb7a2-bb79-44b7-ad84-414c8139ec13.jpg?1783911792",
+   "small": "https://cards.scryfall.io/small/front/5/9/596fb7a2-bb79-44b7-ad84-414c8139ec13.jpg?1783911792"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/otj/208/intimidation-campaign?utm_source=api"
+ },
  "intrepid ace": {
   "name": "Intrepid Ace",
   "wanted": "Intrepid Ace",
@@ -10814,6 +11228,33 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/msc/691/intrepid-ace?utm_source=api"
+ },
+ "invasion of amonkhet // lazotep convert": {
+  "name": "Invasion of Amonkhet // Lazotep Convert",
+  "wanted": "Invasion of Amonkhet // Lazotep Convert",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "231",
+  "released": "2023-04-21",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Battle — Siege // Creature — Zombie",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953",
+   "large": "https://cards.scryfall.io/large/front/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953",
+   "small": "https://cards.scryfall.io/small/front/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953"
+  },
+  "back_image": {
+   "normal": "https://cards.scryfall.io/normal/back/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953",
+   "large": "https://cards.scryfall.io/large/back/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953",
+   "small": "https://cards.scryfall.io/small/back/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1783916953"
+  },
+  "scryfall_uri": "https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert?utm_source=api"
  },
  "inventor's apprentice": {
   "name": "Inventor's Apprentice",
@@ -11892,6 +12333,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/otj/214/kraum-violent-cacophony?utm_source=api"
  },
+ "krydle of baldur's gate": {
+  "name": "Krydle of Baldur's Gate",
+  "wanted": "Krydle of Baldur's Gate",
+  "set": "afr",
+  "set_name": "Adventures in the Forgotten Realms",
+  "collector_number": "226",
+  "released": "2021-07-23",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Elf Rogue",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1783926446",
+   "large": "https://cards.scryfall.io/large/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1783926446",
+   "small": "https://cards.scryfall.io/small/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1783926446"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/afr/226/krydle-of-baldurs-gate?utm_source=api"
+ },
  "kulrath zealot": {
   "name": "Kulrath Zealot",
   "wanted": "Kulrath Zealot",
@@ -12117,6 +12581,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/war/20/law-rune-enforcer?utm_source=api"
+ },
+ "lazav, familiar stranger": {
+  "name": "Lazav, Familiar Stranger",
+  "wanted": "Lazav, Familiar Stranger",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "collector_number": "216",
+  "released": "2024-04-19",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/0/0/00293326-3eb2-492c-b565-7abafa037d8c.jpg?1783911790",
+   "large": "https://cards.scryfall.io/large/front/0/0/00293326-3eb2-492c-b565-7abafa037d8c.jpg?1783911790",
+   "small": "https://cards.scryfall.io/small/front/0/0/00293326-3eb2-492c-b565-7abafa037d8c.jpg?1783911790"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/otj/216/lazav-familiar-stranger?utm_source=api"
  },
  "lecturing scornmage": {
   "name": "Lecturing Scornmage",
@@ -12366,6 +12853,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/lea/210/llanowar-elves?utm_source=api"
+ },
+ "locke cole": {
+  "name": "Locke Cole",
+  "wanted": "Locke Cole",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "234",
+  "released": "2025-06-13",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Rogue",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/7/572feb8c-6976-40a8-8a34-b4db836cca56.jpg?1783906565",
+   "large": "https://cards.scryfall.io/large/front/5/7/572feb8c-6976-40a8-8a34-b4db836cca56.jpg?1783906565",
+   "small": "https://cards.scryfall.io/small/front/5/7/572feb8c-6976-40a8-8a34-b4db836cca56.jpg?1783906565"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/fin/234/locke-cole?utm_source=api"
  },
  "locutus, the one who speaks": {
   "name": "Locutus, the One Who Speaks",
@@ -13198,6 +13708,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/dmu/138/merias-outrider?utm_source=api"
  },
+ "messenger hawk": {
+  "name": "Messenger Hawk",
+  "wanted": "Messenger Hawk",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "234",
+  "released": "2025-11-21",
+  "rarity": "common",
+  "mana_cost": "{2}{U/B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Bird Scout",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1783904923",
+   "large": "https://cards.scryfall.io/large/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1783904923",
+   "small": "https://cards.scryfall.io/small/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1783904923"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/tla/234/messenger-hawk?utm_source=api"
+ },
  "metalhead": {
   "name": "Metalhead",
   "wanted": "Metalhead",
@@ -13779,6 +14312,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/neo/67/moon-circuit-hacker?utm_source=api"
  },
+ "morbius the living vampire": {
+  "name": "Morbius the Living Vampire",
+  "wanted": "Morbius the Living Vampire",
+  "set": "spm",
+  "set_name": "Marvel's Spider-Man",
+  "collector_number": "137",
+  "released": "2025-09-26",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}{B}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Vampire Scientist Villain",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/b/9/b978d0e2-f5a7-4ade-befc-11b406e84477.jpg?1783905317",
+   "large": "https://cards.scryfall.io/large/front/b/9/b978d0e2-f5a7-4ade-befc-11b406e84477.jpg?1783905317",
+   "small": "https://cards.scryfall.io/small/front/b/9/b978d0e2-f5a7-4ade-befc-11b406e84477.jpg?1783905317"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/spm/137/morbius-the-living-vampire?utm_source=api"
+ },
  "mortify": {
   "name": "Mortify",
   "wanted": "Mortify",
@@ -14001,6 +14557,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/mh3/36/muster-the-departed?utm_source=api"
  },
+ "mystical teachings": {
+  "name": "Mystical Teachings",
+  "wanted": "Mystical Teachings",
+  "set": "tsp",
+  "set_name": "Time Spiral",
+  "collector_number": "69",
+  "released": "2006-10-06",
+  "rarity": "common",
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/a/0/a057e5f3-b6bd-4995-b990-714201f36989.jpg?1783943242",
+   "large": "https://cards.scryfall.io/large/front/a/0/a057e5f3-b6bd-4995-b990-714201f36989.jpg?1783943242",
+   "small": "https://cards.scryfall.io/small/front/a/0/a057e5f3-b6bd-4995-b990-714201f36989.jpg?1783943242"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/tsp/69/mystical-teachings?utm_source=api"
+ },
  "nahiri, storm of stone": {
   "name": "Nahiri, Storm of Stone",
   "wanted": "Nahiri, Storm of Stone",
@@ -14023,6 +14602,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/war/233/nahiri-storm-of-stone?utm_source=api"
+ },
+ "narfi, betrayer king": {
+  "name": "Narfi, Betrayer King",
+  "wanted": "Narfi, Betrayer King",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "collector_number": "224",
+  "released": "2021-02-05",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Snow Creature — Zombie Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/4/2/421376e4-a4ad-427c-bc9c-d315308dcf68.jpg?1783928191",
+   "large": "https://cards.scryfall.io/large/front/4/2/421376e4-a4ad-427c-bc9c-d315308dcf68.jpg?1783928191",
+   "small": "https://cards.scryfall.io/small/front/4/2/421376e4-a4ad-427c-bc9c-d315308dcf68.jpg?1783928191"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/khm/224/narfi-betrayer-king?utm_source=api"
  },
  "narnam renegade": {
   "name": "Narnam Renegade",
@@ -14463,6 +15065,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/lrw/34/oblivion-ring?utm_source=api"
+ },
+ "obsessive stitcher": {
+  "name": "Obsessive Stitcher",
+  "wanted": "Obsessive Stitcher",
+  "set": "m21",
+  "set_name": "Core Set 2021",
+  "collector_number": "223",
+  "released": "2020-07-03",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Human Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/e/4/e449f985-d149-49eb-87d9-7a325215f82d.jpg?1783930661",
+   "large": "https://cards.scryfall.io/large/front/e/4/e449f985-d149-49eb-87d9-7a325215f82d.jpg?1783930661",
+   "small": "https://cards.scryfall.io/small/front/e/4/e449f985-d149-49eb-87d9-7a325215f82d.jpg?1783930661"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/m21/223/obsessive-stitcher?utm_source=api"
  },
  "oin the brave": {
   "name": "Óin the Brave",
@@ -15593,6 +16218,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/afr/33/portable-hole?utm_source=api"
  },
+ "possessed skaab": {
+  "name": "Possessed Skaab",
+  "wanted": "Possessed Skaab",
+  "set": "ori",
+  "set_name": "Magic Origins",
+  "collector_number": "215",
+  "released": "2015-07-17",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature — Zombie",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/6/e/6ebc94e5-a595-43ab-929b-426009190669.jpg?1783938313",
+   "large": "https://cards.scryfall.io/large/front/6/e/6ebc94e5-a595-43ab-929b-426009190669.jpg?1783938313",
+   "small": "https://cards.scryfall.io/small/front/6/e/6ebc94e5-a595-43ab-929b-426009190669.jpg?1783938313"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/ori/215/possessed-skaab?utm_source=api"
+ },
  "pouncing shoreshark": {
   "name": "Pouncing Shoreshark",
   "wanted": "Pouncing Shoreshark",
@@ -15971,6 +16619,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/otj/25/prosperity-tycoon?utm_source=api"
+ },
+ "psychic symbiont": {
+  "name": "Psychic Symbiont",
+  "wanted": "Psychic Symbiont",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "collector_number": "221",
+  "released": "2018-07-13",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{U}{B}",
+  "cmc": 6.0,
+  "type_line": "Creature — Nightmare Horror",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/1/3188e533-9a72-4a02-b169-a918f7c095ba.jpg?1783934519",
+   "large": "https://cards.scryfall.io/large/front/3/1/3188e533-9a72-4a02-b169-a918f7c095ba.jpg?1783934519",
+   "small": "https://cards.scryfall.io/small/front/3/1/3188e533-9a72-4a02-b169-a918f7c095ba.jpg?1783934519"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/m19/221/psychic-symbiont?utm_source=api"
  },
  "pteramander": {
   "name": "Pteramander",
@@ -17285,6 +17956,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/ody/266/roar-of-the-wurm?utm_source=api"
+ },
+ "rona's vortex": {
+  "name": "Rona's Vortex",
+  "wanted": "Rona's Vortex",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "63",
+  "released": "2022-09-09",
+  "rarity": "uncommon",
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1783921346",
+   "large": "https://cards.scryfall.io/large/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1783921346",
+   "small": "https://cards.scryfall.io/small/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1783921346"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api"
  },
  "ronin, shadow stalker": {
   "name": "Ronin, Shadow Stalker",
@@ -19026,6 +19720,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/mh3/138/skoa-embermage?utm_source=api"
  },
+ "skullsnap nuisance": {
+  "name": "Skullsnap Nuisance",
+  "wanted": "Skullsnap Nuisance",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "234",
+  "released": "2024-09-27",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Insect Skeleton",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/0/f/0fdcdfd0-8c66-4767-a894-58cf0c6d7e07.jpg?1783909437",
+   "large": "https://cards.scryfall.io/large/front/0/f/0fdcdfd0-8c66-4767-a894-58cf0c6d7e07.jpg?1783909437",
+   "small": "https://cards.scryfall.io/small/front/0/f/0fdcdfd0-8c66-4767-a894-58cf0c6d7e07.jpg?1783909437"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dsk/234/skullsnap-nuisance?utm_source=api"
+ },
  "skyblade's boon": {
   "name": "Skyblade's Boon",
   "wanted": "Skyblade's Boon",
@@ -19341,6 +20058,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/mkm/105/snarling-gorehound?utm_source=api"
  },
+ "sneaky snacker": {
+  "name": "Sneaky Snacker",
+  "wanted": "Sneaky Snacker",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "205",
+  "released": "2024-06-14",
+  "rarity": "common",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Faerie Rogue",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/0/e/0e3aedae-e4bb-48e3-9f8b-bea0430df306.jpg?1783911245",
+   "large": "https://cards.scryfall.io/large/front/0/e/0e3aedae-e4bb-48e3-9f8b-bea0430df306.jpg?1783911245",
+   "small": "https://cards.scryfall.io/small/front/0/e/0e3aedae-e4bb-48e3-9f8b-bea0430df306.jpg?1783911245"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/mh3/205/sneaky-snacker?utm_source=api"
+ },
  "snooping page": {
   "name": "Snooping Page",
   "wanted": "Snooping Page",
@@ -19628,6 +20368,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/msh/227/speedball-new-warrior?utm_source=api"
+ },
+ "spellscorn coven // take it back": {
+  "name": "Spellscorn Coven // Take It Back",
+  "wanted": "Spellscorn Coven // Take It Back",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "collector_number": "237",
+  "released": "2023-09-08",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{B} // {2}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature — Faerie Warlock // Instant — Adventure",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/c/8c112f62-6034-4636-a75b-4a45bc916a91.jpg?1783915062",
+   "large": "https://cards.scryfall.io/large/front/8/c/8c112f62-6034-4636-a75b-4a45bc916a91.jpg?1783915062",
+   "small": "https://cards.scryfall.io/small/front/8/c/8c112f62-6034-4636-a75b-4a45bc916a91.jpg?1783915062"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/woe/237/spellscorn-coven-take-it-back?utm_source=api"
  },
  "spider-man, to the rescue": {
   "name": "Spider-Man, To the Rescue",
@@ -20875,6 +21638,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/eoe/232/syr-vondam-the-lucent?utm_source=api"
  },
+ "tainted indulgence": {
+  "name": "Tainted Indulgence",
+  "wanted": "Tainted Indulgence",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "227",
+  "released": "2022-04-29",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/4/347d883c-84ab-4547-813b-f4385366fbce.jpg?1783923067",
+   "large": "https://cards.scryfall.io/large/front/3/4/347d883c-84ab-4547-813b-f4385366fbce.jpg?1783923067",
+   "small": "https://cards.scryfall.io/small/front/3/4/347d883c-84ab-4547-813b-f4385366fbce.jpg?1783923067"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/snc/227/tainted-indulgence?utm_source=api"
+ },
  "take up the shield": {
   "name": "Take Up the Shield",
   "wanted": "Take Up the Shield",
@@ -21364,6 +22150,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/hob/22/the-mountain-kings-return?utm_source=api"
  },
+ "the mouth of sauron": {
+  "name": "The Mouth of Sauron",
+  "wanted": "The Mouth of Sauron",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "collector_number": "216",
+  "released": "2023-06-23",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Advisor",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/6/76a88814-aa30-4297-b338-3d851bfe7256.jpg?1783916249",
+   "large": "https://cards.scryfall.io/large/front/7/6/76a88814-aa30-4297-b338-3d851bfe7256.jpg?1783916249",
+   "small": "https://cards.scryfall.io/small/front/7/6/76a88814-aa30-4297-b338-3d851bfe7256.jpg?1783916249"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/ltr/216/the-mouth-of-sauron?utm_source=api"
+ },
  "the naked time": {
   "name": "The Naked Time",
   "wanted": "The Naked Time",
@@ -21566,6 +22375,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/hob/165/thorin-oakenshield?utm_source=api"
  },
+ "thought erasure": {
+  "name": "Thought Erasure",
+  "wanted": "Thought Erasure",
+  "set": "grn",
+  "set_name": "Guilds of Ravnica",
+  "collector_number": "206",
+  "released": "2018-10-05",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/7/c/7ce226ad-cb1d-47f5-90fc-27704e181884.jpg?1783934119",
+   "large": "https://cards.scryfall.io/large/front/7/c/7ce226ad-cb1d-47f5-90fc-27704e181884.jpg?1783934119",
+   "small": "https://cards.scryfall.io/small/front/7/c/7ce226ad-cb1d-47f5-90fc-27704e181884.jpg?1783934119"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/grn/206/thought-erasure?utm_source=api"
+ },
  "thraben charm": {
   "name": "Thraben Charm",
   "wanted": "Thraben Charm",
@@ -21741,6 +22573,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/stx/35/thunderous-orator?utm_source=api"
+ },
+ "tidecaller mentor": {
+  "name": "Tidecaller Mentor",
+  "wanted": "Tidecaller Mentor",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "236",
+  "released": "2024-08-02",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Rat Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/f/a/fa10ffac-7cc2-41ef-b8a0-9431923c0542.jpg?1783910789",
+   "large": "https://cards.scryfall.io/large/front/f/a/fa10ffac-7cc2-41ef-b8a0-9431923c0542.jpg?1783910789",
+   "small": "https://cards.scryfall.io/small/front/f/a/fa10ffac-7cc2-41ef-b8a0-9431923c0542.jpg?1783910789"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/blb/236/tidecaller-mentor?utm_source=api"
  },
  "tidehollow sculler": {
   "name": "Tidehollow Sculler",
@@ -21987,6 +22842,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/tla/245/tolls-of-war?utm_source=api"
  },
+ "tomebound lich": {
+  "name": "Tomebound Lich",
+  "wanted": "Tomebound Lich",
+  "set": "m20",
+  "set_name": "Core Set 2020",
+  "collector_number": "219",
+  "released": "2019-07-12",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Zombie Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/5/f/5f305027-dfd2-4b17-a6af-6b0576389623.jpg?1783932947",
+   "large": "https://cards.scryfall.io/large/front/5/f/5f305027-dfd2-4b17-a6af-6b0576389623.jpg?1783932947",
+   "small": "https://cards.scryfall.io/small/front/5/f/5f305027-dfd2-4b17-a6af-6b0576389623.jpg?1783932947"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/m20/219/tomebound-lich?utm_source=api"
+ },
  "tomik, izzet sparkmage": {
   "name": "Tomik, Izzet Sparkmage",
   "wanted": "Tomik, Izzet Sparkmage",
@@ -22182,6 +23060,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/fra/280/traxos-scourge-eternal?utm_source=api"
+ },
+ "tribute to urborg": {
+  "name": "Tribute to Urborg",
+  "wanted": "Tribute to Urborg",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "113",
+  "released": "2022-09-09",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/3/1/31274707-3e16-4f46-8450-6927d936064b.jpg?1783921323",
+   "large": "https://cards.scryfall.io/large/front/3/1/31274707-3e16-4f46-8450-6927d936064b.jpg?1783921323",
+   "small": "https://cards.scryfall.io/small/front/3/1/31274707-3e16-4f46-8450-6927d936064b.jpg?1783921323"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dmu/113/tribute-to-urborg?utm_source=api"
  },
  "triplicate spirits": {
   "name": "Triplicate Spirits",
@@ -22388,6 +23289,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/woe/155/two-headed-hunter-twice-the-rage?utm_source=api"
  },
+ "tyrant's scorn": {
+  "name": "Tyrant's Scorn",
+  "wanted": "Tyrant's Scorn",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "collector_number": "225",
+  "released": "2019-05-03",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/b/7/b7e2708c-2824-4925-b529-d625deb77924.jpg?1783933383",
+   "large": "https://cards.scryfall.io/large/front/b/7/b7e2708c-2824-4925-b529-d625deb77924.jpg?1783933383",
+   "small": "https://cards.scryfall.io/small/front/b/7/b7e2708c-2824-4925-b529-d625deb77924.jpg?1783933383"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/war/225/tyrants-scorn?utm_source=api"
+ },
  "u.s.agent, john walker": {
   "name": "U.S.Agent, John Walker",
   "wanted": "U.S.Agent, John Walker",
@@ -22410,6 +23334,33 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/msh/236/usagent-john-walker?utm_source=api"
+ },
+ "ultimecia, time sorceress // ultimecia, omnipotent": {
+  "name": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+  "wanted": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "247",
+  "released": "2025-06-13",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Warlock // Legendary Creature — Nightmare Warlock",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565",
+   "large": "https://cards.scryfall.io/large/front/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565",
+   "small": "https://cards.scryfall.io/small/front/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565"
+  },
+  "back_image": {
+   "normal": "https://cards.scryfall.io/normal/back/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565",
+   "large": "https://cards.scryfall.io/large/back/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565",
+   "small": "https://cards.scryfall.io/small/back/2/d/2d6a2b68-5407-464e-a335-7866fd969c30.jpg?1783906565"
+  },
+  "scryfall_uri": "https://scryfall.com/card/fin/247/ultimecia-time-sorceress-ultimecia-omnipotent?utm_source=api"
  },
  "ultimo, civilization's end": {
   "name": "Ultimo, Civilization's End",
@@ -22970,6 +23921,29 @@
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/kld/34/visionary-augmenter?utm_source=api"
  },
+ "vohar, vodalian desecrator": {
+  "name": "Vohar, Vodalian Desecrator",
+  "wanted": "Vohar, Vodalian Desecrator",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "226",
+  "released": "2022-09-09",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Phyrexian Merfolk Wizard",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/8/0/807c7812-c108-45a7-a5b2-08cc693bc500.jpg?1783921272",
+   "large": "https://cards.scryfall.io/large/front/8/0/807c7812-c108-45a7-a5b2-08cc693bc500.jpg?1783921272",
+   "small": "https://cards.scryfall.io/small/front/8/0/807c7812-c108-45a7-a5b2-08cc693bc500.jpg?1783921272"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/dmu/226/vohar-vodalian-desecrator?utm_source=api"
+ },
  "void beckoner": {
   "name": "Void Beckoner",
   "wanted": "Void Beckoner",
@@ -23101,6 +24075,29 @@
   },
   "back_image": null,
   "scryfall_uri": "https://scryfall.com/card/ltr/113/voracious-fell-beast?utm_source=api"
+ },
+ "voracious tome-skimmer": {
+  "name": "Voracious Tome-Skimmer",
+  "wanted": "Voracious Tome-Skimmer",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "250",
+  "released": "2026-01-23",
+  "rarity": "uncommon",
+  "mana_cost": "{U/B}{U/B}{U/B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Faerie Rogue",
+  "color_identity": [
+   "B",
+   "U"
+  ],
+  "image": {
+   "normal": "https://cards.scryfall.io/normal/front/1/a/1a696fe5-410c-4699-b1d1-1a9c771d664a.jpg?1783904399",
+   "large": "https://cards.scryfall.io/large/front/1/a/1a696fe5-410c-4699-b1d1-1a9c771d664a.jpg?1783904399",
+   "small": "https://cards.scryfall.io/small/front/1/a/1a696fe5-410c-4699-b1d1-1a9c771d664a.jpg?1783904399"
+  },
+  "back_image": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/250/voracious-tome-skimmer?utm_source=api"
  },
  "vulcan mind-meld": {
   "name": "Vulcan Mind-Meld",

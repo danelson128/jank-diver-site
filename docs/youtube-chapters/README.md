@@ -26,6 +26,7 @@ Each `.txt` file in this folder is a list of chapters for one video: one line pe
 | [Once In A Blue Two (Blue 2-Drop Creatures)](https://youtu.be/-JDEvCo2RUY) | `blue-2-drops.txt` |
 | [Ungodly Token Spam (White 4-Drop Creatures)](https://youtu.be/UqPPTdFnV24) | `white-4-drops.txt` |
 | [White Instants and Sorceries](https://youtu.be/z3fKedykAiQ) | `white-instants-and-sorceries.txt` |
+| [Taking A Look In The Dimirror (Dimir)](https://youtu.be/yBBzZj8_pVw) | `dimir-guild-cards.txt` |
 
 **Some videos already have chapters on YouTube** (for example Reality Fracture, The Hobbit and Orzhov). They seem to be YouTube's automatic chapters: the card names are spelled loosely, and in long videos the times drift several minutes away from where each card is actually introduced. The files here replace them with exact times.
 
